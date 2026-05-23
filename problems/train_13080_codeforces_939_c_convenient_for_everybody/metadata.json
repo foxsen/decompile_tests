@@ -1,0 +1,27 @@
+{
+  "id": 13080,
+  "split": "train",
+  "name": "939_C. Convenient For Everybody",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 939,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "binary search",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 96,
+    "correct_solutions": 427,
+    "incorrect_solutions": 961
+  }
+}

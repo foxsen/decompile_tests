@@ -1,0 +1,27 @@
+{
+  "id": 2433,
+  "split": "train",
+  "name": "251_B. Playing with Permutations",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 251,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 35,
+    "generated_tests": 50,
+    "correct_solutions": 352,
+    "incorrect_solutions": 652
+  }
+}

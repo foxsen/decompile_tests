@@ -1,0 +1,27 @@
+{
+  "id": 11619,
+  "split": "train",
+  "name": "811_B. Vladik and Complicated Book",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 811,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 80,
+    "correct_solutions": 507,
+    "incorrect_solutions": 429
+  }
+}

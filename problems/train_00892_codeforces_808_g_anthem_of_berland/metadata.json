@@ -1,0 +1,27 @@
+{
+  "id": 892,
+  "split": "train",
+  "name": "808_G. Anthem of Berland",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 808,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "dp",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 27,
+    "generated_tests": 61,
+    "correct_solutions": 211,
+    "incorrect_solutions": 361
+  }
+}

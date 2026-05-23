@@ -1,0 +1,27 @@
+{
+  "id": 249,
+  "split": "train",
+  "name": "39_E. What Has Dirichlet Got to Do with That?",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 39,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "dp",
+    "games"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 70,
+    "generated_tests": 44,
+    "correct_solutions": 176,
+    "incorrect_solutions": 407
+  }
+}

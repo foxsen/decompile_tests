@@ -1,0 +1,28 @@
+{
+  "id": 10349,
+  "split": "train",
+  "name": "346_D. Robot Control",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 346,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "dp",
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 44,
+    "correct_solutions": 155,
+    "incorrect_solutions": 236
+  }
+}

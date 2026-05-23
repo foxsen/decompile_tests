@@ -1,0 +1,24 @@
+{
+  "id": 7747,
+  "split": "train",
+  "name": "391_E1. Three Trees",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 391,
+  "cf_index": "E1",
+  "cf_points": 11.0,
+  "cf_rating": 0,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 4,
+    "generated_tests": 44,
+    "correct_solutions": 103,
+    "incorrect_solutions": 146
+  }
+}

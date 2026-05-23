@@ -1,0 +1,27 @@
+{
+  "id": 13146,
+  "split": "train",
+  "name": "143_C. Help Farmer",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 143,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "brute force",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 97,
+    "generated_tests": 59,
+    "correct_solutions": 197,
+    "incorrect_solutions": 262
+  }
+}

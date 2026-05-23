@@ -1,0 +1,29 @@
+{
+  "id": 11728,
+  "split": "train",
+  "name": "950_F. Curfew",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 950,
+  "cf_index": "F",
+  "cf_points": 1750.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 25,
+    "generated_tests": 72,
+    "correct_solutions": 90,
+    "incorrect_solutions": 112
+  }
+}

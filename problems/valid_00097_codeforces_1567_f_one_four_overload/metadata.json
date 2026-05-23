@@ -1,0 +1,30 @@
+{
+  "id": 97,
+  "split": "valid",
+  "name": "1567_F. One-Four Overload",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1567,
+  "cf_index": "F",
+  "cf_points": 2750.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 4,
+    "generated_tests": 200,
+    "correct_solutions": 90,
+    "incorrect_solutions": 169
+  }
+}

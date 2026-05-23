@@ -1,0 +1,29 @@
+{
+  "id": 9824,
+  "split": "train",
+  "name": "239_E. World Eater Brothers",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 239,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 14,
+    "generated_tests": 57,
+    "correct_solutions": 90,
+    "incorrect_solutions": 103
+  }
+}

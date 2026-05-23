@@ -1,0 +1,30 @@
+{
+  "id": 8875,
+  "split": "train",
+  "name": "1400_F. x-prime Substrings",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1400,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 9,
+    "generated_tests": 41,
+    "correct_solutions": 168,
+    "incorrect_solutions": 202
+  }
+}

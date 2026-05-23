@@ -1,0 +1,30 @@
+{
+  "id": 10953,
+  "split": "train",
+  "name": "1296_F. Berland Beauty",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1296,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "greedy",
+    "sortings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 144,
+    "generated_tests": 53,
+    "correct_solutions": 265,
+    "incorrect_solutions": 359
+  }
+}

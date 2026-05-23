@@ -1,0 +1,30 @@
+{
+  "id": 2029,
+  "split": "train",
+  "name": "550_A. Two Substrings",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 550,
+  "cf_index": "A",
+  "cf_points": 1000.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 48,
+    "generated_tests": 93,
+    "correct_solutions": 1473,
+    "incorrect_solutions": 1158
+  }
+}

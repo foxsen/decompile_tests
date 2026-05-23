@@ -1,0 +1,27 @@
+{
+  "id": 2722,
+  "split": "train",
+  "name": "1150_B. Tiling Challenge",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1150,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 32,
+    "generated_tests": 49,
+    "correct_solutions": 770,
+    "incorrect_solutions": 447
+  }
+}

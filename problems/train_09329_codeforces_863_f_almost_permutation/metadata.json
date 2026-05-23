@@ -1,0 +1,26 @@
+{
+  "id": 9329,
+  "split": "train",
+  "name": "863_F. Almost Permutation",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 863,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "flows"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 29,
+    "generated_tests": 43,
+    "correct_solutions": 222,
+    "incorrect_solutions": 220
+  }
+}

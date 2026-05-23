@@ -1,0 +1,29 @@
+{
+  "id": 10959,
+  "split": "train",
+  "name": "1424_I. Bubble Cup hypothesis",
+  "source": "codeforces",
+  "difficulty": "I",
+  "cf_contest_id": 1424,
+  "cf_index": "I",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 14,
+    "generated_tests": 59,
+    "correct_solutions": 140,
+    "incorrect_solutions": 257
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7223,
+  "split": "train",
+  "name": "312_A. Whose sentence is it?",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 312,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 25,
+    "generated_tests": 86,
+    "correct_solutions": 636,
+    "incorrect_solutions": 587
+  }
+}

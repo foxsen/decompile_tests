@@ -1,0 +1,31 @@
+{
+  "id": 3361,
+  "split": "train",
+  "name": "1437_C. Chef Monocarp",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1437,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "dp",
+    "flows",
+    "graph matchings",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 80,
+    "correct_solutions": 544,
+    "incorrect_solutions": 555
+  }
+}

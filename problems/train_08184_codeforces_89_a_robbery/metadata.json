@@ -1,0 +1,26 @@
+{
+  "id": 8184,
+  "split": "train",
+  "name": "89_A. Robbery",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 89,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 21,
+    "generated_tests": 56,
+    "correct_solutions": 381,
+    "incorrect_solutions": 637
+  }
+}

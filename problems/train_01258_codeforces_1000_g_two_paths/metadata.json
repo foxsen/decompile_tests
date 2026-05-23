@@ -1,0 +1,28 @@
+{
+  "id": 1258,
+  "split": "train",
+  "name": "1000_G. Two-Paths",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1000,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 38,
+    "correct_solutions": 167,
+    "incorrect_solutions": 180
+  }
+}

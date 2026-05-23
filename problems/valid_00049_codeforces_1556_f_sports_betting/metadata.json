@@ -1,0 +1,31 @@
+{
+  "id": 49,
+  "split": "valid",
+  "name": "1556_F. Sports Betting",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1556,
+  "cf_index": "F",
+  "cf_points": 2500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "graphs",
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 25,
+    "generated_tests": 200,
+    "correct_solutions": 160,
+    "incorrect_solutions": 91
+  }
+}

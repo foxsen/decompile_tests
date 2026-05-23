@@ -1,0 +1,28 @@
+{
+  "id": 9507,
+  "split": "train",
+  "name": "1534_F1. Falling Sand (Easy Version)",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1534,
+  "cf_index": "F1",
+  "cf_points": 1750.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 4,
+    "generated_tests": 4,
+    "correct_solutions": 84,
+    "incorrect_solutions": 185
+  }
+}

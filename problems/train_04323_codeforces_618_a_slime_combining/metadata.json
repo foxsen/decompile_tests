@@ -1,0 +1,26 @@
+{
+  "id": 4323,
+  "split": "train",
+  "name": "618_A. Slime Combining",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 618,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 22,
+    "generated_tests": 84,
+    "correct_solutions": 744,
+    "incorrect_solutions": 377
+  }
+}

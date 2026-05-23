@@ -1,0 +1,28 @@
+{
+  "id": 9902,
+  "split": "train",
+  "name": "1067_B. Multihedgehog",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1067,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 21,
+    "generated_tests": 46,
+    "correct_solutions": 356,
+    "incorrect_solutions": 620
+  }
+}

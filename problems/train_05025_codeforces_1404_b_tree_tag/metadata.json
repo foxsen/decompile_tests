@@ -1,0 +1,29 @@
+{
+  "id": 5025,
+  "split": "train",
+  "name": "1404_B. Tree Tag",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1404,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "games",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 86,
+    "correct_solutions": 537,
+    "incorrect_solutions": 614
+  }
+}

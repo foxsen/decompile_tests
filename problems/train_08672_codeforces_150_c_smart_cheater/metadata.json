@@ -1,0 +1,28 @@
+{
+  "id": 8672,
+  "split": "train",
+  "name": "150_C. Smart Cheater",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 150,
+  "cf_index": "C",
+  "cf_points": 1000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "data structures",
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 4,
+    "generated_tests": 46,
+    "correct_solutions": 274,
+    "incorrect_solutions": 342
+  }
+}

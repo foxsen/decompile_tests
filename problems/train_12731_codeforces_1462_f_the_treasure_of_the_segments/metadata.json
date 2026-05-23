@@ -1,0 +1,28 @@
+{
+  "id": 12731,
+  "split": "train",
+  "name": "1462_F. The Treasure of The Segments",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1462,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 200,
+    "correct_solutions": 285,
+    "incorrect_solutions": 286
+  }
+}

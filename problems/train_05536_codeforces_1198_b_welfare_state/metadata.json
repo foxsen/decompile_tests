@@ -1,0 +1,29 @@
+{
+  "id": 5536,
+  "split": "train",
+  "name": "1198_B. Welfare State",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1198,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 86,
+    "correct_solutions": 605,
+    "incorrect_solutions": 631
+  }
+}

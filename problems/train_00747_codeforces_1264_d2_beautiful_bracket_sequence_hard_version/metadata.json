@@ -1,0 +1,27 @@
+{
+  "id": 747,
+  "split": "train",
+  "name": "1264_D2. Beautiful Bracket Sequence (hard version)",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1264,
+  "cf_index": "D2",
+  "cf_points": 1000.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "combinatorics",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 21,
+    "generated_tests": 52,
+    "correct_solutions": 142,
+    "incorrect_solutions": 101
+  }
+}

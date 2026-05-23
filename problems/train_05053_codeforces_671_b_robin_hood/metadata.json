@@ -1,0 +1,27 @@
+{
+  "id": 5053,
+  "split": "train",
+  "name": "671_B. Robin Hood",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 671,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "binary search",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 14,
+    "generated_tests": 67,
+    "correct_solutions": 415,
+    "incorrect_solutions": 720
+  }
+}

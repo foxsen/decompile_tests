@@ -1,0 +1,26 @@
+{
+  "id": 9425,
+  "split": "train",
+  "name": "676_E. The Last Fight Between Human and AI",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 676,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 47,
+    "generated_tests": 60,
+    "correct_solutions": 235,
+    "incorrect_solutions": 686
+  }
+}

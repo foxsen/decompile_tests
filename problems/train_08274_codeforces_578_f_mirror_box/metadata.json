@@ -1,0 +1,27 @@
+{
+  "id": 8274,
+  "split": "train",
+  "name": "578_F. Mirror Box",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 578,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "matrices",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 17,
+    "generated_tests": 54,
+    "correct_solutions": 142,
+    "incorrect_solutions": 188
+  }
+}

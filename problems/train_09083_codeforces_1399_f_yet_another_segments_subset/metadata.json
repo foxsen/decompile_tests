@@ -1,0 +1,29 @@
+{
+  "id": 9083,
+  "split": "train",
+  "name": "1399_F. Yet Another Segments Subset",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1399,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "graphs",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 59,
+    "correct_solutions": 228,
+    "incorrect_solutions": 265
+  }
+}

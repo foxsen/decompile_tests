@@ -1,0 +1,28 @@
+{
+  "id": 11713,
+  "split": "train",
+  "name": "601_C. Kleofáš and the n-thlon",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 601,
+  "cf_index": "C",
+  "cf_points": 1250.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 62,
+    "generated_tests": 53,
+    "correct_solutions": 300,
+    "incorrect_solutions": 315
+  }
+}

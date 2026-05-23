@@ -1,0 +1,26 @@
+{
+  "id": 1162,
+  "split": "train",
+  "name": "1191_A. Tokitsukaze and Enhancement",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1191,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "brute force"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 19,
+    "generated_tests": 92,
+    "correct_solutions": 1040,
+    "incorrect_solutions": 336
+  }
+}

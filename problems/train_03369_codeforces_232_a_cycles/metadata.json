@@ -1,0 +1,29 @@
+{
+  "id": 3369,
+  "split": "train",
+  "name": "232_A. Cycles",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 232,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "graphs",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 78,
+    "generated_tests": 66,
+    "correct_solutions": 173,
+    "incorrect_solutions": 192
+  }
+}

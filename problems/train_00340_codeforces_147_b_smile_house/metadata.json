@@ -1,0 +1,28 @@
+{
+  "id": 340,
+  "split": "train",
+  "name": "147_B. Smile House",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 147,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "binary search",
+    "graphs",
+    "matrices"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 15,
+    "generated_tests": 48,
+    "correct_solutions": 166,
+    "incorrect_solutions": 250
+  }
+}

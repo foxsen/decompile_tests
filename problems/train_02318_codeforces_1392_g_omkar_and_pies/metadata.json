@@ -1,0 +1,30 @@
+{
+  "id": 2318,
+  "split": "train",
+  "name": "1392_G. Omkar and Pies",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1392,
+  "cf_index": "G",
+  "cf_points": 3000.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "bitmasks",
+    "dfs and similar",
+    "dp",
+    "math",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 40,
+    "correct_solutions": 160,
+    "incorrect_solutions": 180
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7348,
+  "split": "train",
+  "name": "799_G. Cut the pie",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 799,
+  "cf_index": "G",
+  "cf_points": 3500.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 79,
+    "correct_solutions": 85,
+    "incorrect_solutions": 219
+  }
+}

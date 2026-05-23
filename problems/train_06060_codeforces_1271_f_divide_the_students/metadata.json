@@ -1,0 +1,26 @@
+{
+  "id": 6060,
+  "split": "train",
+  "name": "1271_F. Divide The Students",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1271,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "brute force"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 8.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 98,
+    "generated_tests": 50,
+    "correct_solutions": 113,
+    "incorrect_solutions": 133
+  }
+}

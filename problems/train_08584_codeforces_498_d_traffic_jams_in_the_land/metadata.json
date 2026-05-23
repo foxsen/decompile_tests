@@ -1,0 +1,28 @@
+{
+  "id": 8584,
+  "split": "train",
+  "name": "498_D. Traffic Jams in the Land",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 498,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 12,
+    "generated_tests": 46,
+    "correct_solutions": 285,
+    "incorrect_solutions": 249
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 10539,
+  "split": "train",
+  "name": "1337_E. Kaavi and Magic Spell",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1337,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dp",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 11,
+    "generated_tests": 65,
+    "correct_solutions": 347,
+    "incorrect_solutions": 340
+  }
+}

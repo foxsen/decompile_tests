@@ -1,0 +1,31 @@
+{
+  "id": 1700,
+  "split": "train",
+  "name": "1547_E. Air Conditioners",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1547,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "implementation",
+    "shortest paths",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 6,
+    "generated_tests": 100,
+    "correct_solutions": 389,
+    "incorrect_solutions": 280
+  }
+}

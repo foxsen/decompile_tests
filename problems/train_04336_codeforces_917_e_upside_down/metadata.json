@@ -1,0 +1,29 @@
+{
+  "id": 4336,
+  "split": "train",
+  "name": "917_E. Upside Down",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 917,
+  "cf_index": "E",
+  "cf_points": 2750.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "data structures",
+    "string suffix structures",
+    "strings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 0,
+    "generated_tests": 50,
+    "correct_solutions": 53,
+    "incorrect_solutions": 182
+  }
+}

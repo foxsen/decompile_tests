@@ -1,0 +1,11 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main() {
+  int n, x, y;
+  cin >> n >> x >> y;
+  long a[2000];
+  for (int i = 0; i < n; i++) cin >> a[i];
+  sort(a, a + n);
+  cout << a[y] - a[y - 1];
+  return 0;
+}

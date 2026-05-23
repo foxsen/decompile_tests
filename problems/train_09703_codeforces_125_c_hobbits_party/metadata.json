@@ -1,0 +1,27 @@
+{
+  "id": 9703,
+  "split": "train",
+  "name": "125_C. Hobbits' Party",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 125,
+  "cf_index": "C",
+  "cf_points": 2000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 75,
+    "generated_tests": 45,
+    "correct_solutions": 373,
+    "incorrect_solutions": 312
+  }
+}

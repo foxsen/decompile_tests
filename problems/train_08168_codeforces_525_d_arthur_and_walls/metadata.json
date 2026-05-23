@@ -1,0 +1,30 @@
+{
+  "id": 8168,
+  "split": "train",
+  "name": "525_D. Arthur and Walls",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 525,
+  "cf_index": "D",
+  "cf_points": 3000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "constructive algorithms",
+    "data structures",
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 20,
+    "generated_tests": 43,
+    "correct_solutions": 220,
+    "incorrect_solutions": 427
+  }
+}

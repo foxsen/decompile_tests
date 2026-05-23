@@ -1,0 +1,28 @@
+{
+  "id": 11618,
+  "split": "train",
+  "name": "78_E. Evacuation",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 78,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "flows",
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 69,
+    "generated_tests": 40,
+    "correct_solutions": 145,
+    "incorrect_solutions": 205
+  }
+}

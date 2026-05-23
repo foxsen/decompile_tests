@@ -1,0 +1,27 @@
+{
+  "id": 5556,
+  "split": "train",
+  "name": "245_E. Mishap in Club",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 245,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 47,
+    "generated_tests": 71,
+    "correct_solutions": 408,
+    "incorrect_solutions": 557
+  }
+}

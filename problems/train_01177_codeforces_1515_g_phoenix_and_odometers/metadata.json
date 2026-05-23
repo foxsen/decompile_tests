@@ -1,0 +1,29 @@
+{
+  "id": 1177,
+  "split": "train",
+  "name": "1515_G. Phoenix and Odometers",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1515,
+  "cf_index": "G",
+  "cf_points": 3500.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 200,
+    "correct_solutions": 50,
+    "incorrect_solutions": 125
+  }
+}

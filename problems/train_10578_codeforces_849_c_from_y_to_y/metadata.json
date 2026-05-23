@@ -1,0 +1,26 @@
+{
+  "id": 10578,
+  "split": "train",
+  "name": "849_C. From Y to Y",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 849,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 23,
+    "generated_tests": 77,
+    "correct_solutions": 263,
+    "incorrect_solutions": 246
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10985,
+  "split": "train",
+  "name": "641_D. Little Artem and Random Variable",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 641,
+  "cf_index": "D",
+  "cf_points": 1500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "dp",
+    "implementation",
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 0,
+    "correct_solutions": 272,
+    "incorrect_solutions": 479
+  }
+}

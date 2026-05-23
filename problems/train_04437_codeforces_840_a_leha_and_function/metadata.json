@@ -1,0 +1,30 @@
+{
+  "id": 4437,
+  "split": "train",
+  "name": "840_A. Leha and Function",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 840,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "combinatorics",
+    "greedy",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 0,
+    "generated_tests": 74,
+    "correct_solutions": 639,
+    "incorrect_solutions": 344
+  }
+}

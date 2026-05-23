@@ -1,0 +1,31 @@
+{
+  "id": 1624,
+  "split": "train",
+  "name": "79_C. Beaver",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 79,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "hashing",
+    "strings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 46,
+    "generated_tests": 52,
+    "correct_solutions": 277,
+    "incorrect_solutions": 406
+  }
+}

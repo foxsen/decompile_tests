@@ -1,0 +1,30 @@
+{
+  "id": 2338,
+  "split": "train",
+  "name": "466_C. Number of Ways",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 466,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 15,
+    "generated_tests": 96,
+    "correct_solutions": 978,
+    "incorrect_solutions": 855
+  }
+}

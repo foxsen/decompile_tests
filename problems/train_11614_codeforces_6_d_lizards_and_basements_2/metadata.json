@@ -1,0 +1,27 @@
+{
+  "id": 11614,
+  "split": "train",
+  "name": "6_D. Lizards and Basements 2",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 6,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "brute force",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 112,
+    "generated_tests": 59,
+    "correct_solutions": 288,
+    "incorrect_solutions": 429
+  }
+}

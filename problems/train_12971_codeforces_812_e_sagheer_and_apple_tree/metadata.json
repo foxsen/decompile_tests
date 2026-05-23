@@ -1,0 +1,27 @@
+{
+  "id": 12971,
+  "split": "train",
+  "name": "812_E. Sagheer and Apple Tree",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 812,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "games",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 26,
+    "generated_tests": 45,
+    "correct_solutions": 201,
+    "incorrect_solutions": 298
+  }
+}

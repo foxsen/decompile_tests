@@ -1,0 +1,27 @@
+{
+  "id": 7557,
+  "split": "train",
+  "name": "832_B. Petya and Exam",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 832,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 52,
+    "generated_tests": 95,
+    "correct_solutions": 451,
+    "incorrect_solutions": 1017
+  }
+}

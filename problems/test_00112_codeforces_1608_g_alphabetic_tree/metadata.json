@@ -1,0 +1,32 @@
+{
+  "id": 112,
+  "split": "test",
+  "name": "1608_G. Alphabetic Tree",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1608,
+  "cf_index": "G",
+  "cf_points": 2750.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "dfs and similar",
+    "hashing",
+    "string suffix structures",
+    "strings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 33,
+    "incorrect_solutions": 40
+  }
+}

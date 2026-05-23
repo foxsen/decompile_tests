@@ -1,0 +1,27 @@
+{
+  "id": 3088,
+  "split": "train",
+  "name": "963_A. Alternating Sum",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 963,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 41,
+    "generated_tests": 94,
+    "correct_solutions": 405,
+    "incorrect_solutions": 841
+  }
+}

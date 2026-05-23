@@ -1,0 +1,26 @@
+{
+  "id": 10139,
+  "split": "train",
+  "name": "306_A. Candies",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 306,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 20,
+    "generated_tests": 88,
+    "correct_solutions": 658,
+    "incorrect_solutions": 225
+  }
+}

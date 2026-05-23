@@ -1,0 +1,27 @@
+{
+  "id": 5692,
+  "split": "train",
+  "name": "98_A. Help Victoria the Wise",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 98,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 44,
+    "generated_tests": 53,
+    "correct_solutions": 428,
+    "incorrect_solutions": 485
+  }
+}

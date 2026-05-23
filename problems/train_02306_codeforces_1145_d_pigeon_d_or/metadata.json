@@ -1,0 +1,26 @@
+{
+  "id": 2306,
+  "split": "train",
+  "name": "1145_D. Pigeon d'Or",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1145,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 21,
+    "generated_tests": 79,
+    "correct_solutions": 320,
+    "incorrect_solutions": 607
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 0,
+  "split": "valid",
+  "name": "1548_C. The Three Little Pigs",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1548,
+  "cf_index": "C",
+  "cf_points": 1750.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "fft",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 200,
+    "correct_solutions": 139,
+    "incorrect_solutions": 102
+  }
+}

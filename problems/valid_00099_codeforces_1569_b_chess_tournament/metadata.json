@@ -1,0 +1,26 @@
+{
+  "id": 99,
+  "split": "valid",
+  "name": "1569_B. Chess Tournament",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1569,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 4,
+    "correct_solutions": 288,
+    "incorrect_solutions": 357
+  }
+}

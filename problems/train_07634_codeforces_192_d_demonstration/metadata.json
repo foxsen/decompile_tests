@@ -1,0 +1,26 @@
+{
+  "id": 7634,
+  "split": "train",
+  "name": "192_D. Demonstration",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 192,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 32,
+    "generated_tests": 59,
+    "correct_solutions": 108,
+    "incorrect_solutions": 130
+  }
+}

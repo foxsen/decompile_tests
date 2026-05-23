@@ -1,0 +1,31 @@
+{
+  "id": 10668,
+  "split": "train",
+  "name": "525_E. Anya and Cubes",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 525,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "dp",
+    "math",
+    "meet-in-the-middle"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 99,
+    "generated_tests": 43,
+    "correct_solutions": 248,
+    "incorrect_solutions": 299
+  }
+}

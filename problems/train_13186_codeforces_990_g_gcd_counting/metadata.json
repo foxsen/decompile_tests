@@ -1,0 +1,30 @@
+{
+  "id": 13186,
+  "split": "train",
+  "name": "990_G. GCD Counting",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 990,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "divide and conquer",
+    "dp",
+    "dsu",
+    "number theory",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 10,
+    "generated_tests": 52,
+    "correct_solutions": 308,
+    "incorrect_solutions": 472
+  }
+}

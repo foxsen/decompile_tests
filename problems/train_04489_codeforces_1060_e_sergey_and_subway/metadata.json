@@ -1,0 +1,28 @@
+{
+  "id": 4489,
+  "split": "train",
+  "name": "1060_E. Sergey and Subway",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1060,
+  "cf_index": "E",
+  "cf_points": 1750.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 58,
+    "correct_solutions": 235,
+    "incorrect_solutions": 270
+  }
+}

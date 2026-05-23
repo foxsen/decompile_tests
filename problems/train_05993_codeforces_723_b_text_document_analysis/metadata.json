@@ -1,0 +1,28 @@
+{
+  "id": 5993,
+  "split": "train",
+  "name": "723_B. Text Document Analysis",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 723,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "expression parsing",
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 37,
+    "generated_tests": 90,
+    "correct_solutions": 764,
+    "incorrect_solutions": 681
+  }
+}

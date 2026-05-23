@@ -1,0 +1,27 @@
+{
+  "id": 1389,
+  "split": "train",
+  "name": "177_G2. Fibonacci Strings",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 177,
+  "cf_index": "G2",
+  "cf_points": 70.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "matrices",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 17,
+    "generated_tests": 63,
+    "correct_solutions": 70,
+    "incorrect_solutions": 100
+  }
+}

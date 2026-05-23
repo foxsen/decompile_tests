@@ -1,0 +1,31 @@
+{
+  "id": 3985,
+  "split": "train",
+  "name": "1408_E. Avoid Rainbow Cycles",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1408,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures",
+    "dsu",
+    "graphs",
+    "greedy",
+    "sortings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 53,
+    "correct_solutions": 263,
+    "incorrect_solutions": 175
+  }
+}

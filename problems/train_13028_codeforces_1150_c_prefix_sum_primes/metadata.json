@@ -1,0 +1,29 @@
+{
+  "id": 13028,
+  "split": "train",
+  "name": "1150_C. Prefix Sum Primes",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1150,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 20,
+    "generated_tests": 88,
+    "correct_solutions": 312,
+    "incorrect_solutions": 324
+  }
+}

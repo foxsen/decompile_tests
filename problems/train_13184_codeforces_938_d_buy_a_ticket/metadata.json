@@ -1,0 +1,28 @@
+{
+  "id": 13184,
+  "split": "train",
+  "name": "938_D. Buy a Ticket",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 938,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "data structures",
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 79,
+    "correct_solutions": 432,
+    "incorrect_solutions": 342
+  }
+}

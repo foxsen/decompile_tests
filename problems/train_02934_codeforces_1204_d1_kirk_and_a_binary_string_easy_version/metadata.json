@@ -1,0 +1,28 @@
+{
+  "id": 2934,
+  "split": "train",
+  "name": "1204_D1. Kirk and a Binary String (easy version)",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1204,
+  "cf_index": "D1",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "brute force",
+    "greedy",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 10,
+    "generated_tests": 100,
+    "correct_solutions": 444,
+    "incorrect_solutions": 445
+  }
+}

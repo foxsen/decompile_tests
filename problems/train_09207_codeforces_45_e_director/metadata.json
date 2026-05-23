@@ -1,0 +1,27 @@
+{
+  "id": 9207,
+  "split": "train",
+  "name": "45_E. Director",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 45,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 71,
+    "generated_tests": 43,
+    "correct_solutions": 165,
+    "incorrect_solutions": 268
+  }
+}

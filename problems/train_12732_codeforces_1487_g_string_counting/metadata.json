@@ -1,0 +1,29 @@
+{
+  "id": 12732,
+  "split": "train",
+  "name": "1487_G. String Counting",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1487,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "fft",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 10.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 12,
+    "generated_tests": 200,
+    "correct_solutions": 84,
+    "incorrect_solutions": 105
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 3175,
+  "split": "train",
+  "name": "558_C. Amr and Chemistry",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 558,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "brute force",
+    "graphs",
+    "greedy",
+    "math",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 14,
+    "generated_tests": 60,
+    "correct_solutions": 348,
+    "incorrect_solutions": 530
+  }
+}

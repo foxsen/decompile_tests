@@ -1,0 +1,29 @@
+{
+  "id": 13134,
+  "split": "train",
+  "name": "1189_E. Count Pairs",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1189,
+  "cf_index": "E",
+  "cf_points": 1250.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "math",
+    "matrices",
+    "number theory",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 71,
+    "correct_solutions": 186,
+    "incorrect_solutions": 150
+  }
+}

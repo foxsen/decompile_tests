@@ -1,0 +1,26 @@
+{
+  "id": 12546,
+  "split": "train",
+  "name": "621_A. Wet Shark and Odd and Even",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 621,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 26,
+    "generated_tests": 100,
+    "correct_solutions": 1564,
+    "incorrect_solutions": 1029
+  }
+}

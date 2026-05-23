@@ -1,0 +1,28 @@
+{
+  "id": 11820,
+  "split": "train",
+  "name": "653_A. Bear and Three Balls",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 653,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "brute force",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 81,
+    "generated_tests": 95,
+    "correct_solutions": 662,
+    "incorrect_solutions": 616
+  }
+}

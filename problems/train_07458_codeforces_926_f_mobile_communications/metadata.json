@@ -1,0 +1,24 @@
+{
+  "id": 7458,
+  "split": "train",
+  "name": "926_F. Mobile Communications",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 926,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 17,
+    "generated_tests": 100,
+    "correct_solutions": 30,
+    "incorrect_solutions": 71
+  }
+}

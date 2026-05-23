@@ -1,0 +1,29 @@
+{
+  "id": 9417,
+  "split": "train",
+  "name": "484_B. Maximum Value",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 484,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "math",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 7,
+    "generated_tests": 67,
+    "correct_solutions": 501,
+    "incorrect_solutions": 794
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 9299,
+  "split": "train",
+  "name": "163_E. e-Government",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 163,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "strings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 35,
+    "correct_solutions": 154,
+    "incorrect_solutions": 223
+  }
+}

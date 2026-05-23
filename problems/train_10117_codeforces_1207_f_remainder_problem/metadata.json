@@ -1,0 +1,28 @@
+{
+  "id": 10117,
+  "split": "train",
+  "name": "1207_F. Remainder Problem",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1207,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 8,
+    "generated_tests": 67,
+    "correct_solutions": 285,
+    "incorrect_solutions": 254
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 4111,
+  "split": "train",
+  "name": "526_F. Pudding Monsters",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 526,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 2,
+    "correct_solutions": 340,
+    "incorrect_solutions": 335
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 5029,
+  "split": "train",
+  "name": "1498_F. Christmas Game",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1498,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "bitmasks",
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "games",
+    "math",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 200,
+    "correct_solutions": 91,
+    "incorrect_solutions": 104
+  }
+}

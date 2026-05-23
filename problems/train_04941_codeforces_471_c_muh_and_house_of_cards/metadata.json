@@ -1,0 +1,29 @@
+{
+  "id": 4941,
+  "split": "train",
+  "name": "471_C. MUH and House of Cards",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 471,
+  "cf_index": "C",
+  "cf_points": 2000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 26,
+    "generated_tests": 70,
+    "correct_solutions": 547,
+    "incorrect_solutions": 562
+  }
+}

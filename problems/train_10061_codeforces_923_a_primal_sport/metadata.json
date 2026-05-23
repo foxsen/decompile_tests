@@ -1,0 +1,27 @@
+{
+  "id": 10061,
+  "split": "train",
+  "name": "923_A. Primal Sport",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 923,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 47,
+    "generated_tests": 66,
+    "correct_solutions": 522,
+    "incorrect_solutions": 404
+  }
+}

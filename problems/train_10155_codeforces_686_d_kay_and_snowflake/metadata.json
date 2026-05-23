@@ -1,0 +1,29 @@
+{
+  "id": 10155,
+  "split": "train",
+  "name": "686_D. Kay and Snowflake",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 686,
+  "cf_index": "D",
+  "cf_points": 1250.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 47,
+    "correct_solutions": 137,
+    "incorrect_solutions": 139
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1736,
+  "split": "train",
+  "name": "997_B. Roman Digits",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 997,
+  "cf_index": "B",
+  "cf_points": 1250.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 37,
+    "generated_tests": 73,
+    "correct_solutions": 461,
+    "incorrect_solutions": 414
+  }
+}

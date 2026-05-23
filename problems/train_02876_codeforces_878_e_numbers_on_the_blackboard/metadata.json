@@ -1,0 +1,27 @@
+{
+  "id": 2876,
+  "split": "train",
+  "name": "878_E. Numbers on the blackboard",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 878,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3300,
+  "cf_tags": [
+    "combinatorics",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 12,
+    "generated_tests": 49,
+    "correct_solutions": 145,
+    "incorrect_solutions": 315
+  }
+}

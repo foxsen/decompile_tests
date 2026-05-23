@@ -1,0 +1,29 @@
+{
+  "id": 7027,
+  "split": "train",
+  "name": "595_E. Edo and Magnets",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 595,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 11,
+    "generated_tests": 44,
+    "correct_solutions": 202,
+    "incorrect_solutions": 300
+  }
+}

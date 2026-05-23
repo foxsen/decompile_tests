@@ -1,0 +1,29 @@
+{
+  "id": 12959,
+  "split": "train",
+  "name": "534_E. Berland Local Positioning System",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 534,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "hashing",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 16,
+    "generated_tests": 60,
+    "correct_solutions": 158,
+    "incorrect_solutions": 279
+  }
+}

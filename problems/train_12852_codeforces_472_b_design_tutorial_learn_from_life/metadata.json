@@ -1,0 +1,24 @@
+{
+  "id": 12852,
+  "split": "train",
+  "name": "472_B. Design Tutorial: Learn from Life",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 472,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1300,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 10,
+    "generated_tests": 94,
+    "correct_solutions": 826,
+    "incorrect_solutions": 489
+  }
+}

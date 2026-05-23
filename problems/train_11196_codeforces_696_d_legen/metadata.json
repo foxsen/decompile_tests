@@ -1,0 +1,29 @@
+{
+  "id": 11196,
+  "split": "train",
+  "name": "696_D. Legen...",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 696,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "matrices",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 23,
+    "generated_tests": 40,
+    "correct_solutions": 91,
+    "incorrect_solutions": 150
+  }
+}

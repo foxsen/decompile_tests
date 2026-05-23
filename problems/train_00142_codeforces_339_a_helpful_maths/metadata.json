@@ -1,0 +1,29 @@
+{
+  "id": 142,
+  "split": "train",
+  "name": "339_A. Helpful Maths",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 339,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "greedy",
+    "implementation",
+    "sortings",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 18,
+    "generated_tests": 92,
+    "correct_solutions": 9497,
+    "incorrect_solutions": 746
+  }
+}

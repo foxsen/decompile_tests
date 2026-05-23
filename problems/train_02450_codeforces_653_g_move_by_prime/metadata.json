@@ -1,0 +1,28 @@
+{
+  "id": 2450,
+  "split": "train",
+  "name": "653_G. Move by Prime",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 653,
+  "cf_index": "G",
+  "cf_points": 3500.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 47,
+    "correct_solutions": 160,
+    "incorrect_solutions": 150
+  }
+}

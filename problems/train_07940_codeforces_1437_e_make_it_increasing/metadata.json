@@ -1,0 +1,30 @@
+{
+  "id": 7940,
+  "split": "train",
+  "name": "1437_E. Make It Increasing",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1437,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 9,
+    "generated_tests": 95,
+    "correct_solutions": 326,
+    "incorrect_solutions": 382
+  }
+}

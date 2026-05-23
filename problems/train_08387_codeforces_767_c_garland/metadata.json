@@ -1,0 +1,29 @@
+{
+  "id": 8387,
+  "split": "train",
+  "name": "767_C. Garland",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 767,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 16,
+    "generated_tests": 46,
+    "correct_solutions": 255,
+    "incorrect_solutions": 654
+  }
+}

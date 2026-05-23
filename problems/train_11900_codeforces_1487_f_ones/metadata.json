@@ -1,0 +1,28 @@
+{
+  "id": 11900,
+  "split": "train",
+  "name": "1487_F. Ones",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1487,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 80,
+    "generated_tests": 200,
+    "correct_solutions": 105,
+    "incorrect_solutions": 255
+  }
+}

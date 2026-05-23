@@ -1,0 +1,28 @@
+{
+  "id": 1728,
+  "split": "train",
+  "name": "805_C. Find Amir",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 805,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 25,
+    "generated_tests": 100,
+    "correct_solutions": 421,
+    "incorrect_solutions": 188
+  }
+}

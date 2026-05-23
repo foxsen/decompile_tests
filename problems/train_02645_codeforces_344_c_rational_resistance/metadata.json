@@ -1,0 +1,27 @@
+{
+  "id": 2645,
+  "split": "train",
+  "name": "344_C. Rational Resistance",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 344,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 50,
+    "generated_tests": 81,
+    "correct_solutions": 278,
+    "incorrect_solutions": 214
+  }
+}

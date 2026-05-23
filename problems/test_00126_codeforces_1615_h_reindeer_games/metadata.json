@@ -1,0 +1,32 @@
+{
+  "id": 126,
+  "split": "test",
+  "name": "1615_H. Reindeer Games",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 1615,
+  "cf_index": "H",
+  "cf_points": 4000.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "divide and conquer",
+    "flows",
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 2,
+    "generated_tests": 200,
+    "correct_solutions": 70,
+    "incorrect_solutions": 49
+  }
+}

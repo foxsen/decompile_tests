@@ -1,0 +1,30 @@
+{
+  "id": 13071,
+  "split": "train",
+  "name": "731_F. Video Cards",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 731,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 61,
+    "correct_solutions": 273,
+    "incorrect_solutions": 384
+  }
+}

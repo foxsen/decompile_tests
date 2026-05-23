@@ -1,0 +1,28 @@
+{
+  "id": 6173,
+  "split": "train",
+  "name": "1455_C. Ping-pong",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1455,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "constructive algorithms",
+    "games",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 10,
+    "generated_tests": 200,
+    "correct_solutions": 302,
+    "incorrect_solutions": 318
+  }
+}

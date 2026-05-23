@@ -1,0 +1,28 @@
+{
+  "id": 9523,
+  "split": "train",
+  "name": "513_B2. Permutations",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 513,
+  "cf_index": "B2",
+  "cf_points": 4.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "bitmasks",
+    "divide and conquer",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 30,
+    "generated_tests": 78,
+    "correct_solutions": 380,
+    "incorrect_solutions": 277
+  }
+}

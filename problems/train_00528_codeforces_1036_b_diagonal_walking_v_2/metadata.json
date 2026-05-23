@@ -1,0 +1,26 @@
+{
+  "id": 528,
+  "split": "train",
+  "name": "1036_B. Diagonal Walking v.2",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1036,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 95,
+    "correct_solutions": 517,
+    "incorrect_solutions": 585
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 12629,
+  "split": "train",
+  "name": "1515_B. Phoenix and Puzzle",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1515,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "brute force",
+    "geometry",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 12,
+    "generated_tests": 200,
+    "correct_solutions": 301,
+    "incorrect_solutions": 321
+  }
+}

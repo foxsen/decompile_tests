@@ -1,0 +1,27 @@
+{
+  "id": 7012,
+  "split": "train",
+  "name": "238_A. Not Wool Sequences",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 238,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 40,
+    "generated_tests": 65,
+    "correct_solutions": 434,
+    "incorrect_solutions": 374
+  }
+}

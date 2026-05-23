@@ -1,0 +1,27 @@
+{
+  "id": 6316,
+  "split": "train",
+  "name": "999_A. Mishka and Contest",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 999,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 45,
+    "generated_tests": 98,
+    "correct_solutions": 1428,
+    "incorrect_solutions": 584
+  }
+}

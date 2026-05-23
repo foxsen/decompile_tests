@@ -1,0 +1,26 @@
+{
+  "id": 10845,
+  "split": "train",
+  "name": "1203_F1. Complete the Projects (easy version)",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1203,
+  "cf_index": "F1",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 84,
+    "generated_tests": 87,
+    "correct_solutions": 447,
+    "incorrect_solutions": 958
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 12092,
+  "split": "train",
+  "name": "1143_D. The Beatles",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1143,
+  "cf_index": "D",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "brute force",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 34,
+    "generated_tests": 99,
+    "correct_solutions": 147,
+    "incorrect_solutions": 219
+  }
+}

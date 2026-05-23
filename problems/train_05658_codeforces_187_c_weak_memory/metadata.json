@@ -1,0 +1,27 @@
+{
+  "id": 5658,
+  "split": "train",
+  "name": "187_C. Weak Memory",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 187,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "dfs and similar",
+    "dsu"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 41,
+    "correct_solutions": 118,
+    "incorrect_solutions": 149
+  }
+}

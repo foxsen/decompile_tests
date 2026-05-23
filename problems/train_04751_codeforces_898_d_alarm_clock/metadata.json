@@ -1,0 +1,26 @@
+{
+  "id": 4751,
+  "split": "train",
+  "name": "898_D. Alarm Clock",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 898,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 15,
+    "generated_tests": 67,
+    "correct_solutions": 347,
+    "incorrect_solutions": 455
+  }
+}

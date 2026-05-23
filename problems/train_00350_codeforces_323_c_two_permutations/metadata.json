@@ -1,0 +1,26 @@
+{
+  "id": 350,
+  "split": "train",
+  "name": "323_C. Two permutations",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 323,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 69,
+    "correct_solutions": 63,
+    "incorrect_solutions": 161
+  }
+}

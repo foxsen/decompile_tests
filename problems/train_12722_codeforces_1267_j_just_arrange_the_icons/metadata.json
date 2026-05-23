@@ -1,0 +1,28 @@
+{
+  "id": 12722,
+  "split": "train",
+  "name": "1267_J. Just Arrange the Icons",
+  "source": "codeforces",
+  "difficulty": "J",
+  "cf_contest_id": 1267,
+  "cf_index": "J",
+  "cf_points": 0.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 56,
+    "correct_solutions": 210,
+    "incorrect_solutions": 393
+  }
+}

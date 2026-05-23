@@ -1,0 +1,27 @@
+{
+  "id": 7014,
+  "split": "train",
+  "name": "286_D. Tourists",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 286,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "data structures",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 38,
+    "correct_solutions": 142,
+    "incorrect_solutions": 177
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3398,
+  "split": "train",
+  "name": "912_E. Prime Gift",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 912,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "binary search",
+    "dfs and similar",
+    "math",
+    "meet-in-the-middle",
+    "number theory",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 78,
+    "generated_tests": 26,
+    "correct_solutions": 212,
+    "incorrect_solutions": 257
+  }
+}

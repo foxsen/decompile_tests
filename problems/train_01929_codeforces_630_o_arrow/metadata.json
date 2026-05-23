@@ -1,0 +1,26 @@
+{
+  "id": 1929,
+  "split": "train",
+  "name": "630_O. Arrow",
+  "source": "codeforces",
+  "difficulty": "O",
+  "cf_contest_id": 630,
+  "cf_index": "O",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 0.5,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 15,
+    "generated_tests": 76,
+    "correct_solutions": 244,
+    "incorrect_solutions": 257
+  }
+}

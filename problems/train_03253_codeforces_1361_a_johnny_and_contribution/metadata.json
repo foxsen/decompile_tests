@@ -1,0 +1,29 @@
+{
+  "id": 3253,
+  "split": "train",
+  "name": "1361_A. Johnny and Contribution",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1361,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 14,
+    "generated_tests": 51,
+    "correct_solutions": 172,
+    "incorrect_solutions": 177
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 3914,
+  "split": "train",
+  "name": "792_F. Mages and Monsters",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 792,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "data structures",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 6,
+    "generated_tests": 57,
+    "correct_solutions": 105,
+    "incorrect_solutions": 249
+  }
+}

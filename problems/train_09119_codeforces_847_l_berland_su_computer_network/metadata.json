@@ -1,0 +1,30 @@
+{
+  "id": 9119,
+  "split": "train",
+  "name": "847_L. Berland SU Computer Network",
+  "source": "codeforces",
+  "difficulty": "L",
+  "cf_contest_id": 847,
+  "cf_index": "L",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "hashing",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 22,
+    "generated_tests": 26,
+    "correct_solutions": 131,
+    "incorrect_solutions": 184
+  }
+}

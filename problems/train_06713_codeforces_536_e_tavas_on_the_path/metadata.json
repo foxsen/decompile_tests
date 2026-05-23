@@ -1,0 +1,28 @@
+{
+  "id": 6713,
+  "split": "train",
+  "name": "536_E. Tavas on the Path",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 536,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 29,
+    "correct_solutions": 121,
+    "incorrect_solutions": 202
+  }
+}

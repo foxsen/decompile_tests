@@ -1,0 +1,29 @@
+{
+  "id": 9092,
+  "split": "train",
+  "name": "214_B. Hometask",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 214,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 54,
+    "generated_tests": 84,
+    "correct_solutions": 432,
+    "incorrect_solutions": 1029
+  }
+}

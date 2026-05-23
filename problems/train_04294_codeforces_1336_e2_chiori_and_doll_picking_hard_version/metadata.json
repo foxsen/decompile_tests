@@ -1,0 +1,29 @@
+{
+  "id": 4294,
+  "split": "train",
+  "name": "1336_E2. Chiori and Doll Picking (hard version)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1336,
+  "cf_index": "E2",
+  "cf_points": 1500.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 13,
+    "generated_tests": 62,
+    "correct_solutions": 85,
+    "incorrect_solutions": 102
+  }
+}

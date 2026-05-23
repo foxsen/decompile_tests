@@ -1,0 +1,28 @@
+{
+  "id": 48,
+  "split": "valid",
+  "name": "1556_E. Equilibrium",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1556,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 25,
+    "generated_tests": 200,
+    "correct_solutions": 107,
+    "incorrect_solutions": 158
+  }
+}

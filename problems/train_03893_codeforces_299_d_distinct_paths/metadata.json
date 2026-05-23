@@ -1,0 +1,27 @@
+{
+  "id": 3893,
+  "split": "train",
+  "name": "299_D. Distinct Paths",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 299,
+  "cf_index": "D",
+  "cf_points": 1500.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "brute force",
+    "combinatorics"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 62,
+    "generated_tests": 100,
+    "correct_solutions": 44,
+    "incorrect_solutions": 34
+  }
+}

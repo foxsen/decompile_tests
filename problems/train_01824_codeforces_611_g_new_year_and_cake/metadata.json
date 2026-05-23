@@ -1,0 +1,27 @@
+{
+  "id": 1824,
+  "split": "train",
+  "name": "611_G. New Year and Cake",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 611,
+  "cf_index": "G",
+  "cf_points": 3000.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "geometry",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 5,
+    "generated_tests": 33,
+    "correct_solutions": 160,
+    "incorrect_solutions": 242
+  }
+}

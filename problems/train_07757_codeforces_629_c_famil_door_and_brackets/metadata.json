@@ -1,0 +1,27 @@
+{
+  "id": 7757,
+  "split": "train",
+  "name": "629_C. Famil Door and Brackets",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 629,
+  "cf_index": "C",
+  "cf_points": 1750.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "dp",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 5,
+    "generated_tests": 63,
+    "correct_solutions": 378,
+    "incorrect_solutions": 750
+  }
+}

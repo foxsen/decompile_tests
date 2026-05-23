@@ -1,0 +1,29 @@
+{
+  "id": 5453,
+  "split": "train",
+  "name": "280_C. Game on Tree",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 280,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "implementation",
+    "math",
+    "probabilities",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 50,
+    "correct_solutions": 445,
+    "incorrect_solutions": 366
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 5657,
+  "split": "train",
+  "name": "166_B. Polygons",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 166,
+  "cf_index": "B",
+  "cf_points": 3000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "geometry",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 26,
+    "generated_tests": 60,
+    "correct_solutions": 316,
+    "incorrect_solutions": 736
+  }
+}

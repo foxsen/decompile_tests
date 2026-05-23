@@ -1,0 +1,28 @@
+{
+  "id": 1296,
+  "split": "train",
+  "name": "45_D. Event Dates",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 45,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "greedy",
+    "meet-in-the-middle",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 15,
+    "generated_tests": 50,
+    "correct_solutions": 227,
+    "incorrect_solutions": 399
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1835,
+  "split": "train",
+  "name": "864_B. Polycarp and Letters",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 864,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 69,
+    "generated_tests": 100,
+    "correct_solutions": 721,
+    "incorrect_solutions": 588
+  }
+}

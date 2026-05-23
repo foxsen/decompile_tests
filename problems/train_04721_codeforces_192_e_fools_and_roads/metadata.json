@@ -1,0 +1,28 @@
+{
+  "id": 4721,
+  "split": "train",
+  "name": "192_E. Fools and Roads",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 192,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "data structures",
+    "dfs and similar",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 0,
+    "generated_tests": 38,
+    "correct_solutions": 142,
+    "incorrect_solutions": 113
+  }
+}

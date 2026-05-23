@@ -1,0 +1,26 @@
+{
+  "id": 3153,
+  "split": "train",
+  "name": "142_E. Help Greg the Dwarf 2",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 142,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 100,
+    "generated_tests": 100,
+    "correct_solutions": 39,
+    "incorrect_solutions": 130
+  }
+}

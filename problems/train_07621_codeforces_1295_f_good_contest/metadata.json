@@ -1,0 +1,28 @@
+{
+  "id": 7621,
+  "split": "train",
+  "name": "1295_F. Good Contest",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1295,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 69,
+    "generated_tests": 43,
+    "correct_solutions": 192,
+    "incorrect_solutions": 190
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 9636,
+  "split": "train",
+  "name": "730_D. Running Over The Bridges",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 730,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 4,
+    "generated_tests": 53,
+    "correct_solutions": 162,
+    "incorrect_solutions": 394
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 6267,
+  "split": "train",
+  "name": "1255_E1. Send Boxes to Alice (Easy Version)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1255,
+  "cf_index": "E1",
+  "cf_points": 500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "number theory",
+    "ternary search",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 26,
+    "generated_tests": 90,
+    "correct_solutions": 595,
+    "incorrect_solutions": 1064
+  }
+}

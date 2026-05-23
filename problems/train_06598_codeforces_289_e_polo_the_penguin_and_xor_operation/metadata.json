@@ -1,0 +1,27 @@
+{
+  "id": 6598,
+  "split": "train",
+  "name": "289_E. Polo the Penguin and XOR operation",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 289,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 24,
+    "generated_tests": 53,
+    "correct_solutions": 357,
+    "incorrect_solutions": 362
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 12943,
+  "split": "train",
+  "name": "15_C. Industrial Nim",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 15,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "games"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 4,
+    "generated_tests": 60,
+    "correct_solutions": 275,
+    "incorrect_solutions": 395
+  }
+}

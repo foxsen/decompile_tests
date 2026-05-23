@@ -1,0 +1,28 @@
+{
+  "id": 8129,
+  "split": "train",
+  "name": "1042_E. Vasya and Magic Matrix",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1042,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 51,
+    "correct_solutions": 217,
+    "incorrect_solutions": 225
+  }
+}

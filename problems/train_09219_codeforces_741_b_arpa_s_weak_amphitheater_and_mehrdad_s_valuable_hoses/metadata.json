@@ -1,0 +1,28 @@
+{
+  "id": 9219,
+  "split": "train",
+  "name": "741_B. Arpa's weak amphitheater and Mehrdad's valuable Hoses",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 741,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "dsu"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 67,
+    "correct_solutions": 210,
+    "incorrect_solutions": 164
+  }
+}

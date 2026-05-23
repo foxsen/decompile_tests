@@ -1,0 +1,29 @@
+{
+  "id": 3392,
+  "split": "train",
+  "name": "773_C. Prairie Partition",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 773,
+  "cf_index": "C",
+  "cf_points": 1750.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 19,
+    "generated_tests": 50,
+    "correct_solutions": 222,
+    "incorrect_solutions": 295
+  }
+}

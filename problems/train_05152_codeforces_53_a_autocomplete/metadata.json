@@ -1,0 +1,26 @@
+{
+  "id": 5152,
+  "split": "train",
+  "name": "53_A. Autocomplete",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 53,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 9,
+    "generated_tests": 88,
+    "correct_solutions": 561,
+    "incorrect_solutions": 493
+  }
+}

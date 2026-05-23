@@ -1,0 +1,28 @@
+{
+  "id": 9107,
+  "split": "train",
+  "name": "574_C. Bear and Poker",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 574,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 31,
+    "generated_tests": 93,
+    "correct_solutions": 576,
+    "incorrect_solutions": 437
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 5269,
+  "split": "train",
+  "name": "837_G. Functions On The Segments",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 837,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 47,
+    "correct_solutions": 85,
+    "incorrect_solutions": 195
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 3835,
+  "split": "train",
+  "name": "p03492 AtCoder Regular Contest 087 - Squirrel Migration",
+  "source": "unused_5",
+  "difficulty": "UNKNOWN_DIFFICULTY",
+  "cf_contest_id": 0,
+  "cf_index": "",
+  "cf_points": 0.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    ""
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 536870912,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 0,
+    "generated_tests": 100,
+    "correct_solutions": 190,
+    "incorrect_solutions": 291
+  }
+}

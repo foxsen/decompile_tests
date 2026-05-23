@@ -1,0 +1,27 @@
+{
+  "id": 10788,
+  "split": "train",
+  "name": "900_A. Find Extra One",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 900,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "geometry",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 56,
+    "generated_tests": 97,
+    "correct_solutions": 997,
+    "incorrect_solutions": 562
+  }
+}

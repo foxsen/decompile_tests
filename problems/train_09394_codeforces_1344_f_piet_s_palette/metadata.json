@@ -1,0 +1,26 @@
+{
+  "id": 9394,
+  "split": "train",
+  "name": "1344_F. Piet's Palette",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1344,
+  "cf_index": "F",
+  "cf_points": 2500.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "matrices"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 4,
+    "generated_tests": 50,
+    "correct_solutions": 89,
+    "incorrect_solutions": 77
+  }
+}

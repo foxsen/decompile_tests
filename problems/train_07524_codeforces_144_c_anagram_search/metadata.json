@@ -1,0 +1,27 @@
+{
+  "id": 7524,
+  "split": "train",
+  "name": "144_C. Anagram Search",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 144,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 12,
+    "generated_tests": 71,
+    "correct_solutions": 482,
+    "incorrect_solutions": 344
+  }
+}

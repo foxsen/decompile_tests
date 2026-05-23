@@ -1,0 +1,30 @@
+{
+  "id": 9847,
+  "split": "train",
+  "name": "779_E. Bitwise Formula",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 779,
+  "cf_index": "E",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar",
+    "expression parsing",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 14,
+    "generated_tests": 40,
+    "correct_solutions": 149,
+    "incorrect_solutions": 110
+  }
+}

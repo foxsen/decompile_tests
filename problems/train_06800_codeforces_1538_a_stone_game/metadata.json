@@ -1,0 +1,28 @@
+{
+  "id": 6800,
+  "split": "train",
+  "name": "1538_A. Stone Game",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1538,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 200,
+    "correct_solutions": 305,
+    "incorrect_solutions": 301
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 3584,
+  "split": "train",
+  "name": "399_E. Tree and Array",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 399,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 20,
+    "generated_tests": 43,
+    "correct_solutions": 116,
+    "incorrect_solutions": 143
+  }
+}

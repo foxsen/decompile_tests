@@ -1,0 +1,26 @@
+{
+  "id": 5051,
+  "split": "train",
+  "name": "622_F. The Sum of the k-th Powers",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 622,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 17,
+    "generated_tests": 59,
+    "correct_solutions": 200,
+    "incorrect_solutions": 242
+  }
+}

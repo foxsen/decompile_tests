@@ -1,0 +1,27 @@
+{
+  "id": 3473,
+  "split": "train",
+  "name": "239_B. Easy Tape Programming",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 239,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 19,
+    "generated_tests": 68,
+    "correct_solutions": 206,
+    "incorrect_solutions": 245
+  }
+}

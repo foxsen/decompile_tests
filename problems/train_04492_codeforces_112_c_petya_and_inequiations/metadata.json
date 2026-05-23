@@ -1,0 +1,26 @@
+{
+  "id": 4492,
+  "split": "train",
+  "name": "112_C. Petya and Inequiations",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 112,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 57,
+    "generated_tests": 100,
+    "correct_solutions": 224,
+    "incorrect_solutions": 302
+  }
+}

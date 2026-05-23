@@ -1,0 +1,27 @@
+{
+  "id": 9108,
+  "split": "train",
+  "name": "596_A. Wilbur and Swimming Pool",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 596,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "geometry",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 119,
+    "generated_tests": 96,
+    "correct_solutions": 652,
+    "incorrect_solutions": 603
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 4952,
+  "split": "train",
+  "name": "731_C. Socks",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 731,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 70,
+    "correct_solutions": 396,
+    "incorrect_solutions": 571
+  }
+}

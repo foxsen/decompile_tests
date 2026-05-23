@@ -1,0 +1,27 @@
+{
+  "id": 949,
+  "split": "train",
+  "name": "1109_F. Sasha and Algorithm of Silence's Sounds",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1109,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "data structures",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 1,
+    "generated_tests": 31,
+    "correct_solutions": 131,
+    "incorrect_solutions": 112
+  }
+}

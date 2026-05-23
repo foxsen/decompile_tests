@@ -1,0 +1,30 @@
+{
+  "id": 754,
+  "split": "train",
+  "name": "1416_D. Graph and Queries",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1416,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "data structures",
+    "dsu",
+    "graphs",
+    "implementation",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 20,
+    "correct_solutions": 240,
+    "incorrect_solutions": 328
+  }
+}

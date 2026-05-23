@@ -1,0 +1,30 @@
+{
+  "id": 8766,
+  "split": "train",
+  "name": "1293_D. Aroma's Search",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1293,
+  "cf_index": "D",
+  "cf_points": 750.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "geometry",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 131,
+    "generated_tests": 86,
+    "correct_solutions": 230,
+    "incorrect_solutions": 433
+  }
+}

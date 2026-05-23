@@ -1,0 +1,30 @@
+{
+  "id": 5433,
+  "split": "train",
+  "name": "1221_G. Graph And Numbers",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1221,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "dp",
+    "meet-in-the-middle"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.5,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 25,
+    "generated_tests": 44,
+    "correct_solutions": 144,
+    "incorrect_solutions": 181
+  }
+}

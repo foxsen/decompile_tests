@@ -1,0 +1,27 @@
+{
+  "id": 8651,
+  "split": "train",
+  "name": "1055_C. Lucky Days",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1055,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 28,
+    "generated_tests": 84,
+    "correct_solutions": 188,
+    "incorrect_solutions": 533
+  }
+}

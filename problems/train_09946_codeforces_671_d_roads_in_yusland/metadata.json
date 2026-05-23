@@ -1,0 +1,28 @@
+{
+  "id": 9946,
+  "split": "train",
+  "name": "671_D. Roads in Yusland",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 671,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 10,
+    "generated_tests": 34,
+    "correct_solutions": 164,
+    "incorrect_solutions": 269
+  }
+}

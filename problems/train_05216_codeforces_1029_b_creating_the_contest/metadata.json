@@ -1,0 +1,28 @@
+{
+  "id": 5216,
+  "split": "train",
+  "name": "1029_B. Creating the Contest",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1029,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 29,
+    "generated_tests": 90,
+    "correct_solutions": 1193,
+    "incorrect_solutions": 1072
+  }
+}

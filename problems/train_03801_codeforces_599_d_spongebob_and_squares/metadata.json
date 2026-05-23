@@ -1,0 +1,27 @@
+{
+  "id": 3801,
+  "split": "train",
+  "name": "599_D. Spongebob and Squares",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 599,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "brute force",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 77,
+    "generated_tests": 55,
+    "correct_solutions": 482,
+    "incorrect_solutions": 938
+  }
+}

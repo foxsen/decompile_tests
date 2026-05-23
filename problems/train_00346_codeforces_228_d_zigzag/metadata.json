@@ -1,0 +1,26 @@
+{
+  "id": 346,
+  "split": "train",
+  "name": "228_D. Zigzag",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 228,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 4,
+    "generated_tests": 52,
+    "correct_solutions": 145,
+    "incorrect_solutions": 211
+  }
+}

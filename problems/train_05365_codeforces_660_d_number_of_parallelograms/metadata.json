@@ -1,0 +1,26 @@
+{
+  "id": 5365,
+  "split": "train",
+  "name": "660_D. Number of Parallelograms",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 660,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 37,
+    "generated_tests": 71,
+    "correct_solutions": 321,
+    "incorrect_solutions": 377
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1826,
+  "split": "train",
+  "name": "660_B. Seating On Bus",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 660,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 21,
+    "generated_tests": 89,
+    "correct_solutions": 527,
+    "incorrect_solutions": 400
+  }
+}

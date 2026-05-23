@@ -1,0 +1,28 @@
+{
+  "id": 7407,
+  "split": "train",
+  "name": "115_A. Party",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 115,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 29,
+    "generated_tests": 98,
+    "correct_solutions": 1291,
+    "incorrect_solutions": 936
+  }
+}

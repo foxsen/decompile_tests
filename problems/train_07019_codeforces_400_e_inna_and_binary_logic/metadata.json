@@ -1,0 +1,28 @@
+{
+  "id": 7019,
+  "split": "train",
+  "name": "400_E. Inna and Binary Logic",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 400,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 45,
+    "correct_solutions": 187,
+    "incorrect_solutions": 233
+  }
+}

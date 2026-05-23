@@ -1,0 +1,29 @@
+{
+  "id": 7730,
+  "split": "train",
+  "name": "1389_G. Directing Edges",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1389,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 42,
+    "correct_solutions": 129,
+    "incorrect_solutions": 272
+  }
+}

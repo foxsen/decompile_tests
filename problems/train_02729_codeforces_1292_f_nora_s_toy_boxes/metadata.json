@@ -1,0 +1,28 @@
+{
+  "id": 2729,
+  "split": "train",
+  "name": "1292_F. Nora's Toy Boxes",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1292,
+  "cf_index": "F",
+  "cf_points": 2750.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 47,
+    "generated_tests": 49,
+    "correct_solutions": 94,
+    "incorrect_solutions": 118
+  }
+}

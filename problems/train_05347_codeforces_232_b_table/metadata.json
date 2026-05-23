@@ -1,0 +1,29 @@
+{
+  "id": 5347,
+  "split": "train",
+  "name": "232_B. Table",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 232,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 111,
+    "generated_tests": 57,
+    "correct_solutions": 149,
+    "incorrect_solutions": 116
+  }
+}

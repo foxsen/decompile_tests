@@ -1,0 +1,29 @@
+{
+  "id": 1402,
+  "split": "train",
+  "name": "483_A. Counterexample ",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 483,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "brute force",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 39,
+    "generated_tests": 0,
+    "correct_solutions": 965,
+    "incorrect_solutions": 680
+  }
+}

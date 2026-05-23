@@ -1,0 +1,30 @@
+{
+  "id": 5239,
+  "split": "train",
+  "name": "1527_D. MEX Tree",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1527,
+  "cf_index": "D",
+  "cf_points": 2250.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "combinatorics",
+    "dfs and similar",
+    "implementation",
+    "math",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 45,
+    "correct_solutions": 115,
+    "incorrect_solutions": 194
+  }
+}

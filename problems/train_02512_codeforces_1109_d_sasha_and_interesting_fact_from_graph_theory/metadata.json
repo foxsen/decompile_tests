@@ -1,0 +1,30 @@
+{
+  "id": 2512,
+  "split": "train",
+  "name": "1109_D. Sasha and Interesting Fact from Graph Theory",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1109,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "math",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 27,
+    "generated_tests": 51,
+    "correct_solutions": 294,
+    "incorrect_solutions": 272
+  }
+}

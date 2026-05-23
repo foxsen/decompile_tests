@@ -1,0 +1,28 @@
+{
+  "id": 1076,
+  "split": "train",
+  "name": "19_C. Deletion of Repeats",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 19,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "greedy",
+    "hashing",
+    "string suffix structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 22,
+    "generated_tests": 36,
+    "correct_solutions": 192,
+    "incorrect_solutions": 299
+  }
+}

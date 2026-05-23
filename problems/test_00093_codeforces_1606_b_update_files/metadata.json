@@ -1,0 +1,28 @@
+{
+  "id": 93,
+  "split": "test",
+  "name": "1606_B. Update Files",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1606,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 40,
+    "generated_tests": 200,
+    "correct_solutions": 293,
+    "incorrect_solutions": 485
+  }
+}

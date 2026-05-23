@@ -1,0 +1,26 @@
+{
+  "id": 1198,
+  "split": "train",
+  "name": "617_E. XOR and Favorite Number",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 617,
+  "cf_index": "E",
+  "cf_points": 2750.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 0,
+    "generated_tests": 43,
+    "correct_solutions": 247,
+    "incorrect_solutions": 357
+  }
+}

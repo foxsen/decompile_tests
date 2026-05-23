@@ -1,0 +1,27 @@
+{
+  "id": 61,
+  "split": "valid",
+  "name": "1559_B. Mocha and Red and Blue",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1559,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 81,
+    "correct_solutions": 361,
+    "incorrect_solutions": 305
+  }
+}

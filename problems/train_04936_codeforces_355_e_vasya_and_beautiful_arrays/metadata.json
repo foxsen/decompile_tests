@@ -1,0 +1,28 @@
+{
+  "id": 4936,
+  "split": "train",
+  "name": "355_E. Vasya and Beautiful Arrays",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 355,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 55,
+    "correct_solutions": 106,
+    "incorrect_solutions": 110
+  }
+}

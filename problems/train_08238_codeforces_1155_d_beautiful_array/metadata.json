@@ -1,0 +1,30 @@
+{
+  "id": 8238,
+  "split": "train",
+  "name": "1155_D. Beautiful Array",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1155,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 124,
+    "generated_tests": 89,
+    "correct_solutions": 390,
+    "incorrect_solutions": 702
+  }
+}

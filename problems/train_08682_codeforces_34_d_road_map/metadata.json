@@ -1,0 +1,27 @@
+{
+  "id": 8682,
+  "split": "train",
+  "name": "34_D. Road Map",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 34,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 15,
+    "generated_tests": 71,
+    "correct_solutions": 433,
+    "incorrect_solutions": 226
+  }
+}

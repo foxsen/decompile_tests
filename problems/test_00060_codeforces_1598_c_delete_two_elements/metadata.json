@@ -1,0 +1,30 @@
+{
+  "id": 60,
+  "split": "test",
+  "name": "1598_C. Delete Two Elements",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1598,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "implementation",
+    "math",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 200,
+    "correct_solutions": 315,
+    "incorrect_solutions": 476
+  }
+}

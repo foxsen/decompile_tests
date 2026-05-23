@@ -1,0 +1,29 @@
+{
+  "id": 7661,
+  "split": "train",
+  "name": "827_F. Dirty Arkady's Kitchen",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 827,
+  "cf_index": "F",
+  "cf_points": 2500.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 17,
+    "generated_tests": 34,
+    "correct_solutions": 121,
+    "incorrect_solutions": 230
+  }
+}

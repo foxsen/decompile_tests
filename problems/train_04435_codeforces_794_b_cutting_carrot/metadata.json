@@ -1,0 +1,27 @@
+{
+  "id": 4435,
+  "split": "train",
+  "name": "794_B. Cutting Carrot",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 794,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "geometry",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 25,
+    "generated_tests": 96,
+    "correct_solutions": 605,
+    "incorrect_solutions": 319
+  }
+}

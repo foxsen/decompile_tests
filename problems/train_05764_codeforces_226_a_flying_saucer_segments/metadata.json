@@ -1,0 +1,26 @@
+{
+  "id": 5764,
+  "split": "train",
+  "name": "226_A. Flying Saucer Segments",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 226,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 76,
+    "generated_tests": 100,
+    "correct_solutions": 540,
+    "incorrect_solutions": 556
+  }
+}

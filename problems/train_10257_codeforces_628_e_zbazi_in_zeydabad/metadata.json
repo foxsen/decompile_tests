@@ -1,0 +1,27 @@
+{
+  "id": 10257,
+  "split": "train",
+  "name": "628_E. Zbazi in Zeydabad",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 628,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "data structures",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 0,
+    "generated_tests": 40,
+    "correct_solutions": 177,
+    "incorrect_solutions": 192
+  }
+}

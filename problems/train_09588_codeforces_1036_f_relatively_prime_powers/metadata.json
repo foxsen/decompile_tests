@@ -1,0 +1,28 @@
+{
+  "id": 9588,
+  "split": "train",
+  "name": "1036_F. Relatively Prime Powers",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1036,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 54,
+    "correct_solutions": 179,
+    "incorrect_solutions": 346
+  }
+}

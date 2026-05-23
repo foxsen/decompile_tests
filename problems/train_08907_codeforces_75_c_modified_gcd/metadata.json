@@ -1,0 +1,27 @@
+{
+  "id": 8907,
+  "split": "train",
+  "name": "75_C. Modified GCD",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 75,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "binary search",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 12,
+    "generated_tests": 85,
+    "correct_solutions": 454,
+    "incorrect_solutions": 566
+  }
+}

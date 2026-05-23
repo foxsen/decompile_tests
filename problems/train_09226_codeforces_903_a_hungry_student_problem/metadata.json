@@ -1,0 +1,27 @@
+{
+  "id": 9226,
+  "split": "train",
+  "name": "903_A. Hungry Student Problem",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 903,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 7,
+    "generated_tests": 100,
+    "correct_solutions": 1038,
+    "incorrect_solutions": 675
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1,
+  "split": "test",
+  "name": "1575_B. Building an Amusement Park",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1575,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "binary search",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 200,
+    "correct_solutions": 83,
+    "incorrect_solutions": 126
+  }
+}

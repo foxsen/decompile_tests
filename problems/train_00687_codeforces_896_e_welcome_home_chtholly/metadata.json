@@ -1,0 +1,27 @@
+{
+  "id": 687,
+  "split": "train",
+  "name": "896_E. Welcome home, Chtholly",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 896,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "data structures",
+    "dsu"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 3,
+    "generated_tests": 58,
+    "correct_solutions": 166,
+    "incorrect_solutions": 198
+  }
+}

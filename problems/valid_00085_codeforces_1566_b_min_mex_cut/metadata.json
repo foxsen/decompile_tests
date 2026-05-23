@@ -1,0 +1,29 @@
+{
+  "id": 85,
+  "split": "valid",
+  "name": "1566_B. MIN-MEX Cut",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1566,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 410,
+    "incorrect_solutions": 301
+  }
+}

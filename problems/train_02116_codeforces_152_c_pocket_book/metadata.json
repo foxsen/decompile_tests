@@ -1,0 +1,26 @@
+{
+  "id": 2116,
+  "split": "train",
+  "name": "152_C. Pocket Book",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 152,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "combinatorics"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 23,
+    "generated_tests": 98,
+    "correct_solutions": 711,
+    "incorrect_solutions": 471
+  }
+}

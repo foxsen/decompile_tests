@@ -1,0 +1,27 @@
+{
+  "id": 4947,
+  "split": "train",
+  "name": "616_A. Comparing Two Long Integers",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 616,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 89,
+    "generated_tests": 98,
+    "correct_solutions": 748,
+    "incorrect_solutions": 680
+  }
+}

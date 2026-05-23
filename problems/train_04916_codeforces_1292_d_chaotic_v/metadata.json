@@ -1,0 +1,31 @@
+{
+  "id": 4916,
+  "split": "train",
+  "name": "1292_D. Chaotic V.",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1292,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "dp",
+    "graphs",
+    "greedy",
+    "math",
+    "number theory",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 29,
+    "generated_tests": 42,
+    "correct_solutions": 202,
+    "incorrect_solutions": 363
+  }
+}

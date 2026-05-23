@@ -1,0 +1,28 @@
+{
+  "id": 7930,
+  "split": "train",
+  "name": "1223_D. Sequence Sorting",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1223,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 53,
+    "correct_solutions": 128,
+    "incorrect_solutions": 141
+  }
+}

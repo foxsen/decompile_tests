@@ -1,0 +1,30 @@
+{
+  "id": 121,
+  "split": "train",
+  "name": "1253_F. Cheap Robot",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1253,
+  "cf_index": "F",
+  "cf_points": 2750.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "binary search",
+    "dsu",
+    "graphs",
+    "shortest paths",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 37,
+    "correct_solutions": 165,
+    "incorrect_solutions": 227
+  }
+}

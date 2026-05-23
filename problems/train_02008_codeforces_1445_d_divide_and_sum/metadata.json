@@ -1,0 +1,28 @@
+{
+  "id": 2008,
+  "split": "train",
+  "name": "1445_D. Divide and Sum",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1445,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "combinatorics",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 6,
+    "generated_tests": 99,
+    "correct_solutions": 201,
+    "incorrect_solutions": 159
+  }
+}

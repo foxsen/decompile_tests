@@ -1,0 +1,27 @@
+{
+  "id": 12940,
+  "split": "train",
+  "name": "1478_A. Nezzar and Colorful Balls",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1478,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "brute force",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 307,
+    "incorrect_solutions": 301
+  }
+}

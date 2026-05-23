@@ -1,0 +1,29 @@
+{
+  "id": 6791,
+  "split": "train",
+  "name": "1331_E. Jordan Smiley",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1331,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    "*special",
+    "dfs and similar",
+    "geometry",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 0,
+    "generated_tests": 77,
+    "correct_solutions": 454,
+    "incorrect_solutions": 441
+  }
+}

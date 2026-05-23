@@ -1,0 +1,29 @@
+{
+  "id": 2145,
+  "split": "train",
+  "name": "814_A. An abandoned sentiment from past",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 814,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 90,
+    "generated_tests": 87,
+    "correct_solutions": 823,
+    "incorrect_solutions": 562
+  }
+}

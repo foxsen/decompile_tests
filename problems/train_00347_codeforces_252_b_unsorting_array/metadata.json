@@ -1,0 +1,27 @@
+{
+  "id": 347,
+  "split": "train",
+  "name": "252_B. Unsorting Array",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 252,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "brute force",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 30,
+    "generated_tests": 64,
+    "correct_solutions": 303,
+    "incorrect_solutions": 716
+  }
+}

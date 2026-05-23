@@ -1,0 +1,29 @@
+{
+  "id": 4191,
+  "split": "train",
+  "name": "1348_E. Phoenix and Berries",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1348,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 50,
+    "generated_tests": 53,
+    "correct_solutions": 234,
+    "incorrect_solutions": 503
+  }
+}

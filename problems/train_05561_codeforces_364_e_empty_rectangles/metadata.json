@@ -1,0 +1,27 @@
+{
+  "id": 5561,
+  "split": "train",
+  "name": "364_E. Empty Rectangles",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 364,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "divide and conquer",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 12.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 4,
+    "generated_tests": 56,
+    "correct_solutions": 168,
+    "incorrect_solutions": 143
+  }
+}

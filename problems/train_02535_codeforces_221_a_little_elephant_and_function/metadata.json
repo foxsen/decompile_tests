@@ -1,0 +1,27 @@
+{
+  "id": 2535,
+  "split": "train",
+  "name": "221_A. Little Elephant and Function",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 221,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 43,
+    "generated_tests": 89,
+    "correct_solutions": 887,
+    "incorrect_solutions": 735
+  }
+}

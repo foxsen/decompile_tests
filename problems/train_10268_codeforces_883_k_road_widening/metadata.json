@@ -1,0 +1,28 @@
+{
+  "id": 10268,
+  "split": "train",
+  "name": "883_K. Road Widening",
+  "source": "codeforces",
+  "difficulty": "K",
+  "cf_contest_id": 883,
+  "cf_index": "K",
+  "cf_points": 0.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 36,
+    "generated_tests": 54,
+    "correct_solutions": 209,
+    "incorrect_solutions": 246
+  }
+}

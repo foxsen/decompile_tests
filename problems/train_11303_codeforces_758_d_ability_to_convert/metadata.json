@@ -1,0 +1,30 @@
+{
+  "id": 11303,
+  "split": "train",
+  "name": "758_D. Ability To Convert",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 758,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "math",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 98,
+    "generated_tests": 100,
+    "correct_solutions": 461,
+    "incorrect_solutions": 723
+  }
+}

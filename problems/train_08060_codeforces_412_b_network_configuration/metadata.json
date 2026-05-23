@@ -1,0 +1,27 @@
+{
+  "id": 8060,
+  "split": "train",
+  "name": "412_B. Network Configuration",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 412,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 20,
+    "generated_tests": 82,
+    "correct_solutions": 600,
+    "incorrect_solutions": 220
+  }
+}

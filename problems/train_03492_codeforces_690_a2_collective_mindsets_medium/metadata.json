@@ -1,0 +1,24 @@
+{
+  "id": 3492,
+  "split": "train",
+  "name": "690_A2. Collective Mindsets (medium)",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 690,
+  "cf_index": "A2",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 28,
+    "generated_tests": 65,
+    "correct_solutions": 198,
+    "incorrect_solutions": 575
+  }
+}

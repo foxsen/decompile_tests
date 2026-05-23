@@ -1,0 +1,27 @@
+{
+  "id": 2848,
+  "split": "train",
+  "name": "222_A. Shooshuns and Sequence ",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 222,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 21,
+    "generated_tests": 100,
+    "correct_solutions": 637,
+    "incorrect_solutions": 761
+  }
+}

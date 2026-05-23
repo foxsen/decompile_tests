@@ -1,0 +1,28 @@
+{
+  "id": 8987,
+  "split": "train",
+  "name": "195_E. Building Forest",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 195,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "data structures",
+    "dsu",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 25,
+    "generated_tests": 52,
+    "correct_solutions": 172,
+    "incorrect_solutions": 295
+  }
+}

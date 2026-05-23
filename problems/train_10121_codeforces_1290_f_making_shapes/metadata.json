@@ -1,0 +1,26 @@
+{
+  "id": 10121,
+  "split": "train",
+  "name": "1290_F. Making Shapes",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1290,
+  "cf_index": "F",
+  "cf_points": 3250.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 768000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 6,
+    "private_tests": 36,
+    "generated_tests": 75,
+    "correct_solutions": 60,
+    "incorrect_solutions": 30
+  }
+}

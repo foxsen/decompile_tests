@@ -1,0 +1,26 @@
+{
+  "id": 2951,
+  "split": "train",
+  "name": "183_C. Cyclic Coloring",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 183,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dfs and similar"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 12,
+    "generated_tests": 58,
+    "correct_solutions": 106,
+    "incorrect_solutions": 330
+  }
+}

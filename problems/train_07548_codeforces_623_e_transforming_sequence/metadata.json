@@ -1,0 +1,29 @@
+{
+  "id": 7548,
+  "split": "train",
+  "name": "623_E. Transforming Sequence",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 623,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 3300,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "fft",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 7.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 147,
+    "generated_tests": 41,
+    "correct_solutions": 131,
+    "incorrect_solutions": 178
+  }
+}

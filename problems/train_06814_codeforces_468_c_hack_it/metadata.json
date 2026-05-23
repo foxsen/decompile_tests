@@ -1,0 +1,28 @@
+{
+  "id": 6814,
+  "split": "train",
+  "name": "468_C. Hack it!",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 468,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 196,
+    "generated_tests": 100,
+    "correct_solutions": 420,
+    "incorrect_solutions": 458
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2560,
+  "split": "train",
+  "name": "808_C. Tea Party",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 808,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 26,
+    "generated_tests": 98,
+    "correct_solutions": 489,
+    "incorrect_solutions": 606
+  }
+}

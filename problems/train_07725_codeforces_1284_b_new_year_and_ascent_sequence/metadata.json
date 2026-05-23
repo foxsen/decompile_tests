@@ -1,0 +1,31 @@
+{
+  "id": 7725,
+  "split": "train",
+  "name": "1284_B. New Year and Ascent Sequence",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1284,
+  "cf_index": "B",
+  "cf_points": 1250.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "binary search",
+    "combinatorics",
+    "data structures",
+    "dp",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 3,
+    "generated_tests": 81,
+    "correct_solutions": 673,
+    "incorrect_solutions": 555
+  }
+}

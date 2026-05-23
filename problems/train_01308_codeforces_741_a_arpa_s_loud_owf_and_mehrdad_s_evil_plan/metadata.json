@@ -1,0 +1,27 @@
+{
+  "id": 1308,
+  "split": "train",
+  "name": "741_A. Arpa's loud Owf and Mehrdad's evil plan",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 741,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "dfs and similar",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 85,
+    "generated_tests": 96,
+    "correct_solutions": 149,
+    "incorrect_solutions": 180
+  }
+}

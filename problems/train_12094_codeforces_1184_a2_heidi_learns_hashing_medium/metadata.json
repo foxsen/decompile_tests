@@ -1,0 +1,27 @@
+{
+  "id": 12094,
+  "split": "train",
+  "name": "1184_A2. Heidi Learns Hashing (Medium)",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1184,
+  "cf_index": "A2",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "brute force",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 31,
+    "generated_tests": 78,
+    "correct_solutions": 90,
+    "incorrect_solutions": 327
+  }
+}

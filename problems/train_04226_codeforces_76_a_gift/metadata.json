@@ -1,0 +1,29 @@
+{
+  "id": 4226,
+  "split": "train",
+  "name": "76_A. Gift",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 76,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dsu",
+    "graphs",
+    "sortings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 43,
+    "correct_solutions": 159,
+    "incorrect_solutions": 432
+  }
+}

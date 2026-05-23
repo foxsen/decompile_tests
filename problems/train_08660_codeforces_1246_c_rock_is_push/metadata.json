@@ -1,0 +1,27 @@
+{
+  "id": 8660,
+  "split": "train",
+  "name": "1246_C. Rock Is Push",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1246,
+  "cf_index": "C",
+  "cf_points": 2750.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 3,
+    "generated_tests": 65,
+    "correct_solutions": 102,
+    "incorrect_solutions": 105
+  }
+}

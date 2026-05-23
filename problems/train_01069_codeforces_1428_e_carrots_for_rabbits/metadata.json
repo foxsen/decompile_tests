@@ -1,0 +1,30 @@
+{
+  "id": 1069,
+  "split": "train",
+  "name": "1428_E. Carrots for Rabbits",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1428,
+  "cf_index": "E",
+  "cf_points": 1750.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 78,
+    "correct_solutions": 311,
+    "incorrect_solutions": 557
+  }
+}

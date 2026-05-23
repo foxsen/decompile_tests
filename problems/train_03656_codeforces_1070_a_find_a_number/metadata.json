@@ -1,0 +1,29 @@
+{
+  "id": 3656,
+  "split": "train",
+  "name": "1070_A. Find a Number",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1070,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dp",
+    "graphs",
+    "number theory",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 179,
+    "generated_tests": 27,
+    "correct_solutions": 247,
+    "incorrect_solutions": 254
+  }
+}

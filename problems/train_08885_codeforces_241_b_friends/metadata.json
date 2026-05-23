@@ -1,0 +1,29 @@
+{
+  "id": 8885,
+  "split": "train",
+  "name": "241_B. Friends",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 241,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "data structures",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 11,
+    "generated_tests": 51,
+    "correct_solutions": 142,
+    "incorrect_solutions": 282
+  }
+}

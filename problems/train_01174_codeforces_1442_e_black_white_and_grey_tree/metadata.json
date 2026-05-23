@@ -1,0 +1,31 @@
+{
+  "id": 1174,
+  "split": "train",
+  "name": "1442_E. Black, White and Grey Tree",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1442,
+  "cf_index": "E",
+  "cf_points": 1750.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 4,
+    "generated_tests": 44,
+    "correct_solutions": 146,
+    "incorrect_solutions": 190
+  }
+}

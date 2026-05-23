@@ -1,0 +1,26 @@
+{
+  "id": 5817,
+  "split": "train",
+  "name": "p04030 AtCoder Beginner Contest 043 - Unhappy Hacking (ABC Edit)",
+  "source": "unused_5",
+  "difficulty": "UNKNOWN_DIFFICULTY",
+  "cf_contest_id": 0,
+  "cf_index": "",
+  "cf_points": 0.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    ""
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 268435456,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 0,
+    "generated_tests": 100,
+    "correct_solutions": 652,
+    "incorrect_solutions": 4986
+  }
+}

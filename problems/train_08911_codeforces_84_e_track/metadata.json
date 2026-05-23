@@ -1,0 +1,28 @@
+{
+  "id": 8911,
+  "split": "train",
+  "name": "84_E. Track",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 84,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 30,
+    "generated_tests": 100,
+    "correct_solutions": 56,
+    "incorrect_solutions": 135
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 8465,
+  "split": "train",
+  "name": "155_E. Double Profiles",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 155,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "graphs",
+    "hashing",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 14,
+    "generated_tests": 64,
+    "correct_solutions": 82,
+    "incorrect_solutions": 200
+  }
+}

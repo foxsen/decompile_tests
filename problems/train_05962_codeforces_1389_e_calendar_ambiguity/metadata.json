@@ -1,0 +1,27 @@
+{
+  "id": 5962,
+  "split": "train",
+  "name": "1389_E. Calendar Ambiguity",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1389,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 91,
+    "correct_solutions": 234,
+    "incorrect_solutions": 271
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 770,
+  "split": "train",
+  "name": "393_C. Blocked Points",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 393,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 53,
+    "generated_tests": 79,
+    "correct_solutions": 105,
+    "incorrect_solutions": 146
+  }
+}

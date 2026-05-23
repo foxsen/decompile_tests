@@ -1,0 +1,27 @@
+{
+  "id": 6818,
+  "split": "train",
+  "name": "568_E. Longest Increasing Subsequence",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 568,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "data structures",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 128000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 7,
+    "generated_tests": 49,
+    "correct_solutions": 155,
+    "incorrect_solutions": 286
+  }
+}

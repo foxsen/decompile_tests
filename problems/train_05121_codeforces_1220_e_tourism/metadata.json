@@ -1,0 +1,31 @@
+{
+  "id": 5121,
+  "split": "train",
+  "name": "1220_E. Tourism",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1220,
+  "cf_index": "E",
+  "cf_points": 2750.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 32,
+    "generated_tests": 35,
+    "correct_solutions": 194,
+    "incorrect_solutions": 367
+  }
+}

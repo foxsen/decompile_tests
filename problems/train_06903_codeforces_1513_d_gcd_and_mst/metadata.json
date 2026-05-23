@@ -1,0 +1,31 @@
+{
+  "id": 6903,
+  "split": "train",
+  "name": "1513_D. GCD and MST",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1513,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "constructive algorithms",
+    "dsu",
+    "graphs",
+    "greedy",
+    "number theory",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 200,
+    "correct_solutions": 189,
+    "incorrect_solutions": 302
+  }
+}

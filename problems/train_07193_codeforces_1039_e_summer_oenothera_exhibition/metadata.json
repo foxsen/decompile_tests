@@ -1,0 +1,26 @@
+{
+  "id": 7193,
+  "split": "train",
+  "name": "1039_E. Summer Oenothera Exhibition",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1039,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 7.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 29,
+    "correct_solutions": 141,
+    "incorrect_solutions": 166
+  }
+}

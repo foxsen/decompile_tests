@@ -1,0 +1,32 @@
+{
+  "id": 28,
+  "split": "valid",
+  "name": "1553_E. Permutation Shift",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1553,
+  "cf_index": "E",
+  "cf_points": 1750.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "brute force",
+    "combinatorics",
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 41,
+    "correct_solutions": 181,
+    "incorrect_solutions": 203
+  }
+}

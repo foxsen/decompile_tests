@@ -1,0 +1,304 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+//objects-----------------------------------------------------------------
+typedef complex<double>Point;
+typedef Point Vector;
+typedef vector<Point>Polygon;
+
+struct Segment{
+    Point p1,p2;
+    Segment(const Point &p1=Point(),const Point &p2=Point()):p1(p1),p2(p2){}
+};
+
+struct Line{
+    Point p1,p2;
+    Line(const Point &p1=Point(),const Point &p2=Point()):p1(p1),p2(p2){}
+};
+
+struct Circle{
+    Point p;
+    double r;
+    Circle(const Point &p=Point(),double r=0.0):p(p),r(r){}
+};
+
+//constants---------------------------------------------------------------
+const double PI=acos(-1);
+const double EPS=1e-12;
+const double INF=1e16;
+const int COUNTER_CLOCKWISE=1;
+const int CLOCKWISE=-1;
+const int ONLINE_BACK=2;
+const int ONLINE_FRONT=-2;
+const int ON_SEGMENT=0;
+const int IN=2;
+const int ON=1;
+const int OUT=0;
+//calculations------------------------------------------------------------
+inline double square(double a){return a*a;}
+inline double norm(const Point &a){return square(a.real())+square(a.imag());}
+inline double dot(const Point &a,const Point &b){return (conj(a)*b).real();}
+inline double cross(const Point &a,const Point &b){return (conj(a)*b).imag();}
+inline double toDeg(double t){return t/PI*180.0;}
+inline double toRad(double t){return t/180.0*t;}
+inline double arg(Vector p){return atan2(imag(p),real(p));}
+inline Vector polar(double a,double r){return Vector(cos(r),sin(r))*a;}
+#define equals(a,b) (fabs((a)-(b))<EPS)
+#define equalsv(a,b) (equals(real(a),real(b))&&equals(imag(a),imag(b)))
+#define curr(P,i) P[(i)%P.size()]
+#define next(P,i) P[(i+1)%P.size()]
+#define prev(P,i) P[(i-1+P.size())%P.size()]
+
+int ccw(Point p0,Point p1,Point p2){
+    Vector a=p1-p0;
+    Vector b=p2-p0;
+    if(cross(a,b)>EPS)return COUNTER_CLOCKWISE;
+    if(cross(a,b)<-EPS)return CLOCKWISE;
+    if(dot(a,b)<EPS)return ONLINE_BACK;
+    if(norm(a)<norm(b))return ONLINE_FRONT;
+    return ON_SEGMENT;
+}
+
+//inputer-----------------------------------------------------------------
+void inputPoint(Point &p){
+    double x,y;
+    scanf("%lf%lf",&x,&y);
+    p=Point(x,y);
+}
+
+void inputSegment(Segment &s){
+    inputPoint(s.p1);
+    inputPoint(s.p2);
+}
+
+void inputLine(Line &l){
+    inputPoint(l.p1);
+    inputPoint(l.p2);
+}
+
+void inputCircle(Circle &c){
+    inputPoint(c.p);
+    scanf("%lf",&c.r);
+}
+
+void inputPolygon(Polygon &g,int n){
+    g.resize(n);
+    for(int i=0;i<n;i++)inputPoint(g[i]);
+}
+
+//orthogonal--------------------------------------------------------------
+bool orthogonal(Vector a,Vector b){
+    return equals(dot(a,b),0.0);
+}
+
+bool orthogonal(Point a1,Point a2,Point b1,Point b2){
+    return orthogonal(a1-a2,b1-b2);
+}
+
+bool orthogonal(Segment s1,Segment s2){
+    return orthogonal(s1.p1-s1.p2,s2.p1-s2.p2);
+}
+
+bool orthogonal(Line l1,Line l2){
+    return orthogonal(l1.p1-l1.p2,l2.p1-l2.p2);
+}
+
+//parallel----------------------------------------------------------------
+bool parallel(Vector a,Vector b){
+    return equals(cross(a,b),0.0);
+}
+
+bool parallel(Point a1,Point a2,Point b1,Point b2){
+    return parallel(a1-a2,b1-b2);
+}
+
+bool parallel(Segment s1,Segment s2){
+    return parallel(s1.p1-s1.p2,s2.p1-s2.p2);
+}
+
+bool parallel(Line l1,Line l2){
+    return parallel(l1.p1-l1.p2,l2.p1-l2.p2);
+}
+
+//project&reflect---------------------------------------------------------
+Point project(Line s,Point p){
+    Vector base=s.p2-s.p1;
+    double r=dot(p-s.p1,base)/norm(base);
+    return s.p1+base*r;
+}
+
+Point reflect(Line s,Point p){
+    return p+(project(s,p)-p)*2.0;
+}
+
+//distance----------------------------------------------------------------
+double distancePP(Point a,Point b){
+    return abs(a-b);
+}
+
+double distanceLP(Line l,Point p){
+    return fabs(cross(l.p2-l.p1,p-l.p1)/abs(l.p2-l.p1));
+}
+
+double distanceLL(Line l,Line m){
+    if(parallel(l,m))return distanceLP(l,m.p1);
+    return 0.0;
+}
+
+double distanceSP(Segment s,Point p){
+    if(dot(s.p2-s.p1,p-s.p1)<0.0)return distancePP(p,s.p1);
+    if(dot(s.p1-s.p2,p-s.p2)<0.0)return distancePP(p,s.p2);
+    return distanceLP(Line(s.p1,s.p2),p);
+}
+
+double distanceSS(Segment s1,Segment s2){
+    if(ccw(s1.p1,s1.p2,s2.p1)*ccw(s1.p1,s1.p2,s2.p2)<=0&&
+        ccw(s2.p1,s2.p2,s1.p1)*ccw(s2.p1,s2.p2,s1.p2)<=0)return 0;
+    return min(min(distanceSP(s1,s2.p1),distanceSP(s1,s2.p2)),
+            min(distanceSP(s2,s1.p1),distanceSP(s2,s1.p2)));
+}
+
+double distanceCS(Circle c,Segment s){
+    return distanceSP(s,c.p)-c.r;
+}
+
+//intersect----------------------------------------------------------------
+bool intersectSS(Point p1,Point p2,Point p3,Point p4){
+    return ccw(p1,p2,p3)*ccw(p1,p2,p4)<=0&&
+            ccw(p3,p4,p1)*ccw(p3,p4,p2)<=0;
+}
+
+bool intersectSS(Segment s1,Segment s2){
+    return intersectSS(s1.p1,s1.p2,s2.p1,s2.p2);
+}
+
+bool intersectCL(Circle c,Line l){
+    return fabs(cross(l.p2-l.p1,c.p-l.p1)/abs(l.p2-l.p1))<=c.r+EPS;
+}
+
+bool intersectCC(Circle c1,Circle c2){
+    return abs(c1.p-c2.p)<=c1.r+c2.r+EPS;
+}
+
+bool intersectCS(Circle c,Segment s){
+    return distanceSP(s,c.p)<=c.r+EPS;
+}
+
+//crossPoint--------------------------------------------------------------
+Point crossPoint(Segment s1,Segment s2){
+    double crs=cross(s1.p2-s1.p1,s2.p2-s2.p1);
+    return s2.p1+(s2.p2-s2.p1)*cross(s1.p2-s1.p1,s1.p2-s2.p1)*(1.0/crs);
+}
+
+pair<Point,Point>crossPoints(Circle c,Line l){
+    assert(intersectCL(c,l));
+    Vector pr=project(l,c.p);
+    Vector e=(l.p2-l.p1)/abs(l.p2-l.p1);
+    double base=sqrt(square(c.r)-norm(pr-c.p));
+    return make_pair(pr+e*base,pr-e*base);
+}
+
+pair<Point,Point>crossPoints(Circle c1,Circle c2){
+    assert(intersectCC(c1,c2));
+    double d=abs(c1.p-c2.p);
+    double a=acos((square(c1.r)+square(d)-square(c2.r))/(2*c1.r*d));
+    double t=arg(c2.p-c1.p);
+    return make_pair(c1.p+polar(c1.r,t+a),c1.p+polar(c1.r,t-a));
+}
+
+//polygon------------------------------------------------------------------
+double area(Polygon &g){
+    const int sz=g.size();
+    double res=cross(g[sz-1],g[0]);
+    for(int i=1;i<sz;i++)res+=cross(g[i-1],g[i]);
+
+    return fabs(res)*0.5;
+}
+
+bool convex(Polygon &g){
+    for(int i=0;i<g.size();i++){
+        if(ccw(prev(g,i),curr(g,i),next(g,i))==CLOCKWISE)return false;
+    }
+    return true;
+}
+
+//other-------------------------------------------------------------------
+int contains(Circle c,Point p){
+    double d=distancePP(c.p,p);
+    if(equals(d,c.r))return ON;
+    return d<c.r?IN:OUT;
+}
+
+int contains(Polygon g,Point p){
+    int n=g.size();
+    bool x=false;
+    for(int i=0;i<n;i++){
+        Point a=g[i]-p,b=next(g,i)-p;
+        if(abs(cross(a,b))<EPS&&dot(a,b)<EPS)return ON;
+        if(imag(a)>imag(b))swap(a,b);
+        if(imag(a)<EPS&&EPS<imag(b)&&cross(a,b)>EPS)x=!x;
+    }
+    return x?IN:OUT;
+}
+
+int contains(Circle c,Polygon g){
+    for(int i=0;i<g.size();i++){
+        if(contains(c,g[0])==OUT)return OUT;
+    }
+    return IN;
+}
+
+int contains(Polygon g,Circle c){
+    if(contains(g,c.p)!=IN)return OUT;
+    for(int i=0;i<g.size();i++){
+        if(distanceCS(c,Segment(g[i],next(g,i)))<-EPS)return OUT;
+    }
+    return IN;
+}
+//end---------------------------------------------------------------------
+
+int main(){
+    while(true){
+        Polygon g(3);
+        Circle c;
+        inputPoint(g[0]);
+        if(real(g[0])==0&&imag(g[0])==0)break;
+        inputPoint(g[1]);
+        inputPoint(g[2]);
+
+        inputCircle(c);
+
+        bool f=true;
+        for(int i=0;i<g.size();i++){
+            if(!contains(c,g[i]))f=false;
+        }
+        if(f){
+            puts("b");
+            continue;
+        }
+
+        f=true;
+        for(int i=0;i<g.size();i++){
+            Segment s(g[i],next(g,i));
+            if(distanceCS(c,s)<-EPS)f=false;
+        }
+        if(f&&contains(g,c.p)){
+            puts("a");
+            continue;
+        }
+
+        f=false;
+        for(int i=0;i<g.size();i++){
+            Segment s(g[i],next(g,i));
+            if(intersectCS(c,s)){
+                f=true;
+            }
+        }
+
+        if(f){
+            puts("c");
+        }
+        else puts("d");
+    }
+    return 0;
+}

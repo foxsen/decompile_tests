@@ -1,0 +1,27 @@
+{
+  "id": 3266,
+  "split": "train",
+  "name": "266_E. More Queries to Array...",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 266,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "data structures",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 50,
+    "correct_solutions": 151,
+    "incorrect_solutions": 251
+  }
+}

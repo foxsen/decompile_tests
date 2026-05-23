@@ -1,0 +1,26 @@
+{
+  "id": 8287,
+  "split": "train",
+  "name": "876_A. Trip For Meal",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 876,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 46,
+    "generated_tests": 100,
+    "correct_solutions": 745,
+    "incorrect_solutions": 571
+  }
+}

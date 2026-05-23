@@ -1,0 +1,29 @@
+{
+  "id": 6100,
+  "split": "train",
+  "name": "802_L. Send the Fool Further! (hard)",
+  "source": "codeforces",
+  "difficulty": "L",
+  "cf_contest_id": 802,
+  "cf_index": "L",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "math",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 0,
+    "generated_tests": 55,
+    "correct_solutions": 121,
+    "incorrect_solutions": 33
+  }
+}

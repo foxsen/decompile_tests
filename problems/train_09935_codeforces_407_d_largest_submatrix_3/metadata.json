@@ -1,0 +1,27 @@
+{
+  "id": 9935,
+  "split": "train",
+  "name": "407_D. Largest Submatrix 3",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 407,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "dp",
+    "hashing"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 11,
+    "generated_tests": 57,
+    "correct_solutions": 178,
+    "incorrect_solutions": 182
+  }
+}

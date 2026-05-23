@@ -1,0 +1,26 @@
+{
+  "id": 565,
+  "split": "train",
+  "name": "46_C. Hamsters and Tigers",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 46,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 12,
+    "generated_tests": 64,
+    "correct_solutions": 468,
+    "incorrect_solutions": 399
+  }
+}

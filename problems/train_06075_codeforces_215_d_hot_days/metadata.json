@@ -1,0 +1,26 @@
+{
+  "id": 6075,
+  "split": "train",
+  "name": "215_D. Hot Days",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 215,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 4,
+    "generated_tests": 63,
+    "correct_solutions": 958,
+    "incorrect_solutions": 1326
+  }
+}

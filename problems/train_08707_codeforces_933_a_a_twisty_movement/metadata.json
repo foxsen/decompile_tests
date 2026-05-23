@@ -1,0 +1,26 @@
+{
+  "id": 8707,
+  "split": "train",
+  "name": "933_A. A Twisty Movement",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 933,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 18,
+    "generated_tests": 59,
+    "correct_solutions": 175,
+    "incorrect_solutions": 168
+  }
+}

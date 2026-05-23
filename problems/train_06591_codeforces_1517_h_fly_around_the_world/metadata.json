@@ -1,0 +1,27 @@
+{
+  "id": 6591,
+  "split": "train",
+  "name": "1517_H. Fly Around the World",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 1517,
+  "cf_index": "H",
+  "cf_points": 4000.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "dp",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 200,
+    "correct_solutions": 4,
+    "incorrect_solutions": 79
+  }
+}

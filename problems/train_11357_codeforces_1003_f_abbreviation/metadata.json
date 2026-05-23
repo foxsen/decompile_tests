@@ -1,0 +1,28 @@
+{
+  "id": 11357,
+  "split": "train",
+  "name": "1003_F. Abbreviation",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1003,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dp",
+    "hashing",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 24,
+    "generated_tests": 55,
+    "correct_solutions": 209,
+    "incorrect_solutions": 511
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9110,
+  "split": "train",
+  "name": "637_D. Running with Obstacles",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 637,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "*special",
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 70,
+    "generated_tests": 59,
+    "correct_solutions": 274,
+    "incorrect_solutions": 409
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2759,
+  "split": "train",
+  "name": "594_E. Cutting the Line",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 594,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 35,
+    "generated_tests": 64,
+    "correct_solutions": 75,
+    "incorrect_solutions": 276
+  }
+}

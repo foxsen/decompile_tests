@@ -1,0 +1,28 @@
+{
+  "id": 3089,
+  "split": "train",
+  "name": "990_D. Graph And Its Complement",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 990,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "constructive algorithms",
+    "graphs",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 37,
+    "generated_tests": 77,
+    "correct_solutions": 342,
+    "incorrect_solutions": 780
+  }
+}

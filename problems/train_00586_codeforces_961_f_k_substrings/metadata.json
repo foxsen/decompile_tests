@@ -1,0 +1,28 @@
+{
+  "id": 586,
+  "split": "train",
+  "name": "961_F. k-substrings",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 961,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "binary search",
+    "hashing",
+    "string suffix structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 8,
+    "generated_tests": 47,
+    "correct_solutions": 152,
+    "incorrect_solutions": 194
+  }
+}

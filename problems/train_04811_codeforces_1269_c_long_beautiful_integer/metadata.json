@@ -1,0 +1,29 @@
+{
+  "id": 4811,
+  "split": "train",
+  "name": "1269_C. Long Beautiful Integer",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1269,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 170,
+    "generated_tests": 87,
+    "correct_solutions": 291,
+    "incorrect_solutions": 706
+  }
+}

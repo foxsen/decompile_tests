@@ -1,0 +1,28 @@
+{
+  "id": 673,
+  "split": "train",
+  "name": "575_B. Bribes",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 575,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 45,
+    "correct_solutions": 147,
+    "incorrect_solutions": 249
+  }
+}

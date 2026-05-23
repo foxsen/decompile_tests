@@ -1,0 +1,29 @@
+{
+  "id": 1399,
+  "split": "train",
+  "name": "40_A. Find Color",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 40,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "constructive algorithms",
+    "geometry",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 67,
+    "generated_tests": 94,
+    "correct_solutions": 403,
+    "incorrect_solutions": 477
+  }
+}

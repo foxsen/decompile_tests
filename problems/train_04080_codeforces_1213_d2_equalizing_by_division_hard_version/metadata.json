@@ -1,0 +1,28 @@
+{
+  "id": 4080,
+  "split": "train",
+  "name": "1213_D2. Equalizing by Division (hard version)",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1213,
+  "cf_index": "D2",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "brute force",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 14,
+    "generated_tests": 81,
+    "correct_solutions": 395,
+    "incorrect_solutions": 291
+  }
+}

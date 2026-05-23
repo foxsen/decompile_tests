@@ -1,0 +1,28 @@
+{
+  "id": 11512,
+  "split": "train",
+  "name": "747_D. Winter Is Coming",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 747,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 35,
+    "generated_tests": 65,
+    "correct_solutions": 398,
+    "incorrect_solutions": 648
+  }
+}

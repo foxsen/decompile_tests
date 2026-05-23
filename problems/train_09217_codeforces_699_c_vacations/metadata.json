@@ -1,0 +1,26 @@
+{
+  "id": 9217,
+  "split": "train",
+  "name": "699_C. Vacations",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 699,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 85,
+    "generated_tests": 100,
+    "correct_solutions": 1090,
+    "incorrect_solutions": 845
+  }
+}

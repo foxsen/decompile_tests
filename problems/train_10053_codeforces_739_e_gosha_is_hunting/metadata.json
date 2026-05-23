@@ -1,0 +1,32 @@
+{
+  "id": 10053,
+  "split": "train",
+  "name": "739_E. Gosha is hunting",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 739,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "flows",
+    "math",
+    "probabilities",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 19,
+    "generated_tests": 16,
+    "correct_solutions": 196,
+    "incorrect_solutions": 278
+  }
+}

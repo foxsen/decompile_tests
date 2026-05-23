@@ -1,0 +1,29 @@
+{
+  "id": 3256,
+  "split": "train",
+  "name": "1424_J. Lonely Numbers",
+  "source": "codeforces",
+  "difficulty": "J",
+  "cf_contest_id": 1424,
+  "cf_index": "J",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "binary search",
+    "math",
+    "number theory",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 7,
+    "generated_tests": 56,
+    "correct_solutions": 330,
+    "incorrect_solutions": 421
+  }
+}

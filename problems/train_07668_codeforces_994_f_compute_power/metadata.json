@@ -1,0 +1,28 @@
+{
+  "id": 7668,
+  "split": "train",
+  "name": "994_F. Compute Power",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 994,
+  "cf_index": "F",
+  "cf_points": 1500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "binary search",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 27,
+    "generated_tests": 52,
+    "correct_solutions": 171,
+    "incorrect_solutions": 342
+  }
+}

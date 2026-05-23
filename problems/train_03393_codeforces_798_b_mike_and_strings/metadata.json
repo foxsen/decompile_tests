@@ -1,0 +1,28 @@
+{
+  "id": 3393,
+  "split": "train",
+  "name": "798_B. Mike and strings",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 798,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 53,
+    "generated_tests": 90,
+    "correct_solutions": 694,
+    "incorrect_solutions": 573
+  }
+}

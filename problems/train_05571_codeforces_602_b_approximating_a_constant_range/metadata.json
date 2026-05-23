@@ -1,0 +1,28 @@
+{
+  "id": 5571,
+  "split": "train",
+  "name": "602_B. Approximating a Constant Range",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 602,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "dp",
+    "implementation",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 17,
+    "generated_tests": 69,
+    "correct_solutions": 633,
+    "incorrect_solutions": 666
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 11305,
+  "split": "train",
+  "name": "803_A. Maximal Binary Matrix",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 803,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 146,
+    "generated_tests": 100,
+    "correct_solutions": 418,
+    "incorrect_solutions": 540
+  }
+}

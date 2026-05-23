@@ -1,0 +1,26 @@
+{
+  "id": 4297,
+  "split": "train",
+  "name": "139_C. Literature Lesson",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 139,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 47,
+    "generated_tests": 53,
+    "correct_solutions": 190,
+    "incorrect_solutions": 260
+  }
+}

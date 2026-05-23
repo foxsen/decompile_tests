@@ -1,0 +1,29 @@
+{
+  "id": 1811,
+  "split": "train",
+  "name": "303_C. Minimum Modular",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 303,
+  "cf_index": "C",
+  "cf_points": 2000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "brute force",
+    "graphs",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 13,
+    "generated_tests": 52,
+    "correct_solutions": 107,
+    "incorrect_solutions": 152
+  }
+}

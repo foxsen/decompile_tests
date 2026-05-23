@@ -1,0 +1,27 @@
+{
+  "id": 2860,
+  "split": "train",
+  "name": "505_E. Mr. Kitayuta vs. Bamboos",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 505,
+  "cf_index": "E",
+  "cf_points": 2750.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "binary search",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 3,
+    "generated_tests": 60,
+    "correct_solutions": 86,
+    "incorrect_solutions": 111
+  }
+}

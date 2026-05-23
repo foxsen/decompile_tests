@@ -1,0 +1,27 @@
+{
+  "id": 1165,
+  "split": "train",
+  "name": "1251_C. Minimize The Integer",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1251,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "greedy",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 71,
+    "correct_solutions": 701,
+    "incorrect_solutions": 520
+  }
+}

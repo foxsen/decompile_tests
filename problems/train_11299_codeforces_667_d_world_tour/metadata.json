@@ -1,0 +1,27 @@
+{
+  "id": 11299,
+  "split": "train",
+  "name": "667_D. World Tour",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 667,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 11,
+    "generated_tests": 35,
+    "correct_solutions": 312,
+    "incorrect_solutions": 565
+  }
+}

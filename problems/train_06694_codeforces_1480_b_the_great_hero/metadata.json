@@ -1,0 +1,28 @@
+{
+  "id": 6694,
+  "split": "train",
+  "name": "1480_B. The Great Hero",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1480,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 16,
+    "generated_tests": 200,
+    "correct_solutions": 301,
+    "incorrect_solutions": 343
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 9176,
+  "split": "train",
+  "name": "1158_C. Permutation recovery",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1158,
+  "cf_index": "C",
+  "cf_points": 1250.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "constructive algorithms",
+    "data structures",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 36,
+    "correct_solutions": 278,
+    "incorrect_solutions": 332
+  }
+}

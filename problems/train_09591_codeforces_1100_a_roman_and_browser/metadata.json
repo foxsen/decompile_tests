@@ -1,0 +1,26 @@
+{
+  "id": 9591,
+  "split": "train",
+  "name": "1100_A. Roman and Browser",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1100,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 83,
+    "generated_tests": 29,
+    "correct_solutions": 852,
+    "incorrect_solutions": 514
+  }
+}

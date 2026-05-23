@@ -1,0 +1,30 @@
+{
+  "id": 8769,
+  "split": "train",
+  "name": "1358_D. The Best Vacation",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1358,
+  "cf_index": "D",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 10,
+    "generated_tests": 100,
+    "correct_solutions": 554,
+    "incorrect_solutions": 521
+  }
+}

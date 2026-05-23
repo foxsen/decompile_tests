@@ -1,0 +1,28 @@
+{
+  "id": 4621,
+  "split": "train",
+  "name": "27_E. Number With The Given Amount Of Divisors",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 27,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 22,
+    "generated_tests": 86,
+    "correct_solutions": 354,
+    "incorrect_solutions": 374
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5581,
+  "split": "train",
+  "name": "833_B. The Bakery",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 833,
+  "cf_index": "B",
+  "cf_points": 1250.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 6,
+    "generated_tests": 50,
+    "correct_solutions": 146,
+    "incorrect_solutions": 122
+  }
+}

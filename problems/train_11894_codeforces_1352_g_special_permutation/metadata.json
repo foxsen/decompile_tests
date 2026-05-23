@@ -1,0 +1,26 @@
+{
+  "id": 11894,
+  "split": "train",
+  "name": "1352_G. Special Permutation",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1352,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 7,
+    "generated_tests": 73,
+    "correct_solutions": 1097,
+    "incorrect_solutions": 538
+  }
+}

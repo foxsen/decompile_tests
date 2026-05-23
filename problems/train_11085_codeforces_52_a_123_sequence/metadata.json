@@ -1,0 +1,26 @@
+{
+  "id": 11085,
+  "split": "train",
+  "name": "52_A. 123-sequence",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 52,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 11,
+    "generated_tests": 92,
+    "correct_solutions": 632,
+    "incorrect_solutions": 376
+  }
+}

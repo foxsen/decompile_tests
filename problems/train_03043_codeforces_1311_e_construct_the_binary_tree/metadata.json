@@ -1,0 +1,28 @@
+{
+  "id": 3043,
+  "split": "train",
+  "name": "1311_E. Construct the Binary Tree",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1311,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 26,
+    "generated_tests": 68,
+    "correct_solutions": 332,
+    "incorrect_solutions": 338
+  }
+}

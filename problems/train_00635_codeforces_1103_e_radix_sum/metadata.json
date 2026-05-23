@@ -1,0 +1,28 @@
+{
+  "id": 635,
+  "split": "train",
+  "name": "1103_E. Radix sum",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1103,
+  "cf_index": "E",
+  "cf_points": 3500.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "fft",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 51,
+    "correct_solutions": 115,
+    "incorrect_solutions": 76
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 11157,
+  "split": "train",
+  "name": "1196_D1. RGB Substring (easy version)",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1196,
+  "cf_index": "D1",
+  "cf_points": 0.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 77,
+    "correct_solutions": 949,
+    "incorrect_solutions": 744
+  }
+}

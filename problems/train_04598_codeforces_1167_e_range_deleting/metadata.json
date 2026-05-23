@@ -1,0 +1,29 @@
+{
+  "id": 4598,
+  "split": "train",
+  "name": "1167_E. Range Deleting",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1167,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "combinatorics",
+    "data structures",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 17,
+    "generated_tests": 51,
+    "correct_solutions": 227,
+    "incorrect_solutions": 425
+  }
+}

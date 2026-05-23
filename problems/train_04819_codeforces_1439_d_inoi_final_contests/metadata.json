@@ -1,0 +1,28 @@
+{
+  "id": 4819,
+  "split": "train",
+  "name": "1439_D. INOI Final Contests",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1439,
+  "cf_index": "D",
+  "cf_points": 2500.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "fft"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 24,
+    "generated_tests": 39,
+    "correct_solutions": 126,
+    "incorrect_solutions": 36
+  }
+}

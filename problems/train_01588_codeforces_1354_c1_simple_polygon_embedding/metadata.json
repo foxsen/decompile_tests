@@ -1,0 +1,29 @@
+{
+  "id": 1588,
+  "split": "train",
+  "name": "1354_C1. Simple Polygon Embedding",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1354,
+  "cf_index": "C1",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "binary search",
+    "geometry",
+    "math",
+    "ternary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 97,
+    "correct_solutions": 1789,
+    "incorrect_solutions": 675
+  }
+}

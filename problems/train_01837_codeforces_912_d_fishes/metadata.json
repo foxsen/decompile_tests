@@ -1,0 +1,30 @@
+{
+  "id": 1837,
+  "split": "train",
+  "name": "912_D. Fishes",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 912,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "data structures",
+    "graphs",
+    "greedy",
+    "probabilities",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 95,
+    "generated_tests": 48,
+    "correct_solutions": 243,
+    "incorrect_solutions": 283
+  }
+}

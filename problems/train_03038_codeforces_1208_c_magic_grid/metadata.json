@@ -1,0 +1,26 @@
+{
+  "id": 3038,
+  "split": "train",
+  "name": "1208_C. Magic Grid",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1208,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 34,
+    "correct_solutions": 433,
+    "incorrect_solutions": 436
+  }
+}

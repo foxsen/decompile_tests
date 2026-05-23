@@ -1,0 +1,26 @@
+{
+  "id": 5961,
+  "split": "train",
+  "name": "1368_C. Even Picture",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1368,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 30,
+    "generated_tests": 100,
+    "correct_solutions": 895,
+    "incorrect_solutions": 697
+  }
+}

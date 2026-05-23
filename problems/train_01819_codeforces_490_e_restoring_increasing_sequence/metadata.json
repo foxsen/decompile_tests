@@ -1,0 +1,29 @@
+{
+  "id": 1819,
+  "split": "train",
+  "name": "490_E. Restoring Increasing Sequence",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 490,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 22,
+    "generated_tests": 54,
+    "correct_solutions": 250,
+    "incorrect_solutions": 666
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 8897,
+  "split": "train",
+  "name": "524_D. Social Network",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 524,
+  "cf_index": "D",
+  "cf_points": 1250.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "greedy",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 43,
+    "correct_solutions": 116,
+    "incorrect_solutions": 198
+  }
+}

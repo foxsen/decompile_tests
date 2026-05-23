@@ -1,0 +1,26 @@
+{
+  "id": 10233,
+  "split": "train",
+  "name": "1453_F. Even Harder",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1453,
+  "cf_index": "F",
+  "cf_points": 3500.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 104,
+    "incorrect_solutions": 142
+  }
+}

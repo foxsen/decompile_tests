@@ -1,0 +1,28 @@
+{
+  "id": 5986,
+  "split": "train",
+  "name": "559_D. Randomizer",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 559,
+  "cf_index": "D",
+  "cf_points": 2250.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "combinatorics",
+    "geometry",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 17,
+    "generated_tests": 51,
+    "correct_solutions": 143,
+    "incorrect_solutions": 406
+  }
+}

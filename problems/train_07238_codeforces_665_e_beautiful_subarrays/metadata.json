@@ -1,0 +1,29 @@
+{
+  "id": 7238,
+  "split": "train",
+  "name": "665_E. Beautiful Subarrays",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 665,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer",
+    "strings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 3,
+    "generated_tests": 55,
+    "correct_solutions": 122,
+    "incorrect_solutions": 242
+  }
+}

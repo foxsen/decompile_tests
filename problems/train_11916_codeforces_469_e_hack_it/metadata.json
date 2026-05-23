@@ -1,0 +1,28 @@
+{
+  "id": 11916,
+  "split": "train",
+  "name": "469_E. Hack it!",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 469,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 245,
+    "generated_tests": 97,
+    "correct_solutions": 74,
+    "incorrect_solutions": 103
+  }
+}

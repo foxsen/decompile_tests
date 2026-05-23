@@ -1,0 +1,27 @@
+{
+  "id": 9099,
+  "split": "train",
+  "name": "380_B. Sereja and Tree",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 380,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "graphs",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 44,
+    "correct_solutions": 245,
+    "incorrect_solutions": 287
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 9296,
+  "split": "train",
+  "name": "1486_D. Max Median",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1486,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 17,
+    "generated_tests": 200,
+    "correct_solutions": 267,
+    "incorrect_solutions": 319
+  }
+}

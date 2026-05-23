@@ -1,0 +1,26 @@
+{
+  "id": 3359,
+  "split": "train",
+  "name": "1394_E. Boboniu and Banknote Collection",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1394,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 16,
+    "generated_tests": 100,
+    "correct_solutions": 26,
+    "incorrect_solutions": 92
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 9814,
+  "split": "train",
+  "name": "13_C. Sequence",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 13,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dp",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 14,
+    "generated_tests": 55,
+    "correct_solutions": 368,
+    "incorrect_solutions": 446
+  }
+}

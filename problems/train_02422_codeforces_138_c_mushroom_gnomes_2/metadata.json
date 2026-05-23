@@ -1,0 +1,29 @@
+{
+  "id": 2422,
+  "split": "train",
+  "name": "138_C. Mushroom Gnomes - 2",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 138,
+  "cf_index": "C",
+  "cf_points": 2000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "probabilities",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 22,
+    "generated_tests": 38,
+    "correct_solutions": 288,
+    "incorrect_solutions": 487
+  }
+}

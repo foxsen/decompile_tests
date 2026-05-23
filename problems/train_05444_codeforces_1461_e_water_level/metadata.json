@@ -1,0 +1,30 @@
+{
+  "id": 5444,
+  "split": "train",
+  "name": "1461_E. Water Level",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1461,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "brute force",
+    "graphs",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 94,
+    "generated_tests": 200,
+    "correct_solutions": 174,
+    "incorrect_solutions": 331
+  }
+}

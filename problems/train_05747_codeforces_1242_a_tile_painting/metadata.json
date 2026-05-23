@@ -1,0 +1,28 @@
+{
+  "id": 5747,
+  "split": "train",
+  "name": "1242_A. Tile Painting",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1242,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 60,
+    "generated_tests": 91,
+    "correct_solutions": 722,
+    "incorrect_solutions": 899
+  }
+}

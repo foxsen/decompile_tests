@@ -1,0 +1,29 @@
+{
+  "id": 11160,
+  "split": "train",
+  "name": "1254_E. Send Tree to Charlie",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1254,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3300,
+  "cf_tags": [
+    "combinatorics",
+    "dfs and similar",
+    "dsu",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 4,
+    "generated_tests": 30,
+    "correct_solutions": 117,
+    "incorrect_solutions": 262
+  }
+}

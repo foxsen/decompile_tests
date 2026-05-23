@@ -1,0 +1,27 @@
+{
+  "id": 7307,
+  "split": "train",
+  "name": "1249_F. Maximum Weight Subset",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1249,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dp",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 48,
+    "correct_solutions": 131,
+    "incorrect_solutions": 119
+  }
+}

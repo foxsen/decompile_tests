@@ -1,0 +1,28 @@
+{
+  "id": 12407,
+  "split": "train",
+  "name": "1209_B. Koala and Lights",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1209,
+  "cf_index": "B",
+  "cf_points": 500.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 17,
+    "generated_tests": 92,
+    "correct_solutions": 600,
+    "incorrect_solutions": 519
+  }
+}

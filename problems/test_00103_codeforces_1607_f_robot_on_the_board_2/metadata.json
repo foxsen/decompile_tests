@@ -1,0 +1,30 @@
+{
+  "id": 103,
+  "split": "test",
+  "name": "1607_F. Robot on the Board 2",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1607,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 149,
+    "incorrect_solutions": 107
+  }
+}

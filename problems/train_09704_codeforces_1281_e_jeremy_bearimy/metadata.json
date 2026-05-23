@@ -1,0 +1,29 @@
+{
+  "id": 9704,
+  "split": "train",
+  "name": "1281_E. Jeremy Bearimy",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1281,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 41,
+    "correct_solutions": 143,
+    "incorrect_solutions": 101
+  }
+}

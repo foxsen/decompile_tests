@@ -1,0 +1,24 @@
+{
+  "id": 1721,
+  "split": "train",
+  "name": "643_D. Bearish Fanpages",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 643,
+  "cf_index": "D",
+  "cf_points": 2250.0,
+  "cf_rating": 2900,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 6,
+    "generated_tests": 48,
+    "correct_solutions": 131,
+    "incorrect_solutions": 211
+  }
+}

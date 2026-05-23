@@ -1,0 +1,26 @@
+{
+  "id": 9077,
+  "split": "train",
+  "name": "1270_H. Number of Components",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 1270,
+  "cf_index": "H",
+  "cf_points": 4000.0,
+  "cf_rating": 3300,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 8.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 38,
+    "correct_solutions": 142,
+    "incorrect_solutions": 163
+  }
+}

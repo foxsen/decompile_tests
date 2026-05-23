@@ -1,0 +1,30 @@
+{
+  "id": 4230,
+  "split": "train",
+  "name": "85_C. Petya and Tree",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 85,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "dfs and similar",
+    "probabilities",
+    "sortings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 37,
+    "correct_solutions": 278,
+    "incorrect_solutions": 460
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 6181,
+  "split": "train",
+  "name": "251_D. Two Sets",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 251,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "bitmasks",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 8,
+    "generated_tests": 53,
+    "correct_solutions": 157,
+    "incorrect_solutions": 355
+  }
+}

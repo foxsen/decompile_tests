@@ -1,0 +1,28 @@
+{
+  "id": 4908,
+  "split": "train",
+  "name": "112_D. Petya and Divisors",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 112,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 9,
+    "generated_tests": 68,
+    "correct_solutions": 187,
+    "incorrect_solutions": 129
+  }
+}

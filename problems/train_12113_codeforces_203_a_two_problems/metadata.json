@@ -1,0 +1,27 @@
+{
+  "id": 12113,
+  "split": "train",
+  "name": "203_A. Two Problems",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 203,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 47,
+    "generated_tests": 98,
+    "correct_solutions": 469,
+    "incorrect_solutions": 888
+  }
+}

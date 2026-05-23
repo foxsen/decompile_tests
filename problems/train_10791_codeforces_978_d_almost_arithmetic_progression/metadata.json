@@ -1,0 +1,28 @@
+{
+  "id": 10791,
+  "split": "train",
+  "name": "978_D. Almost Arithmetic Progression",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 978,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 22,
+    "generated_tests": 89,
+    "correct_solutions": 590,
+    "incorrect_solutions": 520
+  }
+}

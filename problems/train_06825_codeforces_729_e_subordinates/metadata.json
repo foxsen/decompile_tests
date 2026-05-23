@@ -1,0 +1,30 @@
+{
+  "id": 6825,
+  "split": "train",
+  "name": "729_E. Subordinates",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 729,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "constructive algorithms",
+    "data structures",
+    "graphs",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 29,
+    "generated_tests": 65,
+    "correct_solutions": 101,
+    "incorrect_solutions": 168
+  }
+}

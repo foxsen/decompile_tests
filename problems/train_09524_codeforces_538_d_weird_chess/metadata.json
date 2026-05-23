@@ -1,0 +1,28 @@
+{
+  "id": 9524,
+  "split": "train",
+  "name": "538_D. Weird Chess",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 538,
+  "cf_index": "D",
+  "cf_points": 1500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 17,
+    "generated_tests": 60,
+    "correct_solutions": 339,
+    "incorrect_solutions": 387
+  }
+}

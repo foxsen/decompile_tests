@@ -1,0 +1,27 @@
+{
+  "id": 66,
+  "split": "train",
+  "name": "990_E. Post Lamps",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 990,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "brute force",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 21,
+    "generated_tests": 44,
+    "correct_solutions": 249,
+    "incorrect_solutions": 316
+  }
+}

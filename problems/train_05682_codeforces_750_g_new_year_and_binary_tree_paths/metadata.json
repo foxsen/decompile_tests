@@ -1,0 +1,29 @@
+{
+  "id": 5682,
+  "split": "train",
+  "name": "750_G. New Year and Binary Tree Paths",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 750,
+  "cf_index": "G",
+  "cf_points": 3250.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 43,
+    "generated_tests": 48,
+    "correct_solutions": 151,
+    "incorrect_solutions": 180
+  }
+}

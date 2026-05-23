@@ -1,0 +1,27 @@
+{
+  "id": 5842,
+  "split": "train",
+  "name": "1055_F. Tree and XOR",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1055,
+  "cf_index": "F",
+  "cf_points": 3500.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "strings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 42,
+    "correct_solutions": 156,
+    "incorrect_solutions": 210
+  }
+}

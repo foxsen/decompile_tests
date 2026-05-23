@@ -1,0 +1,29 @@
+{
+  "id": 9922,
+  "split": "train",
+  "name": "1499_B. Binary Removals",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1499,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 200,
+    "correct_solutions": 305,
+    "incorrect_solutions": 307
+  }
+}

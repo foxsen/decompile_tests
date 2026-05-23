@@ -1,0 +1,29 @@
+{
+  "id": 4200,
+  "split": "train",
+  "name": "161_A. Dress'em in Vests!",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 161,
+  "cf_index": "A",
+  "cf_points": 1000.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 19,
+    "generated_tests": 83,
+    "correct_solutions": 594,
+    "incorrect_solutions": 602
+  }
+}

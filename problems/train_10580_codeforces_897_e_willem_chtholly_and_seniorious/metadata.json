@@ -1,0 +1,27 @@
+{
+  "id": 10580,
+  "split": "train",
+  "name": "897_E. Willem, Chtholly and Seniorious",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 897,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "data structures",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 44,
+    "correct_solutions": 162,
+    "incorrect_solutions": 341
+  }
+}

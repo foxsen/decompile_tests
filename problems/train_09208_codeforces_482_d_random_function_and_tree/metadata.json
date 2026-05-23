@@ -1,0 +1,28 @@
+{
+  "id": 9208,
+  "split": "train",
+  "name": "482_D. Random Function and Tree",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 482,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 43,
+    "correct_solutions": 177,
+    "incorrect_solutions": 181
+  }
+}

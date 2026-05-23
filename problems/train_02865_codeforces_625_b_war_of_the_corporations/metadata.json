@@ -1,0 +1,28 @@
+{
+  "id": 2865,
+  "split": "train",
+  "name": "625_B. War of the Corporations",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 625,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 14,
+    "generated_tests": 98,
+    "correct_solutions": 754,
+    "incorrect_solutions": 652
+  }
+}

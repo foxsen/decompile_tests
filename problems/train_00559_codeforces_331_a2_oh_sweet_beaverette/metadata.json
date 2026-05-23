@@ -1,0 +1,27 @@
+{
+  "id": 559,
+  "split": "train",
+  "name": "331_A2. Oh Sweet Beaverette",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 331,
+  "cf_index": "A2",
+  "cf_points": 70.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "data structures",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 13,
+    "generated_tests": 58,
+    "correct_solutions": 152,
+    "incorrect_solutions": 155
+  }
+}

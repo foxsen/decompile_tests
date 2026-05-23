@@ -1,0 +1,28 @@
+{
+  "id": 8550,
+  "split": "train",
+  "name": "1131_G. Most Dangerous Shark",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1131,
+  "cf_index": "G",
+  "cf_points": 3500.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 768000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 14,
+    "generated_tests": 100,
+    "correct_solutions": 40,
+    "incorrect_solutions": 183
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 3669,
+  "split": "train",
+  "name": "1343_E. Weights Distributing",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1343,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "brute force",
+    "graphs",
+    "greedy",
+    "shortest paths",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 81,
+    "correct_solutions": 339,
+    "incorrect_solutions": 525
+  }
+}

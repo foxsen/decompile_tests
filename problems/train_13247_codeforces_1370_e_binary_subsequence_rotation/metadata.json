@@ -1,0 +1,29 @@
+{
+  "id": 13247,
+  "split": "train",
+  "name": "1370_E. Binary Subsequence Rotation",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1370,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 8,
+    "generated_tests": 77,
+    "correct_solutions": 421,
+    "incorrect_solutions": 619
+  }
+}

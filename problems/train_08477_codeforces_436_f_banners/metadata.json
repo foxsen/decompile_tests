@@ -1,0 +1,28 @@
+{
+  "id": 8477,
+  "split": "train",
+  "name": "436_F. Banners",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 436,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 44,
+    "correct_solutions": 129,
+    "incorrect_solutions": 288
+  }
+}

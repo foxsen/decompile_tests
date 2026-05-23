@@ -1,0 +1,31 @@
+{
+  "id": 1200,
+  "split": "train",
+  "name": "665_F. Four Divisors",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 665,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "math",
+    "number theory",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 10.0,
+  "memory_limit_bytes": 768000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 25,
+    "generated_tests": 46,
+    "correct_solutions": 148,
+    "incorrect_solutions": 281
+  }
+}

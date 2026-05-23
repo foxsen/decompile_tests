@@ -1,0 +1,26 @@
+{
+  "id": 12295,
+  "split": "train",
+  "name": "1036_A. Function Height",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1036,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 57,
+    "generated_tests": 100,
+    "correct_solutions": 740,
+    "incorrect_solutions": 614
+  }
+}

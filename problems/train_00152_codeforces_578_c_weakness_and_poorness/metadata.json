@@ -1,0 +1,26 @@
+{
+  "id": 152,
+  "split": "train",
+  "name": "578_C. Weakness and Poorness",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 578,
+  "cf_index": "C",
+  "cf_points": 750.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "ternary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 4,
+    "generated_tests": 66,
+    "correct_solutions": 395,
+    "incorrect_solutions": 622
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7204,
+  "split": "train",
+  "name": "1270_I. Xor on Figures",
+  "source": "codeforces",
+  "difficulty": "I",
+  "cf_contest_id": 1270,
+  "cf_index": "I",
+  "cf_points": 4500.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "constructive algorithms",
+    "fft",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 14,
+    "generated_tests": 58,
+    "correct_solutions": 102,
+    "incorrect_solutions": 67
+  }
+}

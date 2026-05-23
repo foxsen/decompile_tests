@@ -1,0 +1,27 @@
+{
+  "id": 1474,
+  "split": "train",
+  "name": "1144_C. Two Shuffled Sequences",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1144,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "constructive algorithms",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 13,
+    "generated_tests": 95,
+    "correct_solutions": 1169,
+    "incorrect_solutions": 776
+  }
+}

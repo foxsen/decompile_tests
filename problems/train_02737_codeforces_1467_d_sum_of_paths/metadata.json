@@ -1,0 +1,28 @@
+{
+  "id": 2737,
+  "split": "train",
+  "name": "1467_D. Sum of Paths",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1467,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 184,
+    "incorrect_solutions": 143
+  }
+}

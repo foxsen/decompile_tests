@@ -1,0 +1,32 @@
+{
+  "id": 8864,
+  "split": "train",
+  "name": "1175_E. Minimal Segment Cover",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1175,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "data structures",
+    "dfs and similar",
+    "divide and conquer",
+    "dp",
+    "greedy",
+    "implementation",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 44,
+    "correct_solutions": 210,
+    "incorrect_solutions": 355
+  }
+}

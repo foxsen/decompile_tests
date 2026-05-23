@@ -1,0 +1,26 @@
+{
+  "id": 6577,
+  "split": "train",
+  "name": "1210_G. Mateusz and Escape Room",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1210,
+  "cf_index": "G",
+  "cf_points": 3500.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 7.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 3,
+    "generated_tests": 100,
+    "correct_solutions": 9,
+    "incorrect_solutions": 19
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1511,
+  "split": "train",
+  "name": "587_A. Duff and Weight Lifting",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 587,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 69,
+    "correct_solutions": 573,
+    "incorrect_solutions": 761
+  }
+}

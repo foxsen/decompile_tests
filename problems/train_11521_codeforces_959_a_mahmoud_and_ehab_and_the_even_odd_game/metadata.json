@@ -1,0 +1,27 @@
+{
+  "id": 11521,
+  "split": "train",
+  "name": "959_A. Mahmoud and Ehab and the even-odd game",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 959,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "games",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 18,
+    "generated_tests": 97,
+    "correct_solutions": 1384,
+    "incorrect_solutions": 716
+  }
+}

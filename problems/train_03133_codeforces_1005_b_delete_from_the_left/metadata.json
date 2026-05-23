@@ -1,0 +1,28 @@
+{
+  "id": 3133,
+  "split": "train",
+  "name": "1005_B. Delete from the Left",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1005,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 18,
+    "generated_tests": 91,
+    "correct_solutions": 1163,
+    "incorrect_solutions": 581
+  }
+}

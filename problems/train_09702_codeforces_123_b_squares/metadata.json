@@ -1,0 +1,26 @@
+{
+  "id": 9702,
+  "split": "train",
+  "name": "123_B. Squares",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 123,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 0.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 127,
+    "generated_tests": 49,
+    "correct_solutions": 307,
+    "incorrect_solutions": 370
+  }
+}

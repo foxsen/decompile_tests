@@ -1,0 +1,27 @@
+{
+  "id": 5889,
+  "split": "train",
+  "name": "729_B. Spotlights",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 729,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "dp",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 15,
+    "generated_tests": 100,
+    "correct_solutions": 454,
+    "incorrect_solutions": 252
+  }
+}

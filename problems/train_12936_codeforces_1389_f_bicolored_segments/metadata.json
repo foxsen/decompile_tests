@@ -1,0 +1,29 @@
+{
+  "id": 12936,
+  "split": "train",
+  "name": "1389_F. Bicolored Segments",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1389,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "graph matchings",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 4,
+    "generated_tests": 44,
+    "correct_solutions": 154,
+    "incorrect_solutions": 279
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 272,
+  "split": "train",
+  "name": "937_D. Sleepy Game",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 937,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "games",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 32,
+    "generated_tests": 49,
+    "correct_solutions": 128,
+    "incorrect_solutions": 249
+  }
+}

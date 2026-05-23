@@ -1,0 +1,26 @@
+{
+  "id": 4131,
+  "split": "train",
+  "name": "997_E. Good Subsegments",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 997,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 7.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 46,
+    "correct_solutions": 170,
+    "incorrect_solutions": 175
+  }
+}

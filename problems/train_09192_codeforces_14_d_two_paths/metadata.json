@@ -1,0 +1,31 @@
+{
+  "id": 9192,
+  "split": "train",
+  "name": "14_D. Two Paths",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 14,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "shortest paths",
+    "trees",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 24,
+    "generated_tests": 49,
+    "correct_solutions": 321,
+    "incorrect_solutions": 324
+  }
+}

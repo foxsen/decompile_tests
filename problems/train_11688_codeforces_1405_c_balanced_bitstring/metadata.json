@@ -1,0 +1,27 @@
+{
+  "id": 11688,
+  "split": "train",
+  "name": "1405_C. Balanced Bitstring",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1405,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 75,
+    "correct_solutions": 360,
+    "incorrect_solutions": 310
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2114,
+  "split": "train",
+  "name": "1479_E. School Clubs",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1479,
+  "cf_index": "E",
+  "cf_points": 4000.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "dp",
+    "fft",
+    "math",
+    "number theory",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 21,
+    "generated_tests": 200,
+    "correct_solutions": 51,
+    "incorrect_solutions": 27
+  }
+}

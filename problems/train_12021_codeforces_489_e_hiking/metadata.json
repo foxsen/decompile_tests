@@ -1,0 +1,27 @@
+{
+  "id": 12021,
+  "split": "train",
+  "name": "489_E. Hiking",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 489,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "binary search",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 16,
+    "generated_tests": 52,
+    "correct_solutions": 191,
+    "incorrect_solutions": 272
+  }
+}

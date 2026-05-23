@@ -1,0 +1,27 @@
+{
+  "id": 8572,
+  "split": "train",
+  "name": "215_C. Crosses",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 215,
+  "cf_index": "C",
+  "cf_points": 3000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 59,
+    "generated_tests": 46,
+    "correct_solutions": 171,
+    "incorrect_solutions": 289
+  }
+}

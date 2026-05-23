@@ -1,0 +1,29 @@
+{
+  "id": 5457,
+  "split": "train",
+  "name": "375_B. Maximum Submatrix 2",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 375,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 6,
+    "generated_tests": 59,
+    "correct_solutions": 474,
+    "incorrect_solutions": 472
+  }
+}

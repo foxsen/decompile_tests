@@ -1,0 +1,28 @@
+{
+  "id": 3916,
+  "split": "train",
+  "name": "839_B. Game of the Rows",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 839,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "brute force",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 74,
+    "generated_tests": 66,
+    "correct_solutions": 407,
+    "incorrect_solutions": 947
+  }
+}

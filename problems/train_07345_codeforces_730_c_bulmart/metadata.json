@@ -1,0 +1,27 @@
+{
+  "id": 7345,
+  "split": "train",
+  "name": "730_C. Bulmart",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 730,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "dfs and similar"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 27,
+    "generated_tests": 44,
+    "correct_solutions": 180,
+    "incorrect_solutions": 254
+  }
+}

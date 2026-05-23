@@ -1,0 +1,27 @@
+{
+  "id": 2100,
+  "split": "train",
+  "name": "1184_B1. The Doctor Meets Vader (Easy)",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1184,
+  "cf_index": "B1",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "binary search",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 10,
+    "generated_tests": 83,
+    "correct_solutions": 353,
+    "incorrect_solutions": 349
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 12086,
+  "split": "train",
+  "name": "1007_A. Reorder the Array",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1007,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "combinatorics",
+    "data structures",
+    "math",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 92,
+    "correct_solutions": 365,
+    "incorrect_solutions": 265
+  }
+}

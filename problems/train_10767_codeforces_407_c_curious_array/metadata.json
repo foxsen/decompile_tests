@@ -1,0 +1,29 @@
+{
+  "id": 10767,
+  "split": "train",
+  "name": "407_C. Curious Array",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 407,
+  "cf_index": "C",
+  "cf_points": 2000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "brute force",
+    "combinatorics",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 59,
+    "correct_solutions": 97,
+    "incorrect_solutions": 132
+  }
+}

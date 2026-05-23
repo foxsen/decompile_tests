@@ -1,0 +1,31 @@
+{
+  "id": 7002,
+  "split": "train",
+  "name": "1399_E2. Weights Division (hard version)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1399,
+  "cf_index": "E2",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "dfs and similar",
+    "greedy",
+    "sortings",
+    "trees",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 57,
+    "correct_solutions": 156,
+    "incorrect_solutions": 334
+  }
+}

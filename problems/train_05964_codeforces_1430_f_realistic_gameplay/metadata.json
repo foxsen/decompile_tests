@@ -1,0 +1,27 @@
+{
+  "id": 5964,
+  "split": "train",
+  "name": "1430_F. Realistic Gameplay",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1430,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 19,
+    "generated_tests": 65,
+    "correct_solutions": 188,
+    "incorrect_solutions": 296
+  }
+}

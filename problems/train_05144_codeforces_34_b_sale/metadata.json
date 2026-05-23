@@ -1,0 +1,27 @@
+{
+  "id": 5144,
+  "split": "train",
+  "name": "34_B. Sale",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 34,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 23,
+    "generated_tests": 100,
+    "correct_solutions": 1487,
+    "incorrect_solutions": 694
+  }
+}

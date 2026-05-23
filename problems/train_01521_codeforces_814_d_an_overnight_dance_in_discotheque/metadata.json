@@ -1,0 +1,30 @@
+{
+  "id": 1521,
+  "split": "train",
+  "name": "814_D. An overnight dance in discotheque",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 814,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "geometry",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 45,
+    "correct_solutions": 259,
+    "incorrect_solutions": 246
+  }
+}

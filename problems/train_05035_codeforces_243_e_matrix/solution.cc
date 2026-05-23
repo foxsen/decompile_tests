@@ -1,0 +1,168 @@
+#include <bits/stdc++.h>
+using namespace std;
+const int N = 2005;
+int n, tot, root, cur;
+int pq[N * N], value[N * N], num[N * N][3], order[N];
+vector<int> edge[N * N];
+char ch[N][N];
+void Init() {
+  scanf("%d", &n);
+  for (int i = 1; i <= n; i++) scanf("%s", ch[i] + 1);
+  tot = root = n + 1;
+  for (int i = 1; i <= n; i++) edge[root].push_back(i);
+}
+void dfs(int x) {
+  if (x <= n) {
+    value[x] = ch[cur][x] - '0';
+    return;
+  }
+  num[x][0] = num[x][1] = num[x][2] = 0;
+  bool f0 = 1, f1 = 1;
+  for (vector<int>::iterator i = edge[x].begin(); i != edge[x].end(); i++) {
+    dfs(*i);
+    num[x][value[*i]]++;
+    if (value[*i] != 1) f1 = 0;
+    if (value[*i]) f0 = 0;
+  }
+  if (f0) value[x] = 0;
+  if (f1) value[x] = 1;
+  if (!f1 && !f0) value[x] = 2;
+}
+int Get(int x, vector<int> &g) {
+  if (num[x][2] > 1) return 1;
+  int t = ++tot;
+  pq[t] = 1;
+  if (pq[x]) {
+    vector<int>::iterator cur = edge[x].begin();
+    if (value[*cur] != 1 && num[x][1] || !num[x][1] && value[*cur] != 2) {
+      reverse(edge[x].begin(), edge[x].end());
+      cur = edge[x].begin();
+    }
+    for (int i = 1; i <= num[x][1]; i++) {
+      if (value[*cur] != 1) return 1;
+      g.push_back(*cur);
+      cur++;
+    }
+    if (num[x][2]) {
+      if (value[*cur] != 2)
+        return 1;
+      else if (Get(*cur, g))
+        return 1;
+      cur++;
+    }
+    for (; cur != edge[x].end(); cur++) g.push_back(*cur);
+  } else {
+    if (num[x][1]) {
+      int t1 = ++tot;
+      for (vector<int>::iterator i = edge[x].begin(); i != edge[x].end(); i++)
+        if (value[*i] == 1) edge[t1].push_back(*i);
+      if (edge[t1].size() == 1) t1 = edge[t1][0];
+      g.push_back(t1);
+    }
+    for (vector<int>::iterator i = edge[x].begin(); i != edge[x].end(); i++)
+      if (value[*i] == 2)
+        if (Get(*i, g)) return 1;
+    if (num[x][0]) {
+      int t2 = ++tot;
+      for (vector<int>::iterator i = edge[x].begin(); i != edge[x].end(); i++)
+        if (!value[*i]) edge[t2].push_back(*i);
+      if (edge[t2].size() == 1) t2 = edge[t2][0];
+      g.push_back(t2);
+    }
+  }
+  return 0;
+}
+int Getr(int x, vector<int> &g) {
+  int temp = g.size();
+  if (Get(x, g)) return 1;
+  reverse(g.begin() + temp, g.end());
+  return 0;
+}
+int Getl(int x, vector<int> &g) { return Get(x, g); }
+bool Calc(int x) {
+  if (num[x][2] > 2) return 1;
+  if (num[x][1] + num[x][2] == 1) {
+    for (vector<int>::iterator i = edge[x].begin(); i != edge[x].end(); i++)
+      if (value[*i]) return Calc(*i);
+  }
+  vector<int> temp;
+  if (pq[x]) {
+    int be = 0, en = 0;
+    for (vector<int>::iterator i = edge[x].begin(); i != edge[x].end(); i++) {
+      if (value[*i] && en) return 1;
+      if (be && !value[*i]) en = 1;
+      if (value[*i] == 2) {
+        if (be)
+          if (Getl(*i, temp))
+            return 1;
+          else
+            ;
+        else if (Getr(*i, temp))
+          return 1;
+      } else
+        temp.push_back(*i);
+      be |= value[*i];
+    }
+  } else {
+    int t1 = ++tot;
+    pq[t1] = 1;
+    for (vector<int>::iterator i = edge[x].begin(); i != edge[x].end(); i++)
+      if (value[*i] == 2) {
+        if (Getr(*i, edge[t1])) return 1;
+        break;
+      }
+    if (num[x][1]) {
+      int t2 = ++tot;
+      for (vector<int>::iterator i = edge[x].begin(); i != edge[x].end(); i++)
+        if (value[*i] == 1) edge[t2].push_back(*i);
+      if (edge[t2].size() == 1) t2 = edge[t2][0];
+      edge[t1].push_back(t2);
+    }
+    bool flag = 0;
+    for (vector<int>::iterator i = edge[x].begin(); i != edge[x].end(); i++)
+      if (value[*i] == 2)
+        if (!flag)
+          flag = 1;
+        else {
+          if (Getl(*i, edge[t1])) return 1;
+          break;
+        }
+    if (edge[t1].size() == 1) t1 = edge[t1][0];
+    temp.push_back(t1);
+    for (vector<int>::iterator i = edge[x].begin(); i != edge[x].end(); i++)
+      if (!value[*i]) temp.push_back(*i);
+  }
+  edge[x] = temp;
+  return 0;
+}
+void C_order(int x) {
+  if (x <= n) {
+    order[++tot] = x;
+    return;
+  }
+  for (vector<int>::iterator i = edge[x].begin(); i != edge[x].end(); i++)
+    C_order(*i);
+}
+void Work() {
+  for (int i = 1; i <= n; i++) {
+    cur = i;
+    dfs(root);
+    if (value[root] == 2)
+      if (Calc(root)) {
+        puts("NO");
+        return;
+      }
+  }
+  puts("YES");
+  tot = 0;
+  C_order(root);
+  for (int i = 1; i <= n; i++) {
+    for (int j = 1; j <= n; j++) putchar(ch[i][order[j]]);
+    puts("");
+  }
+}
+int main() {
+  Init();
+  Work();
+  return 0;
+}

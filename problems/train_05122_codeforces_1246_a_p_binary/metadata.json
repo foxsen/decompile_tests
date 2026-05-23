@@ -1,0 +1,28 @@
+{
+  "id": 5122,
+  "split": "train",
+  "name": "1246_A. p-binary",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1246,
+  "cf_index": "A",
+  "cf_points": 1500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 43,
+    "generated_tests": 61,
+    "correct_solutions": 157,
+    "incorrect_solutions": 126
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 9939,
+  "split": "train",
+  "name": "501_E. Misha and Palindrome Degree",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 501,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "binary search",
+    "combinatorics",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 15,
+    "generated_tests": 48,
+    "correct_solutions": 135,
+    "incorrect_solutions": 356
+  }
+}

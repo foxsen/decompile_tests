@@ -1,0 +1,30 @@
+{
+  "id": 9804,
+  "split": "train",
+  "name": "1192_B. Dynamic Diameter",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1192,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    "*special",
+    "data structures",
+    "dfs and similar",
+    "divide and conquer",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 30,
+    "correct_solutions": 154,
+    "incorrect_solutions": 0
+  }
+}

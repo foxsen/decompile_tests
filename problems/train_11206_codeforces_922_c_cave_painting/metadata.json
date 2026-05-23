@@ -1,0 +1,27 @@
+{
+  "id": 11206,
+  "split": "train",
+  "name": "922_C. Cave Painting",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 922,
+  "cf_index": "C",
+  "cf_points": 1250.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "brute force",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 88,
+    "generated_tests": 74,
+    "correct_solutions": 563,
+    "incorrect_solutions": 648
+  }
+}

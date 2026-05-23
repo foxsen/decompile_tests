@@ -1,0 +1,29 @@
+{
+  "id": 8363,
+  "split": "train",
+  "name": "200_E. Tractor College",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 200,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "implementation",
+    "math",
+    "number theory",
+    "ternary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 69,
+    "generated_tests": 50,
+    "correct_solutions": 188,
+    "incorrect_solutions": 396
+  }
+}

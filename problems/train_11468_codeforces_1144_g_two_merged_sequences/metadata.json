@@ -1,0 +1,27 @@
+{
+  "id": 11468,
+  "split": "train",
+  "name": "1144_G. Two Merged Sequences",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1144,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 54,
+    "correct_solutions": 132,
+    "incorrect_solutions": 137
+  }
+}

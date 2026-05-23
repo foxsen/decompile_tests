@@ -1,0 +1,29 @@
+{
+  "id": 2844,
+  "split": "train",
+  "name": "1523_E. Crypto Lights",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1523,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 56,
+    "generated_tests": 200,
+    "correct_solutions": 104,
+    "incorrect_solutions": 102
+  }
+}

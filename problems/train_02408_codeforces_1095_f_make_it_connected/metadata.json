@@ -1,0 +1,28 @@
+{
+  "id": 2408,
+  "split": "train",
+  "name": "1095_F. Make It Connected",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1095,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "dsu",
+    "graphs",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 9,
+    "generated_tests": 55,
+    "correct_solutions": 303,
+    "incorrect_solutions": 454
+  }
+}

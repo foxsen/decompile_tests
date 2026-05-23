@@ -1,0 +1,29 @@
+{
+  "id": 35,
+  "split": "valid",
+  "name": "1554_C. Mikasa",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1554,
+  "cf_index": "C",
+  "cf_points": 1750.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 314,
+    "incorrect_solutions": 247
+  }
+}

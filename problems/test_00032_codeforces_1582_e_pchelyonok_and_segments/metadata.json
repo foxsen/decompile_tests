@@ -1,0 +1,30 @@
+{
+  "id": 32,
+  "split": "test",
+  "name": "1582_E. Pchelyonok and Segments",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1582,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 200,
+    "correct_solutions": 66,
+    "incorrect_solutions": 146
+  }
+}

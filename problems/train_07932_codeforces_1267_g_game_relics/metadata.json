@@ -1,0 +1,27 @@
+{
+  "id": 7932,
+  "split": "train",
+  "name": "1267_G. Game Relics",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1267,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 18,
+    "generated_tests": 32,
+    "correct_solutions": 151,
+    "incorrect_solutions": 153
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1923,
+  "split": "train",
+  "name": "48_F. Snow sellers",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 48,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 10.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 73,
+    "correct_solutions": 53,
+    "incorrect_solutions": 194
+  }
+}

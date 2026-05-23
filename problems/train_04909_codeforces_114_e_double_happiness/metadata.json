@@ -1,0 +1,28 @@
+{
+  "id": 4909,
+  "split": "train",
+  "name": "114_E. Double Happiness",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 114,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 128000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 59,
+    "generated_tests": 69,
+    "correct_solutions": 71,
+    "incorrect_solutions": 139
+  }
+}

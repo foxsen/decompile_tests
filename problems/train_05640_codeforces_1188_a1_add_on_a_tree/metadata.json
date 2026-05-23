@@ -1,0 +1,26 @@
+{
+  "id": 5640,
+  "split": "train",
+  "name": "1188_A1. Add on a Tree",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1188,
+  "cf_index": "A1",
+  "cf_points": 250.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 36,
+    "generated_tests": 59,
+    "correct_solutions": 818,
+    "incorrect_solutions": 798
+  }
+}

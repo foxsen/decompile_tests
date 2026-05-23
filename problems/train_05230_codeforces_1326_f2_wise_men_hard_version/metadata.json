@@ -1,0 +1,28 @@
+{
+  "id": 5230,
+  "split": "train",
+  "name": "1326_F2. Wise Men (Hard Version)",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1326,
+  "cf_index": "F2",
+  "cf_points": 1500.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "bitmasks",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 46,
+    "correct_solutions": 101,
+    "incorrect_solutions": 73
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 3293,
+  "split": "train",
+  "name": "899_E. Segments Removal",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 899,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "data structures",
+    "dsu",
+    "flows",
+    "implementation",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 31,
+    "generated_tests": 53,
+    "correct_solutions": 269,
+    "incorrect_solutions": 531
+  }
+}

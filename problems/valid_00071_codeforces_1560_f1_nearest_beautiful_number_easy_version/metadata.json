@@ -1,0 +1,31 @@
+{
+  "id": 71,
+  "split": "valid",
+  "name": "1560_F1. Nearest Beautiful Number (easy version)",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1560,
+  "cf_index": "F1",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 200,
+    "correct_solutions": 255,
+    "incorrect_solutions": 552
+  }
+}

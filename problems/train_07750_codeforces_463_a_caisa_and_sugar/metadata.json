@@ -1,0 +1,27 @@
+{
+  "id": 7750,
+  "split": "train",
+  "name": "463_A. Caisa and Sugar",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 463,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 27,
+    "generated_tests": 94,
+    "correct_solutions": 824,
+    "incorrect_solutions": 1274
+  }
+}

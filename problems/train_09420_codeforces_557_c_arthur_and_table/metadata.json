@@ -1,0 +1,31 @@
+{
+  "id": 9420,
+  "split": "train",
+  "name": "557_C. Arthur and Table",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 557,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 12,
+    "generated_tests": 59,
+    "correct_solutions": 408,
+    "incorrect_solutions": 415
+  }
+}

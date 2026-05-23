@@ -1,0 +1,27 @@
+{
+  "id": 12328,
+  "split": "train",
+  "name": "376_E. Circling Round Treasures",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 376,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "bitmasks",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 133,
+    "generated_tests": 90,
+    "correct_solutions": 39,
+    "incorrect_solutions": 18
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 11070,
+  "split": "train",
+  "name": "177_E2. Space Voyage",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 177,
+  "cf_index": "E2",
+  "cf_points": 70.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "binary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 23,
+    "generated_tests": 59,
+    "correct_solutions": 123,
+    "incorrect_solutions": 510
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7531,
+  "split": "train",
+  "name": "220_D. Little Elephant and Triangle",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 220,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "geometry",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 59,
+    "generated_tests": 48,
+    "correct_solutions": 147,
+    "incorrect_solutions": 217
+  }
+}

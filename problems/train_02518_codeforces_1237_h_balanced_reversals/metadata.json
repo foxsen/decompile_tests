@@ -1,0 +1,26 @@
+{
+  "id": 2518,
+  "split": "train",
+  "name": "1237_H. Balanced Reversals",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 1237,
+  "cf_index": "H",
+  "cf_points": 4000.0,
+  "cf_rating": 3300,
+  "cf_tags": [
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 62,
+    "correct_solutions": 82,
+    "incorrect_solutions": 178
+  }
+}

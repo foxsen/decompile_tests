@@ -1,0 +1,28 @@
+{
+  "id": 11703,
+  "split": "train",
+  "name": "364_A. Matrix",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 364,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "combinatorics",
+    "data structures",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 44,
+    "generated_tests": 63,
+    "correct_solutions": 456,
+    "incorrect_solutions": 689
+  }
+}

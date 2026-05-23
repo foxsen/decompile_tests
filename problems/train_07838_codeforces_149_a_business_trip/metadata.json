@@ -1,0 +1,28 @@
+{
+  "id": 7838,
+  "split": "train",
+  "name": "149_A. Business trip",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 149,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 36,
+    "generated_tests": 85,
+    "correct_solutions": 1658,
+    "incorrect_solutions": 757
+  }
+}

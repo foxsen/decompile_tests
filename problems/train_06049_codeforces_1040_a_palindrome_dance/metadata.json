@@ -1,0 +1,26 @@
+{
+  "id": 6049,
+  "split": "train",
+  "name": "1040_A. Palindrome Dance",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1040,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 50,
+    "generated_tests": 99,
+    "correct_solutions": 798,
+    "incorrect_solutions": 610
+  }
+}

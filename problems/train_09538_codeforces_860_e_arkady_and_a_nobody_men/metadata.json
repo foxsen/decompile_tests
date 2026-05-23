@@ -1,0 +1,28 @@
+{
+  "id": 9538,
+  "split": "train",
+  "name": "860_E. Arkady and a Nobody-men",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 860,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures",
+    "dfs and similar",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 15,
+    "generated_tests": 41,
+    "correct_solutions": 156,
+    "incorrect_solutions": 180
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6204,
+  "split": "train",
+  "name": "793_C. Mice problem",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 793,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "geometry",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 59,
+    "generated_tests": 64,
+    "correct_solutions": 225,
+    "incorrect_solutions": 992
+  }
+}

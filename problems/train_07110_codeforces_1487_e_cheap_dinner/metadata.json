@@ -1,0 +1,32 @@
+{
+  "id": 7110,
+  "split": "train",
+  "name": "1487_E. Cheap Dinner",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1487,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "graphs",
+    "greedy",
+    "implementation",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 200,
+    "correct_solutions": 230,
+    "incorrect_solutions": 266
+  }
+}

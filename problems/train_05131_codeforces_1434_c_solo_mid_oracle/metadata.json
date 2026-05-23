@@ -1,0 +1,28 @@
+{
+  "id": 5131,
+  "split": "train",
+  "name": "1434_C. Solo mid Oracle",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1434,
+  "cf_index": "C",
+  "cf_points": 2250.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "greedy",
+    "math",
+    "ternary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 4,
+    "generated_tests": 66,
+    "correct_solutions": 137,
+    "incorrect_solutions": 107
+  }
+}

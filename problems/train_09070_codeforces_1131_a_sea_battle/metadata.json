@@ -1,0 +1,26 @@
+{
+  "id": 9070,
+  "split": "train",
+  "name": "1131_A. Sea Battle",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1131,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 20,
+    "generated_tests": 77,
+    "correct_solutions": 1099,
+    "incorrect_solutions": 473
+  }
+}

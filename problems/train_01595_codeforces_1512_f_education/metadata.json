@@ -1,0 +1,29 @@
+{
+  "id": 1595,
+  "split": "train",
+  "name": "1512_F. Education",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1512,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 259,
+    "incorrect_solutions": 298
+  }
+}

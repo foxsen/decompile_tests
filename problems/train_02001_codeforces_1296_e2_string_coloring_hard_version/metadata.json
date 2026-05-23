@@ -1,0 +1,27 @@
+{
+  "id": 2001,
+  "split": "train",
+  "name": "1296_E2. String Coloring (hard version)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1296,
+  "cf_index": "E2",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "data structures",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 51,
+    "generated_tests": 89,
+    "correct_solutions": 286,
+    "incorrect_solutions": 225
+  }
+}

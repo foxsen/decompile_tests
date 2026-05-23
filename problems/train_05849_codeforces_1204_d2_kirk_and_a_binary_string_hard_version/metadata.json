@@ -1,0 +1,29 @@
+{
+  "id": 5849,
+  "split": "train",
+  "name": "1204_D2. Kirk and a Binary String (hard version)",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1204,
+  "cf_index": "D2",
+  "cf_points": 750.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "data structures",
+    "greedy",
+    "math",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 10,
+    "generated_tests": 70,
+    "correct_solutions": 235,
+    "incorrect_solutions": 116
+  }
+}

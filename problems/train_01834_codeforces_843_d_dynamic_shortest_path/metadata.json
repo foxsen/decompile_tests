@@ -1,0 +1,27 @@
+{
+  "id": 1834,
+  "split": "train",
+  "name": "843_D. Dynamic Shortest Path",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 843,
+  "cf_index": "D",
+  "cf_points": 2250.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 10.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 0,
+    "generated_tests": 39,
+    "correct_solutions": 133,
+    "incorrect_solutions": 242
+  }
+}

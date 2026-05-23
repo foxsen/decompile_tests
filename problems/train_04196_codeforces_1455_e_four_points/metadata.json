@@ -1,0 +1,33 @@
+{
+  "id": 4196,
+  "split": "train",
+  "name": "1455_E. Four Points",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1455,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "flows",
+    "geometry",
+    "greedy",
+    "implementation",
+    "math",
+    "ternary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 200,
+    "correct_solutions": 139,
+    "incorrect_solutions": 240
+  }
+}

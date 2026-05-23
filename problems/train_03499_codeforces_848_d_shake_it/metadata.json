@@ -1,0 +1,29 @@
+{
+  "id": 3499,
+  "split": "train",
+  "name": "848_D. Shake It!",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 848,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "flows",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 46,
+    "generated_tests": 50,
+    "correct_solutions": 126,
+    "incorrect_solutions": 41
+  }
+}

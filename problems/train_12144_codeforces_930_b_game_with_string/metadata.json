@@ -1,0 +1,28 @@
+{
+  "id": 12144,
+  "split": "train",
+  "name": "930_B. Game with String",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 930,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "implementation",
+    "probabilities",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 16,
+    "generated_tests": 57,
+    "correct_solutions": 398,
+    "incorrect_solutions": 288
+  }
+}

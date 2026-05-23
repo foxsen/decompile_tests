@@ -1,0 +1,27 @@
+{
+  "id": 11307,
+  "split": "train",
+  "name": "849_E. Goodbye Souvenir",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 849,
+  "cf_index": "E",
+  "cf_points": 1750.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 41,
+    "correct_solutions": 84,
+    "incorrect_solutions": 162
+  }
+}

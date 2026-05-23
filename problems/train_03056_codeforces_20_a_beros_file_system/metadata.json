@@ -1,0 +1,26 @@
+{
+  "id": 3056,
+  "split": "train",
+  "name": "20_A. BerOS file system",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 20,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 18,
+    "generated_tests": 75,
+    "correct_solutions": 589,
+    "incorrect_solutions": 710
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 448,
+  "split": "train",
+  "name": "178_A1. Educational Game",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 178,
+  "cf_index": "A1",
+  "cf_points": 20.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 100,
+    "correct_solutions": 482,
+    "incorrect_solutions": 295
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 541,
+  "split": "train",
+  "name": "1310_B. Double Elimination",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1310,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "dp",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 14,
+    "generated_tests": 50,
+    "correct_solutions": 168,
+    "incorrect_solutions": 241
+  }
+}

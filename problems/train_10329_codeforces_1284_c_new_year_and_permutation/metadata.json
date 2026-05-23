@@ -1,0 +1,27 @@
+{
+  "id": 10329,
+  "split": "train",
+  "name": "1284_C. New Year and Permutation",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1284,
+  "cf_index": "C",
+  "cf_points": 1750.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "combinatorics",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 35,
+    "generated_tests": 73,
+    "correct_solutions": 536,
+    "incorrect_solutions": 215
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 4858,
+  "split": "train",
+  "name": "962_G. Visible Black Areas",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 962,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "data structures",
+    "dsu",
+    "geometry",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 11,
+    "generated_tests": 52,
+    "correct_solutions": 55,
+    "incorrect_solutions": 223
+  }
+}

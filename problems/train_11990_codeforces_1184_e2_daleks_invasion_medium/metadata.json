@@ -1,0 +1,29 @@
+{
+  "id": 11990,
+  "split": "train",
+  "name": "1184_E2. Daleks' Invasion (medium)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1184,
+  "cf_index": "E2",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs",
+    "shortest paths",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 15.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 8,
+    "generated_tests": 100,
+    "correct_solutions": 152,
+    "incorrect_solutions": 200
+  }
+}

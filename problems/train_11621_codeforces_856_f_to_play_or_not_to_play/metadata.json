@@ -1,0 +1,26 @@
+{
+  "id": 11621,
+  "split": "train",
+  "name": "856_F. To Play or not to Play",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 856,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 10,
+    "generated_tests": 2,
+    "correct_solutions": 42,
+    "incorrect_solutions": 121
+  }
+}

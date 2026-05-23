@@ -1,0 +1,26 @@
+{
+  "id": 737,
+  "split": "train",
+  "name": "1054_B. Appending Mex",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1054,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 17,
+    "generated_tests": 98,
+    "correct_solutions": 643,
+    "incorrect_solutions": 548
+  }
+}

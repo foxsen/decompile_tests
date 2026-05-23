@@ -1,0 +1,28 @@
+{
+  "id": 7508,
+  "split": "train",
+  "name": "1109_B. Sasha and One More Name",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1109,
+  "cf_index": "B",
+  "cf_points": 1250.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "constructive algorithms",
+    "hashing",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 14,
+    "generated_tests": 80,
+    "correct_solutions": 466,
+    "incorrect_solutions": 733
+  }
+}

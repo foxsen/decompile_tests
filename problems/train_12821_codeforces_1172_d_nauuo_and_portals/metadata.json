@@ -1,0 +1,26 @@
+{
+  "id": 12821,
+  "split": "train",
+  "name": "1172_D. Nauuo and Portals",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1172,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 113,
+    "generated_tests": 0,
+    "correct_solutions": 212,
+    "incorrect_solutions": 178
+  }
+}

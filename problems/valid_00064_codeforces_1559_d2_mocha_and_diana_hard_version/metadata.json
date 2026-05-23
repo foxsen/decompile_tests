@@ -1,0 +1,33 @@
+{
+  "id": 64,
+  "split": "valid",
+  "name": "1559_D2. Mocha and Diana (Hard Version)",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1559,
+  "cf_index": "D2",
+  "cf_points": 1500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "trees",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 24,
+    "generated_tests": 200,
+    "correct_solutions": 123,
+    "incorrect_solutions": 140
+  }
+}

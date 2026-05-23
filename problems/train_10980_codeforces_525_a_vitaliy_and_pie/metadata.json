@@ -1,0 +1,28 @@
+{
+  "id": 10980,
+  "split": "train",
+  "name": "525_A. Vitaliy and Pie",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 525,
+  "cf_index": "A",
+  "cf_points": 250.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "greedy",
+    "hashing",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 13,
+    "generated_tests": 97,
+    "correct_solutions": 774,
+    "incorrect_solutions": 556
+  }
+}

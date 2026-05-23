@@ -1,0 +1,28 @@
+{
+  "id": 5580,
+  "split": "train",
+  "name": "808_F. Card Game",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 808,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "binary search",
+    "flows",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 19,
+    "generated_tests": 45,
+    "correct_solutions": 160,
+    "incorrect_solutions": 259
+  }
+}

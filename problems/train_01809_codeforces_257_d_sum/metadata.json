@@ -1,0 +1,27 @@
+{
+  "id": 1809,
+  "split": "train",
+  "name": "257_D. Sum",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 257,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 17,
+    "generated_tests": 47,
+    "correct_solutions": 279,
+    "incorrect_solutions": 306
+  }
+}

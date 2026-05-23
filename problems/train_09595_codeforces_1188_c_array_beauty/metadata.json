@@ -1,0 +1,26 @@
+{
+  "id": 9595,
+  "split": "train",
+  "name": "1188_C. Array Beauty",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1188,
+  "cf_index": "C",
+  "cf_points": 1750.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 55,
+    "correct_solutions": 308,
+    "incorrect_solutions": 312
+  }
+}

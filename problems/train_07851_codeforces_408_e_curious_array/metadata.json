@@ -1,0 +1,29 @@
+{
+  "id": 7851,
+  "split": "train",
+  "name": "408_E. Curious Array",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 408,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "brute force",
+    "combinatorics",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 51,
+    "correct_solutions": 149,
+    "incorrect_solutions": 237
+  }
+}

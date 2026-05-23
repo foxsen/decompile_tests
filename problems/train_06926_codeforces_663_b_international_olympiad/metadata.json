@@ -1,0 +1,29 @@
+{
+  "id": 6926,
+  "split": "train",
+  "name": "663_B. International Olympiad",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 663,
+  "cf_index": "B",
+  "cf_points": 250.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 33,
+    "generated_tests": 53,
+    "correct_solutions": 126,
+    "incorrect_solutions": 108
+  }
+}

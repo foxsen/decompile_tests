@@ -1,0 +1,28 @@
+{
+  "id": 7457,
+  "split": "train",
+  "name": "906_D. Power Tower",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 906,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "chinese remainder theorem",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 30,
+    "generated_tests": 47,
+    "correct_solutions": 268,
+    "incorrect_solutions": 413
+  }
+}

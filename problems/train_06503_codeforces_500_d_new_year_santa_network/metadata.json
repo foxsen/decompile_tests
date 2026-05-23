@@ -1,0 +1,29 @@
+{
+  "id": 6503,
+  "split": "train",
+  "name": "500_D. New Year Santa Network",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 500,
+  "cf_index": "D",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "combinatorics",
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 55,
+    "correct_solutions": 390,
+    "incorrect_solutions": 443
+  }
+}

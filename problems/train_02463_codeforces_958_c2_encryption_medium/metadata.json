@@ -1,0 +1,26 @@
+{
+  "id": 2463,
+  "split": "train",
+  "name": "958_C2. Encryption (medium)",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 958,
+  "cf_index": "C2",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 0,
+    "generated_tests": 74,
+    "correct_solutions": 90,
+    "incorrect_solutions": 145
+  }
+}

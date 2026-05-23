@@ -1,0 +1,30 @@
+{
+  "id": 10144,
+  "split": "train",
+  "name": "424_D. Biathlon Track",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 424,
+  "cf_index": "D",
+  "cf_points": 2500.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "data structures",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 44,
+    "correct_solutions": 165,
+    "incorrect_solutions": 402
+  }
+}

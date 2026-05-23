@@ -1,0 +1,30 @@
+{
+  "id": 12626,
+  "split": "train",
+  "name": "1440_E. Greedy Shopping",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1440,
+  "cf_index": "E",
+  "cf_points": 1750.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 35,
+    "correct_solutions": 93,
+    "incorrect_solutions": 190
+  }
+}

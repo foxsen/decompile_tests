@@ -1,0 +1,27 @@
+{
+  "id": 11208,
+  "split": "train",
+  "name": "978_B. File Name",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 978,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "greedy",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 10,
+    "generated_tests": 100,
+    "correct_solutions": 1995,
+    "incorrect_solutions": 586
+  }
+}

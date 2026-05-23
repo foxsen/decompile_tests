@@ -1,0 +1,26 @@
+{
+  "id": 2807,
+  "split": "train",
+  "name": "p01545 House Moving",
+  "source": "atcoder",
+  "difficulty": "UNKNOWN_DIFFICULTY",
+  "cf_contest_id": 0,
+  "cf_index": "",
+  "cf_points": 0.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    ""
+  ],
+  "is_description_translated": true,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 134217728,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 0,
+    "generated_tests": 30,
+    "correct_solutions": 199,
+    "incorrect_solutions": 250
+  }
+}

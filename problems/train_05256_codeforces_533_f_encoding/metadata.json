@@ -1,0 +1,28 @@
+{
+  "id": 5256,
+  "split": "train",
+  "name": "533_F. Encoding",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 533,
+  "cf_index": "F",
+  "cf_points": 1500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 20,
+    "generated_tests": 39,
+    "correct_solutions": 169,
+    "incorrect_solutions": 194
+  }
+}

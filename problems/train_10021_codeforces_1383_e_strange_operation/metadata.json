@@ -1,0 +1,28 @@
+{
+  "id": 10021,
+  "split": "train",
+  "name": "1383_E. Strange Operation",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1383,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "combinatorics",
+    "data structures",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 6,
+    "generated_tests": 53,
+    "correct_solutions": 188,
+    "incorrect_solutions": 171
+  }
+}

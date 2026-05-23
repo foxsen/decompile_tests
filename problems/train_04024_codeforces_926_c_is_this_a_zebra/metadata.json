@@ -1,0 +1,26 @@
+{
+  "id": 4024,
+  "split": "train",
+  "name": "926_C. Is This a Zebra?",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 926,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 34,
+    "generated_tests": 57,
+    "correct_solutions": 343,
+    "incorrect_solutions": 227
+  }
+}

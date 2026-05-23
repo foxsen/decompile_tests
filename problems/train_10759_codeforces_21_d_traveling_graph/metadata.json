@@ -1,0 +1,28 @@
+{
+  "id": 10759,
+  "split": "train",
+  "name": "21_D. Traveling Graph",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 21,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "bitmasks",
+    "graph matchings",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 0.5,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 45,
+    "generated_tests": 53,
+    "correct_solutions": 217,
+    "incorrect_solutions": 396
+  }
+}

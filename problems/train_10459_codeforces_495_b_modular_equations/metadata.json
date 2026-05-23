@@ -1,0 +1,27 @@
+{
+  "id": 10459,
+  "split": "train",
+  "name": "495_B. Modular Equations",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 495,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 34,
+    "generated_tests": 84,
+    "correct_solutions": 647,
+    "incorrect_solutions": 930
+  }
+}

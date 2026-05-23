@@ -1,0 +1,28 @@
+{
+  "id": 3386,
+  "split": "train",
+  "name": "631_E. Product Sum",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 631,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 15,
+    "generated_tests": 47,
+    "correct_solutions": 287,
+    "incorrect_solutions": 902
+  }
+}

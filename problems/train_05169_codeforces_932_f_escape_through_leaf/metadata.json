@@ -1,0 +1,28 @@
+{
+  "id": 5169,
+  "split": "train",
+  "name": "932_F. Escape Through Leaf",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 932,
+  "cf_index": "F",
+  "cf_points": 2500.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 45,
+    "correct_solutions": 155,
+    "incorrect_solutions": 260
+  }
+}

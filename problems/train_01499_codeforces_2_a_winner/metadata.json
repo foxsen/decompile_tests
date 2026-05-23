@@ -1,0 +1,27 @@
+{
+  "id": 1499,
+  "split": "train",
+  "name": "2_A. Winner",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 2,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "hashing",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 87,
+    "correct_solutions": 1387,
+    "incorrect_solutions": 1447
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 10032,
+  "split": "train",
+  "name": "244_C. The Brand New Function",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 244,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "bitmasks"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 50,
+    "correct_solutions": 190,
+    "incorrect_solutions": 107
+  }
+}

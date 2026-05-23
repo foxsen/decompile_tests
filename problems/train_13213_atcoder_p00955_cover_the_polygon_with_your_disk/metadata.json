@@ -1,0 +1,26 @@
+{
+  "id": 13213,
+  "split": "train",
+  "name": "p00955 Cover the Polygon with Your Disk",
+  "source": "atcoder",
+  "difficulty": "UNKNOWN_DIFFICULTY",
+  "cf_contest_id": 0,
+  "cf_index": "",
+  "cf_points": 0.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    ""
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 268435456,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 100,
+    "correct_solutions": 31,
+    "incorrect_solutions": 102
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1309,
+  "split": "train",
+  "name": "764_E. Timofey and remoduling",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 764,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "brute force",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 27,
+    "generated_tests": 56,
+    "correct_solutions": 93,
+    "incorrect_solutions": 187
+  }
+}

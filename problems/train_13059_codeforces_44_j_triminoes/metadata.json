@@ -1,0 +1,27 @@
+{
+  "id": 13059,
+  "split": "train",
+  "name": "44_J. Triminoes",
+  "source": "codeforces",
+  "difficulty": "J",
+  "cf_contest_id": 44,
+  "cf_index": "J",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 16,
+    "generated_tests": 35,
+    "correct_solutions": 181,
+    "incorrect_solutions": 169
+  }
+}

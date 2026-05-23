@@ -1,0 +1,29 @@
+{
+  "id": 6206,
+  "split": "train",
+  "name": "839_E. Mother of Dragons",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 839,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "brute force",
+    "graphs",
+    "math",
+    "meet-in-the-middle"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 10,
+    "generated_tests": 43,
+    "correct_solutions": 194,
+    "incorrect_solutions": 318
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 12308,
+  "split": "train",
+  "name": "1310_A. Recommendations",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1310,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 39,
+    "generated_tests": 88,
+    "correct_solutions": 470,
+    "incorrect_solutions": 746
+  }
+}

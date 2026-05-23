@@ -1,0 +1,30 @@
+{
+  "id": 5019,
+  "split": "train",
+  "name": "1278_F. Cards",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1278,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "number theory",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 10,
+    "generated_tests": 48,
+    "correct_solutions": 233,
+    "incorrect_solutions": 101
+  }
+}

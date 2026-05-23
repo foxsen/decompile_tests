@@ -1,0 +1,27 @@
+{
+  "id": 1828,
+  "split": "train",
+  "name": "706_E. Working routine",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 706,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "data structures",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 4,
+    "generated_tests": 37,
+    "correct_solutions": 227,
+    "incorrect_solutions": 217
+  }
+}

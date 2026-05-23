@@ -1,0 +1,27 @@
+{
+  "id": 462,
+  "split": "train",
+  "name": "507_B. Amr and Pins",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 507,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "geometry",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 34,
+    "generated_tests": 94,
+    "correct_solutions": 1591,
+    "incorrect_solutions": 1359
+  }
+}

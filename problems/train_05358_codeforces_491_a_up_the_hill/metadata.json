@@ -1,0 +1,27 @@
+{
+  "id": 5358,
+  "split": "train",
+  "name": "491_A. Up the hill",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 491,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 12,
+    "generated_tests": 84,
+    "correct_solutions": 422,
+    "incorrect_solutions": 375
+  }
+}

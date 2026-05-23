@@ -1,0 +1,28 @@
+{
+  "id": 130,
+  "split": "train",
+  "name": "1446_D2. Frequency Problem (Hard Version)",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1446,
+  "cf_index": "D2",
+  "cf_points": 750.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "data structures",
+    "greedy",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 11,
+    "generated_tests": 55,
+    "correct_solutions": 93,
+    "incorrect_solutions": 113
+  }
+}

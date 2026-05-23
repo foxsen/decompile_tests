@@ -1,0 +1,28 @@
+{
+  "id": 11089,
+  "split": "train",
+  "name": "625_D. Finals in arithmetic",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 625,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 77,
+    "generated_tests": 53,
+    "correct_solutions": 204,
+    "incorrect_solutions": 684
+  }
+}

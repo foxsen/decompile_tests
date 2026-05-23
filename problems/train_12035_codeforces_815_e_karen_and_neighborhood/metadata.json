@@ -1,0 +1,28 @@
+{
+  "id": 12035,
+  "split": "train",
+  "name": "815_E. Karen and Neighborhood",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 815,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 396,
+    "generated_tests": 48,
+    "correct_solutions": 124,
+    "incorrect_solutions": 179
+  }
+}

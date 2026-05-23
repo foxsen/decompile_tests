@@ -1,0 +1,28 @@
+{
+  "id": 1788,
+  "split": "train",
+  "name": "1186_E. Vus the Cossack and a Field",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1186,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "divide and conquer",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 53,
+    "correct_solutions": 164,
+    "incorrect_solutions": 177
+  }
+}

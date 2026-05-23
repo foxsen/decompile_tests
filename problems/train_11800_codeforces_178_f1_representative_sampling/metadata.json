@@ -1,0 +1,28 @@
+{
+  "id": 11800,
+  "split": "train",
+  "name": "178_F1. Representative Sampling",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 178,
+  "cf_index": "F1",
+  "cf_points": 20.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "dp",
+    "sortings",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 9,
+    "generated_tests": 56,
+    "correct_solutions": 285,
+    "incorrect_solutions": 346
+  }
+}

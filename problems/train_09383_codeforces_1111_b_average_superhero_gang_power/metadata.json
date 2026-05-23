@@ -1,0 +1,28 @@
+{
+  "id": 9383,
+  "split": "train",
+  "name": "1111_B. Average Superhero Gang Power ",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1111,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 37,
+    "generated_tests": 100,
+    "correct_solutions": 552,
+    "incorrect_solutions": 1210
+  }
+}

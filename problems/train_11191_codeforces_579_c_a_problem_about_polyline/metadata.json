@@ -1,0 +1,27 @@
+{
+  "id": 11191,
+  "split": "train",
+  "name": "579_C. A Problem about Polyline",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 579,
+  "cf_index": "C",
+  "cf_points": 250.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "geometry",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 28,
+    "generated_tests": 70,
+    "correct_solutions": 191,
+    "incorrect_solutions": 252
+  }
+}

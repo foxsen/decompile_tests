@@ -1,0 +1,28 @@
+{
+  "id": 12816,
+  "split": "train",
+  "name": "1061_B. Views Matter",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1061,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 31,
+    "generated_tests": 92,
+    "correct_solutions": 540,
+    "incorrect_solutions": 641
+  }
+}

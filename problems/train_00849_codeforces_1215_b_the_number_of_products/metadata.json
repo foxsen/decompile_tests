@@ -1,0 +1,28 @@
+{
+  "id": 849,
+  "split": "train",
+  "name": "1215_B. The Number of Products",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1215,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 20,
+    "generated_tests": 99,
+    "correct_solutions": 504,
+    "incorrect_solutions": 248
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 9828,
+  "split": "train",
+  "name": "335_F. Buy One, Get One Free",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 335,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 8,
+    "generated_tests": 46,
+    "correct_solutions": 122,
+    "incorrect_solutions": 232
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1707,
+  "split": "train",
+  "name": "316_C2. Tidying Up",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 316,
+  "cf_index": "C2",
+  "cf_points": 70.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "flows",
+    "graph matchings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 21,
+    "generated_tests": 43,
+    "correct_solutions": 115,
+    "incorrect_solutions": 110
+  }
+}

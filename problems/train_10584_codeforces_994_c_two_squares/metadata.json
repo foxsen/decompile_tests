@@ -1,0 +1,27 @@
+{
+  "id": 10584,
+  "split": "train",
+  "name": "994_C. Two Squares",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 994,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "geometry",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 121,
+    "generated_tests": 49,
+    "correct_solutions": 597,
+    "incorrect_solutions": 1076
+  }
+}

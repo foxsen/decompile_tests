@@ -1,0 +1,26 @@
+{
+  "id": 12512,
+  "split": "train",
+  "name": "1234_D. Distinct Characters Queries",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1234,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 68,
+    "correct_solutions": 535,
+    "incorrect_solutions": 404
+  }
+}

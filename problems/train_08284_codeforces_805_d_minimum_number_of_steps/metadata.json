@@ -1,0 +1,29 @@
+{
+  "id": 8284,
+  "split": "train",
+  "name": "805_D. Minimum number of steps",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 805,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "combinatorics",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 13,
+    "generated_tests": 94,
+    "correct_solutions": 306,
+    "incorrect_solutions": 265
+  }
+}

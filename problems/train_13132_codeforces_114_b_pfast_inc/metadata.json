@@ -1,0 +1,28 @@
+{
+  "id": 13132,
+  "split": "train",
+  "name": "114_B. PFAST Inc.",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 114,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 35,
+    "generated_tests": 56,
+    "correct_solutions": 445,
+    "incorrect_solutions": 676
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 6068,
+  "split": "train",
+  "name": "1443_D. Extreme Subtraction",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1443,
+  "cf_index": "D",
+  "cf_points": 500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "constructive algorithms",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 90,
+    "correct_solutions": 288,
+    "incorrect_solutions": 590
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 158,
+  "split": "test",
+  "name": "1622_E. Math Test",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1622,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 113,
+    "incorrect_solutions": 126
+  }
+}

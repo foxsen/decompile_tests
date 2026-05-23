@@ -1,0 +1,28 @@
+{
+  "id": 4718,
+  "split": "train",
+  "name": "1517_F. Reunion",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1517,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 3,
+    "generated_tests": 200,
+    "correct_solutions": 84,
+    "incorrect_solutions": 77
+  }
+}

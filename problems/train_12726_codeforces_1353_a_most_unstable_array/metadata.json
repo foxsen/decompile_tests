@@ -1,0 +1,28 @@
+{
+  "id": 12726,
+  "split": "train",
+  "name": "1353_A. Most Unstable Array",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1353,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 26,
+    "generated_tests": 96,
+    "correct_solutions": 2187,
+    "incorrect_solutions": 580
+  }
+}

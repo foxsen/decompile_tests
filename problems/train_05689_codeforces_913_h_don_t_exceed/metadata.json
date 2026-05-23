@@ -1,0 +1,27 @@
+{
+  "id": 5689,
+  "split": "train",
+  "name": "913_H. Don't Exceed",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 913,
+  "cf_index": "H",
+  "cf_points": 3500.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 116,
+    "generated_tests": 59,
+    "correct_solutions": 84,
+    "incorrect_solutions": 50
+  }
+}

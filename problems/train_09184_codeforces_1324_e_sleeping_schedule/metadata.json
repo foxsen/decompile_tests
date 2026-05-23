@@ -1,0 +1,27 @@
+{
+  "id": 9184,
+  "split": "train",
+  "name": "1324_E. Sleeping Schedule",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1324,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "dp",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 32,
+    "generated_tests": 86,
+    "correct_solutions": 550,
+    "incorrect_solutions": 553
+  }
+}

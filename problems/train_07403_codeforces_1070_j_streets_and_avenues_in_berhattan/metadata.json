@@ -1,0 +1,26 @@
+{
+  "id": 7403,
+  "split": "train",
+  "name": "1070_J. Streets and Avenues in Berhattan",
+  "source": "codeforces",
+  "difficulty": "J",
+  "cf_contest_id": 1070,
+  "cf_index": "J",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 48,
+    "correct_solutions": 155,
+    "incorrect_solutions": 227
+  }
+}

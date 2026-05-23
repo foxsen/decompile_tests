@@ -1,0 +1,28 @@
+{
+  "id": 12194,
+  "split": "train",
+  "name": "1097_F. Alex and a TV Show",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1097,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "bitmasks",
+    "combinatorics",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 33,
+    "correct_solutions": 220,
+    "incorrect_solutions": 212
+  }
+}

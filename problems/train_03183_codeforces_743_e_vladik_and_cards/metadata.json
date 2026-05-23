@@ -1,0 +1,29 @@
+{
+  "id": 3183,
+  "split": "train",
+  "name": "743_E. Vladik and cards",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 743,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 21,
+    "generated_tests": 60,
+    "correct_solutions": 286,
+    "incorrect_solutions": 315
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 6728,
+  "split": "train",
+  "name": "886_F. Symmetric Projections",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 886,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 20,
+    "generated_tests": 64,
+    "correct_solutions": 65,
+    "incorrect_solutions": 223
+  }
+}

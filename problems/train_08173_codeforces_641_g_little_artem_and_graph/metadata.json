@@ -1,0 +1,24 @@
+{
+  "id": 8173,
+  "split": "train",
+  "name": "641_G. Little Artem and Graph",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 641,
+  "cf_index": "G",
+  "cf_points": 3000.0,
+  "cf_rating": 2300,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 12.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 100,
+    "correct_solutions": 30,
+    "incorrect_solutions": 23
+  }
+}

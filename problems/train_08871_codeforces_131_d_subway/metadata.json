@@ -1,0 +1,27 @@
+{
+  "id": 8871,
+  "split": "train",
+  "name": "131_D. Subway",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 131,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 10,
+    "generated_tests": 57,
+    "correct_solutions": 592,
+    "incorrect_solutions": 515
+  }
+}

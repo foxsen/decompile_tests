@@ -1,0 +1,28 @@
+{
+  "id": 11088,
+  "split": "train",
+  "name": "603_A. Alternative Thinking",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 603,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 85,
+    "generated_tests": 95,
+    "correct_solutions": 812,
+    "incorrect_solutions": 872
+  }
+}

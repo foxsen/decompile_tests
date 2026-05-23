@@ -1,0 +1,30 @@
+{
+  "id": 4642,
+  "split": "train",
+  "name": "772_C. Vulnerable Kerbals",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 772,
+  "cf_index": "C",
+  "cf_points": 1750.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "constructive algorithms",
+    "dp",
+    "graphs",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 37,
+    "correct_solutions": 138,
+    "incorrect_solutions": 326
+  }
+}

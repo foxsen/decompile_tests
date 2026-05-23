@@ -1,0 +1,29 @@
+{
+  "id": 43,
+  "split": "valid",
+  "name": "1555_F. Good Graph",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1555,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures",
+    "dsu",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 23,
+    "generated_tests": 200,
+    "correct_solutions": 92,
+    "incorrect_solutions": 107
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 8893,
+  "split": "train",
+  "name": "431_C. k-Tree",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 431,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "dp",
+    "implementation",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 50,
+    "generated_tests": 96,
+    "correct_solutions": 773,
+    "incorrect_solutions": 577
+  }
+}

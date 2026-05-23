@@ -1,0 +1,30 @@
+{
+  "id": 30,
+  "split": "test",
+  "name": "1582_C. Grandma Capa Knits a Scarf",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1582,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "strings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 351,
+    "incorrect_solutions": 227
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 5946,
+  "split": "train",
+  "name": "104_E. Time to Raid Cowavans",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 104,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 70000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 4,
+    "generated_tests": 39,
+    "correct_solutions": 108,
+    "incorrect_solutions": 102
+  }
+}

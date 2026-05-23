@@ -1,0 +1,29 @@
+{
+  "id": 9908,
+  "split": "train",
+  "name": "1196_F. K-th Path",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1196,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "shortest paths",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 38,
+    "correct_solutions": 209,
+    "incorrect_solutions": 340
+  }
+}

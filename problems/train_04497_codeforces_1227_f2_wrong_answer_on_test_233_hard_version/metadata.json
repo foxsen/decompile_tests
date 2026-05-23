@@ -1,0 +1,27 @@
+{
+  "id": 4497,
+  "split": "train",
+  "name": "1227_F2. Wrong Answer on test 233 (Hard Version)",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1227,
+  "cf_index": "F2",
+  "cf_points": 2000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "combinatorics",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 4,
+    "generated_tests": 48,
+    "correct_solutions": 110,
+    "incorrect_solutions": 100
+  }
+}

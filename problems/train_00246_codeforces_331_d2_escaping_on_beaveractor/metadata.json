@@ -1,0 +1,26 @@
+{
+  "id": 246,
+  "split": "train",
+  "name": "331_D2. Escaping on Beaveractor",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 331,
+  "cf_index": "D2",
+  "cf_points": 30.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 4,
+    "generated_tests": 87,
+    "correct_solutions": 45,
+    "incorrect_solutions": 39
+  }
+}

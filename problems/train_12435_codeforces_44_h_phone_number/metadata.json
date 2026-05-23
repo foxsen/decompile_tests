@@ -1,0 +1,26 @@
+{
+  "id": 12435,
+  "split": "train",
+  "name": "44_H. Phone Number",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 44,
+  "cf_index": "H",
+  "cf_points": 0.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 25,
+    "generated_tests": 61,
+    "correct_solutions": 257,
+    "incorrect_solutions": 238
+  }
+}

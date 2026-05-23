@@ -1,0 +1,27 @@
+{
+  "id": 10252,
+  "split": "train",
+  "name": "509_F. Progress Monitoring",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 509,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "dp",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 41,
+    "correct_solutions": 181,
+    "incorrect_solutions": 207
+  }
+}

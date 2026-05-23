@@ -1,0 +1,28 @@
+{
+  "id": 3919,
+  "split": "train",
+  "name": "908_F. New Year and Rainbow Roads",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 908,
+  "cf_index": "F",
+  "cf_points": 2000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "graphs",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 56,
+    "correct_solutions": 235,
+    "incorrect_solutions": 505
+  }
+}

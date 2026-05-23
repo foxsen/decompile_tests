@@ -1,0 +1,29 @@
+{
+  "id": 3371,
+  "split": "train",
+  "name": "280_E. Sequence Transformation",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 280,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 56,
+    "correct_solutions": 101,
+    "incorrect_solutions": 202
+  }
+}

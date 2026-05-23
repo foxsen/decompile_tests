@@ -1,0 +1,28 @@
+{
+  "id": 8039,
+  "split": "train",
+  "name": "1326_D1. Prefix-Suffix Palindrome (Easy version)",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1326,
+  "cf_index": "D1",
+  "cf_points": 1000.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 111,
+    "generated_tests": 87,
+    "correct_solutions": 915,
+    "incorrect_solutions": 909
+  }
+}

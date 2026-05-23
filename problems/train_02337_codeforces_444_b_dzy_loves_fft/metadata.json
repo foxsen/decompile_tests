@@ -1,0 +1,26 @@
+{
+  "id": 2337,
+  "split": "train",
+  "name": "444_B. DZY Loves FFT",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 444,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 9,
+    "generated_tests": 45,
+    "correct_solutions": 277,
+    "incorrect_solutions": 313
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 13271,
+  "split": "train",
+  "name": "53_B. Blog Photo",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 53,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "binary search",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 23,
+    "generated_tests": 53,
+    "correct_solutions": 251,
+    "incorrect_solutions": 428
+  }
+}

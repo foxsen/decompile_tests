@@ -1,0 +1,24 @@
+{
+  "id": 5762,
+  "split": "train",
+  "name": "178_E2. The Beaver's Problem - 2",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 178,
+  "cf_index": "E2",
+  "cf_points": 30.0,
+  "cf_rating": 2000,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 0,
+    "private_tests": 0,
+    "generated_tests": 0,
+    "correct_solutions": 103,
+    "incorrect_solutions": 157
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 9438,
+  "split": "train",
+  "name": "981_D. Bookshelves",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 981,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "bitmasks",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 37,
+    "generated_tests": 55,
+    "correct_solutions": 299,
+    "incorrect_solutions": 430
+  }
+}

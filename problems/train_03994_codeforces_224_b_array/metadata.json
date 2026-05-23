@@ -1,0 +1,28 @@
+{
+  "id": 3994,
+  "split": "train",
+  "name": "224_B. Array",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 224,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "bitmasks",
+    "implementation",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 22,
+    "generated_tests": 88,
+    "correct_solutions": 580,
+    "incorrect_solutions": 786
+  }
+}

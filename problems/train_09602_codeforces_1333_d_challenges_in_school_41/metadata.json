@@ -1,0 +1,32 @@
+{
+  "id": 9602,
+  "split": "train",
+  "name": "1333_D. Challenges in school №41",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1333,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "games",
+    "graphs",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 23,
+    "generated_tests": 59,
+    "correct_solutions": 295,
+    "incorrect_solutions": 614
+  }
+}

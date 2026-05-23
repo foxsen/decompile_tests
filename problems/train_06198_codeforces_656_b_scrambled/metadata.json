@@ -1,0 +1,27 @@
+{
+  "id": 6198,
+  "split": "train",
+  "name": "656_B. Scrambled",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 656,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "*special",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 34,
+    "generated_tests": 86,
+    "correct_solutions": 356,
+    "incorrect_solutions": 380
+  }
+}

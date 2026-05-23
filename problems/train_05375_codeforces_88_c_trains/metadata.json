@@ -1,0 +1,27 @@
+{
+  "id": 5375,
+  "split": "train",
+  "name": "88_C. Trains",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 88,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 54,
+    "generated_tests": 100,
+    "correct_solutions": 270,
+    "incorrect_solutions": 305
+  }
+}

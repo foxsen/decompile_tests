@@ -1,0 +1,27 @@
+{
+  "id": 2252,
+  "split": "train",
+  "name": "898_E. Squares and not squares",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 898,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 12,
+    "generated_tests": 90,
+    "correct_solutions": 420,
+    "incorrect_solutions": 461
+  }
+}

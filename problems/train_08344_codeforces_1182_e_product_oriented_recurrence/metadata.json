@@ -1,0 +1,29 @@
+{
+  "id": 8344,
+  "split": "train",
+  "name": "1182_E. Product Oriented Recurrence",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1182,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "dp",
+    "math",
+    "matrices",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 43,
+    "generated_tests": 59,
+    "correct_solutions": 273,
+    "incorrect_solutions": 271
+  }
+}

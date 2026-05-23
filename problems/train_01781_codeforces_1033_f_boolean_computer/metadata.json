@@ -1,0 +1,29 @@
+{
+  "id": 1781,
+  "split": "train",
+  "name": "1033_F. Boolean Computer",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1033,
+  "cf_index": "F",
+  "cf_points": 3250.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "fft",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 7.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 1,
+    "generated_tests": 60,
+    "correct_solutions": 191,
+    "incorrect_solutions": 82
+  }
+}

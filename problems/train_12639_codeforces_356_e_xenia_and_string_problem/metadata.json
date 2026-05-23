@@ -1,0 +1,30 @@
+{
+  "id": 12639,
+  "split": "train",
+  "name": "356_E. Xenia and String Problem",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 356,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "dp",
+    "hashing",
+    "implementation",
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 28,
+    "generated_tests": 45,
+    "correct_solutions": 107,
+    "incorrect_solutions": 258
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1889,
+  "split": "train",
+  "name": "1119_E. Pavel and Triangles",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1119,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "fft",
+    "greedy",
+    "ternary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 14,
+    "generated_tests": 92,
+    "correct_solutions": 340,
+    "incorrect_solutions": 533
+  }
+}

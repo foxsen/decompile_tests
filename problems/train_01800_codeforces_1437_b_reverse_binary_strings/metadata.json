@@ -1,0 +1,27 @@
+{
+  "id": 1800,
+  "split": "train",
+  "name": "1437_B. Reverse Binary Strings",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1437,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 10,
+    "correct_solutions": 1004,
+    "incorrect_solutions": 608
+  }
+}

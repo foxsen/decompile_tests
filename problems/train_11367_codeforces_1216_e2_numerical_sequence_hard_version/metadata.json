@@ -1,0 +1,27 @@
+{
+  "id": 11367,
+  "split": "train",
+  "name": "1216_E2. Numerical Sequence (hard version)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1216,
+  "cf_index": "E2",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 18,
+    "generated_tests": 75,
+    "correct_solutions": 204,
+    "incorrect_solutions": 116
+  }
+}

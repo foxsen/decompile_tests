@@ -1,0 +1,30 @@
+{
+  "id": 13177,
+  "split": "train",
+  "name": "776_C. Molly's Chemicals",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 776,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.5,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 23,
+    "generated_tests": 81,
+    "correct_solutions": 387,
+    "incorrect_solutions": 563
+  }
+}

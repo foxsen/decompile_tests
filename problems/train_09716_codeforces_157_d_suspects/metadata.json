@@ -1,0 +1,28 @@
+{
+  "id": 9716,
+  "split": "train",
+  "name": "157_D. Suspects",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 157,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "constructive algorithms",
+    "data structures",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 43,
+    "generated_tests": 57,
+    "correct_solutions": 161,
+    "incorrect_solutions": 124
+  }
+}

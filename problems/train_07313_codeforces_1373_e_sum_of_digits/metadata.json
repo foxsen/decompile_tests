@@ -1,0 +1,29 @@
+{
+  "id": 7313,
+  "split": "train",
+  "name": "1373_E. Sum of Digits",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1373,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 85,
+    "correct_solutions": 323,
+    "incorrect_solutions": 511
+  }
+}

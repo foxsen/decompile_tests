@@ -1,0 +1,31 @@
+{
+  "id": 4187,
+  "split": "train",
+  "name": "1263_F. Economic Difficulties",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1263,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "flows",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 5,
+    "generated_tests": 25,
+    "correct_solutions": 191,
+    "incorrect_solutions": 212
+  }
+}

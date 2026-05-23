@@ -1,0 +1,27 @@
+{
+  "id": 7820,
+  "split": "train",
+  "name": "1109_E. Sasha and a Very Easy Test",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1109,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 2,
+    "generated_tests": 34,
+    "correct_solutions": 131,
+    "incorrect_solutions": 276
+  }
+}

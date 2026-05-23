@@ -1,0 +1,30 @@
+{
+  "id": 10785,
+  "split": "train",
+  "name": "831_D. Office Keys",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 831,
+  "cf_index": "D",
+  "cf_points": 500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 34,
+    "generated_tests": 61,
+    "correct_solutions": 194,
+    "incorrect_solutions": 178
+  }
+}

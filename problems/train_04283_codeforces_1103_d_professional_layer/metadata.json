@@ -1,0 +1,27 @@
+{
+  "id": 4283,
+  "split": "train",
+  "name": "1103_D. Professional layer",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1103,
+  "cf_index": "D",
+  "cf_points": 3000.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "bitmasks",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 2,
+    "generated_tests": 35,
+    "correct_solutions": 90,
+    "incorrect_solutions": 224
+  }
+}

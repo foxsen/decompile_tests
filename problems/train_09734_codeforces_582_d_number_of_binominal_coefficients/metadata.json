@@ -1,0 +1,28 @@
+{
+  "id": 9734,
+  "split": "train",
+  "name": "582_D. Number of Binominal Coefficients",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 582,
+  "cf_index": "D",
+  "cf_points": 2250.0,
+  "cf_rating": 3300,
+  "cf_tags": [
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 40,
+    "generated_tests": 51,
+    "correct_solutions": 173,
+    "incorrect_solutions": 177
+  }
+}

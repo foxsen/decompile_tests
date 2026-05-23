@@ -1,0 +1,27 @@
+{
+  "id": 7245,
+  "split": "train",
+  "name": "825_B. Five-In-a-Row",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 825,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 154,
+    "generated_tests": 23,
+    "correct_solutions": 443,
+    "incorrect_solutions": 616
+  }
+}

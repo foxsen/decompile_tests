@@ -1,0 +1,31 @@
+{
+  "id": 2320,
+  "split": "train",
+  "name": "1434_A. Perform Easily",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1434,
+  "cf_index": "A",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "dp",
+    "implementation",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 53,
+    "correct_solutions": 120,
+    "incorrect_solutions": 120
+  }
+}

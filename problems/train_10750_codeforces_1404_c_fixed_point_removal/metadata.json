@@ -1,0 +1,30 @@
+{
+  "id": 10750,
+  "split": "train",
+  "name": "1404_C. Fixed Point Removal",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1404,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 45,
+    "correct_solutions": 307,
+    "incorrect_solutions": 345
+  }
+}

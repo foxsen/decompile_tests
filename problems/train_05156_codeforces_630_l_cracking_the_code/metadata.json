@@ -1,0 +1,27 @@
+{
+  "id": 5156,
+  "split": "train",
+  "name": "630_L. Cracking the Code",
+  "source": "codeforces",
+  "difficulty": "L",
+  "cf_contest_id": 630,
+  "cf_index": "L",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 0.5,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 9,
+    "generated_tests": 89,
+    "correct_solutions": 698,
+    "incorrect_solutions": 625
+  }
+}

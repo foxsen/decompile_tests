@@ -1,0 +1,29 @@
+{
+  "id": 9951,
+  "split": "train",
+  "name": "785_D. Anton and School - 2",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 785,
+  "cf_index": "D",
+  "cf_points": 2250.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 29,
+    "generated_tests": 54,
+    "correct_solutions": 262,
+    "incorrect_solutions": 314
+  }
+}

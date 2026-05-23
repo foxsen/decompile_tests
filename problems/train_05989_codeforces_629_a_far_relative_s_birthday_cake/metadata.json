@@ -1,0 +1,29 @@
+{
+  "id": 5989,
+  "split": "train",
+  "name": "629_A. Far Relative’s Birthday Cake",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 629,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "brute force",
+    "combinatorics",
+    "constructive algorithms",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 17,
+    "generated_tests": 97,
+    "correct_solutions": 1100,
+    "incorrect_solutions": 509
+  }
+}

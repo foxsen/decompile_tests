@@ -1,0 +1,28 @@
+{
+  "id": 13241,
+  "split": "train",
+  "name": "1246_B. Power Products",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1246,
+  "cf_index": "B",
+  "cf_points": 2000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "hashing",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 56,
+    "correct_solutions": 116,
+    "incorrect_solutions": 117
+  }
+}

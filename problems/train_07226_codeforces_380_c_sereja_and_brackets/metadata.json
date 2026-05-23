@@ -1,0 +1,27 @@
+{
+  "id": 7226,
+  "split": "train",
+  "name": "380_C. Sereja and Brackets",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 380,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "data structures",
+    "schedules"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 11,
+    "generated_tests": 32,
+    "correct_solutions": 576,
+    "incorrect_solutions": 468
+  }
+}

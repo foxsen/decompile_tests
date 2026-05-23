@@ -1,0 +1,26 @@
+{
+  "id": 6597,
+  "split": "train",
+  "name": "265_E. Choosing Balls",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 265,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 72,
+    "correct_solutions": 92,
+    "incorrect_solutions": 292
+  }
+}

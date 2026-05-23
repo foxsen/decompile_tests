@@ -1,0 +1,29 @@
+{
+  "id": 6992,
+  "split": "train",
+  "name": "1190_D. Tokitsukaze and Strange Rectangle",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1190,
+  "cf_index": "D",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 20,
+    "generated_tests": 52,
+    "correct_solutions": 98,
+    "incorrect_solutions": 159
+  }
+}

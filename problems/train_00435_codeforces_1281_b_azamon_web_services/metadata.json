@@ -1,0 +1,26 @@
+{
+  "id": 435,
+  "split": "train",
+  "name": "1281_B. Azamon Web Services",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1281,
+  "cf_index": "B",
+  "cf_points": 1250.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 85,
+    "correct_solutions": 573,
+    "incorrect_solutions": 1381
+  }
+}

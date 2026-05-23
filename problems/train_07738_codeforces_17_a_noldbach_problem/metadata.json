@@ -1,0 +1,28 @@
+{
+  "id": 7738,
+  "split": "train",
+  "name": "17_A. Noldbach problem",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 17,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 32,
+    "generated_tests": 55,
+    "correct_solutions": 706,
+    "incorrect_solutions": 584
+  }
+}

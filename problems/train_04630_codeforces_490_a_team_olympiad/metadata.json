@@ -1,0 +1,28 @@
+{
+  "id": 4630,
+  "split": "train",
+  "name": "490_A. Team Olympiad",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 490,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 13,
+    "generated_tests": 80,
+    "correct_solutions": 2146,
+    "incorrect_solutions": 628
+  }
+}

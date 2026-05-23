@@ -1,0 +1,31 @@
+{
+  "id": 8491,
+  "split": "train",
+  "name": "764_C. Timofey and a tree",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 764,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "graphs",
+    "implementation",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 12,
+    "generated_tests": 70,
+    "correct_solutions": 238,
+    "incorrect_solutions": 322
+  }
+}

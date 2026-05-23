@@ -1,0 +1,28 @@
+{
+  "id": 782,
+  "split": "train",
+  "name": "680_D. Bear and Tower of Cubes",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 680,
+  "cf_index": "D",
+  "cf_points": 1250.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 42,
+    "generated_tests": 46,
+    "correct_solutions": 162,
+    "incorrect_solutions": 143
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 11365,
+  "split": "train",
+  "name": "1181_B. Split a Number",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1181,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 14,
+    "generated_tests": 83,
+    "correct_solutions": 1151,
+    "incorrect_solutions": 747
+  }
+}

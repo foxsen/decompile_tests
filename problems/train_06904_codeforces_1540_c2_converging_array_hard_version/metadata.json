@@ -1,0 +1,27 @@
+{
+  "id": 6904,
+  "split": "train",
+  "name": "1540_C2. Converging Array (Hard Version)",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1540,
+  "cf_index": "C2",
+  "cf_points": 750.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 100,
+    "correct_solutions": 90,
+    "incorrect_solutions": 99
+  }
+}

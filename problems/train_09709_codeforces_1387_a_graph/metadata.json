@@ -1,0 +1,31 @@
+{
+  "id": 9709,
+  "split": "train",
+  "name": "1387_A. Graph",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1387,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "*special",
+    "binary search",
+    "dfs and similar",
+    "dp",
+    "math",
+    "ternary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 22,
+    "generated_tests": 42,
+    "correct_solutions": 156,
+    "incorrect_solutions": 0
+  }
+}

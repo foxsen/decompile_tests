@@ -1,0 +1,27 @@
+{
+  "id": 10863,
+  "split": "train",
+  "name": "205_E. Little Elephant and Furik and Rubik",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 205,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 18,
+    "generated_tests": 70,
+    "correct_solutions": 97,
+    "incorrect_solutions": 216
+  }
+}

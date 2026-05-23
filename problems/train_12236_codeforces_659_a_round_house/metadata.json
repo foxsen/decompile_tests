@@ -1,0 +1,27 @@
+{
+  "id": 12236,
+  "split": "train",
+  "name": "659_A. Round House",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 659,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 47,
+    "generated_tests": 100,
+    "correct_solutions": 1285,
+    "incorrect_solutions": 1016
+  }
+}

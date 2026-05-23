@@ -1,0 +1,29 @@
+{
+  "id": 11888,
+  "split": "train",
+  "name": "1223_F. Stack Exterminable Arrays",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1223,
+  "cf_index": "F",
+  "cf_points": 2750.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "hashing"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 68,
+    "correct_solutions": 74,
+    "incorrect_solutions": 125
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 8386,
+  "split": "train",
+  "name": "744_A. Hongcow Builds A Nation",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 744,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 19,
+    "generated_tests": 88,
+    "correct_solutions": 628,
+    "incorrect_solutions": 734
+  }
+}

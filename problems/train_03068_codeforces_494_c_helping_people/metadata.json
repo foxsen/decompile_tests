@@ -1,0 +1,27 @@
+{
+  "id": 3068,
+  "split": "train",
+  "name": "494_C. Helping People",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 494,
+  "cf_index": "C",
+  "cf_points": 1750.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "dp",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 6,
+    "generated_tests": 43,
+    "correct_solutions": 184,
+    "incorrect_solutions": 347
+  }
+}

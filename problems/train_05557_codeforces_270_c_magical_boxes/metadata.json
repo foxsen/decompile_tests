@@ -1,0 +1,27 @@
+{
+  "id": 5557,
+  "split": "train",
+  "name": "270_C. Magical Boxes",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 270,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 33,
+    "generated_tests": 59,
+    "correct_solutions": 522,
+    "incorrect_solutions": 783
+  }
+}

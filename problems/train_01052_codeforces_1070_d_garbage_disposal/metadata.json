@@ -1,0 +1,26 @@
+{
+  "id": 1052,
+  "split": "train",
+  "name": "1070_D. Garbage Disposal",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1070,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 22,
+    "generated_tests": 95,
+    "correct_solutions": 376,
+    "incorrect_solutions": 517
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2245,
+  "split": "train",
+  "name": "735_A. Ostap and Grasshopper",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 735,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 76,
+    "generated_tests": 81,
+    "correct_solutions": 940,
+    "incorrect_solutions": 608
+  }
+}

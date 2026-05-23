@@ -1,0 +1,34 @@
+{
+  "id": 5130,
+  "split": "train",
+  "name": "1417_E. XOR Inverse",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1417,
+  "cf_index": "E",
+  "cf_points": 1250.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "bitmasks",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "greedy",
+    "math",
+    "sortings",
+    "strings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 8,
+    "generated_tests": 64,
+    "correct_solutions": 128,
+    "incorrect_solutions": 120
+  }
+}

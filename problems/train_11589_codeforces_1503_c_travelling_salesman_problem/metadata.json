@@ -1,0 +1,32 @@
+{
+  "id": 11589,
+  "split": "train",
+  "name": "1503_C. Travelling Salesman Problem",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1503,
+  "cf_index": "C",
+  "cf_points": 1250.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "greedy",
+    "shortest paths",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 14,
+    "generated_tests": 200,
+    "correct_solutions": 153,
+    "incorrect_solutions": 144
+  }
+}

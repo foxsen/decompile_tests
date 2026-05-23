@@ -1,0 +1,26 @@
+{
+  "id": 3888,
+  "split": "train",
+  "name": "17_C. Balance",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 17,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 128000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 39,
+    "generated_tests": 52,
+    "correct_solutions": 158,
+    "incorrect_solutions": 217
+  }
+}

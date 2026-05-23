@@ -1,0 +1,29 @@
+{
+  "id": 8976,
+  "split": "train",
+  "name": "1340_C. Nastya and Unexpected Guest",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1340,
+  "cf_index": "C",
+  "cf_points": 1250.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 51,
+    "correct_solutions": 294,
+    "incorrect_solutions": 597
+  }
+}

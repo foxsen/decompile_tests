@@ -1,0 +1,27 @@
+{
+  "id": 12443,
+  "split": "train",
+  "name": "635_C. XOR Equation",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 635,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 68,
+    "generated_tests": 54,
+    "correct_solutions": 318,
+    "incorrect_solutions": 494
+  }
+}

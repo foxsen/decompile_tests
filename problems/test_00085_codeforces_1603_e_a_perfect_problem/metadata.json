@@ -1,0 +1,28 @@
+{
+  "id": 85,
+  "split": "test",
+  "name": "1603_E. A Perfect Problem",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1603,
+  "cf_index": "E",
+  "cf_points": 3500.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 49,
+    "generated_tests": 200,
+    "correct_solutions": 42,
+    "incorrect_solutions": 1
+  }
+}

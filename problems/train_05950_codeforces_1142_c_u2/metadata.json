@@ -1,0 +1,26 @@
+{
+  "id": 5950,
+  "split": "train",
+  "name": "1142_C. U2",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1142,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 45,
+    "correct_solutions": 258,
+    "incorrect_solutions": 326
+  }
+}

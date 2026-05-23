@@ -1,0 +1,28 @@
+{
+  "id": 6480,
+  "split": "train",
+  "name": "1361_F. Johnny and New Toy",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1361,
+  "cf_index": "F",
+  "cf_points": 3500.0,
+  "cf_rating": 3300,
+  "cf_tags": [
+    "data structures",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 15.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 100,
+    "correct_solutions": 7,
+    "incorrect_solutions": 63
+  }
+}

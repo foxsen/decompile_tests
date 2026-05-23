@@ -1,0 +1,28 @@
+{
+  "id": 2565,
+  "split": "train",
+  "name": "923_E. Perpetual Subtraction",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 923,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "fft",
+    "math",
+    "matrices"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 16,
+    "generated_tests": 40,
+    "correct_solutions": 137,
+    "incorrect_solutions": 76
+  }
+}

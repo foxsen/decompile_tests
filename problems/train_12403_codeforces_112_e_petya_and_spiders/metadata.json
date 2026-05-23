@@ -1,0 +1,28 @@
+{
+  "id": 12403,
+  "split": "train",
+  "name": "112_E. Petya and Spiders",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 112,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "bitmasks",
+    "dp",
+    "dsu"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 156,
+    "generated_tests": 0,
+    "correct_solutions": 102,
+    "incorrect_solutions": 102
+  }
+}

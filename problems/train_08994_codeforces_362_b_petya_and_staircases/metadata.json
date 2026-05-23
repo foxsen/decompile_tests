@@ -1,0 +1,27 @@
+{
+  "id": 8994,
+  "split": "train",
+  "name": "362_B. Petya and Staircases",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 362,
+  "cf_index": "B",
+  "cf_points": 500.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 36,
+    "generated_tests": 81,
+    "correct_solutions": 650,
+    "incorrect_solutions": 682
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 8187,
+  "split": "train",
+  "name": "976_F. Minimal k-covering",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 976,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "flows",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 33,
+    "correct_solutions": 166,
+    "incorrect_solutions": 212
+  }
+}

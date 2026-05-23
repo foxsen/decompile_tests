@@ -1,0 +1,29 @@
+{
+  "id": 13238,
+  "split": "train",
+  "name": "1185_C2. Exam in BerSU (hard version)",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1185,
+  "cf_index": "C2",
+  "cf_points": 750.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 10,
+    "generated_tests": 91,
+    "correct_solutions": 320,
+    "incorrect_solutions": 249
+  }
+}

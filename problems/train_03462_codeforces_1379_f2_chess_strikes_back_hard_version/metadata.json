@@ -1,0 +1,27 @@
+{
+  "id": 3462,
+  "split": "train",
+  "name": "1379_F2. Chess Strikes Back (hard version)",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1379,
+  "cf_index": "F2",
+  "cf_points": 1500.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 13,
+    "generated_tests": 33,
+    "correct_solutions": 108,
+    "incorrect_solutions": 86
+  }
+}

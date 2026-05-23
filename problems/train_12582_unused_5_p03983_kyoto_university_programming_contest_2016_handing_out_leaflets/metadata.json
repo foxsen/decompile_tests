@@ -1,0 +1,26 @@
+{
+  "id": 12582,
+  "split": "train",
+  "name": "p03983 Kyoto University Programming Contest 2016 - Handing out leaflets",
+  "source": "unused_5",
+  "difficulty": "UNKNOWN_DIFFICULTY",
+  "cf_contest_id": 0,
+  "cf_index": "",
+  "cf_points": 0.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    ""
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 268435456,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 0,
+    "generated_tests": 0,
+    "correct_solutions": 1,
+    "incorrect_solutions": 8
+  }
+}

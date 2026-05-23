@@ -1,0 +1,28 @@
+{
+  "id": 11065,
+  "split": "train",
+  "name": "1450_G. Communism",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1450,
+  "cf_index": "G",
+  "cf_points": 3750.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "bitmasks",
+    "dp",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 32000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 11,
+    "generated_tests": 200,
+    "correct_solutions": 71,
+    "incorrect_solutions": 102
+  }
+}

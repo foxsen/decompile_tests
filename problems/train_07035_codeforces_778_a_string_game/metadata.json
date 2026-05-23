@@ -1,0 +1,28 @@
+{
+  "id": 7035,
+  "split": "train",
+  "name": "778_A. String Game",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 778,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "binary search",
+    "greedy",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 63,
+    "correct_solutions": 695,
+    "incorrect_solutions": 742
+  }
+}

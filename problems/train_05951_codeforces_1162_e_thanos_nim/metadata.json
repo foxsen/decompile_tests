@@ -1,0 +1,26 @@
+{
+  "id": 5951,
+  "split": "train",
+  "name": "1162_E. Thanos Nim",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1162,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "games"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 68,
+    "generated_tests": 67,
+    "correct_solutions": 151,
+    "incorrect_solutions": 138
+  }
+}

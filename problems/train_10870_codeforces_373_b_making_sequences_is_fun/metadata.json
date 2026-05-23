@@ -1,0 +1,28 @@
+{
+  "id": 10870,
+  "split": "train",
+  "name": "373_B. Making Sequences is Fun",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 373,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "binary search",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 24,
+    "generated_tests": 100,
+    "correct_solutions": 421,
+    "incorrect_solutions": 512
+  }
+}

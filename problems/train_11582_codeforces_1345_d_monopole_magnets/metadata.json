@@ -1,0 +1,29 @@
+{
+  "id": 11582,
+  "split": "train",
+  "name": "1345_D. Monopole Magnets",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1345,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 18,
+    "generated_tests": 55,
+    "correct_solutions": 218,
+    "incorrect_solutions": 302
+  }
+}

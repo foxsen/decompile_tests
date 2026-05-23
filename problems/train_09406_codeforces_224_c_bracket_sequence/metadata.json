@@ -1,0 +1,28 @@
+{
+  "id": 9406,
+  "split": "train",
+  "name": "224_C. Bracket Sequence",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 224,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "data structures",
+    "expression parsing",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 24,
+    "generated_tests": 59,
+    "correct_solutions": 377,
+    "incorrect_solutions": 744
+  }
+}

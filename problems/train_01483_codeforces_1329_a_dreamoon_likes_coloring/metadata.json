@@ -1,0 +1,29 @@
+{
+  "id": 1483,
+  "split": "train",
+  "name": "1329_A. Dreamoon Likes Coloring",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1329,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 17,
+    "generated_tests": 98,
+    "correct_solutions": 204,
+    "incorrect_solutions": 388
+  }
+}

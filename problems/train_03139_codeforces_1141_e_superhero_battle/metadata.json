@@ -1,0 +1,26 @@
+{
+  "id": 3139,
+  "split": "train",
+  "name": "1141_E. Superhero Battle",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1141,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 19,
+    "generated_tests": 99,
+    "correct_solutions": 520,
+    "incorrect_solutions": 846
+  }
+}

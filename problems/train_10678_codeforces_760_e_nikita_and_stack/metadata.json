@@ -1,0 +1,26 @@
+{
+  "id": 10678,
+  "split": "train",
+  "name": "760_E. Nikita and stack",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 760,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 7,
+    "generated_tests": 38,
+    "correct_solutions": 110,
+    "incorrect_solutions": 100
+  }
+}

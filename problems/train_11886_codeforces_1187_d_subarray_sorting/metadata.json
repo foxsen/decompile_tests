@@ -1,0 +1,27 @@
+{
+  "id": 11886,
+  "split": "train",
+  "name": "1187_D. Subarray Sorting",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1187,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 122,
+    "generated_tests": 58,
+    "correct_solutions": 230,
+    "incorrect_solutions": 446
+  }
+}

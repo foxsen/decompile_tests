@@ -1,0 +1,28 @@
+{
+  "id": 6881,
+  "split": "train",
+  "name": "1037_F. Maximum Reduction",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1037,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "combinatorics",
+    "data structures",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 40,
+    "correct_solutions": 191,
+    "incorrect_solutions": 255
+  }
+}

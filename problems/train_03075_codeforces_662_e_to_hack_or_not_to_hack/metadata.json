@@ -1,0 +1,28 @@
+{
+  "id": 3075,
+  "split": "train",
+  "name": "662_E. To Hack or not to Hack",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 662,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 18,
+    "generated_tests": 62,
+    "correct_solutions": 82,
+    "incorrect_solutions": 158
+  }
+}

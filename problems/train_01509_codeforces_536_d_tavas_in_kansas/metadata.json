@@ -1,0 +1,27 @@
+{
+  "id": 1509,
+  "split": "train",
+  "name": "536_D. Tavas in Kansas",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 536,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "dp",
+    "games"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 7,
+    "generated_tests": 41,
+    "correct_solutions": 157,
+    "incorrect_solutions": 290
+  }
+}

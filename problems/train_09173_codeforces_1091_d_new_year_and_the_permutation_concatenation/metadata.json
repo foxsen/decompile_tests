@@ -1,0 +1,28 @@
+{
+  "id": 9173,
+  "split": "train",
+  "name": "1091_D. New Year and the Permutation Concatenation",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1091,
+  "cf_index": "D",
+  "cf_points": 2250.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 27,
+    "generated_tests": 93,
+    "correct_solutions": 360,
+    "incorrect_solutions": 218
+  }
+}

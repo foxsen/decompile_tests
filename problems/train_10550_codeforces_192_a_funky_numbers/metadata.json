@@ -1,0 +1,28 @@
+{
+  "id": 10550,
+  "split": "train",
+  "name": "192_A. Funky Numbers",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 192,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 66,
+    "generated_tests": 93,
+    "correct_solutions": 609,
+    "incorrect_solutions": 673
+  }
+}

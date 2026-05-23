@@ -1,0 +1,28 @@
+{
+  "id": 5765,
+  "split": "train",
+  "name": "24_D. Broken robot",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 24,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 40,
+    "generated_tests": 59,
+    "correct_solutions": 224,
+    "incorrect_solutions": 245
+  }
+}

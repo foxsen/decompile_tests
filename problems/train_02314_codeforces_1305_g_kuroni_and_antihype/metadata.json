@@ -1,0 +1,30 @@
+{
+  "id": 2314,
+  "split": "train",
+  "name": "1305_G. Kuroni and Antihype",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1305,
+  "cf_index": "G",
+  "cf_points": 3250.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "dsu",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 12,
+    "generated_tests": 39,
+    "correct_solutions": 162,
+    "incorrect_solutions": 350
+  }
+}

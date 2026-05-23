@@ -1,0 +1,28 @@
+{
+  "id": 8867,
+  "split": "train",
+  "name": "1231_G. Kamil and Making a Stream",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1231,
+  "cf_index": "G",
+  "cf_points": 1000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "math",
+    "number theory",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 768000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 100,
+    "correct_solutions": 7,
+    "incorrect_solutions": 11
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 4631,
+  "split": "train",
+  "name": "514_A. Chewbaсca and Number",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 514,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 41,
+    "generated_tests": 100,
+    "correct_solutions": 1296,
+    "incorrect_solutions": 932
+  }
+}

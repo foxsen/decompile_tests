@@ -1,0 +1,29 @@
+{
+  "id": 6415,
+  "split": "train",
+  "name": "871_A. Maximum splitting",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 871,
+  "cf_index": "A",
+  "cf_points": 1500.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 5,
+    "generated_tests": 59,
+    "correct_solutions": 150,
+    "incorrect_solutions": 129
+  }
+}

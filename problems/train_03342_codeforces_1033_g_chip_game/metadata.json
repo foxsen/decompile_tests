@@ -1,0 +1,26 @@
+{
+  "id": 3342,
+  "split": "train",
+  "name": "1033_G. Chip Game",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1033,
+  "cf_index": "G",
+  "cf_points": 4000.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "games"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 43,
+    "generated_tests": 79,
+    "correct_solutions": 73,
+    "incorrect_solutions": 68
+  }
+}

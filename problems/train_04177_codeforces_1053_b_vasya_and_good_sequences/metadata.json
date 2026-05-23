@@ -1,0 +1,27 @@
+{
+  "id": 4177,
+  "split": "train",
+  "name": "1053_B. Vasya and Good Sequences",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1053,
+  "cf_index": "B",
+  "cf_points": 2000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "bitmasks",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 70,
+    "correct_solutions": 385,
+    "incorrect_solutions": 573
+  }
+}

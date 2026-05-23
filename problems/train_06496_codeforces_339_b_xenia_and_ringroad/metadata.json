@@ -1,0 +1,26 @@
+{
+  "id": 6496,
+  "split": "train",
+  "name": "339_B. Xenia and Ringroad",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 339,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 16,
+    "generated_tests": 90,
+    "correct_solutions": 2730,
+    "incorrect_solutions": 744
+  }
+}

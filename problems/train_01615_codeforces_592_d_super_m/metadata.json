@@ -1,0 +1,29 @@
+{
+  "id": 1615,
+  "split": "train",
+  "name": "592_D. Super M",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 592,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 38,
+    "generated_tests": 39,
+    "correct_solutions": 427,
+    "incorrect_solutions": 829
+  }
+}

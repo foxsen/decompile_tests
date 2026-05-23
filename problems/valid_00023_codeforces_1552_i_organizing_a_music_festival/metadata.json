@@ -1,0 +1,27 @@
+{
+  "id": 23,
+  "split": "valid",
+  "name": "1552_I. Organizing a Music Festival",
+  "source": "codeforces",
+  "difficulty": "I",
+  "cf_contest_id": 1552,
+  "cf_index": "I",
+  "cf_points": 3750.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "dfs and similar",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 6,
+    "private_tests": 19,
+    "generated_tests": 200,
+    "correct_solutions": 57,
+    "incorrect_solutions": 118
+  }
+}

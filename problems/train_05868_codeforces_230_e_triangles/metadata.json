@@ -1,0 +1,28 @@
+{
+  "id": 5868,
+  "split": "train",
+  "name": "230_E. Triangles",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 230,
+  "cf_index": "E",
+  "cf_points": 1000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "combinatorics",
+    "graphs",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 30,
+    "generated_tests": 59,
+    "correct_solutions": 119,
+    "incorrect_solutions": 103
+  }
+}

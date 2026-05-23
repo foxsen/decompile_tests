@@ -1,0 +1,27 @@
+{
+  "id": 5008,
+  "split": "train",
+  "name": "1044_A. The Tower is Going Home",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1044,
+  "cf_index": "A",
+  "cf_points": 750.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "binary search",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 3,
+    "generated_tests": 65,
+    "correct_solutions": 334,
+    "incorrect_solutions": 533
+  }
+}

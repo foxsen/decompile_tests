@@ -1,0 +1,26 @@
+{
+  "id": 41,
+  "split": "train",
+  "name": "39_H. Multiplication Table",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 39,
+  "cf_index": "H",
+  "cf_points": 0.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 1,
+    "correct_solutions": 370,
+    "incorrect_solutions": 205
+  }
+}

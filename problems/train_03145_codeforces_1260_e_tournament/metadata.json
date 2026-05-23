@@ -1,0 +1,28 @@
+{
+  "id": 3145,
+  "split": "train",
+  "name": "1260_E. Tournament",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1260,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 23,
+    "generated_tests": 58,
+    "correct_solutions": 202,
+    "incorrect_solutions": 294
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 6162,
+  "split": "train",
+  "name": "1219_E. Jumping Transformers",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1219,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 128000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 6,
+    "generated_tests": 69,
+    "correct_solutions": 74,
+    "incorrect_solutions": 128
+  }
+}

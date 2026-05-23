@@ -1,0 +1,30 @@
+{
+  "id": 3604,
+  "split": "train",
+  "name": "865_F. Egg Roulette",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 865,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 3300,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "divide and conquer",
+    "math",
+    "meet-in-the-middle"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 49,
+    "generated_tests": 100,
+    "correct_solutions": 14,
+    "incorrect_solutions": 14
+  }
+}

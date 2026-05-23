@@ -1,0 +1,26 @@
+{
+  "id": 5869,
+  "split": "train",
+  "name": "256_D. Liars and Serge",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 256,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 62,
+    "generated_tests": 49,
+    "correct_solutions": 149,
+    "incorrect_solutions": 168
+  }
+}

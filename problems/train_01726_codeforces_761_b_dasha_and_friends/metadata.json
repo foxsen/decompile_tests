@@ -1,0 +1,28 @@
+{
+  "id": 1726,
+  "split": "train",
+  "name": "761_B. Dasha and friends",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 761,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 129,
+    "generated_tests": 59,
+    "correct_solutions": 627,
+    "incorrect_solutions": 555
+  }
+}

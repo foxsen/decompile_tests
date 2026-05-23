@@ -1,0 +1,26 @@
+{
+  "id": 11084,
+  "split": "train",
+  "name": "506_B. Mr. Kitayuta's Technology",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 506,
+  "cf_index": "B",
+  "cf_points": 2000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dfs and similar"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 18,
+    "generated_tests": 53,
+    "correct_solutions": 487,
+    "incorrect_solutions": 669
+  }
+}

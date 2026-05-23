@@ -1,0 +1,31 @@
+{
+  "id": 13053,
+  "split": "train",
+  "name": "30_E. Tricky and Clever Password",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 30,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "hashing",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 61,
+    "generated_tests": 56,
+    "correct_solutions": 141,
+    "incorrect_solutions": 263
+  }
+}

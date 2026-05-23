@@ -1,0 +1,28 @@
+{
+  "id": 7425,
+  "split": "train",
+  "name": "158_C. Cd and pwd commands",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 158,
+  "cf_index": "C",
+  "cf_points": 1000.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "*special",
+    "data structures",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 13,
+    "generated_tests": 70,
+    "correct_solutions": 973,
+    "incorrect_solutions": 745
+  }
+}

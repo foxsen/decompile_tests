@@ -1,0 +1,28 @@
+{
+  "id": 3449,
+  "split": "train",
+  "name": "1104_A. Splitting into digits",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1104,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 63,
+    "generated_tests": 57,
+    "correct_solutions": 1092,
+    "incorrect_solutions": 615
+  }
+}

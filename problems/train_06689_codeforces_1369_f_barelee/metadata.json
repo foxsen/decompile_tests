@@ -1,0 +1,28 @@
+{
+  "id": 6689,
+  "split": "train",
+  "name": "1369_F. BareLee",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1369,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "games"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 6,
+    "private_tests": 3,
+    "generated_tests": 53,
+    "correct_solutions": 199,
+    "incorrect_solutions": 163
+  }
+}

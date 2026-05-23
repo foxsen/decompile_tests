@@ -1,0 +1,31 @@
+{
+  "id": 2766,
+  "split": "train",
+  "name": "755_G. PolandBall and Many Other Balls",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 755,
+  "cf_index": "G",
+  "cf_points": 3500.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "combinatorics",
+    "divide and conquer",
+    "dp",
+    "fft",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 12,
+    "generated_tests": 42,
+    "correct_solutions": 194,
+    "incorrect_solutions": 192
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 4646,
+  "split": "train",
+  "name": "863_E. Turn Off The TV",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 863,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "data structures",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 34,
+    "generated_tests": 48,
+    "correct_solutions": 261,
+    "incorrect_solutions": 399
+  }
+}

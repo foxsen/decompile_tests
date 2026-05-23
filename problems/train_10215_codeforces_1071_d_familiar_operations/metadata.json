@@ -1,0 +1,28 @@
+{
+  "id": 10215,
+  "split": "train",
+  "name": "1071_D. Familiar Operations",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1071,
+  "cf_index": "D",
+  "cf_points": 3000.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "brute force",
+    "graphs",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 72,
+    "correct_solutions": 48,
+    "incorrect_solutions": 138
+  }
+}

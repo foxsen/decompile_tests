@@ -1,0 +1,27 @@
+{
+  "id": 12334,
+  "split": "train",
+  "name": "516_B. Drazil and Tiles",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 516,
+  "cf_index": "B",
+  "cf_points": 3000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 16,
+    "generated_tests": 26,
+    "correct_solutions": 429,
+    "incorrect_solutions": 456
+  }
+}

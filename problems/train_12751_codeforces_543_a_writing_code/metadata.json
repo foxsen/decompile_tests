@@ -1,0 +1,26 @@
+{
+  "id": 12751,
+  "split": "train",
+  "name": "543_A. Writing Code",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 543,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 19,
+    "generated_tests": 59,
+    "correct_solutions": 249,
+    "incorrect_solutions": 171
+  }
+}

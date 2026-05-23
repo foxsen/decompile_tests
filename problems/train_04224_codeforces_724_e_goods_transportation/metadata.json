@@ -1,0 +1,28 @@
+{
+  "id": 4224,
+  "split": "train",
+  "name": "724_E. Goods transportation",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 724,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "dp",
+    "flows",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 4,
+    "generated_tests": 57,
+    "correct_solutions": 268,
+    "incorrect_solutions": 354
+  }
+}

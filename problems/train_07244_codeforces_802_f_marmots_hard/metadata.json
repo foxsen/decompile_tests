@@ -1,0 +1,27 @@
+{
+  "id": 7244,
+  "split": "train",
+  "name": "802_F. Marmots (hard)",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 802,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 0,
+    "private_tests": 0,
+    "generated_tests": 0,
+    "correct_solutions": 60,
+    "incorrect_solutions": 201
+  }
+}

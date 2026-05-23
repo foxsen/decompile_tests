@@ -1,0 +1,27 @@
+{
+  "id": 9172,
+  "split": "train",
+  "name": "106_E. Space Rescuers",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 106,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "geometry",
+    "ternary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 21,
+    "generated_tests": 63,
+    "correct_solutions": 218,
+    "incorrect_solutions": 375
+  }
+}

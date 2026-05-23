@@ -1,0 +1,28 @@
+{
+  "id": 7936,
+  "split": "train",
+  "name": "1352_E. Special Elements",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1352,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "brute force",
+    "implementation",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 92,
+    "correct_solutions": 899,
+    "incorrect_solutions": 489
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 13182,
+  "split": "train",
+  "name": "893_F. Subtree Minimum Query",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 893,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "data structures",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 37,
+    "correct_solutions": 173,
+    "incorrect_solutions": 243
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 9302,
+  "split": "train",
+  "name": "231_B. Magic, Wizardry and Wonders",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 231,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 44,
+    "generated_tests": 78,
+    "correct_solutions": 393,
+    "incorrect_solutions": 425
+  }
+}

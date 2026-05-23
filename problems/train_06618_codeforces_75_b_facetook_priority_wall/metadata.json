@@ -1,0 +1,28 @@
+{
+  "id": 6618,
+  "split": "train",
+  "name": "75_B. Facetook Priority Wall",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 75,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "expression parsing",
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 25,
+    "generated_tests": 59,
+    "correct_solutions": 433,
+    "incorrect_solutions": 550
+  }
+}

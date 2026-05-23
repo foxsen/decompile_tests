@@ -1,0 +1,26 @@
+{
+  "id": 8690,
+  "split": "train",
+  "name": "53_C. Little Frog",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 53,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 36,
+    "generated_tests": 100,
+    "correct_solutions": 579,
+    "incorrect_solutions": 295
+  }
+}

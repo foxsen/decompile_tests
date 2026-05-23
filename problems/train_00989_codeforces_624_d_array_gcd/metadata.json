@@ -1,0 +1,28 @@
+{
+  "id": 989,
+  "split": "train",
+  "name": "624_D. Array GCD",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 624,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 27,
+    "generated_tests": 56,
+    "correct_solutions": 101,
+    "incorrect_solutions": 187
+  }
+}

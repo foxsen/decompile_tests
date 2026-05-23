@@ -1,0 +1,29 @@
+{
+  "id": 8242,
+  "split": "train",
+  "name": "1236_D. Alice and the Doll",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1236,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 32,
+    "generated_tests": 60,
+    "correct_solutions": 209,
+    "incorrect_solutions": 460
+  }
+}

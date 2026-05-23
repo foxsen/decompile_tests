@@ -1,0 +1,29 @@
+{
+  "id": 2874,
+  "split": "train",
+  "name": "833_D. Red-Black Cobweb",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 833,
+  "cf_index": "D",
+  "cf_points": 2250.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer",
+    "implementation",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 39,
+    "correct_solutions": 141,
+    "incorrect_solutions": 120
+  }
+}

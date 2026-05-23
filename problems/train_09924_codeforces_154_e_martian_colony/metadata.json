@@ -1,0 +1,26 @@
+{
+  "id": 9924,
+  "split": "train",
+  "name": "154_E. Martian Colony",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 154,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 12,
+    "generated_tests": 69,
+    "correct_solutions": 64,
+    "incorrect_solutions": 252
+  }
+}

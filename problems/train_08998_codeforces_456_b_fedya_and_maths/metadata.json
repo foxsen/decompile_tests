@@ -1,0 +1,27 @@
+{
+  "id": 8998,
+  "split": "train",
+  "name": "456_B. Fedya and Maths",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 456,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 24,
+    "generated_tests": 95,
+    "correct_solutions": 1307,
+    "incorrect_solutions": 699
+  }
+}

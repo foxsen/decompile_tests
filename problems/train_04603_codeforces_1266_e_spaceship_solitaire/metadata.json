@@ -1,0 +1,28 @@
+{
+  "id": 4603,
+  "split": "train",
+  "name": "1266_E. Spaceship Solitaire",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1266,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 54,
+    "correct_solutions": 247,
+    "incorrect_solutions": 222
+  }
+}

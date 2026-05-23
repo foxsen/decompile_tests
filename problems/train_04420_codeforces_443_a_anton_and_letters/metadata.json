@@ -1,0 +1,27 @@
+{
+  "id": 4420,
+  "split": "train",
+  "name": "443_A. Anton and Letters",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 443,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 19,
+    "generated_tests": 74,
+    "correct_solutions": 4284,
+    "incorrect_solutions": 720
+  }
+}

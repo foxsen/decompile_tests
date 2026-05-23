@@ -1,0 +1,26 @@
+{
+  "id": 12710,
+  "split": "train",
+  "name": "1010_E. Store",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1010,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 43,
+    "correct_solutions": 140,
+    "incorrect_solutions": 238
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10792,
+  "split": "train",
+  "name": "998_C. Convert to Ones",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 998,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 101,
+    "generated_tests": 86,
+    "correct_solutions": 302,
+    "incorrect_solutions": 334
+  }
+}

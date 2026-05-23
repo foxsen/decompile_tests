@@ -1,0 +1,28 @@
+{
+  "id": 12560,
+  "split": "train",
+  "name": "948_E. Picking Strings",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 948,
+  "cf_index": "E",
+  "cf_points": 1750.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "constructive algorithms",
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 12,
+    "generated_tests": 59,
+    "correct_solutions": 92,
+    "incorrect_solutions": 369
+  }
+}

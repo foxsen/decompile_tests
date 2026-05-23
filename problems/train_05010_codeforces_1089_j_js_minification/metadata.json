@@ -1,0 +1,27 @@
+{
+  "id": 5010,
+  "split": "train",
+  "name": "1089_J. JS Minification",
+  "source": "codeforces",
+  "difficulty": "J",
+  "cf_contest_id": 1089,
+  "cf_index": "J",
+  "cf_points": 0.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 13,
+    "generated_tests": 76,
+    "correct_solutions": 52,
+    "incorrect_solutions": 152
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 4175,
+  "split": "train",
+  "name": "1007_D. Ants",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1007,
+  "cf_index": "D",
+  "cf_points": 2250.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "2-sat",
+    "data structures",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 768000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 42,
+    "correct_solutions": 65,
+    "incorrect_solutions": 182
+  }
+}

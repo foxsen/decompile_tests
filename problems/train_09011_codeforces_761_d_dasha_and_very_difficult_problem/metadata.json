@@ -1,0 +1,30 @@
+{
+  "id": 9011,
+  "split": "train",
+  "name": "761_D. Dasha and Very Difficult Problem",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 761,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 15,
+    "generated_tests": 71,
+    "correct_solutions": 413,
+    "incorrect_solutions": 335
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2143,
+  "split": "train",
+  "name": "769_D. k-Interesting Pairs Of Integers",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 769,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "*special",
+    "bitmasks",
+    "brute force",
+    "meet-in-the-middle"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 52,
+    "correct_solutions": 241,
+    "incorrect_solutions": 396
+  }
+}

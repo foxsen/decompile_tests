@@ -1,0 +1,29 @@
+{
+  "id": 5263,
+  "split": "train",
+  "name": "700_B. Connecting Universities",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 700,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 20,
+    "generated_tests": 52,
+    "correct_solutions": 405,
+    "incorrect_solutions": 355
+  }
+}

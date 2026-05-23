@@ -1,0 +1,26 @@
+{
+  "id": 10660,
+  "split": "train",
+  "name": "338_E. Optimize!",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 338,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 53,
+    "correct_solutions": 169,
+    "incorrect_solutions": 198
+  }
+}

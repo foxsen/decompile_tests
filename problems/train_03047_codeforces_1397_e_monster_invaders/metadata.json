@@ -1,0 +1,28 @@
+{
+  "id": 3047,
+  "split": "train",
+  "name": "1397_E. Monster Invaders",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1397,
+  "cf_index": "E",
+  "cf_points": 1750.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 73,
+    "correct_solutions": 112,
+    "incorrect_solutions": 152
+  }
+}

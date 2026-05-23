@@ -1,0 +1,29 @@
+{
+  "id": 10532,
+  "split": "train",
+  "name": "1192_C. Cubeword",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1192,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    "*special",
+    "brute force",
+    "dp",
+    "meet-in-the-middle"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.7,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 6,
+    "private_tests": 0,
+    "generated_tests": 40,
+    "correct_solutions": 127,
+    "incorrect_solutions": 0
+  }
+}

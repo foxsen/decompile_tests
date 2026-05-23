@@ -1,0 +1,28 @@
+{
+  "id": 1082,
+  "split": "train",
+  "name": "343_C. Read Time",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 343,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "binary search",
+    "greedy",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 15,
+    "generated_tests": 60,
+    "correct_solutions": 376,
+    "incorrect_solutions": 547
+  }
+}

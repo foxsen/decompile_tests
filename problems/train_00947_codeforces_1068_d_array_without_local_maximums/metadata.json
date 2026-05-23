@@ -1,0 +1,26 @@
+{
+  "id": 947,
+  "split": "train",
+  "name": "1068_D. Array Without Local Maximums ",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1068,
+  "cf_index": "D",
+  "cf_points": 500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 16,
+    "generated_tests": 100,
+    "correct_solutions": 71,
+    "incorrect_solutions": 135
+  }
+}

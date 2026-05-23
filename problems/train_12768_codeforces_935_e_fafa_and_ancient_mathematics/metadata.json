@@ -1,0 +1,28 @@
+{
+  "id": 12768,
+  "split": "train",
+  "name": "935_E. Fafa and Ancient Mathematics",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 935,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 8,
+    "generated_tests": 32,
+    "correct_solutions": 204,
+    "incorrect_solutions": 213
+  }
+}

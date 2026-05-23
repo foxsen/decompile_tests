@@ -1,0 +1,27 @@
+{
+  "id": 8704,
+  "split": "train",
+  "name": "863_A. Quasi-palindrome",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 863,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 41,
+    "generated_tests": 94,
+    "correct_solutions": 933,
+    "incorrect_solutions": 543
+  }
+}

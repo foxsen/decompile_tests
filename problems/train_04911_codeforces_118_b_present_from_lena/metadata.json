@@ -1,0 +1,27 @@
+{
+  "id": 4911,
+  "split": "train",
+  "name": "118_B. Present from Lena",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 118,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 0,
+    "correct_solutions": 1182,
+    "incorrect_solutions": 840
+  }
+}

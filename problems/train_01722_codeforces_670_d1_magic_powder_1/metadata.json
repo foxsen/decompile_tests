@@ -1,0 +1,28 @@
+{
+  "id": 1722,
+  "split": "train",
+  "name": "670_D1. Magic Powder - 1",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 670,
+  "cf_index": "D1",
+  "cf_points": 1000.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 15,
+    "generated_tests": 99,
+    "correct_solutions": 588,
+    "incorrect_solutions": 519
+  }
+}

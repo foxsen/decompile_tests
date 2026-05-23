@@ -1,0 +1,28 @@
+{
+  "id": 7329,
+  "split": "train",
+  "name": "353_C. Find Maximum",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 353,
+  "cf_index": "C",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 10,
+    "generated_tests": 74,
+    "correct_solutions": 507,
+    "incorrect_solutions": 531
+  }
+}

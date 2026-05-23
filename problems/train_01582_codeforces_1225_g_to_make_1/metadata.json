@@ -1,0 +1,30 @@
+{
+  "id": 1582,
+  "split": "train",
+  "name": "1225_G. To Make 1",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1225,
+  "cf_index": "G",
+  "cf_points": 3750.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 25,
+    "generated_tests": 37,
+    "correct_solutions": 171,
+    "incorrect_solutions": 105
+  }
+}

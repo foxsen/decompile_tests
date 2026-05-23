@@ -1,0 +1,29 @@
+{
+  "id": 1902,
+  "split": "train",
+  "name": "1393_C. Pinkie Pie Eats Patty-cakes",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1393,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 92,
+    "correct_solutions": 700,
+    "incorrect_solutions": 571
+  }
+}

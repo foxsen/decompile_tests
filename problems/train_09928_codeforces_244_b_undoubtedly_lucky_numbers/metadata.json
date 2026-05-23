@@ -1,0 +1,28 @@
+{
+  "id": 9928,
+  "split": "train",
+  "name": "244_B. Undoubtedly Lucky Numbers",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 244,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 32,
+    "generated_tests": 75,
+    "correct_solutions": 437,
+    "incorrect_solutions": 371
+  }
+}

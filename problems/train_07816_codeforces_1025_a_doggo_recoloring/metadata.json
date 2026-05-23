@@ -1,0 +1,27 @@
+{
+  "id": 7816,
+  "split": "train",
+  "name": "1025_A. Doggo Recoloring",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1025,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 27,
+    "generated_tests": 86,
+    "correct_solutions": 893,
+    "incorrect_solutions": 676
+  }
+}

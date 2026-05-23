@@ -1,0 +1,26 @@
+{
+  "id": 361,
+  "split": "train",
+  "name": "586_F. Lizard Era: Beginning",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 586,
+  "cf_index": "F",
+  "cf_points": 1750.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "meet-in-the-middle"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 29,
+    "generated_tests": 50,
+    "correct_solutions": 94,
+    "incorrect_solutions": 140
+  }
+}

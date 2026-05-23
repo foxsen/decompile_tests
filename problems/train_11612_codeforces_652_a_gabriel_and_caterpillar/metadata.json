@@ -1,0 +1,27 @@
+{
+  "id": 11612,
+  "split": "train",
+  "name": "652_A. Gabriel and Caterpillar",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 652,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 72,
+    "generated_tests": 96,
+    "correct_solutions": 451,
+    "incorrect_solutions": 599
+  }
+}

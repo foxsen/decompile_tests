@@ -1,0 +1,28 @@
+{
+  "id": 2113,
+  "split": "train",
+  "name": "1455_D. Sequence and Swaps",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1455,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 200,
+    "correct_solutions": 297,
+    "incorrect_solutions": 318
+  }
+}

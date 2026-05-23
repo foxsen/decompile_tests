@@ -1,0 +1,27 @@
+{
+  "id": 8877,
+  "split": "train",
+  "name": "1445_B. Elimination",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1445,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 100,
+    "correct_solutions": 893,
+    "incorrect_solutions": 514
+  }
+}

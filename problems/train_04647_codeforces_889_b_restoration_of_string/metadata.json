@@ -1,0 +1,28 @@
+{
+  "id": 4647,
+  "split": "train",
+  "name": "889_B. Restoration of string",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 889,
+  "cf_index": "B",
+  "cf_points": 2000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "constructive algorithms",
+    "graphs",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 35,
+    "generated_tests": 47,
+    "correct_solutions": 291,
+    "incorrect_solutions": 432
+  }
+}

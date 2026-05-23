@@ -1,0 +1,28 @@
+{
+  "id": 2206,
+  "split": "train",
+  "name": "1231_E. Middle-Out",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1231,
+  "cf_index": "E",
+  "cf_points": 1750.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 58,
+    "correct_solutions": 203,
+    "incorrect_solutions": 176
+  }
+}

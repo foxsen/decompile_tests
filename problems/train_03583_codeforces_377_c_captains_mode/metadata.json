@@ -1,0 +1,28 @@
+{
+  "id": 3583,
+  "split": "train",
+  "name": "377_C. Captains Mode",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 377,
+  "cf_index": "C",
+  "cf_points": 1000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "bitmasks",
+    "dp",
+    "games"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 42,
+    "generated_tests": 36,
+    "correct_solutions": 251,
+    "incorrect_solutions": 237
+  }
+}

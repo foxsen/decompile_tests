@@ -1,0 +1,24 @@
+{
+  "id": 3805,
+  "split": "train",
+  "name": "690_E2. Photographs (II)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 690,
+  "cf_index": "E2",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 15.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 0,
+    "private_tests": 0,
+    "generated_tests": 0,
+    "correct_solutions": 96,
+    "incorrect_solutions": 192
+  }
+}

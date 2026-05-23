@@ -1,0 +1,30 @@
+{
+  "id": 2106,
+  "split": "train",
+  "name": "1304_C. Air Conditioner",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1304,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "implementation",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 100,
+    "correct_solutions": 813,
+    "incorrect_solutions": 589
+  }
+}

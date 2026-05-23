@@ -1,0 +1,28 @@
+{
+  "id": 357,
+  "split": "train",
+  "name": "488_C. Fight the Monster",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 488,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 43,
+    "generated_tests": 55,
+    "correct_solutions": 165,
+    "incorrect_solutions": 302
+  }
+}

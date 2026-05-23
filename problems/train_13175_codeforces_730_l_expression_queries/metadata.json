@@ -1,0 +1,26 @@
+{
+  "id": 13175,
+  "split": "train",
+  "name": "730_L. Expression Queries",
+  "source": "codeforces",
+  "difficulty": "L",
+  "cf_contest_id": 730,
+  "cf_index": "L",
+  "cf_points": 0.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 83,
+    "correct_solutions": 37,
+    "incorrect_solutions": 102
+  }
+}

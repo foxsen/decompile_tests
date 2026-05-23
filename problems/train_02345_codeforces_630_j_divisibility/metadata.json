@@ -1,0 +1,27 @@
+{
+  "id": 2345,
+  "split": "train",
+  "name": "630_J. Divisibility",
+  "source": "codeforces",
+  "difficulty": "J",
+  "cf_contest_id": 630,
+  "cf_index": "J",
+  "cf_points": 0.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 0.5,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 11,
+    "generated_tests": 85,
+    "correct_solutions": 1084,
+    "incorrect_solutions": 804
+  }
+}

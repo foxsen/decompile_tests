@@ -1,0 +1,30 @@
+{
+  "id": 3794,
+  "split": "train",
+  "name": "431_D. Random Task",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 431,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 63,
+    "generated_tests": 57,
+    "correct_solutions": 264,
+    "incorrect_solutions": 313
+  }
+}

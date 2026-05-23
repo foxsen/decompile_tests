@@ -1,0 +1,29 @@
+{
+  "id": 8770,
+  "split": "train",
+  "name": "1375_I. Cubic Lattice",
+  "source": "codeforces",
+  "difficulty": "I",
+  "cf_contest_id": 1375,
+  "cf_index": "I",
+  "cf_points": 4000.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "geometry",
+    "math",
+    "matrices",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 115,
+    "generated_tests": 100,
+    "correct_solutions": 17,
+    "incorrect_solutions": 102
+  }
+}

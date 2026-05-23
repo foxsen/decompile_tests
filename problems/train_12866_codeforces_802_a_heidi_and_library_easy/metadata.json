@@ -1,0 +1,26 @@
+{
+  "id": 12866,
+  "split": "train",
+  "name": "802_A. Heidi and Library (easy)",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 802,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 24,
+    "generated_tests": 69,
+    "correct_solutions": 238,
+    "incorrect_solutions": 417
+  }
+}

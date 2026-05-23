@@ -1,0 +1,29 @@
+{
+  "id": 3875,
+  "split": "train",
+  "name": "1284_D. New Year and Conference",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1284,
+  "cf_index": "D",
+  "cf_points": 2500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "hashing",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 24,
+    "generated_tests": 45,
+    "correct_solutions": 221,
+    "incorrect_solutions": 467
+  }
+}

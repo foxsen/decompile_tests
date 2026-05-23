@@ -1,0 +1,26 @@
+{
+  "id": 12533,
+  "split": "train",
+  "name": "316_A1. Special Task",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 316,
+  "cf_index": "A1",
+  "cf_points": 30.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 39,
+    "generated_tests": 95,
+    "correct_solutions": 687,
+    "incorrect_solutions": 658
+  }
+}

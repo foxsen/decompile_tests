@@ -1,0 +1,26 @@
+{
+  "id": 2007,
+  "split": "train",
+  "name": "1424_H. Lookup Tables",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 1424,
+  "cf_index": "H",
+  "cf_points": 0.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "bitmasks"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 8,
+    "generated_tests": 100,
+    "correct_solutions": 27,
+    "incorrect_solutions": 68
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 11798,
+  "split": "train",
+  "name": "1528_B. Kavi on Pairing Duty",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1528,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 10,
+    "generated_tests": 200,
+    "correct_solutions": 232,
+    "incorrect_solutions": 113
+  }
+}

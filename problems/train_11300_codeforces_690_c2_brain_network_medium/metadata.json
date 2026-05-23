@@ -1,0 +1,28 @@
+{
+  "id": 11300,
+  "split": "train",
+  "name": "690_C2. Brain Network (medium)",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 690,
+  "cf_index": "C2",
+  "cf_points": 0.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 59,
+    "correct_solutions": 372,
+    "incorrect_solutions": 275
+  }
+}

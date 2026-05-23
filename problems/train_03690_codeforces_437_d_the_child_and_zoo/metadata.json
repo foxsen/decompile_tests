@@ -1,0 +1,27 @@
+{
+  "id": 3690,
+  "split": "train",
+  "name": "437_D. The Child and Zoo",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 437,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "dsu",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 5,
+    "generated_tests": 50,
+    "correct_solutions": 347,
+    "incorrect_solutions": 433
+  }
+}

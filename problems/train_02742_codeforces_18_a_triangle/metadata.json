@@ -1,0 +1,27 @@
+{
+  "id": 2742,
+  "split": "train",
+  "name": "18_A. Triangle",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 18,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "brute force",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 60,
+    "generated_tests": 95,
+    "correct_solutions": 497,
+    "incorrect_solutions": 776
+  }
+}

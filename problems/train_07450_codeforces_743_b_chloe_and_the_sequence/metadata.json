@@ -1,0 +1,29 @@
+{
+  "id": 7450,
+  "split": "train",
+  "name": "743_B. Chloe and the sequence ",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 743,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "constructive algorithms",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 37,
+    "generated_tests": 98,
+    "correct_solutions": 1006,
+    "incorrect_solutions": 688
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 12606,
+  "split": "train",
+  "name": "1015_C. Songs Compression",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1015,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 100,
+    "correct_solutions": 891,
+    "incorrect_solutions": 592
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 11313,
+  "split": "train",
+  "name": "994_E. Careful Maneuvering",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 994,
+  "cf_index": "E",
+  "cf_points": 1000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 82,
+    "generated_tests": 37,
+    "correct_solutions": 334,
+    "incorrect_solutions": 496
+  }
+}

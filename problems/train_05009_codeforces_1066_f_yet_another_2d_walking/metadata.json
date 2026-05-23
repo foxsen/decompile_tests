@@ -1,0 +1,26 @@
+{
+  "id": 5009,
+  "split": "train",
+  "name": "1066_F. Yet another 2D Walking",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1066,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 4,
+    "generated_tests": 51,
+    "correct_solutions": 216,
+    "incorrect_solutions": 290
+  }
+}

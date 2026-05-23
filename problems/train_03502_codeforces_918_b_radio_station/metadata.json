@@ -1,0 +1,27 @@
+{
+  "id": 3502,
+  "split": "train",
+  "name": "918_B. Radio Station",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 918,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 87,
+    "correct_solutions": 782,
+    "incorrect_solutions": 430
+  }
+}

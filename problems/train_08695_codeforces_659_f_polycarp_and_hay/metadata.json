@@ -1,0 +1,30 @@
+{
+  "id": 8695,
+  "split": "train",
+  "name": "659_F. Polycarp and Hay",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 659,
+  "cf_index": "F",
+  "cf_points": 2000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 11,
+    "generated_tests": 36,
+    "correct_solutions": 340,
+    "incorrect_solutions": 837
+  }
+}

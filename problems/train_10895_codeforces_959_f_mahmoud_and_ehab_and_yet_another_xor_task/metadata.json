@@ -1,0 +1,29 @@
+{
+  "id": 10895,
+  "split": "train",
+  "name": "959_F. Mahmoud and Ehab and yet another xor task",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 959,
+  "cf_index": "F",
+  "cf_points": 2500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "bitmasks",
+    "dp",
+    "math",
+    "matrices"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 32,
+    "generated_tests": 51,
+    "correct_solutions": 273,
+    "incorrect_solutions": 257
+  }
+}

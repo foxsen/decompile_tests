@@ -1,0 +1,29 @@
+{
+  "id": 5322,
+  "split": "train",
+  "name": "107_B. Basketball Team",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 107,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 62,
+    "generated_tests": 87,
+    "correct_solutions": 511,
+    "incorrect_solutions": 690
+  }
+}

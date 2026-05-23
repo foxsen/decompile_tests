@@ -1,0 +1,27 @@
+{
+  "id": 9931,
+  "split": "train",
+  "name": "316_F1. Suns and Rays",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 316,
+  "cf_index": "F1",
+  "cf_points": 30.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dfs and similar",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 0,
+    "private_tests": 0,
+    "generated_tests": 0,
+    "correct_solutions": 213,
+    "incorrect_solutions": 490
+  }
+}

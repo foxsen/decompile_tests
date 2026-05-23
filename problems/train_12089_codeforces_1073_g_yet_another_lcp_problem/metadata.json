@@ -1,0 +1,27 @@
+{
+  "id": 12089,
+  "split": "train",
+  "name": "1073_G. Yet Another LCP Problem",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1073,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "data structures",
+    "string suffix structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 27,
+    "correct_solutions": 155,
+    "incorrect_solutions": 190
+  }
+}

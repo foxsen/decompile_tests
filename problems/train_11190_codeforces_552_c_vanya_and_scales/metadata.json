@@ -1,0 +1,31 @@
+{
+  "id": 11190,
+  "split": "train",
+  "name": "552_C. Vanya and Scales",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 552,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "math",
+    "meet-in-the-middle",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 119,
+    "generated_tests": 98,
+    "correct_solutions": 718,
+    "incorrect_solutions": 845
+  }
+}

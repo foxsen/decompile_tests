@@ -1,0 +1,29 @@
+{
+  "id": 3984,
+  "split": "train",
+  "name": "1387_B1. Village (Minimum)",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1387,
+  "cf_index": "B1",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "*special",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 0.75,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 15,
+    "generated_tests": 41,
+    "correct_solutions": 263,
+    "incorrect_solutions": 0
+  }
+}

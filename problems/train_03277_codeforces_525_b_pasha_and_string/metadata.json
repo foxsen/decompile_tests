@@ -1,0 +1,29 @@
+{
+  "id": 3277,
+  "split": "train",
+  "name": "525_B. Pasha and String",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 525,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 4,
+    "generated_tests": 99,
+    "correct_solutions": 617,
+    "incorrect_solutions": 521
+  }
+}

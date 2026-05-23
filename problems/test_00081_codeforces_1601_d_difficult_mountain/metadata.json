@@ -1,0 +1,29 @@
+{
+  "id": 81,
+  "split": "test",
+  "name": "1601_D. Difficult Mountain",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1601,
+  "cf_index": "D",
+  "cf_points": 2250.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 12,
+    "generated_tests": 200,
+    "correct_solutions": 78,
+    "incorrect_solutions": 118
+  }
+}

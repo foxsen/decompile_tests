@@ -1,0 +1,27 @@
+{
+  "id": 6499,
+  "split": "train",
+  "name": "406_A. Unusual Product",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 406,
+  "cf_index": "A",
+  "cf_points": 1500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 13,
+    "generated_tests": 53,
+    "correct_solutions": 529,
+    "incorrect_solutions": 428
+  }
+}

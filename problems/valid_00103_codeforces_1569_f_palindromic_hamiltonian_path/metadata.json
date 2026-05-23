@@ -1,0 +1,30 @@
+{
+  "id": 103,
+  "split": "valid",
+  "name": "1569_F. Palindromic Hamiltonian Path",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1569,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "hashing"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 119,
+    "generated_tests": 200,
+    "correct_solutions": 75,
+    "incorrect_solutions": 30
+  }
+}

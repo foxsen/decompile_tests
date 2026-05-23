@@ -1,0 +1,27 @@
+{
+  "id": 10881,
+  "split": "train",
+  "name": "630_K. Indivisibility",
+  "source": "codeforces",
+  "difficulty": "K",
+  "cf_contest_id": 630,
+  "cf_index": "K",
+  "cf_points": 0.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 0.5,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 9,
+    "generated_tests": 100,
+    "correct_solutions": 368,
+    "incorrect_solutions": 287
+  }
+}

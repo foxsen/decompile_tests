@@ -1,0 +1,27 @@
+{
+  "id": 6384,
+  "split": "train",
+  "name": "1545_B. AquaMoon and Chess",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1545,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "combinatorics",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 100,
+    "correct_solutions": 166,
+    "incorrect_solutions": 104
+  }
+}

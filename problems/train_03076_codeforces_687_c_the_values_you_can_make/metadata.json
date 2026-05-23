@@ -1,0 +1,26 @@
+{
+  "id": 3076,
+  "split": "train",
+  "name": "687_C. The Values You Can Make",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 687,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 34,
+    "generated_tests": 71,
+    "correct_solutions": 527,
+    "incorrect_solutions": 459
+  }
+}

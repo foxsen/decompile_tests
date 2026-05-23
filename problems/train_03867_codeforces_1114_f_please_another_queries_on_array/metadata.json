@@ -1,0 +1,30 @@
+{
+  "id": 3867,
+  "split": "train",
+  "name": "1114_F. Please, another Queries on Array?",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1114,
+  "cf_index": "F",
+  "cf_points": 2750.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "bitmasks",
+    "data structures",
+    "divide and conquer",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 7,
+    "generated_tests": 32,
+    "correct_solutions": 188,
+    "incorrect_solutions": 477
+  }
+}

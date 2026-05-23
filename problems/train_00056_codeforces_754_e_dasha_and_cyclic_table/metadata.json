@@ -1,0 +1,30 @@
+{
+  "id": 56,
+  "split": "train",
+  "name": "754_E. Dasha and cyclic table",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 754,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "fft",
+    "strings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 1,
+    "generated_tests": 26,
+    "correct_solutions": 191,
+    "incorrect_solutions": 215
+  }
+}

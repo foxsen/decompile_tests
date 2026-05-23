@@ -1,0 +1,28 @@
+{
+  "id": 7560,
+  "split": "train",
+  "name": "900_E. Maximum Questions",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 900,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 21,
+    "generated_tests": 48,
+    "correct_solutions": 215,
+    "incorrect_solutions": 221
+  }
+}

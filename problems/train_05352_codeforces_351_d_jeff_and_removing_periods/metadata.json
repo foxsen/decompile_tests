@@ -1,0 +1,26 @@
+{
+  "id": 5352,
+  "split": "train",
+  "name": "351_D. Jeff and Removing Periods",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 351,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 37,
+    "correct_solutions": 159,
+    "incorrect_solutions": 208
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1303,
+  "split": "train",
+  "name": "625_E. Frog Fights",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 625,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "data structures",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 45,
+    "generated_tests": 36,
+    "correct_solutions": 127,
+    "incorrect_solutions": 218
+  }
+}

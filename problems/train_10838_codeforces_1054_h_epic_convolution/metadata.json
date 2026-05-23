@@ -1,0 +1,29 @@
+{
+  "id": 10838,
+  "split": "train",
+  "name": "1054_H. Epic Convolution",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 1054,
+  "cf_index": "H",
+  "cf_points": 4000.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "chinese remainder theorem",
+    "fft",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 3,
+    "generated_tests": 40,
+    "correct_solutions": 42,
+    "incorrect_solutions": 202
+  }
+}

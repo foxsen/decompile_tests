@@ -1,0 +1,29 @@
+{
+  "id": 21,
+  "split": "test",
+  "name": "1580_B. Mathematics Curriculum",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1580,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 42,
+    "generated_tests": 200,
+    "correct_solutions": 137,
+    "incorrect_solutions": 99
+  }
+}

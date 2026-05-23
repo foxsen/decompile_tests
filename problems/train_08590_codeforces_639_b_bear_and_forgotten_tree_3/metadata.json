@@ -1,0 +1,28 @@
+{
+  "id": 8590,
+  "split": "train",
+  "name": "639_B. Bear and Forgotten Tree 3",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 639,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "constructive algorithms",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 45,
+    "generated_tests": 90,
+    "correct_solutions": 345,
+    "incorrect_solutions": 783
+  }
+}

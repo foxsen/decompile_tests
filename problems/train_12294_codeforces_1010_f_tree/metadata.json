@@ -1,0 +1,28 @@
+{
+  "id": 12294,
+  "split": "train",
+  "name": "1010_F. Tree",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1010,
+  "cf_index": "F",
+  "cf_points": 2750.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "fft",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 7.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 20,
+    "generated_tests": 37,
+    "correct_solutions": 121,
+    "incorrect_solutions": 131
+  }
+}

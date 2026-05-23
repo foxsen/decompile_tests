@@ -1,0 +1,29 @@
+{
+  "id": 7025,
+  "split": "train",
+  "name": "547_E. Mike and Friends",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 547,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "data structures",
+    "string suffix structures",
+    "strings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 39,
+    "correct_solutions": 170,
+    "incorrect_solutions": 206
+  }
+}

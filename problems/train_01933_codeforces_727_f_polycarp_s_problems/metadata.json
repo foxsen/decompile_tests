@@ -1,0 +1,28 @@
+{
+  "id": 1933,
+  "split": "train",
+  "name": "727_F. Polycarp's problems",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 727,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "binary search",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 12,
+    "generated_tests": 51,
+    "correct_solutions": 230,
+    "incorrect_solutions": 340
+  }
+}

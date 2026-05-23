@@ -1,0 +1,29 @@
+{
+  "id": 12216,
+  "split": "train",
+  "name": "182_A. Battlefield",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 182,
+  "cf_index": "A",
+  "cf_points": 3000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "geometry",
+    "graphs",
+    "implementation",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 26,
+    "generated_tests": 50,
+    "correct_solutions": 155,
+    "incorrect_solutions": 233
+  }
+}

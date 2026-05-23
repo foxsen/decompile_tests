@@ -1,0 +1,29 @@
+{
+  "id": 12607,
+  "split": "train",
+  "name": "1039_A. Timetable",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1039,
+  "cf_index": "A",
+  "cf_points": 750.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 67,
+    "correct_solutions": 269,
+    "incorrect_solutions": 641
+  }
+}

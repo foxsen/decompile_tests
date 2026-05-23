@@ -1,0 +1,27 @@
+{
+  "id": 2971,
+  "split": "train",
+  "name": "65_A. Harry Potter and Three Spells",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 65,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 7,
+    "private_tests": 117,
+    "generated_tests": 69,
+    "correct_solutions": 354,
+    "incorrect_solutions": 839
+  }
+}

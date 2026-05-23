@@ -1,0 +1,30 @@
+{
+  "id": 34,
+  "split": "test",
+  "name": "1582_F2. Korney Korneevich and XOR (hard version)",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1582,
+  "cf_index": "F2",
+  "cf_points": 1500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 16,
+    "generated_tests": 200,
+    "correct_solutions": 118,
+    "incorrect_solutions": 103
+  }
+}

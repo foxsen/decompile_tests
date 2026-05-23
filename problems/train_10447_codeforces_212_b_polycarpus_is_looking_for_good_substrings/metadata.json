@@ -1,0 +1,28 @@
+{
+  "id": 10447,
+  "split": "train",
+  "name": "212_B. Polycarpus is Looking for Good Substrings",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 212,
+  "cf_index": "B",
+  "cf_points": 2000.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "bitmasks",
+    "hashing",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 12,
+    "generated_tests": 45,
+    "correct_solutions": 128,
+    "incorrect_solutions": 171
+  }
+}

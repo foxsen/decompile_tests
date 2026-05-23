@@ -1,0 +1,29 @@
+{
+  "id": 12198,
+  "split": "train",
+  "name": "1184_E3. Daleks' Invasion (hard)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1184,
+  "cf_index": "E3",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures",
+    "dsu",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 10.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 14,
+    "generated_tests": 34,
+    "correct_solutions": 136,
+    "incorrect_solutions": 224
+  }
+}

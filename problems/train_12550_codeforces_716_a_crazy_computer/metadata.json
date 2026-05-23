@@ -1,0 +1,26 @@
+{
+  "id": 12550,
+  "split": "train",
+  "name": "716_A. Crazy Computer",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 716,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 94,
+    "correct_solutions": 1357,
+    "incorrect_solutions": 630
+  }
+}

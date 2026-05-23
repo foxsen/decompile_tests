@@ -1,0 +1,28 @@
+{
+  "id": 12223,
+  "split": "train",
+  "name": "349_D. Apple Tree",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 349,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "dfs and similar",
+    "number theory",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 11,
+    "generated_tests": 100,
+    "correct_solutions": 63,
+    "incorrect_solutions": 182
+  }
+}

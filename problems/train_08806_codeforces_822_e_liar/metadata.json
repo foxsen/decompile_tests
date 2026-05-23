@@ -1,0 +1,29 @@
+{
+  "id": 8806,
+  "split": "train",
+  "name": "822_E. Liar",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 822,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "binary search",
+    "dp",
+    "hashing",
+    "string suffix structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 28,
+    "generated_tests": 48,
+    "correct_solutions": 175,
+    "incorrect_solutions": 267
+  }
+}

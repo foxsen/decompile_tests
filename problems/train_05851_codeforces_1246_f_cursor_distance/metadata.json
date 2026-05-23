@@ -1,0 +1,24 @@
+{
+  "id": 5851,
+  "split": "train",
+  "name": "1246_F. Cursor Distance",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1246,
+  "cf_index": "F",
+  "cf_points": 3250.0,
+  "cf_rating": 3500,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 77,
+    "correct_solutions": 47,
+    "incorrect_solutions": 83
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 5751,
+  "split": "train",
+  "name": "1326_G. Spiderweb Trees",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1326,
+  "cf_index": "G",
+  "cf_points": 4000.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "dp",
+    "geometry",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 9,
+    "generated_tests": 100,
+    "correct_solutions": 14,
+    "incorrect_solutions": 51
+  }
+}

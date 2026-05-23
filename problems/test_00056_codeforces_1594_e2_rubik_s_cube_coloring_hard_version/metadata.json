@@ -1,0 +1,30 @@
+{
+  "id": 56,
+  "split": "test",
+  "name": "1594_E2. Rubik's Cube Coloring (hard version)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1594,
+  "cf_index": "E2",
+  "cf_points": 1500.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "implementation",
+    "math",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 5,
+    "generated_tests": 200,
+    "correct_solutions": 101,
+    "incorrect_solutions": 118
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8179,
+  "split": "train",
+  "name": "780_H. Intranet of Buses",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 780,
+  "cf_index": "H",
+  "cf_points": 3500.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "binary search",
+    "geometry",
+    "implementation",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 10.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 10,
+    "generated_tests": 47,
+    "correct_solutions": 54,
+    "incorrect_solutions": 207
+  }
+}

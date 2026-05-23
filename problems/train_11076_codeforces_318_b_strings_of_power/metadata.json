@@ -1,0 +1,28 @@
+{
+  "id": 11076,
+  "split": "train",
+  "name": "318_B. Strings of Power",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 318,
+  "cf_index": "B",
+  "cf_points": 500.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "implementation",
+    "strings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 3,
+    "generated_tests": 100,
+    "correct_solutions": 630,
+    "incorrect_solutions": 486
+  }
+}

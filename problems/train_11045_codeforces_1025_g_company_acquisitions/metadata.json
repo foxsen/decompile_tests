@@ -1,0 +1,27 @@
+{
+  "id": 11045,
+  "split": "train",
+  "name": "1025_G. Company Acquisitions",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1025,
+  "cf_index": "G",
+  "cf_points": 3500.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 8,
+    "generated_tests": 57,
+    "correct_solutions": 181,
+    "incorrect_solutions": 44
+  }
+}

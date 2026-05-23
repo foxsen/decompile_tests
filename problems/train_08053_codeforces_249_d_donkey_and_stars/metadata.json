@@ -1,0 +1,30 @@
+{
+  "id": 8053,
+  "split": "train",
+  "name": "249_D. Donkey and Stars",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 249,
+  "cf_index": "D",
+  "cf_points": 1500.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "geometry",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 17,
+    "generated_tests": 49,
+    "correct_solutions": 144,
+    "incorrect_solutions": 219
+  }
+}

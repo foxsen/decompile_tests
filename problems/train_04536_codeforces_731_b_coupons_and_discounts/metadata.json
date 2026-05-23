@@ -1,0 +1,27 @@
+{
+  "id": 4536,
+  "split": "train",
+  "name": "731_B. Coupons and Discounts",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 731,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 41,
+    "generated_tests": 83,
+    "correct_solutions": 649,
+    "incorrect_solutions": 563
+  }
+}

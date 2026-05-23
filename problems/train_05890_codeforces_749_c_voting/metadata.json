@@ -1,0 +1,28 @@
+{
+  "id": 5890,
+  "split": "train",
+  "name": "749_C. Voting",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 749,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 71,
+    "generated_tests": 89,
+    "correct_solutions": 471,
+    "incorrect_solutions": 593
+  }
+}

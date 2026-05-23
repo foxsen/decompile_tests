@@ -1,0 +1,26 @@
+{
+  "id": 6933,
+  "split": "train",
+  "name": "820_E. Mister B and Beacons on Field",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 820,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 100,
+    "correct_solutions": 39,
+    "incorrect_solutions": 28
+  }
+}

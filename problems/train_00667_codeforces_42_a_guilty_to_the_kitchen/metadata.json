@@ -1,0 +1,27 @@
+{
+  "id": 667,
+  "split": "train",
+  "name": "42_A. Guilty — to the kitchen!",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 42,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 77,
+    "generated_tests": 77,
+    "correct_solutions": 418,
+    "incorrect_solutions": 346
+  }
+}

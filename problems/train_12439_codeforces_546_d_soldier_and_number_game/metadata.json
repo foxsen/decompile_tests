@@ -1,0 +1,29 @@
+{
+  "id": 12439,
+  "split": "train",
+  "name": "546_D. Soldier and Number Game",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 546,
+  "cf_index": "D",
+  "cf_points": 1500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "constructive algorithms",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 43,
+    "correct_solutions": 400,
+    "incorrect_solutions": 465
+  }
+}

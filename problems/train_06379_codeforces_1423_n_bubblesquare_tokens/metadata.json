@@ -1,0 +1,24 @@
+{
+  "id": 6379,
+  "split": "train",
+  "name": "1423_N. BubbleSquare Tokens",
+  "source": "codeforces",
+  "difficulty": "N",
+  "cf_contest_id": 1423,
+  "cf_index": "N",
+  "cf_points": 0.0,
+  "cf_rating": 3500,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 0,
+    "generated_tests": 100,
+    "correct_solutions": 32,
+    "incorrect_solutions": 20
+  }
+}

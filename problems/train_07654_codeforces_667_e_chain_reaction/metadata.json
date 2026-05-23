@@ -1,0 +1,27 @@
+{
+  "id": 7654,
+  "split": "train",
+  "name": "667_E. Chain Reaction",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 667,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "brute force",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 15,
+    "generated_tests": 49,
+    "correct_solutions": 107,
+    "incorrect_solutions": 176
+  }
+}

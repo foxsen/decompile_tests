@@ -1,0 +1,27 @@
+{
+  "id": 9201,
+  "split": "train",
+  "name": "318_D. Ants",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 318,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 17,
+    "generated_tests": 52,
+    "correct_solutions": 118,
+    "incorrect_solutions": 147
+  }
+}

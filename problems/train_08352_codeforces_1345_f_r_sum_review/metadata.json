@@ -1,0 +1,28 @@
+{
+  "id": 8352,
+  "split": "train",
+  "name": "1345_F. Résumé Review",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1345,
+  "cf_index": "F",
+  "cf_points": 1750.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "binary search",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 69,
+    "correct_solutions": 89,
+    "incorrect_solutions": 149
+  }
+}

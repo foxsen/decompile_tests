@@ -1,0 +1,31 @@
+{
+  "id": 10849,
+  "split": "train",
+  "name": "1286_F. Harry The Potter",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1286,
+  "cf_index": "F",
+  "cf_points": 2750.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "fft",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 9.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 86,
+    "generated_tests": 87,
+    "correct_solutions": 117,
+    "incorrect_solutions": 233
+  }
+}

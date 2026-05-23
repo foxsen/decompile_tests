@@ -1,0 +1,30 @@
+{
+  "id": 6997,
+  "split": "train",
+  "name": "1293_E. Xenon's Attack on the Gangs",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1293,
+  "cf_index": "E",
+  "cf_points": 1250.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "combinatorics",
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 21,
+    "generated_tests": 53,
+    "correct_solutions": 97,
+    "incorrect_solutions": 103
+  }
+}

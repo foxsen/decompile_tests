@@ -1,0 +1,27 @@
+{
+  "id": 10566,
+  "split": "train",
+  "name": "575_G. Run for beer",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 575,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dfs and similar",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 8,
+    "generated_tests": 39,
+    "correct_solutions": 164,
+    "incorrect_solutions": 475
+  }
+}

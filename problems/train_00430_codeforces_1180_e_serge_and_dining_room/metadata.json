@@ -1,0 +1,32 @@
+{
+  "id": 430,
+  "split": "train",
+  "name": "1180_E. Serge and Dining Room",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1180,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "graph matchings",
+    "greedy",
+    "implementation",
+    "math",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 3,
+    "generated_tests": 55,
+    "correct_solutions": 101,
+    "incorrect_solutions": 111
+  }
+}

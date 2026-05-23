@@ -1,0 +1,26 @@
+{
+  "id": 12649,
+  "split": "train",
+  "name": "595_C. Warrior and Archer",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 595,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "games"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 12,
+    "generated_tests": 63,
+    "correct_solutions": 377,
+    "incorrect_solutions": 334
+  }
+}

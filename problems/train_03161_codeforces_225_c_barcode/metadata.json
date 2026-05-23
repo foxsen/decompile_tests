@@ -1,0 +1,27 @@
+{
+  "id": 3161,
+  "split": "train",
+  "name": "225_C. Barcode",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 225,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "dp",
+    "matrices"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 10,
+    "generated_tests": 74,
+    "correct_solutions": 405,
+    "incorrect_solutions": 474
+  }
+}

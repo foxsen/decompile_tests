@@ -1,0 +1,28 @@
+{
+  "id": 10576,
+  "split": "train",
+  "name": "802_N. April Fools' Problem (medium)",
+  "source": "codeforces",
+  "difficulty": "N",
+  "cf_contest_id": 802,
+  "cf_index": "N",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "binary search",
+    "flows",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 4,
+    "generated_tests": 42,
+    "correct_solutions": 171,
+    "incorrect_solutions": 172
+  }
+}

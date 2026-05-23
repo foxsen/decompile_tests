@@ -1,0 +1,27 @@
+{
+  "id": 9514,
+  "split": "train",
+  "name": "300_C. Beautiful Numbers",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 300,
+  "cf_index": "C",
+  "cf_points": 2000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "brute force",
+    "combinatorics"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 30,
+    "generated_tests": 67,
+    "correct_solutions": 482,
+    "incorrect_solutions": 420
+  }
+}

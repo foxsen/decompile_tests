@@ -1,0 +1,27 @@
+{
+  "id": 57,
+  "split": "valid",
+  "name": "1558_C. Bottom-Tier Reversals",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1558,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 119,
+    "correct_solutions": 124,
+    "incorrect_solutions": 116
+  }
+}

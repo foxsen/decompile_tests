@@ -1,0 +1,26 @@
+{
+  "id": 7328,
+  "split": "train",
+  "name": "331_C1. The Great Julya Calendar",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 331,
+  "cf_index": "C1",
+  "cf_points": 20.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 63,
+    "generated_tests": 45,
+    "correct_solutions": 930,
+    "incorrect_solutions": 818
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 11788,
+  "split": "train",
+  "name": "1303_A. Erasing Zeroes",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1303,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 4,
+    "generated_tests": 99,
+    "correct_solutions": 2134,
+    "incorrect_solutions": 796
+  }
+}

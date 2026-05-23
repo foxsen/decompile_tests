@@ -1,0 +1,29 @@
+{
+  "id": 2418,
+  "split": "train",
+  "name": "1303_G. Sum of Prefix Sums",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1303,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer",
+    "geometry",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 39,
+    "correct_solutions": 174,
+    "incorrect_solutions": 374
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 9834,
+  "split": "train",
+  "name": "475_A. Bayan Bus",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 475,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 33,
+    "generated_tests": 4,
+    "correct_solutions": 575,
+    "incorrect_solutions": 559
+  }
+}

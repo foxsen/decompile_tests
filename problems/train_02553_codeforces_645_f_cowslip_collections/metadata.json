@@ -1,0 +1,28 @@
+{
+  "id": 2553,
+  "split": "train",
+  "name": "645_F. Cowslip Collections",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 645,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 8.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 40,
+    "correct_solutions": 115,
+    "incorrect_solutions": 244
+  }
+}

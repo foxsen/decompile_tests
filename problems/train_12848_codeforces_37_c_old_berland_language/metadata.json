@@ -1,0 +1,28 @@
+{
+  "id": 12848,
+  "split": "train",
+  "name": "37_C. Old Berland Language",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 37,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "data structures",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 30,
+    "generated_tests": 70,
+    "correct_solutions": 266,
+    "incorrect_solutions": 332
+  }
+}

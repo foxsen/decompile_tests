@@ -1,0 +1,27 @@
+{
+  "id": 12244,
+  "split": "train",
+  "name": "841_A. Generous Kefa",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 841,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 112,
+    "generated_tests": 70,
+    "correct_solutions": 1066,
+    "incorrect_solutions": 598
+  }
+}

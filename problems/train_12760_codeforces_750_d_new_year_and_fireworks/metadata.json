@@ -1,0 +1,30 @@
+{
+  "id": 12760,
+  "split": "train",
+  "name": "750_D. New Year and Fireworks",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 750,
+  "cf_index": "D",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 34,
+    "generated_tests": 43,
+    "correct_solutions": 337,
+    "incorrect_solutions": 254
+  }
+}

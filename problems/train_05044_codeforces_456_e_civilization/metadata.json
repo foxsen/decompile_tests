@@ -1,0 +1,30 @@
+{
+  "id": 5044,
+  "split": "train",
+  "name": "456_E. Civilization",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 456,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "ternary search",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 23,
+    "generated_tests": 48,
+    "correct_solutions": 392,
+    "incorrect_solutions": 462
+  }
+}

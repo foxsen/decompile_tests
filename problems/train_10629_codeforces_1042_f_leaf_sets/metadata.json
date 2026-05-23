@@ -1,0 +1,32 @@
+{
+  "id": 10629,
+  "split": "train",
+  "name": "1042_F. Leaf Sets",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1042,
+  "cf_index": "F",
+  "cf_points": 2750.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "sortings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 13,
+    "generated_tests": 42,
+    "correct_solutions": 197,
+    "incorrect_solutions": 245
+  }
+}

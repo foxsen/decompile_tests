@@ -1,0 +1,30 @@
+{
+  "id": 6464,
+  "split": "train",
+  "name": "101_D. Castle",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 101,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "probabilities",
+    "sortings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 21,
+    "generated_tests": 51,
+    "correct_solutions": 151,
+    "incorrect_solutions": 213
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 7655,
+  "split": "train",
+  "name": "690_C3. Brain Network (hard)",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 690,
+  "cf_index": "C3",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 4,
+    "generated_tests": 57,
+    "correct_solutions": 225,
+    "incorrect_solutions": 194
+  }
+}

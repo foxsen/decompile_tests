@@ -1,0 +1,29 @@
+{
+  "id": 67,
+  "split": "test",
+  "name": "1599_C. Bubble Strike",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1599,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "combinatorics",
+    "math",
+    "probabilities",
+    "ternary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 0.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 35,
+    "generated_tests": 200,
+    "correct_solutions": 102,
+    "incorrect_solutions": 119
+  }
+}

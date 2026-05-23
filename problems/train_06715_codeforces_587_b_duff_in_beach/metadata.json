@@ -1,0 +1,26 @@
+{
+  "id": 6715,
+  "split": "train",
+  "name": "587_B. Duff in Beach",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 587,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 34,
+    "correct_solutions": 288,
+    "incorrect_solutions": 536
+  }
+}

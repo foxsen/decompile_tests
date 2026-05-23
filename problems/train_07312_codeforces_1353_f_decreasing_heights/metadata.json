@@ -1,0 +1,27 @@
+{
+  "id": 7312,
+  "split": "train",
+  "name": "1353_F. Decreasing Heights",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1353,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "brute force",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 72,
+    "correct_solutions": 272,
+    "incorrect_solutions": 413
+  }
+}

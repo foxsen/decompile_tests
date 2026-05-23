@@ -1,0 +1,27 @@
+{
+  "id": 1821,
+  "split": "train",
+  "name": "542_A. Place Your Ad Here",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 542,
+  "cf_index": "A",
+  "cf_points": 2000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 12,
+    "generated_tests": 20,
+    "correct_solutions": 144,
+    "incorrect_solutions": 324
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 10770,
+  "split": "train",
+  "name": "479_D. Long Jumps",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 479,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "binary search",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 64,
+    "generated_tests": 58,
+    "correct_solutions": 234,
+    "incorrect_solutions": 648
+  }
+}

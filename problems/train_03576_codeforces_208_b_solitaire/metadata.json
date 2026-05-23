@@ -1,0 +1,27 @@
+{
+  "id": 3576,
+  "split": "train",
+  "name": "208_B. Solitaire",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 208,
+  "cf_index": "B",
+  "cf_points": 2000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "dfs and similar",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 47,
+    "generated_tests": 38,
+    "correct_solutions": 303,
+    "incorrect_solutions": 537
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 12636,
+  "split": "train",
+  "name": "286_B. Shifting",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 286,
+  "cf_index": "B",
+  "cf_points": 1500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 21,
+    "generated_tests": 59,
+    "correct_solutions": 180,
+    "incorrect_solutions": 109
+  }
+}

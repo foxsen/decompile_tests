@@ -1,0 +1,30 @@
+{
+  "id": 7638,
+  "split": "train",
+  "name": "289_B. Polo the Penguin and Matrix",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 289,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "implementation",
+    "sortings",
+    "ternary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 10,
+    "generated_tests": 84,
+    "correct_solutions": 703,
+    "incorrect_solutions": 633
+  }
+}

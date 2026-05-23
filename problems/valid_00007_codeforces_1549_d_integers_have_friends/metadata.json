@@ -1,0 +1,29 @@
+{
+  "id": 7,
+  "split": "valid",
+  "name": "1549_D. Integers Have Friends",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1549,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "math",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 7,
+    "generated_tests": 200,
+    "correct_solutions": 210,
+    "incorrect_solutions": 440
+  }
+}

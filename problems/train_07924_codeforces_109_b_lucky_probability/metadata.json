@@ -1,0 +1,27 @@
+{
+  "id": 7924,
+  "split": "train",
+  "name": "109_B. Lucky Probability",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 109,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "brute force",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 58,
+    "generated_tests": 56,
+    "correct_solutions": 225,
+    "incorrect_solutions": 489
+  }
+}

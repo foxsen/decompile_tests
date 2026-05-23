@@ -1,0 +1,27 @@
+{
+  "id": 4109,
+  "split": "train",
+  "name": "479_A. Expression",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 479,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "brute force",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 27,
+    "generated_tests": 93,
+    "correct_solutions": 3641,
+    "incorrect_solutions": 760
+  }
+}

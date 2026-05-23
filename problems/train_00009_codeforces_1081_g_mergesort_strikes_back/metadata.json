@@ -1,0 +1,27 @@
+{
+  "id": 9,
+  "split": "train",
+  "name": "1081_G. Mergesort Strikes Back",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1081,
+  "cf_index": "G",
+  "cf_points": 3500.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 124,
+    "generated_tests": 60,
+    "correct_solutions": 127,
+    "incorrect_solutions": 47
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1087,
+  "split": "train",
+  "name": "45_I. TCMCF+++",
+  "source": "codeforces",
+  "difficulty": "I",
+  "cf_contest_id": 45,
+  "cf_index": "I",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 60,
+    "generated_tests": 71,
+    "correct_solutions": 274,
+    "incorrect_solutions": 557
+  }
+}

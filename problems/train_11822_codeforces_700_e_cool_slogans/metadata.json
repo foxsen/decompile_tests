@@ -1,0 +1,27 @@
+{
+  "id": 11822,
+  "split": "train",
+  "name": "700_E. Cool Slogans",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 700,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 3300,
+  "cf_tags": [
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 22,
+    "generated_tests": 47,
+    "correct_solutions": 107,
+    "incorrect_solutions": 217
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 8683,
+  "split": "train",
+  "name": "373_E. Watching Fireworks is Fun",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 373,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 50,
+    "correct_solutions": 99,
+    "incorrect_solutions": 106
+  }
+}

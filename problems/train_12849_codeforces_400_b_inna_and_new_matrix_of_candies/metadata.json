@@ -1,0 +1,28 @@
+{
+  "id": 12849,
+  "split": "train",
+  "name": "400_B. Inna and New Matrix of Candies",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 400,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "brute force",
+    "implementation",
+    "schedules"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 77,
+    "correct_solutions": 518,
+    "incorrect_solutions": 496
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 780,
+  "split": "train",
+  "name": "630_E. A rectangle",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 630,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 0.5,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 41,
+    "generated_tests": 86,
+    "correct_solutions": 364,
+    "incorrect_solutions": 528
+  }
+}

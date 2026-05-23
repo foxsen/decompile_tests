@@ -1,0 +1,28 @@
+{
+  "id": 9187,
+  "split": "train",
+  "name": "1385_E. Directing Edges",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1385,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 82,
+    "correct_solutions": 413,
+    "incorrect_solutions": 522
+  }
+}

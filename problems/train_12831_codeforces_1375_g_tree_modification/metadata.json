@@ -1,0 +1,31 @@
+{
+  "id": 12831,
+  "split": "train",
+  "name": "1375_G. Tree Modification",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1375,
+  "cf_index": "G",
+  "cf_points": 2250.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "graph matchings",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 22,
+    "generated_tests": 57,
+    "correct_solutions": 229,
+    "incorrect_solutions": 221
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 6676,
+  "split": "train",
+  "name": "1096_G. Lucky Tickets",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1096,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "divide and conquer",
+    "dp",
+    "fft"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 110,
+    "generated_tests": 38,
+    "correct_solutions": 271,
+    "incorrect_solutions": 205
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7427,
+  "split": "train",
+  "name": "200_A. Cinema",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 200,
+  "cf_index": "A",
+  "cf_points": 3000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "brute force",
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 65,
+    "correct_solutions": 249,
+    "incorrect_solutions": 365
+  }
+}

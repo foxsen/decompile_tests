@@ -1,0 +1,29 @@
+{
+  "id": 643,
+  "split": "train",
+  "name": "1271_C. Shawarma Tent",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1271,
+  "cf_index": "C",
+  "cf_points": 1250.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "brute force",
+    "geometry",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 5,
+    "generated_tests": 90,
+    "correct_solutions": 704,
+    "incorrect_solutions": 504
+  }
+}

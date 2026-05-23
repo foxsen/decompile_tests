@@ -1,0 +1,27 @@
+{
+  "id": 2765,
+  "split": "train",
+  "name": "731_E. Funny Game",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 731,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dp",
+    "games"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 24,
+    "generated_tests": 52,
+    "correct_solutions": 241,
+    "incorrect_solutions": 222
+  }
+}

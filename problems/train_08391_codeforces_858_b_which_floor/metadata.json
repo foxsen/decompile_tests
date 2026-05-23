@@ -1,0 +1,27 @@
+{
+  "id": 8391,
+  "split": "train",
+  "name": "858_B. Which floor?",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 858,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 66,
+    "generated_tests": 71,
+    "correct_solutions": 329,
+    "incorrect_solutions": 658
+  }
+}

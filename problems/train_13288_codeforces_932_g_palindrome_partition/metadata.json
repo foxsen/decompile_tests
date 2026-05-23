@@ -1,0 +1,28 @@
+{
+  "id": 13288,
+  "split": "train",
+  "name": "932_G. Palindrome Partition",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 932,
+  "cf_index": "G",
+  "cf_points": 3000.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "dp",
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 48,
+    "correct_solutions": 218,
+    "incorrect_solutions": 162
+  }
+}

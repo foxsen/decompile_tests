@@ -1,0 +1,24 @@
+{
+  "id": 898,
+  "split": "train",
+  "name": "952_E. Cheese Board",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 952,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 14,
+    "generated_tests": 60,
+    "correct_solutions": 243,
+    "incorrect_solutions": 481
+  }
+}

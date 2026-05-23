@@ -1,0 +1,27 @@
+{
+  "id": 7236,
+  "split": "train",
+  "name": "617_D. Polyline",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 617,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 51,
+    "generated_tests": 91,
+    "correct_solutions": 441,
+    "incorrect_solutions": 744
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 4834,
+  "split": "train",
+  "name": "39_F. Pacifist frogs",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 39,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 16,
+    "generated_tests": 64,
+    "correct_solutions": 304,
+    "incorrect_solutions": 180
+  }
+}

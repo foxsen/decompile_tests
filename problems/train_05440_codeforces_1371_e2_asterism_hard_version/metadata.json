@@ -1,0 +1,31 @@
+{
+  "id": 5440,
+  "split": "train",
+  "name": "1371_E2. Asterism (Hard Version)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1371,
+  "cf_index": "E2",
+  "cf_points": 1250.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "binary search",
+    "combinatorics",
+    "dp",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 22,
+    "generated_tests": 83,
+    "correct_solutions": 171,
+    "incorrect_solutions": 193
+  }
+}

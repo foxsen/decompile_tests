@@ -1,0 +1,27 @@
+{
+  "id": 13157,
+  "split": "train",
+  "name": "309_D. Tennis Rackets",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 309,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "brute force",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 18,
+    "generated_tests": 47,
+    "correct_solutions": 132,
+    "incorrect_solutions": 78
+  }
+}

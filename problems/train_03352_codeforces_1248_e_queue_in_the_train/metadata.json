@@ -1,0 +1,28 @@
+{
+  "id": 3352,
+  "split": "train",
+  "name": "1248_E. Queue in the Train",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1248,
+  "cf_index": "E",
+  "cf_points": 1250.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 6,
+    "generated_tests": 50,
+    "correct_solutions": 97,
+    "incorrect_solutions": 274
+  }
+}

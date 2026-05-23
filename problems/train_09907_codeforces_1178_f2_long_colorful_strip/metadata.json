@@ -1,0 +1,26 @@
+{
+  "id": 9907,
+  "split": "train",
+  "name": "1178_F2. Long Colorful Strip",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1178,
+  "cf_index": "F2",
+  "cf_points": 1500.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 20,
+    "generated_tests": 11,
+    "correct_solutions": 102,
+    "incorrect_solutions": 112
+  }
+}

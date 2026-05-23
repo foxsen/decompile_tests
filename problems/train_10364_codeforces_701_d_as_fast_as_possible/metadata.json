@@ -1,0 +1,27 @@
+{
+  "id": 10364,
+  "split": "train",
+  "name": "701_D. As Fast As Possible",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 701,
+  "cf_index": "D",
+  "cf_points": 500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "binary search",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 40,
+    "generated_tests": 69,
+    "correct_solutions": 218,
+    "incorrect_solutions": 144
+  }
+}

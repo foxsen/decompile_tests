@@ -1,0 +1,28 @@
+{
+  "id": 1269,
+  "split": "train",
+  "name": "1239_A. Ivan the Fool and the Probability Theory",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1239,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 27,
+    "generated_tests": 100,
+    "correct_solutions": 575,
+    "incorrect_solutions": 647
+  }
+}

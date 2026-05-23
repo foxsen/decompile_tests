@@ -1,0 +1,28 @@
+{
+  "id": 12004,
+  "split": "train",
+  "name": "1481_E. Sorting Books",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1481,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 200,
+    "correct_solutions": 159,
+    "incorrect_solutions": 201
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2563,
+  "split": "train",
+  "name": "877_F. Ann and Books",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 877,
+  "cf_index": "F",
+  "cf_points": 2750.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "data structures",
+    "flows",
+    "hashing"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 4,
+    "generated_tests": 42,
+    "correct_solutions": 164,
+    "incorrect_solutions": 289
+  }
+}

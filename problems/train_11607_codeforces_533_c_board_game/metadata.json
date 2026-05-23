@@ -1,0 +1,29 @@
+{
+  "id": 11607,
+  "split": "train",
+  "name": "533_C. Board Game",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 533,
+  "cf_index": "C",
+  "cf_points": 250.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "games",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 102,
+    "generated_tests": 53,
+    "correct_solutions": 234,
+    "incorrect_solutions": 249
+  }
+}

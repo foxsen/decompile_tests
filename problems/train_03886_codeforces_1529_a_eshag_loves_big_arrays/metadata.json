@@ -1,0 +1,28 @@
+{
+  "id": 3886,
+  "split": "train",
+  "name": "1529_A. Eshag Loves Big Arrays",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1529,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 200,
+    "correct_solutions": 304,
+    "incorrect_solutions": 301
+  }
+}

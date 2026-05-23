@@ -1,0 +1,28 @@
+{
+  "id": 2622,
+  "split": "train",
+  "name": "1217_C. The Number Of Good Substrings",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1217,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "brute force"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 95,
+    "correct_solutions": 480,
+    "incorrect_solutions": 517
+  }
+}

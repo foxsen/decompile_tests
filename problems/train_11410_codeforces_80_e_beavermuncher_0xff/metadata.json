@@ -1,0 +1,30 @@
+{
+  "id": 11410,
+  "split": "train",
+  "name": "80_E. Beavermuncher-0xFF",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 80,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 16,
+    "generated_tests": 56,
+    "correct_solutions": 214,
+    "incorrect_solutions": 329
+  }
+}

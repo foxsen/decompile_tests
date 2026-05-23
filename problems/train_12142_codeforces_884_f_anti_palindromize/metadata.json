@@ -1,0 +1,28 @@
+{
+  "id": 12142,
+  "split": "train",
+  "name": "884_F. Anti-Palindromize",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 884,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "flows",
+    "graphs",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 119,
+    "generated_tests": 53,
+    "correct_solutions": 207,
+    "incorrect_solutions": 189
+  }
+}

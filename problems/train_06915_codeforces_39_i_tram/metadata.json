@@ -1,0 +1,24 @@
+{
+  "id": 6915,
+  "split": "train",
+  "name": "39_I. Tram",
+  "source": "codeforces",
+  "difficulty": "I",
+  "cf_contest_id": 39,
+  "cf_index": "I",
+  "cf_points": 0.0,
+  "cf_rating": 2500,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 21,
+    "generated_tests": 100,
+    "correct_solutions": 28,
+    "incorrect_solutions": 73
+  }
+}

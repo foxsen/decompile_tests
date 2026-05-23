@@ -1,0 +1,26 @@
+{
+  "id": 3354,
+  "split": "train",
+  "name": "1288_E. Messenger Simulator",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1288,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 10,
+    "generated_tests": 69,
+    "correct_solutions": 252,
+    "incorrect_solutions": 280
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 11670,
+  "split": "train",
+  "name": "1023_F. Mobile Phone Network",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1023,
+  "cf_index": "F",
+  "cf_points": 3250.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 7,
+    "generated_tests": 30,
+    "correct_solutions": 170,
+    "incorrect_solutions": 218
+  }
+}

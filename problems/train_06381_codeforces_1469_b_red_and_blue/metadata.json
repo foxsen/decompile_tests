@@ -1,0 +1,27 @@
+{
+  "id": 6381,
+  "split": "train",
+  "name": "1469_B. Red and Blue",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1469,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 313,
+    "incorrect_solutions": 314
+  }
+}

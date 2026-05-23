@@ -1,0 +1,28 @@
+{
+  "id": 12651,
+  "split": "train",
+  "name": "637_A. Voting for Photos",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 637,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "*special",
+    "constructive algorithms",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 26,
+    "generated_tests": 89,
+    "correct_solutions": 590,
+    "incorrect_solutions": 363
+  }
+}

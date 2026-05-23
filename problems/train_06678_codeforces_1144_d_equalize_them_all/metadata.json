@@ -1,0 +1,27 @@
+{
+  "id": 6678,
+  "split": "train",
+  "name": "1144_D. Equalize Them All",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1144,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 4,
+    "generated_tests": 90,
+    "correct_solutions": 647,
+    "incorrect_solutions": 659
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 9823,
+  "split": "train",
+  "name": "215_E. Periodical Numbers",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 215,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 43,
+    "generated_tests": 58,
+    "correct_solutions": 184,
+    "incorrect_solutions": 261
+  }
+}

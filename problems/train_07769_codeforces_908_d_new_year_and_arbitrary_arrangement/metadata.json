@@ -1,0 +1,28 @@
+{
+  "id": 7769,
+  "split": "train",
+  "name": "908_D. New Year and Arbitrary Arrangement",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 908,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 22,
+    "generated_tests": 44,
+    "correct_solutions": 299,
+    "incorrect_solutions": 216
+  }
+}

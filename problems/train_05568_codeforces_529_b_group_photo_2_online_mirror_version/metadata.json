@@ -1,0 +1,28 @@
+{
+  "id": 5568,
+  "split": "train",
+  "name": "529_B. Group Photo 2 (online mirror version)",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 529,
+  "cf_index": "B",
+  "cf_points": 500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "brute force",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 27,
+    "generated_tests": 59,
+    "correct_solutions": 216,
+    "incorrect_solutions": 395
+  }
+}

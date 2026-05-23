@@ -1,0 +1,26 @@
+{
+  "id": 5151,
+  "split": "train",
+  "name": "513_E2. Subarray Cuts",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 513,
+  "cf_index": "E2",
+  "cf_points": 12.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 20,
+    "generated_tests": 62,
+    "correct_solutions": 132,
+    "incorrect_solutions": 106
+  }
+}

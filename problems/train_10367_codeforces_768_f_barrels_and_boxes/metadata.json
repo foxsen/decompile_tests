@@ -1,0 +1,30 @@
+{
+  "id": 10367,
+  "split": "train",
+  "name": "768_F. Barrels and boxes",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 768,
+  "cf_index": "F",
+  "cf_points": 2250.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "brute force",
+    "combinatorics",
+    "math",
+    "number theory",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 70,
+    "generated_tests": 40,
+    "correct_solutions": 185,
+    "incorrect_solutions": 280
+  }
+}

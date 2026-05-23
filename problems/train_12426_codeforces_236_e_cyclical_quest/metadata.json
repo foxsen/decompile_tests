@@ -1,0 +1,28 @@
+{
+  "id": 12426,
+  "split": "train",
+  "name": "236_E. Cyclical Quest",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 236,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures",
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 100,
+    "correct_solutions": 21,
+    "incorrect_solutions": 20
+  }
+}

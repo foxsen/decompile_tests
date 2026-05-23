@@ -1,0 +1,28 @@
+{
+  "id": 8286,
+  "split": "train",
+  "name": "851_E. Arpa and a game with Mojtaba",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 851,
+  "cf_index": "E",
+  "cf_points": 1250.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "bitmasks",
+    "dp",
+    "games"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 36,
+    "generated_tests": 46,
+    "correct_solutions": 97,
+    "incorrect_solutions": 168
+  }
+}

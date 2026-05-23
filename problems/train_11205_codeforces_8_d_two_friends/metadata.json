@@ -1,0 +1,27 @@
+{
+  "id": 11205,
+  "split": "train",
+  "name": "8_D. Two Friends",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 8,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "binary search",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 73,
+    "generated_tests": 59,
+    "correct_solutions": 204,
+    "incorrect_solutions": 534
+  }
+}

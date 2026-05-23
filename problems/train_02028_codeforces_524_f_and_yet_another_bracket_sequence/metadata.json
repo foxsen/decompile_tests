@@ -1,0 +1,30 @@
+{
+  "id": 2028,
+  "split": "train",
+  "name": "524_F. And Yet Another Bracket Sequence",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 524,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures",
+    "greedy",
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 38,
+    "correct_solutions": 81,
+    "incorrect_solutions": 124
+  }
+}

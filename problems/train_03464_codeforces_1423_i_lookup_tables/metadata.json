@@ -1,0 +1,26 @@
+{
+  "id": 3464,
+  "split": "train",
+  "name": "1423_I. Lookup Tables",
+  "source": "codeforces",
+  "difficulty": "I",
+  "cf_contest_id": 1423,
+  "cf_index": "I",
+  "cf_points": 0.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "bitmasks"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 8,
+    "generated_tests": 100,
+    "correct_solutions": 27,
+    "incorrect_solutions": 42
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2217,
+  "split": "train",
+  "name": "1469_F. Power Sockets",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1469,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 8,
+    "generated_tests": 200,
+    "correct_solutions": 108,
+    "incorrect_solutions": 123
+  }
+}

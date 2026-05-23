@@ -1,0 +1,30 @@
+{
+  "id": 12114,
+  "split": "train",
+  "name": "227_E. Anniversary",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 227,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures",
+    "implementation",
+    "math",
+    "matrices",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 148,
+    "generated_tests": 73,
+    "correct_solutions": 77,
+    "incorrect_solutions": 206
+  }
+}

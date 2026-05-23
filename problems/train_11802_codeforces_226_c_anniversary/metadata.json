@@ -1,0 +1,30 @@
+{
+  "id": 11802,
+  "split": "train",
+  "name": "226_C. Anniversary",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 226,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures",
+    "implementation",
+    "math",
+    "matrices",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 148,
+    "generated_tests": 46,
+    "correct_solutions": 264,
+    "incorrect_solutions": 422
+  }
+}

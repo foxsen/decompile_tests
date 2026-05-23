@@ -1,0 +1,27 @@
+{
+  "id": 5768,
+  "split": "train",
+  "name": "320_E. Kalila and Dimna in the Logging Industry",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 320,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "dp",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 0,
+    "generated_tests": 39,
+    "correct_solutions": 119,
+    "incorrect_solutions": 161
+  }
+}

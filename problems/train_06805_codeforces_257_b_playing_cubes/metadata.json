@@ -1,0 +1,28 @@
+{
+  "id": 6805,
+  "split": "train",
+  "name": "257_B. Playing Cubes",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 257,
+  "cf_index": "B",
+  "cf_points": 500.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "games",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 38,
+    "generated_tests": 100,
+    "correct_solutions": 558,
+    "incorrect_solutions": 452
+  }
+}

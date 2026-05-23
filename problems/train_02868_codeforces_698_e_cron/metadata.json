@@ -1,0 +1,24 @@
+{
+  "id": 2868,
+  "split": "train",
+  "name": "698_E. Cron",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 698,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2800,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 100,
+    "correct_solutions": 57,
+    "incorrect_solutions": 108
+  }
+}

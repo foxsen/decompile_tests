@@ -1,0 +1,27 @@
+{
+  "id": 10159,
+  "split": "train",
+  "name": "774_I. Composing Of String",
+  "source": "codeforces",
+  "difficulty": "I",
+  "cf_contest_id": 774,
+  "cf_index": "I",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "*special",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 3,
+    "generated_tests": 100,
+    "correct_solutions": 27,
+    "incorrect_solutions": 17
+  }
+}

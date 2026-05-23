@@ -1,0 +1,24 @@
+{
+  "id": 5364,
+  "split": "train",
+  "name": "632_A. Grandma Laura and Apples",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 632,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 1200,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 90,
+    "correct_solutions": 496,
+    "incorrect_solutions": 342
+  }
+}

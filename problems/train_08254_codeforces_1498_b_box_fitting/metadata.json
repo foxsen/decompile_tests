@@ -1,0 +1,29 @@
+{
+  "id": 8254,
+  "split": "train",
+  "name": "1498_B. Box Fitting",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1498,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "data structures",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 289,
+    "incorrect_solutions": 313
+  }
+}

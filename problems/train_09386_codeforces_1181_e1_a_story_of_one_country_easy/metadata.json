@@ -1,0 +1,28 @@
+{
+  "id": 9386,
+  "split": "train",
+  "name": "1181_E1. A Story of One Country (Easy)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1181,
+  "cf_index": "E1",
+  "cf_points": 2000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "brute force",
+    "divide and conquer",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 16,
+    "generated_tests": 41,
+    "correct_solutions": 205,
+    "incorrect_solutions": 323
+  }
+}

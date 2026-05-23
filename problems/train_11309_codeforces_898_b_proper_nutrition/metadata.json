@@ -1,0 +1,28 @@
+{
+  "id": 11309,
+  "split": "train",
+  "name": "898_B. Proper Nutrition",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 898,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "brute force",
+    "implementation",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 96,
+    "generated_tests": 86,
+    "correct_solutions": 561,
+    "incorrect_solutions": 641
+  }
+}

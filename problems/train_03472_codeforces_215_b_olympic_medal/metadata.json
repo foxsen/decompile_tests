@@ -1,0 +1,27 @@
+{
+  "id": 3472,
+  "split": "train",
+  "name": "215_B. Olympic Medal",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 215,
+  "cf_index": "B",
+  "cf_points": 500.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 21,
+    "generated_tests": 100,
+    "correct_solutions": 531,
+    "incorrect_solutions": 321
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 3374,
+  "split": "train",
+  "name": "351_C. Jeff and Brackets",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 351,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "dp",
+    "matrices"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 26,
+    "generated_tests": 42,
+    "correct_solutions": 114,
+    "incorrect_solutions": 112
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 11176,
+  "split": "train",
+  "name": "21_B. Intersection",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 21,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 240,
+    "generated_tests": 89,
+    "correct_solutions": 371,
+    "incorrect_solutions": 1130
+  }
+}

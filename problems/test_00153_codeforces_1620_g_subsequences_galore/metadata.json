@@ -1,0 +1,28 @@
+{
+  "id": 153,
+  "split": "test",
+  "name": "1620_G. Subsequences Galore",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1620,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 10.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 21,
+    "generated_tests": 200,
+    "correct_solutions": 93,
+    "incorrect_solutions": 103
+  }
+}

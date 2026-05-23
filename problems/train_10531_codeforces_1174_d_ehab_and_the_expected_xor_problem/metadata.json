@@ -1,0 +1,27 @@
+{
+  "id": 10531,
+  "split": "train",
+  "name": "1174_D. Ehab and the Expected XOR Problem",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1174,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "bitmasks",
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 54,
+    "generated_tests": 85,
+    "correct_solutions": 376,
+    "incorrect_solutions": 338
+  }
+}

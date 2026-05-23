@@ -1,0 +1,27 @@
+{
+  "id": 12931,
+  "split": "train",
+  "name": "1284_A. New Year and Naming",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1284,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 6,
+    "generated_tests": 94,
+    "correct_solutions": 1754,
+    "incorrect_solutions": 424
+  }
+}

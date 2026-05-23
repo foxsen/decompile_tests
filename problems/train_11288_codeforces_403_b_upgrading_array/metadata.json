@@ -1,0 +1,29 @@
+{
+  "id": 11288,
+  "split": "train",
+  "name": "403_B. Upgrading Array",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 403,
+  "cf_index": "B",
+  "cf_points": 2000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 19,
+    "generated_tests": 51,
+    "correct_solutions": 254,
+    "incorrect_solutions": 418
+  }
+}

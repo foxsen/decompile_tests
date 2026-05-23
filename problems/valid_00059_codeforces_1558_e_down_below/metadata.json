@@ -1,0 +1,31 @@
+{
+  "id": 59,
+  "split": "valid",
+  "name": "1558_E. Down Below",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1558,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "binary search",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "meet-in-the-middle",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 200,
+    "correct_solutions": 76,
+    "incorrect_solutions": 109
+  }
+}

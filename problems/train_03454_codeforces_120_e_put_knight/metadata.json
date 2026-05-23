@@ -1,0 +1,27 @@
+{
+  "id": 3454,
+  "split": "train",
+  "name": "120_E. Put Knight!",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 120,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "games",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "input.txt",
+  "output_file": "output.txt",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 14,
+    "generated_tests": 100,
+    "correct_solutions": 105,
+    "incorrect_solutions": 237
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 9942,
+  "split": "train",
+  "name": "579_F. LCS Again",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 579,
+  "cf_index": "F",
+  "cf_points": 2500.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 3,
+    "generated_tests": 100,
+    "correct_solutions": 28,
+    "incorrect_solutions": 8
+  }
+}

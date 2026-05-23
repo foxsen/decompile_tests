@@ -1,0 +1,26 @@
+{
+  "id": 5367,
+  "split": "train",
+  "name": "707_B. Bakery",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 707,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 17,
+    "generated_tests": 83,
+    "correct_solutions": 643,
+    "incorrect_solutions": 663
+  }
+}

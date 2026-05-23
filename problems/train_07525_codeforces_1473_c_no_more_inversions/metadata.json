@@ -1,0 +1,27 @@
+{
+  "id": 7525,
+  "split": "train",
+  "name": "1473_C. No More Inversions",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1473,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 128,
+    "correct_solutions": 301,
+    "incorrect_solutions": 304
+  }
+}

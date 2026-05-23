@@ -1,0 +1,27 @@
+{
+  "id": 3692,
+  "split": "train",
+  "name": "482_E. ELCA",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 482,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "data structures",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 8.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 46,
+    "correct_solutions": 128,
+    "incorrect_solutions": 161
+  }
+}

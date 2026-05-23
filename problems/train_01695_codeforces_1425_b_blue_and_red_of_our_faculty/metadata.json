@@ -1,0 +1,27 @@
+{
+  "id": 1695,
+  "split": "train",
+  "name": "1425_B. Blue and Red of Our Faculty!",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1425,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "divide and conquer",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 2,
+    "correct_solutions": 110,
+    "incorrect_solutions": 312
+  }
+}

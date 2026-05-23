@@ -1,0 +1,26 @@
+{
+  "id": 2439,
+  "split": "train",
+  "name": "391_F2. Stock Trading",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 391,
+  "cf_index": "F2",
+  "cf_points": 15.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 100,
+    "correct_solutions": 43,
+    "incorrect_solutions": 51
+  }
+}

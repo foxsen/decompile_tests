@@ -1,0 +1,27 @@
+{
+  "id": 10841,
+  "split": "train",
+  "name": "1119_A. Ilya and a Colorful Walk",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1119,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 43,
+    "generated_tests": 100,
+    "correct_solutions": 808,
+    "incorrect_solutions": 527
+  }
+}

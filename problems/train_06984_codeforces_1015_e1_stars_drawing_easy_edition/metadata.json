@@ -1,0 +1,28 @@
+{
+  "id": 6984,
+  "split": "train",
+  "name": "1015_E1. Stars Drawing (Easy Edition)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1015,
+  "cf_index": "E1",
+  "cf_points": 0.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 13,
+    "generated_tests": 96,
+    "correct_solutions": 572,
+    "incorrect_solutions": 633
+  }
+}

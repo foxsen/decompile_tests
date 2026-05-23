@@ -1,0 +1,26 @@
+{
+  "id": 5150,
+  "split": "train",
+  "name": "48_C. The Race",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 48,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 25,
+    "generated_tests": 59,
+    "correct_solutions": 280,
+    "incorrect_solutions": 462
+  }
+}

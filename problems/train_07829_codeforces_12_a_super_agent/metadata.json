@@ -1,0 +1,26 @@
+{
+  "id": 7829,
+  "split": "train",
+  "name": "12_A. Super Agent",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 12,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 35,
+    "generated_tests": 90,
+    "correct_solutions": 970,
+    "incorrect_solutions": 529
+  }
+}

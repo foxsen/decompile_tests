@@ -1,0 +1,27 @@
+{
+  "id": 7745,
+  "split": "train",
+  "name": "346_C. Number Transformation II",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 346,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 53,
+    "correct_solutions": 303,
+    "incorrect_solutions": 317
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 6993,
+  "split": "train",
+  "name": "1209_G1. Into Blocks (easy version)",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1209,
+  "cf_index": "G1",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "data structures",
+    "dsu",
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 6,
+    "generated_tests": 67,
+    "correct_solutions": 379,
+    "incorrect_solutions": 320
+  }
+}

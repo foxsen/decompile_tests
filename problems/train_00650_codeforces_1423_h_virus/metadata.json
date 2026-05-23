@@ -1,0 +1,29 @@
+{
+  "id": 650,
+  "split": "train",
+  "name": "1423_H. Virus",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 1423,
+  "cf_index": "H",
+  "cf_points": 0.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer",
+    "dsu",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 1,
+    "generated_tests": 31,
+    "correct_solutions": 169,
+    "incorrect_solutions": 141
+  }
+}

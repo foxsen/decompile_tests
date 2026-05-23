@@ -1,0 +1,28 @@
+{
+  "id": 7960,
+  "split": "train",
+  "name": "515_C. Drazil and Factorial",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 515,
+  "cf_index": "C",
+  "cf_points": 1000.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 40,
+    "generated_tests": 87,
+    "correct_solutions": 900,
+    "incorrect_solutions": 826
+  }
+}

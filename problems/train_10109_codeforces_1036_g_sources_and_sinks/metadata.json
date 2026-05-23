@@ -1,0 +1,28 @@
+{
+  "id": 10109,
+  "split": "train",
+  "name": "1036_G. Sources and Sinks",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1036,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 7.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 28,
+    "generated_tests": 40,
+    "correct_solutions": 139,
+    "incorrect_solutions": 189
+  }
+}

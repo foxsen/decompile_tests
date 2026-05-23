@@ -1,0 +1,26 @@
+{
+  "id": 161,
+  "split": "train",
+  "name": "784_B. Kids' Riddle",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 784,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "*special"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 25,
+    "generated_tests": 100,
+    "correct_solutions": 280,
+    "incorrect_solutions": 337
+  }
+}

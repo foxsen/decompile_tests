@@ -1,0 +1,28 @@
+{
+  "id": 8494,
+  "split": "train",
+  "name": "833_E. Caramel Clouds",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 833,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 32,
+    "generated_tests": 26,
+    "correct_solutions": 85,
+    "incorrect_solutions": 165
+  }
+}

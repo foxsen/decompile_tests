@@ -1,0 +1,30 @@
+{
+  "id": 3457,
+  "split": "train",
+  "name": "1271_D. Portals",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1271,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 10,
+    "generated_tests": 41,
+    "correct_solutions": 232,
+    "incorrect_solutions": 436
+  }
+}

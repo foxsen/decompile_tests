@@ -1,0 +1,28 @@
+{
+  "id": 8913,
+  "split": "train",
+  "name": "899_A. Splitting in Teams",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 899,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 38,
+    "generated_tests": 67,
+    "correct_solutions": 865,
+    "incorrect_solutions": 485
+  }
+}

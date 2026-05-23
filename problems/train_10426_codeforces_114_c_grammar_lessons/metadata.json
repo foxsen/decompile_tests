@@ -1,0 +1,27 @@
+{
+  "id": 10426,
+  "split": "train",
+  "name": "114_C. Grammar Lessons",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 114,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 300,
+    "generated_tests": 54,
+    "correct_solutions": 192,
+    "incorrect_solutions": 500
+  }
+}

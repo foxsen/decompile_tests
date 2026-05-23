@@ -1,0 +1,29 @@
+{
+  "id": 8257,
+  "split": "train",
+  "name": "175_C. Geometry Horse",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 175,
+  "cf_index": "C",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "greedy",
+    "implementation",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 29,
+    "generated_tests": 46,
+    "correct_solutions": 231,
+    "incorrect_solutions": 396
+  }
+}

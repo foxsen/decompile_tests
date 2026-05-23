@@ -1,0 +1,26 @@
+{
+  "id": 3453,
+  "split": "train",
+  "name": "1191_D. Tokitsukaze, CSL and Stone Game",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1191,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "games"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 119,
+    "generated_tests": 100,
+    "correct_solutions": 503,
+    "incorrect_solutions": 1137
+  }
+}

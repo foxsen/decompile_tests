@@ -1,0 +1,24 @@
+{
+  "id": 11152,
+  "split": "train",
+  "name": "1089_I. Interval-Free Permutations",
+  "source": "codeforces",
+  "difficulty": "I",
+  "cf_contest_id": 1089,
+  "cf_index": "I",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 46,
+    "correct_solutions": 105,
+    "incorrect_solutions": 88
+  }
+}

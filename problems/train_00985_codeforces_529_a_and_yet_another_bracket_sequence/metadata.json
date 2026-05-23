@@ -1,0 +1,30 @@
+{
+  "id": 985,
+  "split": "train",
+  "name": "529_A. And Yet Another Bracket Sequence",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 529,
+  "cf_index": "A",
+  "cf_points": 3000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures",
+    "greedy",
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 33,
+    "correct_solutions": 192,
+    "incorrect_solutions": 481
+  }
+}

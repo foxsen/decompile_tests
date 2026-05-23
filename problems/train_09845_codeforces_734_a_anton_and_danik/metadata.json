@@ -1,0 +1,27 @@
+{
+  "id": 9845,
+  "split": "train",
+  "name": "734_A. Anton and Danik",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 734,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 11,
+    "generated_tests": 34,
+    "correct_solutions": 5587,
+    "incorrect_solutions": 668
+  }
+}

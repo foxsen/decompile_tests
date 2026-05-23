@@ -1,0 +1,29 @@
+{
+  "id": 6409,
+  "split": "train",
+  "name": "734_C. Anton and Making Potions",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 734,
+  "cf_index": "C",
+  "cf_points": 1250.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "binary search",
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 82,
+    "generated_tests": 100,
+    "correct_solutions": 424,
+    "incorrect_solutions": 884
+  }
+}

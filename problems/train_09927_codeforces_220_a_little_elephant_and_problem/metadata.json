@@ -1,0 +1,27 @@
+{
+  "id": 9927,
+  "split": "train",
+  "name": "220_A. Little Elephant and Problem",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 220,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 68,
+    "generated_tests": 96,
+    "correct_solutions": 1088,
+    "incorrect_solutions": 1084
+  }
+}

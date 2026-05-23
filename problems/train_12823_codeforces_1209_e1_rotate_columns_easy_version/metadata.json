@@ -1,0 +1,30 @@
+{
+  "id": 12823,
+  "split": "train",
+  "name": "1209_E1. Rotate Columns (easy version)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1209,
+  "cf_index": "E1",
+  "cf_points": 1000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 4,
+    "generated_tests": 59,
+    "correct_solutions": 339,
+    "incorrect_solutions": 572
+  }
+}

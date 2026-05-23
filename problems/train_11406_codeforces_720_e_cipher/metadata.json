@@ -1,0 +1,26 @@
+{
+  "id": 11406,
+  "split": "train",
+  "name": "720_E. Cipher",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 720,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 100,
+    "correct_solutions": 21,
+    "incorrect_solutions": 112
+  }
+}

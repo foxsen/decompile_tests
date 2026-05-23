@@ -1,0 +1,30 @@
+{
+  "id": 79,
+  "split": "valid",
+  "name": "1562_B. Scenes From a Memory",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1562,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 133,
+    "correct_solutions": 384,
+    "incorrect_solutions": 516
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2869,
+  "split": "train",
+  "name": "71_A. Way Too Long Words",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 71,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 10,
+    "generated_tests": 94,
+    "correct_solutions": 16296,
+    "incorrect_solutions": 789
+  }
+}

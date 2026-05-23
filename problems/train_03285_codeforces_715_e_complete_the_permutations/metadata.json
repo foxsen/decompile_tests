@@ -1,0 +1,29 @@
+{
+  "id": 3285,
+  "split": "train",
+  "name": "715_E. Complete the Permutations",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 715,
+  "cf_index": "E",
+  "cf_points": 2750.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "combinatorics",
+    "fft",
+    "graphs",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 11,
+    "generated_tests": 49,
+    "correct_solutions": 138,
+    "incorrect_solutions": 174
+  }
+}

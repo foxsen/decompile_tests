@@ -1,0 +1,28 @@
+{
+  "id": 5224,
+  "split": "train",
+  "name": "1200_A. Hotelier",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1200,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 36,
+    "generated_tests": 75,
+    "correct_solutions": 1360,
+    "incorrect_solutions": 583
+  }
+}

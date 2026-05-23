@@ -1,0 +1,27 @@
+{
+  "id": 30,
+  "split": "train",
+  "name": "1540_C1. Converging Array (Easy Version)",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1540,
+  "cf_index": "C1",
+  "cf_points": 1500.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 41,
+    "generated_tests": 100,
+    "correct_solutions": 99,
+    "incorrect_solutions": 107
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 8429,
+  "split": "train",
+  "name": "p01781 Cube Coloring",
+  "source": "atcoder",
+  "difficulty": "UNKNOWN_DIFFICULTY",
+  "cf_contest_id": 0,
+  "cf_index": "",
+  "cf_points": 0.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    ""
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 134217728,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 100,
+    "correct_solutions": 49,
+    "incorrect_solutions": 31
+  }
+}

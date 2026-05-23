@@ -1,0 +1,27 @@
+{
+  "id": 4842,
+  "split": "train",
+  "name": "593_A. 2Char",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 593,
+  "cf_index": "A",
+  "cf_points": 250.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 21,
+    "generated_tests": 95,
+    "correct_solutions": 603,
+    "incorrect_solutions": 596
+  }
+}

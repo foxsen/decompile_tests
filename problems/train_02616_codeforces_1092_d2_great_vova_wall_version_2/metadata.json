@@ -1,0 +1,27 @@
+{
+  "id": 2616,
+  "split": "train",
+  "name": "1092_D2. Great Vova Wall (Version 2)",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1092,
+  "cf_index": "D2",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "data structures",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 56,
+    "generated_tests": 71,
+    "correct_solutions": 186,
+    "incorrect_solutions": 311
+  }
+}

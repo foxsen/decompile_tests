@@ -1,0 +1,27 @@
+{
+  "id": 6802,
+  "split": "train",
+  "name": "185_B. Mushroom Scientists",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 185,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "math",
+    "ternary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 49,
+    "generated_tests": 59,
+    "correct_solutions": 408,
+    "incorrect_solutions": 556
+  }
+}

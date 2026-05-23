@@ -1,0 +1,31 @@
+{
+  "id": 959,
+  "split": "train",
+  "name": "1323_D. Present",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1323,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "constructive algorithms",
+    "data structures",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 55,
+    "correct_solutions": 115,
+    "incorrect_solutions": 156
+  }
+}

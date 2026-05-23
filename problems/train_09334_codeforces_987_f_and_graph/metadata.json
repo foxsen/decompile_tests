@@ -1,0 +1,29 @@
+{
+  "id": 9334,
+  "split": "train",
+  "name": "987_F. AND Graph",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 987,
+  "cf_index": "F",
+  "cf_points": 1750.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "bitmasks",
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 18,
+    "correct_solutions": 134,
+    "incorrect_solutions": 110
+  }
+}

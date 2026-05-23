@@ -1,0 +1,30 @@
+{
+  "id": 5540,
+  "split": "train",
+  "name": "127_D. Password",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 127,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "binary search",
+    "dp",
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 25,
+    "generated_tests": 96,
+    "correct_solutions": 559,
+    "incorrect_solutions": 871
+  }
+}

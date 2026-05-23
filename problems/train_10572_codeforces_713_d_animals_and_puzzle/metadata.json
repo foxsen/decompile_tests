@@ -1,0 +1,27 @@
+{
+  "id": 10572,
+  "split": "train",
+  "name": "713_D. Animals and Puzzle",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 713,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "binary search",
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 7,
+    "generated_tests": 89,
+    "correct_solutions": 52,
+    "incorrect_solutions": 207
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 6056,
+  "split": "train",
+  "name": "1192_A. Building Skyscrapers",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1192,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    "*special"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.5,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 19,
+    "generated_tests": 77,
+    "correct_solutions": 39,
+    "incorrect_solutions": 0
+  }
+}

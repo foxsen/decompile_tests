@@ -1,0 +1,29 @@
+{
+  "id": 3762,
+  "split": "train",
+  "name": "1106_C. Lunar New Year and Number Division",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1106,
+  "cf_index": "C",
+  "cf_points": 1250.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "greedy",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 12,
+    "generated_tests": 100,
+    "correct_solutions": 1022,
+    "incorrect_solutions": 391
+  }
+}

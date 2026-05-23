@@ -1,0 +1,28 @@
+{
+  "id": 7639,
+  "split": "train",
+  "name": "314_B. Sereja and Periods",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 314,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "binary search",
+    "dfs and similar",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 46,
+    "generated_tests": 51,
+    "correct_solutions": 129,
+    "incorrect_solutions": 163
+  }
+}

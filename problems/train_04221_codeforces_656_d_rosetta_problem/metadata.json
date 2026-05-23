@@ -1,0 +1,26 @@
+{
+  "id": 4221,
+  "split": "train",
+  "name": "656_D. Rosetta Problem",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 656,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "*special"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 24,
+    "generated_tests": 100,
+    "correct_solutions": 312,
+    "incorrect_solutions": 343
+  }
+}

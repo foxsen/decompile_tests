@@ -1,0 +1,28 @@
+{
+  "id": 2984,
+  "split": "train",
+  "name": "95_E. Lucky Country",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 95,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "dp",
+    "dsu",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 34,
+    "generated_tests": 46,
+    "correct_solutions": 204,
+    "incorrect_solutions": 223
+  }
+}

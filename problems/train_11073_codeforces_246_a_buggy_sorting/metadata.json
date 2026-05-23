@@ -1,0 +1,28 @@
+{
+  "id": 11073,
+  "split": "train",
+  "name": "246_A. Buggy Sorting",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 246,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 18,
+    "generated_tests": 34,
+    "correct_solutions": 730,
+    "incorrect_solutions": 525
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 9587,
+  "split": "train",
+  "name": "1011_E. Border",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1011,
+  "cf_index": "E",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 51,
+    "generated_tests": 81,
+    "correct_solutions": 156,
+    "incorrect_solutions": 238
+  }
+}

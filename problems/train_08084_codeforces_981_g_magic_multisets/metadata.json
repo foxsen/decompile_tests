@@ -1,0 +1,26 @@
+{
+  "id": 8084,
+  "split": "train",
+  "name": "981_G. Magic multisets",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 981,
+  "cf_index": "G",
+  "cf_points": 3250.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 40,
+    "correct_solutions": 167,
+    "incorrect_solutions": 291
+  }
+}

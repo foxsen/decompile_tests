@@ -1,0 +1,28 @@
+{
+  "id": 572,
+  "split": "train",
+  "name": "633_A. Ebony and Ivory",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 633,
+  "cf_index": "A",
+  "cf_points": 250.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 131,
+    "generated_tests": 99,
+    "correct_solutions": 695,
+    "incorrect_solutions": 686
+  }
+}

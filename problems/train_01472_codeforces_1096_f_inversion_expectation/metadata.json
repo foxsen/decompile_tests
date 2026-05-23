@@ -1,0 +1,28 @@
+{
+  "id": 1472,
+  "split": "train",
+  "name": "1096_F. Inversion Expectation",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1096,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 6,
+    "generated_tests": 42,
+    "correct_solutions": 200,
+    "incorrect_solutions": 337
+  }
+}

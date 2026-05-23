@@ -1,0 +1,29 @@
+{
+  "id": 8364,
+  "split": "train",
+  "name": "225_D. Snake",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 225,
+  "cf_index": "D",
+  "cf_points": 3000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "bitmasks",
+    "dfs and similar",
+    "graphs",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 57,
+    "generated_tests": 34,
+    "correct_solutions": 182,
+    "incorrect_solutions": 226
+  }
+}

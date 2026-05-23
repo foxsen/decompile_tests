@@ -1,0 +1,31 @@
+{
+  "id": 1708,
+  "split": "train",
+  "name": "339_C. Xenia and Weights",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 339,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 36,
+    "generated_tests": 97,
+    "correct_solutions": 451,
+    "incorrect_solutions": 810
+  }
+}

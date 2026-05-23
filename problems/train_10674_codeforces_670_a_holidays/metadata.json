@@ -1,0 +1,29 @@
+{
+  "id": 10674,
+  "split": "train",
+  "name": "670_A. Holidays",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 670,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 196,
+    "generated_tests": 89,
+    "correct_solutions": 963,
+    "incorrect_solutions": 746
+  }
+}

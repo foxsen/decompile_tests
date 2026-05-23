@@ -1,0 +1,29 @@
+{
+  "id": 11192,
+  "split": "train",
+  "name": "600_B. Queries about less or equal elements",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 600,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 20,
+    "generated_tests": 87,
+    "correct_solutions": 933,
+    "incorrect_solutions": 674
+  }
+}

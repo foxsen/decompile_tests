@@ -1,0 +1,28 @@
+{
+  "id": 8188,
+  "split": "train",
+  "name": "996_D. Suit and Tie",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 996,
+  "cf_index": "D",
+  "cf_points": 750.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 15,
+    "generated_tests": 15,
+    "correct_solutions": 369,
+    "incorrect_solutions": 165
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 12719,
+  "split": "train",
+  "name": "1206_D. Shortest Cycle",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1206,
+  "cf_index": "D",
+  "cf_points": 750.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 61,
+    "generated_tests": 56,
+    "correct_solutions": 170,
+    "incorrect_solutions": 412
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1103,
+  "split": "train",
+  "name": "835_B. The number on the board",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 835,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 26,
+    "generated_tests": 97,
+    "correct_solutions": 818,
+    "incorrect_solutions": 644
+  }
+}

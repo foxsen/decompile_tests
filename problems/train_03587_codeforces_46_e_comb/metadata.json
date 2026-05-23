@@ -1,0 +1,27 @@
+{
+  "id": 3587,
+  "split": "train",
+  "name": "46_E. Comb",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 46,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "data structures",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 17,
+    "generated_tests": 43,
+    "correct_solutions": 267,
+    "incorrect_solutions": 521
+  }
+}

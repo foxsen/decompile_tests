@@ -1,0 +1,26 @@
+{
+  "id": 9751,
+  "split": "train",
+  "name": "981_B. Businessmen Problems",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 981,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 82,
+    "correct_solutions": 650,
+    "incorrect_solutions": 350
+  }
+}

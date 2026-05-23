@@ -1,0 +1,29 @@
+{
+  "id": 8791,
+  "split": "train",
+  "name": "472_D. Design Tutorial: Inverse the Problem",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 472,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "dfs and similar",
+    "dsu",
+    "shortest paths",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 8,
+    "generated_tests": 39,
+    "correct_solutions": 416,
+    "incorrect_solutions": 650
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 8706,
+  "split": "train",
+  "name": "911_C. Three Garlands",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 911,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 65,
+    "generated_tests": 98,
+    "correct_solutions": 596,
+    "incorrect_solutions": 607
+  }
+}

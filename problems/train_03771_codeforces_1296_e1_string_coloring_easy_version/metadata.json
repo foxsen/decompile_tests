@@ -1,0 +1,30 @@
+{
+  "id": 3771,
+  "split": "train",
+  "name": "1296_E1. String Coloring (easy version)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1296,
+  "cf_index": "E1",
+  "cf_points": 0.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "constructive algorithms",
+    "dp",
+    "graphs",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 64,
+    "generated_tests": 86,
+    "correct_solutions": 847,
+    "incorrect_solutions": 759
+  }
+}

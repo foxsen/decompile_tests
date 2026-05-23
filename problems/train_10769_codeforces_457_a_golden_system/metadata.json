@@ -1,0 +1,27 @@
+{
+  "id": 10769,
+  "split": "train",
+  "name": "457_A. Golden System",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 457,
+  "cf_index": "A",
+  "cf_points": 1000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "math",
+    "meet-in-the-middle"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 63,
+    "generated_tests": 55,
+    "correct_solutions": 165,
+    "incorrect_solutions": 404
+  }
+}

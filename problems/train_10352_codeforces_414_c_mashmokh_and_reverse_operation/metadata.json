@@ -1,0 +1,27 @@
+{
+  "id": 10352,
+  "split": "train",
+  "name": "414_C. Mashmokh and Reverse Operation",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 414,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "combinatorics",
+    "divide and conquer"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 41,
+    "correct_solutions": 296,
+    "incorrect_solutions": 400
+  }
+}

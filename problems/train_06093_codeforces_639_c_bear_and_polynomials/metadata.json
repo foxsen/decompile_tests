@@ -1,0 +1,28 @@
+{
+  "id": 6093,
+  "split": "train",
+  "name": "639_C. Bear and Polynomials",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 639,
+  "cf_index": "C",
+  "cf_points": 1000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "hashing",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 38,
+    "generated_tests": 59,
+    "correct_solutions": 102,
+    "incorrect_solutions": 225
+  }
+}

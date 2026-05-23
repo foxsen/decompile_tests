@@ -1,0 +1,27 @@
+{
+  "id": 9537,
+  "split": "train",
+  "name": "840_D. Destiny",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 840,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "data structures",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.5,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 36,
+    "correct_solutions": 160,
+    "incorrect_solutions": 343
+  }
+}

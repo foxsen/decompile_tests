@@ -1,0 +1,32 @@
+{
+  "id": 30,
+  "split": "valid",
+  "name": "1553_G. Common Divisor Graph",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1553,
+  "cf_index": "G",
+  "cf_points": 3000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dsu",
+    "graphs",
+    "hashing",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 200,
+    "correct_solutions": 90,
+    "incorrect_solutions": 173
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2963,
+  "split": "train",
+  "name": "467_D. Fedor and Essay",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 467,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "hashing",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 17,
+    "generated_tests": 30,
+    "correct_solutions": 228,
+    "incorrect_solutions": 655
+  }
+}

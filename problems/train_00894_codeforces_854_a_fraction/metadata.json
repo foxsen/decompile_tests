@@ -1,0 +1,28 @@
+{
+  "id": 894,
+  "split": "train",
+  "name": "854_A. Fraction",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 854,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 23,
+    "generated_tests": 99,
+    "correct_solutions": 901,
+    "incorrect_solutions": 639
+  }
+}

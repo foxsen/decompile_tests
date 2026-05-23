@@ -1,0 +1,26 @@
+{
+  "id": 108,
+  "split": "valid",
+  "name": "1572_F. Stations",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1572,
+  "cf_index": "F",
+  "cf_points": 3250.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 17,
+    "incorrect_solutions": 22
+  }
+}

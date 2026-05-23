@@ -1,0 +1,27 @@
+{
+  "id": 12557,
+  "split": "train",
+  "name": "875_A. Classroom Watch",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 875,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "brute force",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 16,
+    "generated_tests": 100,
+    "correct_solutions": 373,
+    "incorrect_solutions": 310
+  }
+}

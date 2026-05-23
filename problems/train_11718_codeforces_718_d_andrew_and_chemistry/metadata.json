@@ -1,0 +1,28 @@
+{
+  "id": 11718,
+  "split": "train",
+  "name": "718_D. Andrew and Chemistry",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 718,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "dp",
+    "hashing",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 12,
+    "generated_tests": 44,
+    "correct_solutions": 152,
+    "incorrect_solutions": 209
+  }
+}

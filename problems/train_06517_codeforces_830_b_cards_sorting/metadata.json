@@ -1,0 +1,28 @@
+{
+  "id": 6517,
+  "split": "train",
+  "name": "830_B. Cards Sorting",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 830,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "data structures",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 6,
+    "generated_tests": 51,
+    "correct_solutions": 362,
+    "incorrect_solutions": 439
+  }
+}

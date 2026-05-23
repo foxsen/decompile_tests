@@ -1,0 +1,27 @@
+{
+  "id": 7666,
+  "split": "train",
+  "name": "946_C. String Transformation",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 946,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "greedy",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 96,
+    "generated_tests": 88,
+    "correct_solutions": 617,
+    "incorrect_solutions": 745
+  }
+}

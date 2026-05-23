@@ -1,0 +1,24 @@
+{
+  "id": 9436,
+  "split": "train",
+  "name": "926_D. Choose Place",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 926,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 29,
+    "generated_tests": 47,
+    "correct_solutions": 190,
+    "incorrect_solutions": 105
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2119,
+  "split": "train",
+  "name": "203_C. Photographer",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 203,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 26,
+    "generated_tests": 60,
+    "correct_solutions": 478,
+    "incorrect_solutions": 389
+  }
+}

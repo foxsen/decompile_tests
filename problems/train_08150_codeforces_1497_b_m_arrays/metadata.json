@@ -1,0 +1,28 @@
+{
+  "id": 8150,
+  "split": "train",
+  "name": "1497_B. M-arrays",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1497,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 288,
+    "incorrect_solutions": 314
+  }
+}

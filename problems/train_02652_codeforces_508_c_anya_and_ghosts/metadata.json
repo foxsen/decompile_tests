@@ -1,0 +1,27 @@
+{
+  "id": 2652,
+  "split": "train",
+  "name": "508_C. Anya and Ghosts",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 508,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 34,
+    "generated_tests": 79,
+    "correct_solutions": 427,
+    "incorrect_solutions": 518
+  }
+}

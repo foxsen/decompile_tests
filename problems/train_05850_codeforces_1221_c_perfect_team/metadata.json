@@ -1,0 +1,27 @@
+{
+  "id": 5850,
+  "split": "train",
+  "name": "1221_C. Perfect Team",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1221,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "binary search",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 100,
+    "correct_solutions": 1041,
+    "incorrect_solutions": 599
+  }
+}

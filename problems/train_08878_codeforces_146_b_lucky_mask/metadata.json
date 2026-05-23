@@ -1,0 +1,27 @@
+{
+  "id": 8878,
+  "split": "train",
+  "name": "146_B. Lucky Mask",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 146,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 41,
+    "generated_tests": 69,
+    "correct_solutions": 455,
+    "incorrect_solutions": 518
+  }
+}

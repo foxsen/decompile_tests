@@ -1,0 +1,27 @@
+{
+  "id": 11922,
+  "split": "train",
+  "name": "612_D. The Union of k-Segments",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 612,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 15,
+    "generated_tests": 38,
+    "correct_solutions": 300,
+    "incorrect_solutions": 444
+  }
+}

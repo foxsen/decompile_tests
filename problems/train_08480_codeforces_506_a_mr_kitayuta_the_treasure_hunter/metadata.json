@@ -1,0 +1,28 @@
+{
+  "id": 8480,
+  "split": "train",
+  "name": "506_A. Mr. Kitayuta, the Treasure Hunter",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 506,
+  "cf_index": "A",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 13,
+    "generated_tests": 53,
+    "correct_solutions": 661,
+    "incorrect_solutions": 683
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 28,
+  "split": "train",
+  "name": "1490_G. Old Floppy Drive ",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1490,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 275,
+    "incorrect_solutions": 314
+  }
+}

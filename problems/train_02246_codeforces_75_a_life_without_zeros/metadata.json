@@ -1,0 +1,26 @@
+{
+  "id": 2246,
+  "split": "train",
+  "name": "75_A. Life Without Zeros",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 75,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 40,
+    "generated_tests": 89,
+    "correct_solutions": 1376,
+    "incorrect_solutions": 612
+  }
+}

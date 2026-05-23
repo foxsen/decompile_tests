@@ -1,0 +1,29 @@
+{
+  "id": 7506,
+  "split": "train",
+  "name": "1067_E. Random Forest Rank",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1067,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "dp",
+    "graph matchings",
+    "math",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 23,
+    "generated_tests": 35,
+    "correct_solutions": 141,
+    "incorrect_solutions": 118
+  }
+}

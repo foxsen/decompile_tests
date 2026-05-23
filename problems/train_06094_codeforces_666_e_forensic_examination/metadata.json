@@ -1,0 +1,27 @@
+{
+  "id": 6094,
+  "split": "train",
+  "name": "666_E. Forensic Examination",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 666,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "data structures",
+    "string suffix structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 768000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 23,
+    "correct_solutions": 101,
+    "incorrect_solutions": 772
+  }
+}

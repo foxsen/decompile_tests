@@ -1,0 +1,28 @@
+{
+  "id": 11163,
+  "split": "train",
+  "name": "1321_F. Reachable Strings",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1321,
+  "cf_index": "F",
+  "cf_points": 2000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "data structures",
+    "hashing",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 19,
+    "generated_tests": 61,
+    "correct_solutions": 74,
+    "incorrect_solutions": 364
+  }
+}

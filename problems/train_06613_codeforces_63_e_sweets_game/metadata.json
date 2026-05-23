@@ -1,0 +1,30 @@
+{
+  "id": 6613,
+  "split": "train",
+  "name": "63_E. Sweets Game",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 63,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "bitmasks",
+    "dfs and similar",
+    "dp",
+    "games",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 78,
+    "generated_tests": 0,
+    "correct_solutions": 201,
+    "incorrect_solutions": 195
+  }
+}

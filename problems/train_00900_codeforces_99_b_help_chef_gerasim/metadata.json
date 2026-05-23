@@ -1,0 +1,27 @@
+{
+  "id": 900,
+  "split": "train",
+  "name": "99_B. Help Chef Gerasim",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 99,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 0.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 126,
+    "generated_tests": 70,
+    "correct_solutions": 409,
+    "incorrect_solutions": 782
+  }
+}

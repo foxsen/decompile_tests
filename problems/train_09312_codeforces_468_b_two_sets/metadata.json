@@ -1,0 +1,30 @@
+{
+  "id": 9312,
+  "split": "train",
+  "name": "468_B. Two Sets",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 468,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "2-sat",
+    "dfs and similar",
+    "dsu",
+    "graph matchings",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 12,
+    "generated_tests": 51,
+    "correct_solutions": 418,
+    "incorrect_solutions": 1093
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 5215,
+  "split": "train",
+  "name": "1005_D. Polycarp and Div 3",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1005,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 11,
+    "generated_tests": 96,
+    "correct_solutions": 579,
+    "incorrect_solutions": 701
+  }
+}

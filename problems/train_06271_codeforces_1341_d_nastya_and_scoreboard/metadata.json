@@ -1,0 +1,29 @@
+{
+  "id": 6271,
+  "split": "train",
+  "name": "1341_D. Nastya and Scoreboard",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1341,
+  "cf_index": "D",
+  "cf_points": 750.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "bitmasks",
+    "dp",
+    "graphs",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 23,
+    "generated_tests": 82,
+    "correct_solutions": 248,
+    "incorrect_solutions": 276
+  }
+}

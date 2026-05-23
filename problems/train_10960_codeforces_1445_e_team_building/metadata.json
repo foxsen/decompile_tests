@@ -1,0 +1,29 @@
+{
+  "id": 10960,
+  "split": "train",
+  "name": "1445_E. Team-Building",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1445,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 11,
+    "generated_tests": 42,
+    "correct_solutions": 73,
+    "incorrect_solutions": 214
+  }
+}

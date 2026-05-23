@@ -1,0 +1,30 @@
+{
+  "id": 6988,
+  "split": "train",
+  "name": "1102_F. Elongated Matrix",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1102,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "dp",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 10,
+    "generated_tests": 55,
+    "correct_solutions": 200,
+    "incorrect_solutions": 280
+  }
+}

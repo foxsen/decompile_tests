@@ -1,0 +1,26 @@
+{
+  "id": 5142,
+  "split": "train",
+  "name": "301_C. Yaroslav and Algorithm",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 301,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 13,
+    "generated_tests": 63,
+    "correct_solutions": 246,
+    "incorrect_solutions": 275
+  }
+}

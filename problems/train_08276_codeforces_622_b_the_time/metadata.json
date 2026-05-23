@@ -1,0 +1,26 @@
+{
+  "id": 8276,
+  "split": "train",
+  "name": "622_B. The Time",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 622,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 56,
+    "generated_tests": 100,
+    "correct_solutions": 738,
+    "incorrect_solutions": 510
+  }
+}

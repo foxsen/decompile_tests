@@ -1,0 +1,26 @@
+{
+  "id": 1701,
+  "split": "train",
+  "name": "175_B. Plane of Tanks: Pro",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 175,
+  "cf_index": "B",
+  "cf_points": 500.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 53,
+    "correct_solutions": 285,
+    "incorrect_solutions": 327
+  }
+}

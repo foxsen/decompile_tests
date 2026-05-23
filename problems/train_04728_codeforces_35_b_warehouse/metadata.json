@@ -1,0 +1,26 @@
+{
+  "id": 4728,
+  "split": "train",
+  "name": "35_B. Warehouse",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 35,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "input.txt",
+  "output_file": "output.txt",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 0,
+    "correct_solutions": 64,
+    "incorrect_solutions": 336
+  }
+}

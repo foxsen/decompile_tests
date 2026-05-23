@@ -1,0 +1,32 @@
+{
+  "id": 11051,
+  "split": "train",
+  "name": "1158_A. The Party and Sweets",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1158,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 12,
+    "generated_tests": 95,
+    "correct_solutions": 582,
+    "incorrect_solutions": 607
+  }
+}

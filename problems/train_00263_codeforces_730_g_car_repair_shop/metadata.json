@@ -1,0 +1,26 @@
+{
+  "id": 263,
+  "split": "train",
+  "name": "730_G. Car Repair Shop",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 730,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 10,
+    "generated_tests": 57,
+    "correct_solutions": 237,
+    "incorrect_solutions": 281
+  }
+}

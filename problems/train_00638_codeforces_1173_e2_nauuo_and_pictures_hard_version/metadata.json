@@ -1,0 +1,27 @@
+{
+  "id": 638,
+  "split": "train",
+  "name": "1173_E2. Nauuo and Pictures (hard version)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1173,
+  "cf_index": "E2",
+  "cf_points": 750.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "dp",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 21,
+    "generated_tests": 100,
+    "correct_solutions": 52,
+    "incorrect_solutions": 23
+  }
+}

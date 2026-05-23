@@ -1,0 +1,28 @@
+{
+  "id": 2508,
+  "split": "train",
+  "name": "1023_G. Pisces",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1023,
+  "cf_index": "G",
+  "cf_points": 4000.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "data structures",
+    "flows",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 12,
+    "generated_tests": 100,
+    "correct_solutions": 34,
+    "incorrect_solutions": 86
+  }
+}

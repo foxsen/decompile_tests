@@ -1,0 +1,26 @@
+{
+  "id": 11926,
+  "split": "train",
+  "name": "707_E. Garlands",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 707,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 29,
+    "correct_solutions": 189,
+    "incorrect_solutions": 209
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 7854,
+  "split": "train",
+  "name": "480_A. Exams",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 480,
+  "cf_index": "A",
+  "cf_points": 1500.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 17,
+    "generated_tests": 94,
+    "correct_solutions": 1110,
+    "incorrect_solutions": 657
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 3037,
+  "split": "train",
+  "name": "1189_C. Candies!",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1189,
+  "cf_index": "C",
+  "cf_points": 1250.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 69,
+    "correct_solutions": 655,
+    "incorrect_solutions": 502
+  }
+}

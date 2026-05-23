@@ -1,0 +1,27 @@
+{
+  "id": 4939,
+  "split": "train",
+  "name": "426_D. Sereja and Table ",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 426,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "bitmasks",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 37,
+    "generated_tests": 53,
+    "correct_solutions": 96,
+    "incorrect_solutions": 103
+  }
+}

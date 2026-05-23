@@ -1,0 +1,27 @@
+{
+  "id": 1307,
+  "split": "train",
+  "name": "71_D. Solitaire",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 71,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 44,
+    "generated_tests": 37,
+    "correct_solutions": 172,
+    "incorrect_solutions": 519
+  }
+}

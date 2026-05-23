@@ -1,0 +1,29 @@
+{
+  "id": 4389,
+  "split": "train",
+  "name": "1144_E. Median String",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1144,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "bitmasks",
+    "math",
+    "number theory",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 7,
+    "generated_tests": 93,
+    "correct_solutions": 445,
+    "incorrect_solutions": 406
+  }
+}

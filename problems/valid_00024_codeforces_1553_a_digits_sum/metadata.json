@@ -1,0 +1,27 @@
+{
+  "id": 24,
+  "split": "valid",
+  "name": "1553_A. Digits Sum",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1553,
+  "cf_index": "A",
+  "cf_points": 250.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 439,
+    "incorrect_solutions": 299
+  }
+}

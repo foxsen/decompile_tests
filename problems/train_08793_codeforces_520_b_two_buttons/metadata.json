@@ -1,0 +1,31 @@
+{
+  "id": 8793,
+  "split": "train",
+  "name": "520_B. Two Buttons",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 520,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "implementation",
+    "math",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 45,
+    "generated_tests": 96,
+    "correct_solutions": 1723,
+    "incorrect_solutions": 765
+  }
+}

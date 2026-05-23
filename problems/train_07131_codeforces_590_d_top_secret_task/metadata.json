@@ -1,0 +1,26 @@
+{
+  "id": 7131,
+  "split": "train",
+  "name": "590_D. Top Secret Task",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 590,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 61,
+    "generated_tests": 53,
+    "correct_solutions": 244,
+    "incorrect_solutions": 207
+  }
+}

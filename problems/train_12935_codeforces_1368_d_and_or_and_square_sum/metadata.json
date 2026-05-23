@@ -1,0 +1,28 @@
+{
+  "id": 12935,
+  "split": "train",
+  "name": "1368_D. AND, OR and square sum",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1368,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "bitmasks",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 5,
+    "generated_tests": 96,
+    "correct_solutions": 678,
+    "incorrect_solutions": 556
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 6924,
+  "split": "train",
+  "name": "615_B. Longtail Hedgehog",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 615,
+  "cf_index": "B",
+  "cf_points": 1250.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "dp",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 100,
+    "correct_solutions": 377,
+    "incorrect_solutions": 487
+  }
+}

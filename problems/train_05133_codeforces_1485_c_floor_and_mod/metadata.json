@@ -1,0 +1,29 @@
+{
+  "id": 5133,
+  "split": "train",
+  "name": "1485_C. Floor and Mod",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1485,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 200,
+    "correct_solutions": 296,
+    "incorrect_solutions": 249
+  }
+}

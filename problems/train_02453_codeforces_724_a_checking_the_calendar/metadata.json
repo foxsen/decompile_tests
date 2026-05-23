@@ -1,0 +1,26 @@
+{
+  "id": 2453,
+  "split": "train",
+  "name": "724_A. Checking the Calendar",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 724,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 46,
+    "generated_tests": 0,
+    "correct_solutions": 802,
+    "incorrect_solutions": 568
+  }
+}

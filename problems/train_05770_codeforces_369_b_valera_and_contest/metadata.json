@@ -1,0 +1,28 @@
+{
+  "id": 5770,
+  "split": "train",
+  "name": "369_B. Valera and Contest",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 369,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 47,
+    "generated_tests": 64,
+    "correct_solutions": 492,
+    "incorrect_solutions": 548
+  }
+}

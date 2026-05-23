@@ -1,0 +1,29 @@
+{
+  "id": 9209,
+  "split": "train",
+  "name": "506_D. Mr. Kitayuta's Colorful Graph",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 506,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "brute force",
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 66,
+    "correct_solutions": 766,
+    "incorrect_solutions": 803
+  }
+}

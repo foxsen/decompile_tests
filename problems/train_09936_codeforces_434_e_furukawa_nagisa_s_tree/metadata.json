@@ -1,0 +1,29 @@
+{
+  "id": 9936,
+  "split": "train",
+  "name": "434_E. Furukawa Nagisa's Tree",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 434,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "binary search",
+    "divide and conquer",
+    "sortings",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 18,
+    "generated_tests": 36,
+    "correct_solutions": 112,
+    "incorrect_solutions": 98
+  }
+}

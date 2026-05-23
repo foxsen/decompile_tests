@@ -1,0 +1,27 @@
+{
+  "id": 5271,
+  "split": "train",
+  "name": "883_I. Photo Processing",
+  "source": "codeforces",
+  "difficulty": "I",
+  "cf_contest_id": 883,
+  "cf_index": "I",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "binary search",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 13,
+    "generated_tests": 65,
+    "correct_solutions": 205,
+    "incorrect_solutions": 323
+  }
+}

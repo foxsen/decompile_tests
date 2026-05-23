@@ -1,0 +1,29 @@
+{
+  "id": 9432,
+  "split": "train",
+  "name": "835_F. Roads in the Kingdom",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 835,
+  "cf_index": "F",
+  "cf_points": 2250.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 46,
+    "correct_solutions": 162,
+    "incorrect_solutions": 345
+  }
+}

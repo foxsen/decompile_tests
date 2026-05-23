@@ -1,0 +1,27 @@
+{
+  "id": 3268,
+  "split": "train",
+  "name": "315_E. Sereja and Subsequences",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 315,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "data structures",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 12,
+    "generated_tests": 57,
+    "correct_solutions": 291,
+    "incorrect_solutions": 372
+  }
+}

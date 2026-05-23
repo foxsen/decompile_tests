@@ -1,0 +1,27 @@
+{
+  "id": 11270,
+  "split": "train",
+  "name": "1380_A. Three Indices",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1380,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "brute force",
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 50,
+    "correct_solutions": 1379,
+    "incorrect_solutions": 611
+  }
+}

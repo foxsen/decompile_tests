@@ -1,0 +1,28 @@
+{
+  "id": 12616,
+  "split": "train",
+  "name": "1228_E. Another Filling the Grid",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1228,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 31,
+    "generated_tests": 43,
+    "correct_solutions": 298,
+    "incorrect_solutions": 176
+  }
+}

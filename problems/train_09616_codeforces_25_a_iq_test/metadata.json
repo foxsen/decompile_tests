@@ -1,0 +1,26 @@
+{
+  "id": 9616,
+  "split": "train",
+  "name": "25_A. IQ test",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 25,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "brute force"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 30,
+    "generated_tests": 88,
+    "correct_solutions": 3859,
+    "incorrect_solutions": 723
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 22,
+  "split": "valid",
+  "name": "1552_G. A Serious Referee",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1552,
+  "cf_index": "G",
+  "cf_points": 2500.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 45,
+    "generated_tests": 200,
+    "correct_solutions": 78,
+    "incorrect_solutions": 219
+  }
+}

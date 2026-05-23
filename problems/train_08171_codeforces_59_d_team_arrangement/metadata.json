@@ -1,0 +1,28 @@
+{
+  "id": 8171,
+  "split": "train",
+  "name": "59_D. Team Arrangement",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 59,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 11,
+    "generated_tests": 14,
+    "correct_solutions": 205,
+    "incorrect_solutions": 362
+  }
+}

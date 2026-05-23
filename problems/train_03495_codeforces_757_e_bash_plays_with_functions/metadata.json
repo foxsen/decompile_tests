@@ -1,0 +1,29 @@
+{
+  "id": 3495,
+  "split": "train",
+  "name": "757_E. Bash Plays with Functions",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 757,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 46,
+    "correct_solutions": 216,
+    "incorrect_solutions": 186
+  }
+}

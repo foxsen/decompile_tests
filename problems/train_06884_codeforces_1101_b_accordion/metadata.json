@@ -1,0 +1,27 @@
+{
+  "id": 6884,
+  "split": "train",
+  "name": "1101_B. Accordion",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1101,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 563,
+    "generated_tests": 96,
+    "correct_solutions": 746,
+    "incorrect_solutions": 692
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 6365,
+  "split": "train",
+  "name": "1132_D. Stressful Training",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1132,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "binary search",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 21,
+    "generated_tests": 59,
+    "correct_solutions": 187,
+    "incorrect_solutions": 379
+  }
+}

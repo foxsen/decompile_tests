@@ -1,0 +1,29 @@
+{
+  "id": 3883,
+  "split": "train",
+  "name": "1454_F. Array Partition",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1454,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 200,
+    "correct_solutions": 180,
+    "incorrect_solutions": 313
+  }
+}

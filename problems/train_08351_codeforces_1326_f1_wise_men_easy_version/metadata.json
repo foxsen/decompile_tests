@@ -1,0 +1,29 @@
+{
+  "id": 8351,
+  "split": "train",
+  "name": "1326_F1. Wise Men (Easy Version)",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1326,
+  "cf_index": "F1",
+  "cf_points": 2000.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "meet-in-the-middle"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 34,
+    "generated_tests": 2,
+    "correct_solutions": 230,
+    "incorrect_solutions": 293
+  }
+}

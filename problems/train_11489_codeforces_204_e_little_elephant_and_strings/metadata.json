@@ -1,0 +1,29 @@
+{
+  "id": 11489,
+  "split": "train",
+  "name": "204_E. Little Elephant and Strings",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 204,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "data structures",
+    "implementation",
+    "string suffix structures",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 50,
+    "correct_solutions": 148,
+    "incorrect_solutions": 206
+  }
+}

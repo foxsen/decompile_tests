@@ -1,0 +1,27 @@
+{
+  "id": 8064,
+  "split": "train",
+  "name": "508_E. Arthur and Brackets",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 508,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 128000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 16,
+    "generated_tests": 60,
+    "correct_solutions": 256,
+    "incorrect_solutions": 253
+  }
+}

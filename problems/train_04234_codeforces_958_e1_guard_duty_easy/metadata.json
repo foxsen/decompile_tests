@@ -1,0 +1,29 @@
+{
+  "id": 4234,
+  "split": "train",
+  "name": "958_E1. Guard Duty (easy)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 958,
+  "cf_index": "E1",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "brute force",
+    "geometry",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 49,
+    "generated_tests": 74,
+    "correct_solutions": 272,
+    "incorrect_solutions": 176
+  }
+}

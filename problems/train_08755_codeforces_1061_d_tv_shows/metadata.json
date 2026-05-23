@@ -1,0 +1,29 @@
+{
+  "id": 8755,
+  "split": "train",
+  "name": "1061_D. TV Shows",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1061,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "data structures",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 14,
+    "generated_tests": 43,
+    "correct_solutions": 220,
+    "incorrect_solutions": 380
+  }
+}

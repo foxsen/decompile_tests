@@ -1,0 +1,28 @@
+{
+  "id": 112,
+  "split": "train",
+  "name": "1065_F. Up and Down the Tree",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1065,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 18,
+    "generated_tests": 32,
+    "correct_solutions": 186,
+    "incorrect_solutions": 205
+  }
+}

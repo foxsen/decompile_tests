@@ -1,0 +1,27 @@
+{
+  "id": 7005,
+  "split": "train",
+  "name": "1468_D. Firecrackers",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1468,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "binary search",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 200,
+    "incorrect_solutions": 290
+  }
+}

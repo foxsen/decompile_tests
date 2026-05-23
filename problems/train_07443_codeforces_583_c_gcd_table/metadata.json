@@ -1,0 +1,28 @@
+{
+  "id": 7443,
+  "split": "train",
+  "name": "583_C. GCD Table",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 583,
+  "cf_index": "C",
+  "cf_points": 750.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 21,
+    "generated_tests": 81,
+    "correct_solutions": 511,
+    "incorrect_solutions": 797
+  }
+}

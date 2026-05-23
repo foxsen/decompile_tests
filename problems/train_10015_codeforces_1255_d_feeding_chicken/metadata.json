@@ -1,0 +1,28 @@
+{
+  "id": 10015,
+  "split": "train",
+  "name": "1255_D. Feeding Chicken",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1255,
+  "cf_index": "D",
+  "cf_points": 750.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 83,
+    "correct_solutions": 451,
+    "incorrect_solutions": 596
+  }
+}

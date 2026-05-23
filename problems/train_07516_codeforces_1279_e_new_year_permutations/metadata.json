@@ -1,0 +1,27 @@
+{
+  "id": 7516,
+  "split": "train",
+  "name": "1279_E. New Year Permutations",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1279,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "combinatorics",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 52,
+    "correct_solutions": 136,
+    "incorrect_solutions": 260
+  }
+}

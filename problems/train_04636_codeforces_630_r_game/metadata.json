@@ -1,0 +1,27 @@
+{
+  "id": 4636,
+  "split": "train",
+  "name": "630_R. Game",
+  "source": "codeforces",
+  "difficulty": "R",
+  "cf_contest_id": 630,
+  "cf_index": "R",
+  "cf_points": 0.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "games",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 0.5,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 100,
+    "correct_solutions": 673,
+    "incorrect_solutions": 333
+  }
+}

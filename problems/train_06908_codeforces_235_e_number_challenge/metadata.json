@@ -1,0 +1,30 @@
+{
+  "id": 6908,
+  "split": "train",
+  "name": "235_E. Number Challenge",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 235,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 200,
+    "generated_tests": 65,
+    "correct_solutions": 453,
+    "incorrect_solutions": 428
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 7444,
+  "split": "train",
+  "name": "605_C. Freelancer's Dreams",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 605,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 37,
+    "generated_tests": 40,
+    "correct_solutions": 278,
+    "incorrect_solutions": 573
+  }
+}

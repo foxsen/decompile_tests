@@ -1,0 +1,28 @@
+{
+  "id": 12834,
+  "split": "train",
+  "name": "1440_D. Graph Subset Problem",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1440,
+  "cf_index": "D",
+  "cf_points": 1250.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "constructive algorithms",
+    "data structures",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 57,
+    "correct_solutions": 81,
+    "incorrect_solutions": 231
+  }
+}

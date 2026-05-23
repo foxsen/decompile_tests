@@ -1,0 +1,30 @@
+{
+  "id": 8236,
+  "split": "train",
+  "name": "1107_G. Vasya and Maximum Profit",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1107,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "dsu"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 45,
+    "correct_solutions": 175,
+    "incorrect_solutions": 280
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2754,
+  "split": "train",
+  "name": "471_E. MUH and Lots and Lots of Segments",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 471,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures",
+    "dsu"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 59,
+    "correct_solutions": 49,
+    "incorrect_solutions": 206
+  }
+}

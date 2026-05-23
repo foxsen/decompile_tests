@@ -1,0 +1,26 @@
+{
+  "id": 11399,
+  "split": "train",
+  "name": "556_E. Case of Chocolate",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 556,
+  "cf_index": "E",
+  "cf_points": 1250.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 0,
+    "correct_solutions": 111,
+    "incorrect_solutions": 110
+  }
+}

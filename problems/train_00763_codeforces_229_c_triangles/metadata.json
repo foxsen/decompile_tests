@@ -1,0 +1,28 @@
+{
+  "id": 763,
+  "split": "train",
+  "name": "229_C. Triangles",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 229,
+  "cf_index": "C",
+  "cf_points": 1000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "combinatorics",
+    "graphs",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 30,
+    "generated_tests": 53,
+    "correct_solutions": 359,
+    "incorrect_solutions": 328
+  }
+}

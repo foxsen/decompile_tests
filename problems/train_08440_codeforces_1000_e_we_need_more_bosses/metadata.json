@@ -1,0 +1,28 @@
+{
+  "id": 8440,
+  "split": "train",
+  "name": "1000_E. We Need More Bosses",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1000,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 38,
+    "correct_solutions": 240,
+    "incorrect_solutions": 301
+  }
+}

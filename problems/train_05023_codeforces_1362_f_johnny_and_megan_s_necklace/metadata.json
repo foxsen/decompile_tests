@@ -1,0 +1,31 @@
+{
+  "id": 5023,
+  "split": "train",
+  "name": "1362_F. Johnny and Megan's Necklace",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1362,
+  "cf_index": "F",
+  "cf_points": 2000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 43,
+    "generated_tests": 39,
+    "correct_solutions": 213,
+    "incorrect_solutions": 374
+  }
+}

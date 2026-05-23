@@ -1,0 +1,28 @@
+{
+  "id": 1190,
+  "split": "train",
+  "name": "429_D. Tricky Function",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 429,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 25,
+    "generated_tests": 44,
+    "correct_solutions": 255,
+    "incorrect_solutions": 392
+  }
+}

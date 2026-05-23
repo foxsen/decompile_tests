@@ -1,0 +1,26 @@
+{
+  "id": 12521,
+  "split": "train",
+  "name": "1424_K. Light switches",
+  "source": "codeforces",
+  "difficulty": "K",
+  "cf_contest_id": 1424,
+  "cf_index": "K",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "meet-in-the-middle"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 48,
+    "correct_solutions": 79,
+    "incorrect_solutions": 111
+  }
+}

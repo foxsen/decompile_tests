@@ -1,0 +1,26 @@
+{
+  "id": 2139,
+  "split": "train",
+  "name": "67_C. Sequence of Balls",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 67,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 24,
+    "generated_tests": 47,
+    "correct_solutions": 165,
+    "incorrect_solutions": 318
+  }
+}

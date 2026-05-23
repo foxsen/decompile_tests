@@ -1,0 +1,28 @@
+{
+  "id": 9327,
+  "split": "train",
+  "name": "817_F. MEX Queries",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 817,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 44,
+    "correct_solutions": 177,
+    "incorrect_solutions": 412
+  }
+}

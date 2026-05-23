@@ -1,0 +1,28 @@
+{
+  "id": 2435,
+  "split": "train",
+  "name": "299_E. Cube Problem",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 299,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 58,
+    "generated_tests": 78,
+    "correct_solutions": 76,
+    "incorrect_solutions": 46
+  }
+}

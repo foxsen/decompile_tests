@@ -1,0 +1,29 @@
+{
+  "id": 2223,
+  "split": "train",
+  "name": "217_A. Ice Skating",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 217,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "brute force",
+    "dfs and similar",
+    "dsu",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 62,
+    "generated_tests": 83,
+    "correct_solutions": 999,
+    "incorrect_solutions": 882
+  }
+}

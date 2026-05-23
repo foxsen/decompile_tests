@@ -1,0 +1,27 @@
+{
+  "id": 13072,
+  "split": "train",
+  "name": "756_A. Pavel and barbecue",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 756,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "constructive algorithms",
+    "dfs and similar"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 61,
+    "generated_tests": 36,
+    "correct_solutions": 417,
+    "incorrect_solutions": 429
+  }
+}

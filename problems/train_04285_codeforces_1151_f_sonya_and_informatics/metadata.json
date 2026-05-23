@@ -1,0 +1,29 @@
+{
+  "id": 4285,
+  "split": "train",
+  "name": "1151_F. Sonya and Informatics",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1151,
+  "cf_index": "F",
+  "cf_points": 2750.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "matrices",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 74,
+    "generated_tests": 51,
+    "correct_solutions": 225,
+    "incorrect_solutions": 174
+  }
+}

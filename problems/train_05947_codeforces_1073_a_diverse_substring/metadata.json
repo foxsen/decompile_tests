@@ -1,0 +1,27 @@
+{
+  "id": 5947,
+  "split": "train",
+  "name": "1073_A. Diverse Substring",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1073,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 34,
+    "generated_tests": 93,
+    "correct_solutions": 982,
+    "incorrect_solutions": 630
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2302,
+  "split": "train",
+  "name": "1054_G. New Road Network",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1054,
+  "cf_index": "G",
+  "cf_points": 3000.0,
+  "cf_rating": 3300,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 38,
+    "correct_solutions": 89,
+    "incorrect_solutions": 179
+  }
+}

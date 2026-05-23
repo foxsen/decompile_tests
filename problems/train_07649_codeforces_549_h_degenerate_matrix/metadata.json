@@ -1,0 +1,27 @@
+{
+  "id": 7649,
+  "split": "train",
+  "name": "549_H. Degenerate Matrix",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 549,
+  "cf_index": "H",
+  "cf_points": 1500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 74,
+    "generated_tests": 98,
+    "correct_solutions": 336,
+    "incorrect_solutions": 551
+  }
+}

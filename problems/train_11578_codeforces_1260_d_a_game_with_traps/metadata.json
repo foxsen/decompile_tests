@@ -1,0 +1,29 @@
+{
+  "id": 11578,
+  "split": "train",
+  "name": "1260_D. A Game with Traps",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1260,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "binary search",
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 6,
+    "generated_tests": 67,
+    "correct_solutions": 287,
+    "incorrect_solutions": 758
+  }
+}

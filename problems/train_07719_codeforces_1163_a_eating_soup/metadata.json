@@ -1,0 +1,27 @@
+{
+  "id": 7719,
+  "split": "train",
+  "name": "1163_A. Eating Soup",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1163,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 50,
+    "generated_tests": 100,
+    "correct_solutions": 954,
+    "incorrect_solutions": 580
+  }
+}

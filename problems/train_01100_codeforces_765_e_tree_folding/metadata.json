@@ -1,0 +1,30 @@
+{
+  "id": 1100,
+  "split": "train",
+  "name": "765_E. Tree Folding",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 765,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "implementation",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 15,
+    "generated_tests": 42,
+    "correct_solutions": 218,
+    "incorrect_solutions": 421
+  }
+}

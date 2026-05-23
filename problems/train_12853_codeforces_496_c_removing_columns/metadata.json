@@ -1,0 +1,28 @@
+{
+  "id": 12853,
+  "split": "train",
+  "name": "496_C. Removing Columns",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 496,
+  "cf_index": "C",
+  "cf_points": 1750.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 22,
+    "generated_tests": 99,
+    "correct_solutions": 308,
+    "incorrect_solutions": 271
+  }
+}

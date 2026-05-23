@@ -1,0 +1,31 @@
+{
+  "id": 6683,
+  "split": "train",
+  "name": "1244_E. Minimizing Difference",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1244,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "greedy",
+    "sortings",
+    "ternary search",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 24,
+    "generated_tests": 100,
+    "correct_solutions": 418,
+    "incorrect_solutions": 693
+  }
+}

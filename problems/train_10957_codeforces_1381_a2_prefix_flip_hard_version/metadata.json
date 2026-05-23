@@ -1,0 +1,30 @@
+{
+  "id": 10957,
+  "split": "train",
+  "name": "1381_A2. Prefix Flip (Hard Version)",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1381,
+  "cf_index": "A2",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "constructive algorithms",
+    "data structures",
+    "implementation",
+    "strings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 69,
+    "correct_solutions": 269,
+    "incorrect_solutions": 220
+  }
+}

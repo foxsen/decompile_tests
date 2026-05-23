@@ -1,0 +1,27 @@
+{
+  "id": 9641,
+  "split": "train",
+  "name": "845_F. Guards In The Storehouse",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 845,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "bitmasks",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 24,
+    "generated_tests": 50,
+    "correct_solutions": 147,
+    "incorrect_solutions": 162
+  }
+}

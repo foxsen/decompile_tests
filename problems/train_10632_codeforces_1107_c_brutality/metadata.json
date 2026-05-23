@@ -1,0 +1,28 @@
+{
+  "id": 10632,
+  "split": "train",
+  "name": "1107_C. Brutality",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1107,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 6,
+    "private_tests": 7,
+    "generated_tests": 89,
+    "correct_solutions": 721,
+    "incorrect_solutions": 452
+  }
+}

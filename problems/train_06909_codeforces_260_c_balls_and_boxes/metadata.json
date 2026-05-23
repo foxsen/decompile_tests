@@ -1,0 +1,28 @@
+{
+  "id": 6909,
+  "split": "train",
+  "name": "260_C. Balls and Boxes",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 260,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 11,
+    "generated_tests": 62,
+    "correct_solutions": 370,
+    "incorrect_solutions": 606
+  }
+}

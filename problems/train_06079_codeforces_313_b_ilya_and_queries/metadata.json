@@ -1,0 +1,27 @@
+{
+  "id": 6079,
+  "split": "train",
+  "name": "313_B. Ilya and Queries",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 313,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "dp",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 12,
+    "generated_tests": 90,
+    "correct_solutions": 1278,
+    "incorrect_solutions": 600
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 233,
+  "split": "train",
+  "name": "1420_D. Rescue Nibel!",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1420,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "combinatorics",
+    "data structures",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 9,
+    "generated_tests": 66,
+    "correct_solutions": 437,
+    "incorrect_solutions": 477
+  }
+}

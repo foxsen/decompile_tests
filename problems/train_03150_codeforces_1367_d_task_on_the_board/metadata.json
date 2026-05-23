@@ -1,0 +1,29 @@
+{
+  "id": 3150,
+  "split": "train",
+  "name": "1367_D. Task On The Board",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1367,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 28,
+    "generated_tests": 85,
+    "correct_solutions": 673,
+    "incorrect_solutions": 489
+  }
+}

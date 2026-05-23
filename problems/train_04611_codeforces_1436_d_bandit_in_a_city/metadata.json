@@ -1,0 +1,30 @@
+{
+  "id": 4611,
+  "split": "train",
+  "name": "1436_D. Bandit in a City",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1436,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "binary search",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 52,
+    "generated_tests": 100,
+    "correct_solutions": 343,
+    "incorrect_solutions": 589
+  }
+}

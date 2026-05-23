@@ -1,0 +1,26 @@
+{
+  "id": 12868,
+  "split": "train",
+  "name": "847_H. Load Testing",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 847,
+  "cf_index": "H",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 6,
+    "generated_tests": 60,
+    "correct_solutions": 251,
+    "incorrect_solutions": 320
+  }
+}

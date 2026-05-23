@@ -1,0 +1,29 @@
+{
+  "id": 7212,
+  "split": "train",
+  "name": "1442_D. Sum",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1442,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 4,
+    "generated_tests": 58,
+    "correct_solutions": 167,
+    "incorrect_solutions": 242
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 10376,
+  "split": "train",
+  "name": "983_D. Arkady and Rectangles",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 983,
+  "cf_index": "D",
+  "cf_points": 2250.0,
+  "cf_rating": 3300,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 39,
+    "correct_solutions": 126,
+    "incorrect_solutions": 304
+  }
+}

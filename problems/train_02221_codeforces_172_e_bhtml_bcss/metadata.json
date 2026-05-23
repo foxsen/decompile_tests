@@ -1,0 +1,28 @@
+{
+  "id": 2221,
+  "split": "train",
+  "name": "172_E. BHTML+BCSS",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 172,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "*special",
+    "dfs and similar",
+    "expression parsing"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 51,
+    "correct_solutions": 143,
+    "incorrect_solutions": 180
+  }
+}

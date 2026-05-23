@@ -1,0 +1,27 @@
+{
+  "id": 4929,
+  "split": "train",
+  "name": "189_D. AlgoRace",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 189,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "dp",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 59,
+    "correct_solutions": 331,
+    "incorrect_solutions": 373
+  }
+}

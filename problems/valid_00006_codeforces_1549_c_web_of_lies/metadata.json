@@ -1,0 +1,27 @@
+{
+  "id": 6,
+  "split": "valid",
+  "name": "1549_C. Web of Lies",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1549,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "graphs",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 200,
+    "correct_solutions": 366,
+    "incorrect_solutions": 294
+  }
+}

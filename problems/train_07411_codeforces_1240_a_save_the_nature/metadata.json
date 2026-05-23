@@ -1,0 +1,27 @@
+{
+  "id": 7411,
+  "split": "train",
+  "name": "1240_A. Save the Nature",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1240,
+  "cf_index": "A",
+  "cf_points": 1500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "binary search",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 43,
+    "correct_solutions": 345,
+    "incorrect_solutions": 496
+  }
+}

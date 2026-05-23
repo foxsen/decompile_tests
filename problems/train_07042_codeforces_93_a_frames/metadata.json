@@ -1,0 +1,26 @@
+{
+  "id": 7042,
+  "split": "train",
+  "name": "93_A. Frames",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 93,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 168,
+    "generated_tests": 65,
+    "correct_solutions": 444,
+    "incorrect_solutions": 1273
+  }
+}

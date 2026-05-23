@@ -1,0 +1,29 @@
+{
+  "id": 1830,
+  "split": "train",
+  "name": "74_C. Chessboard Billiard",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 74,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 62,
+    "generated_tests": 56,
+    "correct_solutions": 222,
+    "incorrect_solutions": 273
+  }
+}

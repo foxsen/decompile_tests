@@ -1,0 +1,28 @@
+{
+  "id": 3456,
+  "split": "train",
+  "name": "1251_E2. Voting (Hard Version)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1251,
+  "cf_index": "E2",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 55,
+    "correct_solutions": 159,
+    "incorrect_solutions": 103
+  }
+}

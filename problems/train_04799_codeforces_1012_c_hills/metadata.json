@@ -1,0 +1,26 @@
+{
+  "id": 4799,
+  "split": "train",
+  "name": "1012_C. Hills",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1012,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 38,
+    "generated_tests": 58,
+    "correct_solutions": 280,
+    "incorrect_solutions": 376
+  }
+}

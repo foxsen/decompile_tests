@@ -1,0 +1,26 @@
+{
+  "id": 8,
+  "split": "train",
+  "name": "1060_A. Phone Numbers",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1060,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "brute force"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 95,
+    "generated_tests": 81,
+    "correct_solutions": 1024,
+    "incorrect_solutions": 576
+  }
+}

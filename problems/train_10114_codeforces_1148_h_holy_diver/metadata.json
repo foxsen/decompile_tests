@@ -1,0 +1,26 @@
+{
+  "id": 10114,
+  "split": "train",
+  "name": "1148_H. Holy Diver ",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 1148,
+  "cf_index": "H",
+  "cf_points": 4000.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 100,
+    "correct_solutions": 24,
+    "incorrect_solutions": 129
+  }
+}

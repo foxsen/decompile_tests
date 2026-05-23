@@ -1,0 +1,29 @@
+{
+  "id": 11816,
+  "split": "train",
+  "name": "559_C. Gerald and Giant Chess",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 559,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 53,
+    "correct_solutions": 622,
+    "incorrect_solutions": 569
+  }
+}

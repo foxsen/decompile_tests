@@ -1,0 +1,27 @@
+{
+  "id": 11068,
+  "split": "train",
+  "name": "1523_G. Try Booking",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1523,
+  "cf_index": "G",
+  "cf_points": 3250.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 200,
+    "correct_solutions": 72,
+    "incorrect_solutions": 101
+  }
+}

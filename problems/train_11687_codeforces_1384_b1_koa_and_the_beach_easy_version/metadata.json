@@ -1,0 +1,28 @@
+{
+  "id": 11687,
+  "split": "train",
+  "name": "1384_B1. Koa and the Beach (Easy Version)",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1384,
+  "cf_index": "B1",
+  "cf_points": 500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 32,
+    "generated_tests": 93,
+    "correct_solutions": 562,
+    "incorrect_solutions": 715
+  }
+}

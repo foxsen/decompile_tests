@@ -1,0 +1,28 @@
+{
+  "id": 459,
+  "split": "train",
+  "name": "438_A. The Child and Toy",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 438,
+  "cf_index": "A",
+  "cf_points": 1500.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "graphs",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 4,
+    "generated_tests": 71,
+    "correct_solutions": 221,
+    "incorrect_solutions": 105
+  }
+}

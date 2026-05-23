@@ -1,0 +1,24 @@
+{
+  "id": 12321,
+  "split": "train",
+  "name": "207_D8. The Beaver's Problem - 3",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 207,
+  "cf_index": "D8",
+  "cf_points": 10.0,
+  "cf_rating": 2300,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 0,
+    "private_tests": 2,
+    "generated_tests": 100,
+    "correct_solutions": 20,
+    "incorrect_solutions": 11
+  }
+}

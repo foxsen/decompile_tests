@@ -1,0 +1,28 @@
+{
+  "id": 7763,
+  "split": "train",
+  "name": "768_E. Game of Stones",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 768,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "bitmasks",
+    "dp",
+    "games"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 48,
+    "correct_solutions": 263,
+    "incorrect_solutions": 241
+  }
+}

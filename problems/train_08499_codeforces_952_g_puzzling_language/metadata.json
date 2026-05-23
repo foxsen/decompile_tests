@@ -1,0 +1,26 @@
+{
+  "id": 8499,
+  "split": "train",
+  "name": "952_G. Puzzling Language",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 952,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 34,
+    "generated_tests": 70,
+    "correct_solutions": 116,
+    "incorrect_solutions": 175
+  }
+}

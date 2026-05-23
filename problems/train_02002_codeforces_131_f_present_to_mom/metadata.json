@@ -1,0 +1,27 @@
+{
+  "id": 2002,
+  "split": "train",
+  "name": "131_F. Present to Mom",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 131,
+  "cf_index": "F",
+  "cf_points": 2500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "binary search",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 49,
+    "correct_solutions": 238,
+    "incorrect_solutions": 246
+  }
+}

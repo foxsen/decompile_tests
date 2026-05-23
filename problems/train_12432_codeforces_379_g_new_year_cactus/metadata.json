@@ -1,0 +1,26 @@
+{
+  "id": 12432,
+  "split": "train",
+  "name": "379_G. New Year Cactus",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 379,
+  "cf_index": "G",
+  "cf_points": 3500.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 27,
+    "generated_tests": 59,
+    "correct_solutions": 70,
+    "incorrect_solutions": 69
+  }
+}

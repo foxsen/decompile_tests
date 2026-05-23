@@ -1,0 +1,28 @@
+{
+  "id": 107,
+  "split": "valid",
+  "name": "1572_E. Polygon",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1572,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "binary search",
+    "dp",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 179,
+    "generated_tests": 200,
+    "correct_solutions": 43,
+    "incorrect_solutions": 21
+  }
+}

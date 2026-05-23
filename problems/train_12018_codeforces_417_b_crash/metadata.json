@@ -1,0 +1,26 @@
+{
+  "id": 12018,
+  "split": "train",
+  "name": "417_B. Crash",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 417,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 21,
+    "generated_tests": 70,
+    "correct_solutions": 425,
+    "incorrect_solutions": 457
+  }
+}

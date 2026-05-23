@@ -1,0 +1,27 @@
+{
+  "id": 132,
+  "split": "test",
+  "name": "1618_A. Polycarp and Sums of Subsequences",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1618,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 27,
+    "generated_tests": 0,
+    "correct_solutions": 488,
+    "incorrect_solutions": 301
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 3084,
+  "split": "train",
+  "name": "867_F. Hex Dyslexia",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 867,
+  "cf_index": "F",
+  "cf_points": 2500.0,
+  "cf_rating": 3300,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 71,
+    "generated_tests": 0,
+    "correct_solutions": 1,
+    "incorrect_solutions": 57
+  }
+}

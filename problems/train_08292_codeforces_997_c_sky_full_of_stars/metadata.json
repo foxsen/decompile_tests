@@ -1,0 +1,27 @@
+{
+  "id": 8292,
+  "split": "train",
+  "name": "997_C. Sky Full of Stars",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 997,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "combinatorics",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 39,
+    "generated_tests": 51,
+    "correct_solutions": 328,
+    "incorrect_solutions": 281
+  }
+}

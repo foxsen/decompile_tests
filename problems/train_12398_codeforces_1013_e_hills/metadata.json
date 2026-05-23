@@ -1,0 +1,26 @@
+{
+  "id": 12398,
+  "split": "train",
+  "name": "1013_E. Hills",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1013,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 38,
+    "generated_tests": 73,
+    "correct_solutions": 83,
+    "incorrect_solutions": 121
+  }
+}

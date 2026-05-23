@@ -1,0 +1,27 @@
+{
+  "id": 7615,
+  "split": "train",
+  "name": "1175_A. From Hero to Zero",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1175,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 99,
+    "correct_solutions": 1217,
+    "incorrect_solutions": 554
+  }
+}

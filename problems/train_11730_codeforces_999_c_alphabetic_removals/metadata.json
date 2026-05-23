@@ -1,0 +1,26 @@
+{
+  "id": 11730,
+  "split": "train",
+  "name": "999_C. Alphabetic Removals",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 999,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 7,
+    "generated_tests": 100,
+    "correct_solutions": 883,
+    "incorrect_solutions": 539
+  }
+}

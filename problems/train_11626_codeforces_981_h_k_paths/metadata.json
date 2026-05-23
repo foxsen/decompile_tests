@@ -1,0 +1,30 @@
+{
+  "id": 11626,
+  "split": "train",
+  "name": "981_H. K Paths",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 981,
+  "cf_index": "H",
+  "cf_points": 3750.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "combinatorics",
+    "data structures",
+    "dp",
+    "fft",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 1,
+    "generated_tests": 38,
+    "correct_solutions": 138,
+    "incorrect_solutions": 162
+  }
+}

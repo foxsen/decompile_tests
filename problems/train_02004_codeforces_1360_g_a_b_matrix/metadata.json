@@ -1,0 +1,28 @@
+{
+  "id": 2004,
+  "split": "train",
+  "name": "1360_G. A/B Matrix",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1360,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 81,
+    "correct_solutions": 575,
+    "incorrect_solutions": 640
+  }
+}

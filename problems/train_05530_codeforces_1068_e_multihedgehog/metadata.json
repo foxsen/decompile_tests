@@ -1,0 +1,28 @@
+{
+  "id": 5530,
+  "split": "train",
+  "name": "1068_E. Multihedgehog",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1068,
+  "cf_index": "E",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 21,
+    "generated_tests": 39,
+    "correct_solutions": 116,
+    "incorrect_solutions": 197
+  }
+}

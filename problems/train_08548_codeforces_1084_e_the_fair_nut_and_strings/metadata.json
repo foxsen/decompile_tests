@@ -1,0 +1,27 @@
+{
+  "id": 8548,
+  "split": "train",
+  "name": "1084_E. The Fair Nut and Strings",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1084,
+  "cf_index": "E",
+  "cf_points": 1000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "greedy",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 44,
+    "generated_tests": 74,
+    "correct_solutions": 308,
+    "incorrect_solutions": 381
+  }
+}

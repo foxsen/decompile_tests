@@ -1,0 +1,28 @@
+{
+  "id": 13051,
+  "split": "train",
+  "name": "261_E. Maxim and Calculator",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 261,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 67,
+    "generated_tests": 46,
+    "correct_solutions": 167,
+    "incorrect_solutions": 175
+  }
+}

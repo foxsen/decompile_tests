@@ -1,0 +1,28 @@
+{
+  "id": 5786,
+  "split": "train",
+  "name": "744_C. Hongcow Buys a Deck of Cards",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 744,
+  "cf_index": "C",
+  "cf_points": 1750.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 292,
+    "generated_tests": 43,
+    "correct_solutions": 278,
+    "incorrect_solutions": 345
+  }
+}

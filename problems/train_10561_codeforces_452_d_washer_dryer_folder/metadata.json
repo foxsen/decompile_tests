@@ -1,0 +1,27 @@
+{
+  "id": 10561,
+  "split": "train",
+  "name": "452_D. Washer, Dryer, Folder",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 452,
+  "cf_index": "D",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 32,
+    "generated_tests": 51,
+    "correct_solutions": 377,
+    "incorrect_solutions": 276
+  }
+}

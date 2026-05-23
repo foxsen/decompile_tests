@@ -1,0 +1,27 @@
+{
+  "id": 6400,
+  "split": "train",
+  "name": "522_D. Closest Equals",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 522,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "*special",
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 36,
+    "correct_solutions": 267,
+    "incorrect_solutions": 312
+  }
+}

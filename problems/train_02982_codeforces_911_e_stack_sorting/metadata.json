@@ -1,0 +1,29 @@
+{
+  "id": 2982,
+  "split": "train",
+  "name": "911_E. Stack Sorting",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 911,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 177,
+    "generated_tests": 41,
+    "correct_solutions": 282,
+    "incorrect_solutions": 369
+  }
+}

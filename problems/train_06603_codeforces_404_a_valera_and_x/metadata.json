@@ -1,0 +1,26 @@
+{
+  "id": 6603,
+  "split": "train",
+  "name": "404_A. Valera and X",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 404,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 37,
+    "generated_tests": 98,
+    "correct_solutions": 900,
+    "incorrect_solutions": 824
+  }
+}

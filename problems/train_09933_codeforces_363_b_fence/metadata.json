@@ -1,0 +1,27 @@
+{
+  "id": 9933,
+  "split": "train",
+  "name": "363_B. Fence",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 363,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "brute force",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 21,
+    "generated_tests": 98,
+    "correct_solutions": 1241,
+    "incorrect_solutions": 794
+  }
+}

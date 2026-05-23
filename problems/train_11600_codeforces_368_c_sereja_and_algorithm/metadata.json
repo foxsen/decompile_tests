@@ -1,0 +1,27 @@
+{
+  "id": 11600,
+  "split": "train",
+  "name": "368_C. Sereja and Algorithm ",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 368,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "data structures",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 58,
+    "correct_solutions": 191,
+    "incorrect_solutions": 309
+  }
+}

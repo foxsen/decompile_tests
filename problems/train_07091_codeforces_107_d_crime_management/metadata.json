@@ -1,0 +1,28 @@
+{
+  "id": 7091,
+  "split": "train",
+  "name": "107_D. Crime Management",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 107,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "dp",
+    "graphs",
+    "matrices"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 75,
+    "generated_tests": 49,
+    "correct_solutions": 153,
+    "incorrect_solutions": 167
+  }
+}

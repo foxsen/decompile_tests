@@ -1,0 +1,26 @@
+{
+  "id": 11279,
+  "split": "train",
+  "name": "192_C. Dynasty Puzzles",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 192,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 9,
+    "generated_tests": 56,
+    "correct_solutions": 179,
+    "incorrect_solutions": 164
+  }
+}

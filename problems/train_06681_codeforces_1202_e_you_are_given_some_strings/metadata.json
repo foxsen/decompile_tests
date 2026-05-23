@@ -1,0 +1,28 @@
+{
+  "id": 6681,
+  "split": "train",
+  "name": "1202_E. You Are Given Some Strings...",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1202,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "brute force",
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 43,
+    "correct_solutions": 197,
+    "incorrect_solutions": 202
+  }
+}

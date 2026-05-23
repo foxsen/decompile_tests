@@ -1,0 +1,27 @@
+{
+  "id": 12455,
+  "split": "train",
+  "name": "915_G. Coprime Arrays",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 915,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 53,
+    "generated_tests": 45,
+    "correct_solutions": 192,
+    "incorrect_solutions": 183
+  }
+}

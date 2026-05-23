@@ -1,0 +1,26 @@
+{
+  "id": 6479,
+  "split": "train",
+  "name": "133_E. Logo Turtle",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 133,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 57,
+    "generated_tests": 62,
+    "correct_solutions": 113,
+    "incorrect_solutions": 160
+  }
+}

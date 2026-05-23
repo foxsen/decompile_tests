@@ -1,0 +1,32 @@
+{
+  "id": 5,
+  "split": "valid",
+  "name": "1549_B. Gregor and the Pawn Game",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1549,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "flows",
+    "graph matchings",
+    "graphs",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 200,
+    "correct_solutions": 350,
+    "incorrect_solutions": 307
+  }
+}

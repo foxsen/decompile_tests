@@ -1,0 +1,27 @@
+{
+  "id": 3596,
+  "split": "train",
+  "name": "686_A. Free Ice Cream",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 686,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 86,
+    "correct_solutions": 1577,
+    "incorrect_solutions": 575
+  }
+}

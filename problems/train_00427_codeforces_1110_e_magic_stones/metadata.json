@@ -1,0 +1,28 @@
+{
+  "id": 427,
+  "split": "train",
+  "name": "1110_E. Magic Stones",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1110,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "constructive algorithms",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 24,
+    "generated_tests": 99,
+    "correct_solutions": 336,
+    "incorrect_solutions": 352
+  }
+}

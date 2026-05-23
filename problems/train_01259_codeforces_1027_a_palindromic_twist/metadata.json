@@ -1,0 +1,27 @@
+{
+  "id": 1259,
+  "split": "train",
+  "name": "1027_A. Palindromic Twist",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1027,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 42,
+    "generated_tests": 81,
+    "correct_solutions": 1038,
+    "incorrect_solutions": 525
+  }
+}

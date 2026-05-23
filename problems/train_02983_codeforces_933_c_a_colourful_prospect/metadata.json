@@ -1,0 +1,27 @@
+{
+  "id": 2983,
+  "split": "train",
+  "name": "933_C. A Colourful Prospect",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 933,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "geometry",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 127,
+    "generated_tests": 61,
+    "correct_solutions": 92,
+    "incorrect_solutions": 360
+  }
+}

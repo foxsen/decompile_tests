@@ -1,0 +1,27 @@
+{
+  "id": 3976,
+  "split": "train",
+  "name": "1217_A. Creating a Character",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1217,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "binary search",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 100,
+    "correct_solutions": 883,
+    "incorrect_solutions": 985
+  }
+}

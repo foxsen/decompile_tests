@@ -1,0 +1,28 @@
+{
+  "id": 2020,
+  "split": "train",
+  "name": "337_E. Divisor Tree",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 337,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "brute force",
+    "number theory",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 0.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 38,
+    "generated_tests": 92,
+    "correct_solutions": 95,
+    "incorrect_solutions": 125
+  }
+}

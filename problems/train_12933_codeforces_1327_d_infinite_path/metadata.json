@@ -1,0 +1,30 @@
+{
+  "id": 12933,
+  "split": "train",
+  "name": "1327_D. Infinite Path",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1327,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "brute force",
+    "dfs and similar",
+    "graphs",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 66,
+    "correct_solutions": 248,
+    "incorrect_solutions": 385
+  }
+}

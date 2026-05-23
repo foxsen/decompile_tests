@@ -1,0 +1,27 @@
+{
+  "id": 9608,
+  "split": "train",
+  "name": "1464_F. My Beautiful Madness",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1464,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "data structures",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 9,
+    "generated_tests": 200,
+    "correct_solutions": 46,
+    "incorrect_solutions": 101
+  }
+}

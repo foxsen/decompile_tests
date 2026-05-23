@@ -1,0 +1,26 @@
+{
+  "id": 11393,
+  "split": "train",
+  "name": "40_D. Interesting Sequence",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 40,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 87,
+    "generated_tests": 100,
+    "correct_solutions": 64,
+    "incorrect_solutions": 129
+  }
+}

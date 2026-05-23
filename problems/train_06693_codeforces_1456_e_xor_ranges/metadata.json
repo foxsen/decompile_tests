@@ -1,0 +1,27 @@
+{
+  "id": 6693,
+  "split": "train",
+  "name": "1456_E. XOR-ranges",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1456,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 15,
+    "generated_tests": 200,
+    "correct_solutions": 65,
+    "incorrect_solutions": 108
+  }
+}

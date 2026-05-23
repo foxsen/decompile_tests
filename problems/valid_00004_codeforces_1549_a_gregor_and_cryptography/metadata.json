@@ -1,0 +1,27 @@
+{
+  "id": 4,
+  "split": "valid",
+  "name": "1549_A. Gregor and Cryptography",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1549,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 200,
+    "correct_solutions": 455,
+    "incorrect_solutions": 300
+  }
+}

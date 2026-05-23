@@ -1,0 +1,27 @@
+{
+  "id": 162,
+  "split": "test",
+  "name": "1623_C. Balanced Stone Heaps",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1623,
+  "cf_index": "C",
+  "cf_points": 1750.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "binary search",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 249,
+    "incorrect_solutions": 234
+  }
+}

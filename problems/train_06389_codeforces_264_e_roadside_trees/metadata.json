@@ -1,0 +1,27 @@
+{
+  "id": 6389,
+  "split": "train",
+  "name": "264_E. Roadside Trees",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 264,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "data structures",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 6,
+    "generated_tests": 34,
+    "correct_solutions": 142,
+    "incorrect_solutions": 197
+  }
+}

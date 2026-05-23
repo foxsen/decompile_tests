@@ -1,0 +1,28 @@
+{
+  "id": 10554,
+  "split": "train",
+  "name": "288_D. Polo the Penguin and Trees ",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 288,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "combinatorics",
+    "dfs and similar",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 13,
+    "generated_tests": 54,
+    "correct_solutions": 156,
+    "incorrect_solutions": 314
+  }
+}

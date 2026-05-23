@@ -1,0 +1,29 @@
+{
+  "id": 6512,
+  "split": "train",
+  "name": "716_E. Digit Tree",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 716,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "dfs and similar",
+    "divide and conquer",
+    "dsu",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 53,
+    "correct_solutions": 83,
+    "incorrect_solutions": 111
+  }
+}

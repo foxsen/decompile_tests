@@ -1,0 +1,29 @@
+{
+  "id": 8467,
+  "split": "train",
+  "name": "199_A. Hexadecimal's theorem",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 199,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 42,
+    "generated_tests": 2,
+    "correct_solutions": 1187,
+    "incorrect_solutions": 801
+  }
+}

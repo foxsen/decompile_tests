@@ -1,0 +1,30 @@
+{
+  "id": 12647,
+  "split": "train",
+  "name": "547_C. Mike and Foam",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 547,
+  "cf_index": "C",
+  "cf_points": 1750.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 4,
+    "generated_tests": 44,
+    "correct_solutions": 294,
+    "incorrect_solutions": 374
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 12658,
+  "split": "train",
+  "name": "802_B. Heidi and Library (medium)",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 802,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "data structures",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 10.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 4,
+    "generated_tests": 44,
+    "correct_solutions": 203,
+    "incorrect_solutions": 217
+  }
+}

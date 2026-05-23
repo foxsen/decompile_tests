@@ -1,0 +1,26 @@
+{
+  "id": 4288,
+  "split": "train",
+  "name": "120_B. Quiz League",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 120,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "input.txt",
+  "output_file": "output.txt",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 14,
+    "generated_tests": 0,
+    "correct_solutions": 132,
+    "incorrect_solutions": 323
+  }
+}

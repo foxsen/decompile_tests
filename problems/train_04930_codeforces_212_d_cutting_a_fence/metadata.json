@@ -1,0 +1,28 @@
+{
+  "id": 4930,
+  "split": "train",
+  "name": "212_D. Cutting a Fence",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 212,
+  "cf_index": "D",
+  "cf_points": 2500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "dsu"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 18,
+    "generated_tests": 33,
+    "correct_solutions": 165,
+    "incorrect_solutions": 194
+  }
+}

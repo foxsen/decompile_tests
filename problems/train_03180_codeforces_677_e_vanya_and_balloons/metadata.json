@@ -1,0 +1,29 @@
+{
+  "id": 3180,
+  "split": "train",
+  "name": "677_E. Vanya and Balloons",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 677,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "dp",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 16,
+    "generated_tests": 36,
+    "correct_solutions": 156,
+    "incorrect_solutions": 240
+  }
+}

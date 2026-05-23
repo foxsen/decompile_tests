@@ -1,0 +1,26 @@
+{
+  "id": 951,
+  "split": "train",
+  "name": "1157_C2. Increasing Subsequence (hard version)",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1157,
+  "cf_index": "C2",
+  "cf_points": 0.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 231,
+    "generated_tests": 96,
+    "correct_solutions": 307,
+    "incorrect_solutions": 522
+  }
+}

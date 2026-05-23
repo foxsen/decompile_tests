@@ -1,0 +1,28 @@
+{
+  "id": 8347,
+  "split": "train",
+  "name": "1240_E. Wooden Raft",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1240,
+  "cf_index": "E",
+  "cf_points": 3250.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "binary search",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 13,
+    "generated_tests": 50,
+    "correct_solutions": 112,
+    "incorrect_solutions": 294
+  }
+}

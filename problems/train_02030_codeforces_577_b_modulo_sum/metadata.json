@@ -1,0 +1,29 @@
+{
+  "id": 2030,
+  "split": "train",
+  "name": "577_B. Modulo Sum",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 577,
+  "cf_index": "B",
+  "cf_points": 1250.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "combinatorics",
+    "data structures",
+    "dp",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 13,
+    "generated_tests": 93,
+    "correct_solutions": 763,
+    "incorrect_solutions": 1074
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 781,
+  "split": "train",
+  "name": "658_B. Bear and Displayed Friends",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 658,
+  "cf_index": "B",
+  "cf_points": 500.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 89,
+    "correct_solutions": 733,
+    "incorrect_solutions": 548
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 13128,
+  "split": "train",
+  "name": "1060_C. Maximum Subrectangle",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1060,
+  "cf_index": "C",
+  "cf_points": 1250.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "binary search",
+    "implementation",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 36,
+    "generated_tests": 67,
+    "correct_solutions": 319,
+    "incorrect_solutions": 346
+  }
+}

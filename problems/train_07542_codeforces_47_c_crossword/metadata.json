@@ -1,0 +1,26 @@
+{
+  "id": 7542,
+  "split": "train",
+  "name": "47_C. Crossword",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 47,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 78,
+    "generated_tests": 49,
+    "correct_solutions": 259,
+    "incorrect_solutions": 358
+  }
+}

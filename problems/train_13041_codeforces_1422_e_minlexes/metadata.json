@@ -1,0 +1,29 @@
+{
+  "id": 13041,
+  "split": "train",
+  "name": "1422_E. Minlexes",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1422,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 31,
+    "generated_tests": 46,
+    "correct_solutions": 190,
+    "incorrect_solutions": 506
+  }
+}

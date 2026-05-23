@@ -1,0 +1,28 @@
+{
+  "id": 6263,
+  "split": "train",
+  "name": "1178_H. Stock Exchange",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 1178,
+  "cf_index": "H",
+  "cf_points": 4000.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "binary search",
+    "flows",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 16000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 16,
+    "generated_tests": 47,
+    "correct_solutions": 87,
+    "incorrect_solutions": 130
+  }
+}

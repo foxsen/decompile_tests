@@ -1,0 +1,29 @@
+{
+  "id": 12664,
+  "split": "train",
+  "name": "939_E. Maximize!",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 939,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "binary search",
+    "greedy",
+    "ternary search",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 64,
+    "correct_solutions": 303,
+    "incorrect_solutions": 346
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 793,
+  "split": "train",
+  "name": "931_E. Game with String",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 931,
+  "cf_index": "E",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "implementation",
+    "probabilities",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 16,
+    "generated_tests": 60,
+    "correct_solutions": 164,
+    "incorrect_solutions": 101
+  }
+}

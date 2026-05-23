@@ -1,0 +1,29 @@
+{
+  "id": 13069,
+  "split": "train",
+  "name": "689_B. Mike and Shortcuts",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 689,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 4,
+    "generated_tests": 93,
+    "correct_solutions": 472,
+    "incorrect_solutions": 623
+  }
+}

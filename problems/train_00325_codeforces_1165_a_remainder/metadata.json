@@ -1,0 +1,27 @@
+{
+  "id": 325,
+  "split": "train",
+  "name": "1165_A. Remainder",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1165,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 97,
+    "generated_tests": 90,
+    "correct_solutions": 1073,
+    "incorrect_solutions": 569
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 91,
+  "split": "valid",
+  "name": "1566_G. Four Vertices",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1566,
+  "cf_index": "G",
+  "cf_points": 3000.0,
+  "cf_rating": 3100,
+  "cf_tags": [
+    "constructive algorithms",
+    "data structures",
+    "graphs",
+    "greedy",
+    "implementation",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 200,
+    "correct_solutions": 74,
+    "incorrect_solutions": 263
+  }
+}

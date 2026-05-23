@@ -1,0 +1,28 @@
+{
+  "id": 6892,
+  "split": "train",
+  "name": "126_A. Hot Bath",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 126,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 67,
+    "generated_tests": 49,
+    "correct_solutions": 230,
+    "incorrect_solutions": 731
+  }
+}

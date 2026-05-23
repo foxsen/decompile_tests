@@ -1,0 +1,27 @@
+{
+  "id": 6722,
+  "split": "train",
+  "name": "747_A. Display Size",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 747,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "brute force",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 39,
+    "generated_tests": 100,
+    "correct_solutions": 949,
+    "incorrect_solutions": 567
+  }
+}

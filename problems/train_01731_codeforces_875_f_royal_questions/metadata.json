@@ -1,0 +1,28 @@
+{
+  "id": 1731,
+  "split": "train",
+  "name": "875_F. Royal Questions",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 875,
+  "cf_index": "F",
+  "cf_points": 2500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "dsu",
+    "graphs",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 18,
+    "generated_tests": 49,
+    "correct_solutions": 202,
+    "incorrect_solutions": 214
+  }
+}

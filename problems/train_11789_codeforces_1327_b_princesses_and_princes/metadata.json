@@ -1,0 +1,28 @@
+{
+  "id": 11789,
+  "split": "train",
+  "name": "1327_B. Princesses and Princes",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1327,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "brute force",
+    "graphs",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 80,
+    "correct_solutions": 1039,
+    "incorrect_solutions": 571
+  }
+}

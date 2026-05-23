@@ -1,0 +1,26 @@
+{
+  "id": 51,
+  "split": "train",
+  "name": "634_C. Factory Repairs",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 634,
+  "cf_index": "C",
+  "cf_points": 1000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 51,
+    "correct_solutions": 440,
+    "incorrect_solutions": 367
+  }
+}

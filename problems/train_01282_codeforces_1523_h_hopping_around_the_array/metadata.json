@@ -1,0 +1,27 @@
+{
+  "id": 1282,
+  "split": "train",
+  "name": "1523_H. Hopping Around the Array ",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 1523,
+  "cf_index": "H",
+  "cf_points": 3250.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "data structures",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 200,
+    "correct_solutions": 51,
+    "incorrect_solutions": 96
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 12,
+  "split": "test",
+  "name": "1575_M. Managing Telephone Poles",
+  "source": "codeforces",
+  "difficulty": "M",
+  "cf_contest_id": 1575,
+  "cf_index": "M",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 200,
+    "correct_solutions": 40,
+    "incorrect_solutions": 42
+  }
+}

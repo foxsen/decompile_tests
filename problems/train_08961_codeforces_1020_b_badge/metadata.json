@@ -1,0 +1,28 @@
+{
+  "id": 8961,
+  "split": "train",
+  "name": "1020_B. Badge",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1020,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "brute force",
+    "dfs and similar",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 14,
+    "generated_tests": 100,
+    "correct_solutions": 939,
+    "incorrect_solutions": 543
+  }
+}

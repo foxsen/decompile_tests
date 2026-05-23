@@ -1,0 +1,28 @@
+{
+  "id": 82,
+  "split": "test",
+  "name": "1601_E. Phys Ed Online",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1601,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 200,
+    "correct_solutions": 70,
+    "incorrect_solutions": 135
+  }
+}

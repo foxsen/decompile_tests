@@ -1,0 +1,29 @@
+{
+  "id": 6067,
+  "split": "train",
+  "name": "1423_K. Lonely Numbers",
+  "source": "codeforces",
+  "difficulty": "K",
+  "cf_contest_id": 1423,
+  "cf_index": "K",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "binary search",
+    "math",
+    "number theory",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 7,
+    "generated_tests": 54,
+    "correct_solutions": 163,
+    "incorrect_solutions": 136
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 6836,
+  "split": "train",
+  "name": "988_A. Diverse Team",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 988,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 7,
+    "generated_tests": 97,
+    "correct_solutions": 1497,
+    "incorrect_solutions": 699
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 8577,
+  "split": "train",
+  "name": "335_D. Rectangles and Square",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 335,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "brute force",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 12,
+    "generated_tests": 34,
+    "correct_solutions": 112,
+    "incorrect_solutions": 237
+  }
+}

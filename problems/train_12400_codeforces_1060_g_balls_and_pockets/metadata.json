@@ -1,0 +1,26 @@
+{
+  "id": 12400,
+  "split": "train",
+  "name": "1060_G. Balls and Pockets",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1060,
+  "cf_index": "G",
+  "cf_points": 2750.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 99,
+    "correct_solutions": 45,
+    "incorrect_solutions": 90
+  }
+}

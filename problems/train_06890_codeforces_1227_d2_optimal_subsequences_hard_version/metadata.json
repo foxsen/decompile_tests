@@ -1,0 +1,27 @@
+{
+  "id": 6890,
+  "split": "train",
+  "name": "1227_D2. Optimal Subsequences (Hard Version)",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1227,
+  "cf_index": "D2",
+  "cf_points": 1500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "data structures",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 46,
+    "correct_solutions": 100,
+    "incorrect_solutions": 102
+  }
+}

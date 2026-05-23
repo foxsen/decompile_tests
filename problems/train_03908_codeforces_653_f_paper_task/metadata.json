@@ -1,0 +1,28 @@
+{
+  "id": 3908,
+  "split": "train",
+  "name": "653_F. Paper task",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 653,
+  "cf_index": "F",
+  "cf_points": 3500.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "data structures",
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 24,
+    "generated_tests": 33,
+    "correct_solutions": 163,
+    "incorrect_solutions": 220
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 8650,
+  "split": "train",
+  "name": "1032_E. The Unbearable Lightness of Weights",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1032,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 29,
+    "generated_tests": 43,
+    "correct_solutions": 105,
+    "incorrect_solutions": 107
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 12553,
+  "split": "train",
+  "name": "780_G. Andryusha and Nervous Barriers",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 780,
+  "cf_index": "G",
+  "cf_points": 3000.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "data structures",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 6,
+    "generated_tests": 35,
+    "correct_solutions": 101,
+    "incorrect_solutions": 69
+  }
+}

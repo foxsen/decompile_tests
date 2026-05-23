@@ -1,0 +1,26 @@
+{
+  "id": 4513,
+  "split": "train",
+  "name": "189_C. Permutations",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 189,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 7,
+    "generated_tests": 2,
+    "correct_solutions": 536,
+    "incorrect_solutions": 525
+  }
+}

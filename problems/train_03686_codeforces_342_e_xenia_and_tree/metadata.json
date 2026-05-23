@@ -1,0 +1,28 @@
+{
+  "id": 3686,
+  "split": "train",
+  "name": "342_E. Xenia and Tree",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 342,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 43,
+    "correct_solutions": 422,
+    "incorrect_solutions": 469
+  }
+}

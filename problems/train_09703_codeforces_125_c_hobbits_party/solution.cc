@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+using namespace std;
+int N, ans, tot;
+int ar[1002][1002];
+int main() {
+  cin >> N;
+  while (tot <= N) {
+    ans++;
+    tot += ans;
+  }
+  cout << ans << endl;
+  tot -= ans;
+  ans--;
+  int temp = 0;
+  for (int i = 0; i < ans; i++)
+    for (int j = i; j < ans; j++) {
+      ar[i][j] = temp + 1;
+      ar[j + 1][i] = temp + 1;
+      temp++;
+    }
+  for (int i = 0; i <= ans; i++) {
+    for (int j = 0; j < ans; j++) printf("%d ", ar[i][j]);
+    cout << endl;
+  }
+  return 0;
+}

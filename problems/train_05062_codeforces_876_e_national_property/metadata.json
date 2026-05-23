@@ -1,0 +1,29 @@
+{
+  "id": 5062,
+  "split": "train",
+  "name": "876_E. National Property",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 876,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "2-sat",
+    "dfs and similar",
+    "graphs",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 18,
+    "generated_tests": 37,
+    "correct_solutions": 320,
+    "incorrect_solutions": 592
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 6587,
+  "split": "train",
+  "name": "1424_E. 5G Antenna Towers",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1424,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 100,
+    "correct_solutions": 20,
+    "incorrect_solutions": 142
+  }
+}

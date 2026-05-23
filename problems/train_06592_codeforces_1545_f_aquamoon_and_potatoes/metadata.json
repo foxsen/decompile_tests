@@ -1,0 +1,28 @@
+{
+  "id": 6592,
+  "split": "train",
+  "name": "1545_F. AquaMoon and Potatoes",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1545,
+  "cf_index": "F",
+  "cf_points": 4000.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 7.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 100,
+    "correct_solutions": 11,
+    "incorrect_solutions": 25
+  }
+}

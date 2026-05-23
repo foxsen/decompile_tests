@@ -1,0 +1,28 @@
+{
+  "id": 999,
+  "split": "train",
+  "name": "853_D. Michael and Charging Stations",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 853,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "binary search",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 42,
+    "generated_tests": 1,
+    "correct_solutions": 200,
+    "incorrect_solutions": 253
+  }
+}

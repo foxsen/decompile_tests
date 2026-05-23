@@ -1,0 +1,28 @@
+{
+  "id": 3714,
+  "split": "train",
+  "name": "9_C. Hexadecimal's Numbers",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 9,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 35,
+    "generated_tests": 100,
+    "correct_solutions": 765,
+    "incorrect_solutions": 615
+  }
+}

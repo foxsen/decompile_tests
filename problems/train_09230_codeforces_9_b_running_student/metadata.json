@@ -1,0 +1,28 @@
+{
+  "id": 9230,
+  "split": "train",
+  "name": "9_B. Running Student",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 9,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "brute force",
+    "geometry",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 18,
+    "generated_tests": 91,
+    "correct_solutions": 512,
+    "incorrect_solutions": 816
+  }
+}

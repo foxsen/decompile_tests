@@ -1,0 +1,26 @@
+{
+  "id": 9018,
+  "split": "train",
+  "name": "922_A. Cloning Toys",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 922,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 49,
+    "generated_tests": 100,
+    "correct_solutions": 817,
+    "incorrect_solutions": 1139
+  }
+}

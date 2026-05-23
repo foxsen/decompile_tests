@@ -1,0 +1,27 @@
+{
+  "id": 1395,
+  "split": "train",
+  "name": "319_A. Malek Dance Club",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 319,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "combinatorics",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 24,
+    "generated_tests": 94,
+    "correct_solutions": 523,
+    "incorrect_solutions": 405
+  }
+}

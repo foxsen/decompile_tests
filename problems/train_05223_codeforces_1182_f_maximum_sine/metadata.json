@@ -1,0 +1,28 @@
+{
+  "id": 5223,
+  "split": "train",
+  "name": "1182_F. Maximum Sine",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1182,
+  "cf_index": "F",
+  "cf_points": 2750.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 51,
+    "correct_solutions": 110,
+    "incorrect_solutions": 374
+  }
+}

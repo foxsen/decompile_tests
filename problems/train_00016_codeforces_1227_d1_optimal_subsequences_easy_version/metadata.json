@@ -1,0 +1,27 @@
+{
+  "id": 16,
+  "split": "train",
+  "name": "1227_D1. Optimal Subsequences (Easy Version)",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1227,
+  "cf_index": "D1",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "data structures",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 96,
+    "correct_solutions": 226,
+    "incorrect_solutions": 119
+  }
+}

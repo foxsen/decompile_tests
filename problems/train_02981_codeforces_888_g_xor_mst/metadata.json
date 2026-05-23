@@ -1,0 +1,28 @@
+{
+  "id": 2981,
+  "split": "train",
+  "name": "888_G. Xor-MST",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 888,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 43,
+    "correct_solutions": 201,
+    "incorrect_solutions": 238
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 3870,
+  "split": "train",
+  "name": "1183_H. Subsequences (hard version)",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 1183,
+  "cf_index": "H",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "dp",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 66,
+    "generated_tests": 72,
+    "correct_solutions": 205,
+    "incorrect_solutions": 139
+  }
+}

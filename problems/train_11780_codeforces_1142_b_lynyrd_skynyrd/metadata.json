@@ -1,0 +1,30 @@
+{
+  "id": 11780,
+  "split": "train",
+  "name": "1142_B. Lynyrd Skynyrd",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1142,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "math",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 50,
+    "correct_solutions": 324,
+    "incorrect_solutions": 378
+  }
+}

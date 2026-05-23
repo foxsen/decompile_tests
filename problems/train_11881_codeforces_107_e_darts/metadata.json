@@ -1,0 +1,27 @@
+{
+  "id": 11881,
+  "split": "train",
+  "name": "107_E. Darts",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 107,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "geometry",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 9,
+    "generated_tests": 4,
+    "correct_solutions": 118,
+    "incorrect_solutions": 154
+  }
+}

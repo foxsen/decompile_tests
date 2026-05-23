@@ -1,0 +1,27 @@
+{
+  "id": 9214,
+  "split": "train",
+  "name": "626_A. Robot Sequence",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 626,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 22,
+    "generated_tests": 90,
+    "correct_solutions": 692,
+    "incorrect_solutions": 283
+  }
+}

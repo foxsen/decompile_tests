@@ -1,0 +1,29 @@
+{
+  "id": 2417,
+  "split": "train",
+  "name": "1284_E. New Year and Castle Construction",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1284,
+  "cf_index": "E",
+  "cf_points": 2750.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "combinatorics",
+    "geometry",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 1,
+    "generated_tests": 51,
+    "correct_solutions": 178,
+    "incorrect_solutions": 214
+  }
+}

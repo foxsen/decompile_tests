@@ -1,0 +1,26 @@
+{
+  "id": 5771,
+  "split": "train",
+  "name": "391_C1. The Tournament",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 391,
+  "cf_index": "C1",
+  "cf_points": 4.0,
+  "cf_rating": 0,
+  "cf_tags": [
+    "brute force"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 20,
+    "generated_tests": 43,
+    "correct_solutions": 175,
+    "incorrect_solutions": 188
+  }
+}

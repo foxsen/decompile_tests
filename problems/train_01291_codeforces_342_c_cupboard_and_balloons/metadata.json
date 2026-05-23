@@ -1,0 +1,26 @@
+{
+  "id": 1291,
+  "split": "train",
+  "name": "342_C. Cupboard and Balloons",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 342,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 45,
+    "generated_tests": 72,
+    "correct_solutions": 376,
+    "incorrect_solutions": 643
+  }
+}

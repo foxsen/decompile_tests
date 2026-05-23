@@ -1,0 +1,28 @@
+{
+  "id": 9941,
+  "split": "train",
+  "name": "553_A. Kyoya and Colored Balls",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 553,
+  "cf_index": "A",
+  "cf_points": 250.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 83,
+    "correct_solutions": 364,
+    "incorrect_solutions": 203
+  }
+}

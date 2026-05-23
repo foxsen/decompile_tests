@@ -1,0 +1,28 @@
+{
+  "id": 13279,
+  "split": "train",
+  "name": "727_D. T-shirts Distribution",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 727,
+  "cf_index": "D",
+  "cf_points": 1500.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "constructive algorithms",
+    "flows",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 21,
+    "generated_tests": 61,
+    "correct_solutions": 376,
+    "incorrect_solutions": 512
+  }
+}

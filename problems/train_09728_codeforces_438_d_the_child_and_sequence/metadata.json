@@ -1,0 +1,27 @@
+{
+  "id": 9728,
+  "split": "train",
+  "name": "438_D. The Child and Sequence",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 438,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "data structures",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 41,
+    "correct_solutions": 242,
+    "incorrect_solutions": 236
+  }
+}

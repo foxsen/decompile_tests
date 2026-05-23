@@ -1,0 +1,28 @@
+{
+  "id": 11294,
+  "split": "train",
+  "name": "549_G. Happy Line",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 549,
+  "cf_index": "G",
+  "cf_points": 1500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 17,
+    "generated_tests": 58,
+    "correct_solutions": 337,
+    "incorrect_solutions": 325
+  }
+}

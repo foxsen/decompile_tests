@@ -1,0 +1,13 @@
+{
+  "output_root": "/old/home/foxsen/software/code_contests/decompile_bench_clean",
+  "problems": 10091,
+  "source_bench": "/old/home/foxsen/software/code_contests/decompile_bench",
+  "splits": {
+    "test": 154,
+    "train": 9829,
+    "valid": 108
+  },
+  "tests": 1030704,
+  "tests_inserted": 1030704,
+  "tests_storage": "sqlite"
+}

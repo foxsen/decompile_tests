@@ -1,0 +1,29 @@
+{
+  "id": 12093,
+  "split": "train",
+  "name": "1163_C2. Power Transmission (Hard Edition)",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1163,
+  "cf_index": "C2",
+  "cf_points": 750.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "data structures",
+    "geometry",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 5,
+    "generated_tests": 68,
+    "correct_solutions": 150,
+    "incorrect_solutions": 325
+  }
+}

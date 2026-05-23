@@ -1,0 +1,27 @@
+{
+  "id": 1482,
+  "split": "train",
+  "name": "1304_F1. Animal Observation (easy version)",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1304,
+  "cf_index": "F1",
+  "cf_points": 2000.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "data structures",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 48,
+    "generated_tests": 55,
+    "correct_solutions": 309,
+    "incorrect_solutions": 304
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 4315,
+  "split": "train",
+  "name": "429_E. Points and Segments",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 429,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 52,
+    "correct_solutions": 92,
+    "incorrect_solutions": 124
+  }
+}

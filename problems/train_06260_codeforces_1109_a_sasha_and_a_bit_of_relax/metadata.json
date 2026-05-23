@@ -1,0 +1,27 @@
+{
+  "id": 6260,
+  "split": "train",
+  "name": "1109_A. Sasha and a Bit of Relax",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1109,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "dp",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 1,
+    "generated_tests": 94,
+    "correct_solutions": 614,
+    "incorrect_solutions": 542
+  }
+}

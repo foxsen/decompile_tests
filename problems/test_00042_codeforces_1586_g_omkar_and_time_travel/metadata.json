@@ -1,0 +1,28 @@
+{
+  "id": 42,
+  "split": "test",
+  "name": "1586_G. Omkar and Time Travel",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1586,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 8,
+    "generated_tests": 81,
+    "correct_solutions": 92,
+    "incorrect_solutions": 103
+  }
+}

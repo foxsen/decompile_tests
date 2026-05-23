@@ -1,0 +1,30 @@
+{
+  "id": 3252,
+  "split": "train",
+  "name": "1339_E. Perfect Triples",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1339,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "divide and conquer",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 71,
+    "correct_solutions": 375,
+    "incorrect_solutions": 431
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 9412,
+  "split": "train",
+  "name": "367_D. Sereja and Sets",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 367,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "bitmasks",
+    "dfs and similar"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 9,
+    "generated_tests": 34,
+    "correct_solutions": 192,
+    "incorrect_solutions": 197
+  }
+}

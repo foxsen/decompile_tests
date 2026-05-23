@@ -1,0 +1,27 @@
+{
+  "id": 9000,
+  "split": "train",
+  "name": "500_G. New Year Running",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 500,
+  "cf_index": "G",
+  "cf_points": 3500.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "number theory",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 100,
+    "correct_solutions": 40,
+    "incorrect_solutions": 213
+  }
+}

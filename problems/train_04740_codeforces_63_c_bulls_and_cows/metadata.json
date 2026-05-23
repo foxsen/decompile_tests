@@ -1,0 +1,27 @@
+{
+  "id": 4740,
+  "split": "train",
+  "name": "63_C. Bulls and Cows",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 63,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 53,
+    "generated_tests": 49,
+    "correct_solutions": 350,
+    "incorrect_solutions": 308
+  }
+}

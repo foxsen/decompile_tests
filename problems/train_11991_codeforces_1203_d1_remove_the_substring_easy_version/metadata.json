@@ -1,0 +1,27 @@
+{
+  "id": 11991,
+  "split": "train",
+  "name": "1203_D1. Remove the Substring (easy version)",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1203,
+  "cf_index": "D1",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 41,
+    "generated_tests": 84,
+    "correct_solutions": 784,
+    "incorrect_solutions": 834
+  }
+}

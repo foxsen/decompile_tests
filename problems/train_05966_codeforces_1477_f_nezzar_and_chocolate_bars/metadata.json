@@ -1,0 +1,29 @@
+{
+  "id": 5966,
+  "split": "train",
+  "name": "1477_F. Nezzar and Chocolate Bars",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1477,
+  "cf_index": "F",
+  "cf_points": 4000.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "combinatorics",
+    "fft",
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 168,
+    "generated_tests": 200,
+    "correct_solutions": 46,
+    "incorrect_solutions": 42
+  }
+}

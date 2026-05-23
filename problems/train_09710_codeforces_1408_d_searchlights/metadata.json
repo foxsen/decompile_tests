@@ -1,0 +1,32 @@
+{
+  "id": 9710,
+  "split": "train",
+  "name": "1408_D. Searchlights",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1408,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "implementation",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 7,
+    "generated_tests": 46,
+    "correct_solutions": 284,
+    "incorrect_solutions": 407
+  }
+}

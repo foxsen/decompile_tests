@@ -1,0 +1,27 @@
+{
+  "id": 9952,
+  "split": "train",
+  "name": "807_D. Dynamic Problem Scoring",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 807,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "brute force",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 9,
+    "generated_tests": 66,
+    "correct_solutions": 121,
+    "incorrect_solutions": 174
+  }
+}

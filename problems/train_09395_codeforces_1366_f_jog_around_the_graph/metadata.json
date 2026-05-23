@@ -1,0 +1,29 @@
+{
+  "id": 9395,
+  "split": "train",
+  "name": "1366_F. Jog Around The Graph",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1366,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2700,
+  "cf_tags": [
+    "binary search",
+    "dp",
+    "geometry",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 2,
+    "generated_tests": 40,
+    "correct_solutions": 149,
+    "incorrect_solutions": 418
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 6523,
+  "split": "train",
+  "name": "977_C. Less or Equal",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 977,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 13,
+    "generated_tests": 98,
+    "correct_solutions": 1283,
+    "incorrect_solutions": 1090
+  }
+}

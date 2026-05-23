@@ -1,0 +1,26 @@
+{
+  "id": 8895,
+  "split": "train",
+  "name": "476_C. Dreamoon and Sums",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 476,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 57,
+    "generated_tests": 100,
+    "correct_solutions": 302,
+    "incorrect_solutions": 372
+  }
+}

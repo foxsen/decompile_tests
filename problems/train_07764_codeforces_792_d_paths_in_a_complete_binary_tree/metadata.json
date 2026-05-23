@@ -1,0 +1,27 @@
+{
+  "id": 7764,
+  "split": "train",
+  "name": "792_D. Paths in a Complete Binary Tree",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 792,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "bitmasks",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 12,
+    "generated_tests": 77,
+    "correct_solutions": 340,
+    "incorrect_solutions": 352
+  }
+}

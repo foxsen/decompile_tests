@@ -1,0 +1,27 @@
+{
+  "id": 11921,
+  "split": "train",
+  "name": "590_E. Birthday",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 590,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "graph matchings",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 9,
+    "generated_tests": 40,
+    "correct_solutions": 114,
+    "incorrect_solutions": 301
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 3593,
+  "split": "train",
+  "name": "613_C. Necklace",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 613,
+  "cf_index": "C",
+  "cf_points": 1250.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 32,
+    "generated_tests": 59,
+    "correct_solutions": 172,
+    "incorrect_solutions": 502
+  }
+}

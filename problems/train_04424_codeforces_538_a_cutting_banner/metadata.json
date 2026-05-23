@@ -1,0 +1,27 @@
+{
+  "id": 4424,
+  "split": "train",
+  "name": "538_A. Cutting Banner",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 538,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 51,
+    "generated_tests": 90,
+    "correct_solutions": 640,
+    "incorrect_solutions": 869
+  }
+}

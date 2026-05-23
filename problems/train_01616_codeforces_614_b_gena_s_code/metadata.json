@@ -1,0 +1,27 @@
+{
+  "id": 1616,
+  "split": "train",
+  "name": "614_B. Gena's Code",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 614,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 0.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 7,
+    "generated_tests": 96,
+    "correct_solutions": 648,
+    "incorrect_solutions": 848
+  }
+}

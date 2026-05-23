@@ -1,0 +1,26 @@
+{
+  "id": 3064,
+  "split": "train",
+  "name": "39_G. Inverse Function",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 39,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 40,
+    "generated_tests": 100,
+    "correct_solutions": 48,
+    "incorrect_solutions": 53
+  }
+}

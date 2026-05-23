@@ -1,0 +1,28 @@
+{
+  "id": 6796,
+  "split": "train",
+  "name": "1436_F. Sum Over Subsets",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1436,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 44,
+    "generated_tests": 55,
+    "correct_solutions": 144,
+    "incorrect_solutions": 230
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 848,
+  "split": "train",
+  "name": "1198_C. Matching vs Independent Set",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1198,
+  "cf_index": "C",
+  "cf_points": 1250.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 59,
+    "correct_solutions": 346,
+    "incorrect_solutions": 355
+  }
+}

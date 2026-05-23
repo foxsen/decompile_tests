@@ -1,0 +1,28 @@
+{
+  "id": 8595,
+  "split": "train",
+  "name": "757_F. Team Rocket Rises Again",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 757,
+  "cf_index": "F",
+  "cf_points": 2750.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "data structures",
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.5,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 36,
+    "correct_solutions": 166,
+    "incorrect_solutions": 381
+  }
+}

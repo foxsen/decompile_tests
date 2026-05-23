@@ -1,0 +1,26 @@
+{
+  "id": 10133,
+  "split": "train",
+  "name": "167_A. Wizards and Trolleybuses",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 167,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 14,
+    "generated_tests": 59,
+    "correct_solutions": 586,
+    "incorrect_solutions": 407
+  }
+}

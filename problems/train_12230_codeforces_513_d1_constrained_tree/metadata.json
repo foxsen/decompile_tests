@@ -1,0 +1,26 @@
+{
+  "id": 12230,
+  "split": "train",
+  "name": "513_D1. Constrained Tree",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 513,
+  "cf_index": "D1",
+  "cf_points": 9.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "dfs and similar"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 26,
+    "generated_tests": 42,
+    "correct_solutions": 278,
+    "incorrect_solutions": 612
+  }
+}

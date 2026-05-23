@@ -1,0 +1,27 @@
+{
+  "id": 7018,
+  "split": "train",
+  "name": "380_A. Sereja and Prefixes",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 380,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "binary search",
+    "brute force"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 61,
+    "correct_solutions": 430,
+    "incorrect_solutions": 534
+  }
+}

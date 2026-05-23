@@ -1,0 +1,26 @@
+{
+  "id": 10052,
+  "split": "train",
+  "name": "717_I. Cowboy Beblop at his computer",
+  "source": "codeforces",
+  "difficulty": "I",
+  "cf_contest_id": 717,
+  "cf_index": "I",
+  "cf_points": 0.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 13,
+    "generated_tests": 100,
+    "correct_solutions": 49,
+    "incorrect_solutions": 291
+  }
+}

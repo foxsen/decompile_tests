@@ -1,0 +1,26 @@
+{
+  "id": 3789,
+  "split": "train",
+  "name": "315_B. Sereja and Array",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 315,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 7,
+    "generated_tests": 100,
+    "correct_solutions": 594,
+    "incorrect_solutions": 479
+  }
+}

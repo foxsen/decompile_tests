@@ -1,0 +1,29 @@
+{
+  "id": 12923,
+  "split": "train",
+  "name": "1114_C. Trailing Loves (or L'oeufs?)",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1114,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "brute force",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 71,
+    "generated_tests": 90,
+    "correct_solutions": 547,
+    "incorrect_solutions": 740
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 5560,
+  "split": "train",
+  "name": "341_C. Iahub and Permutations",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 341,
+  "cf_index": "C",
+  "cf_points": 3000.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "combinatorics",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 6,
+    "generated_tests": 46,
+    "correct_solutions": 390,
+    "incorrect_solutions": 513
+  }
+}

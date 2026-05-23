@@ -1,0 +1,27 @@
+{
+  "id": 7662,
+  "split": "train",
+  "name": "84_A. Toy Army",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 84,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 21,
+    "generated_tests": 100,
+    "correct_solutions": 816,
+    "incorrect_solutions": 376
+  }
+}

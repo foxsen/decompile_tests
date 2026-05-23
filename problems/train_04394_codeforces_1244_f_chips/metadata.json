@@ -1,0 +1,27 @@
+{
+  "id": 4394,
+  "split": "train",
+  "name": "1244_F. Chips",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1244,
+  "cf_index": "F",
+  "cf_points": 2500.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 27,
+    "generated_tests": 52,
+    "correct_solutions": 282,
+    "incorrect_solutions": 376
+  }
+}

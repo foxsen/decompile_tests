@@ -1,0 +1,26 @@
+{
+  "id": 6599,
+  "split": "train",
+  "name": "314_E. Sereja and Squares",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 314,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 10,
+    "generated_tests": 63,
+    "correct_solutions": 172,
+    "incorrect_solutions": 168
+  }
+}

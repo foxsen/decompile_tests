@@ -1,0 +1,29 @@
+{
+  "id": 7325,
+  "split": "train",
+  "name": "259_E. Little Elephant and LCM",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 259,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "binary search",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 57,
+    "correct_solutions": 100,
+    "incorrect_solutions": 86
+  }
+}

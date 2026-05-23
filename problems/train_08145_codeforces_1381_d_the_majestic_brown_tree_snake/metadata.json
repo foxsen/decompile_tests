@@ -1,0 +1,30 @@
+{
+  "id": 8145,
+  "split": "train",
+  "name": "1381_D. The Majestic Brown Tree Snake",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1381,
+  "cf_index": "D",
+  "cf_points": 2500.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "trees",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 47,
+    "correct_solutions": 156,
+    "incorrect_solutions": 478
+  }
+}

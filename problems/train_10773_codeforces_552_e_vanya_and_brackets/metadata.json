@@ -1,0 +1,31 @@
+{
+  "id": 10773,
+  "split": "train",
+  "name": "552_E. Vanya and Brackets",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 552,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "expression parsing",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 36,
+    "generated_tests": 95,
+    "correct_solutions": 525,
+    "incorrect_solutions": 498
+  }
+}

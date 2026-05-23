@@ -1,0 +1,30 @@
+{
+  "id": 7228,
+  "split": "train",
+  "name": "429_C. Guess the Tree",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 429,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 23,
+    "generated_tests": 56,
+    "correct_solutions": 121,
+    "incorrect_solutions": 175
+  }
+}

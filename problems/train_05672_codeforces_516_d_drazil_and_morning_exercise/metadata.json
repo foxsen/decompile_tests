@@ -1,0 +1,30 @@
+{
+  "id": 5672,
+  "split": "train",
+  "name": "516_D. Drazil and Morning Exercise",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 516,
+  "cf_index": "D",
+  "cf_points": 3000.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "trees",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 39,
+    "correct_solutions": 164,
+    "incorrect_solutions": 194
+  }
+}

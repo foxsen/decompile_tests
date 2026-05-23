@@ -1,0 +1,26 @@
+{
+  "id": 8901,
+  "split": "train",
+  "name": "620_B. Grandfather Dovlet’s calculator",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 620,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 65,
+    "correct_solutions": 648,
+    "incorrect_solutions": 416
+  }
+}

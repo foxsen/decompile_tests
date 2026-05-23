@@ -1,0 +1,27 @@
+{
+  "id": 1574,
+  "split": "train",
+  "name": "105_B. Dark Assembly",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 105,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "brute force",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 41,
+    "generated_tests": 56,
+    "correct_solutions": 266,
+    "incorrect_solutions": 217
+  }
+}

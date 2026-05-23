@@ -1,0 +1,26 @@
+{
+  "id": 10430,
+  "split": "train",
+  "name": "1227_F1. Wrong Answer on test 233 (Easy Version)",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1227,
+  "cf_index": "F1",
+  "cf_points": 1000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 63,
+    "correct_solutions": 115,
+    "incorrect_solutions": 103
+  }
+}

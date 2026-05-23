@@ -1,0 +1,28 @@
+{
+  "id": 372,
+  "split": "train",
+  "name": "83_C. Track",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 83,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 30,
+    "generated_tests": 40,
+    "correct_solutions": 200,
+    "incorrect_solutions": 450
+  }
+}

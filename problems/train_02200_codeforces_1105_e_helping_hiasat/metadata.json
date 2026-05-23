@@ -1,0 +1,29 @@
+{
+  "id": 2200,
+  "split": "train",
+  "name": "1105_E. Helping Hiasat ",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1105,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "meet-in-the-middle"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 37,
+    "correct_solutions": 213,
+    "incorrect_solutions": 450
+  }
+}

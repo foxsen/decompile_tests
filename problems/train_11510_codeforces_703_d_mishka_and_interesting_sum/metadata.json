@@ -1,0 +1,26 @@
+{
+  "id": 11510,
+  "split": "train",
+  "name": "703_D. Mishka and Interesting sum",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 703,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 13,
+    "generated_tests": 32,
+    "correct_solutions": 306,
+    "incorrect_solutions": 249
+  }
+}

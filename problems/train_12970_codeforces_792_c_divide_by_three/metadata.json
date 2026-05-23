@@ -1,0 +1,29 @@
+{
+  "id": 12970,
+  "split": "train",
+  "name": "792_C. Divide by Three",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 792,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 150,
+    "generated_tests": 88,
+    "correct_solutions": 382,
+    "incorrect_solutions": 922
+  }
+}

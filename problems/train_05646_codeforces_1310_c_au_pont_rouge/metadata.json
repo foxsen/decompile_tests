@@ -1,0 +1,28 @@
+{
+  "id": 5646,
+  "split": "train",
+  "name": "1310_C. Au Pont Rouge",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1310,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "binary search",
+    "dp",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 40,
+    "correct_solutions": 96,
+    "incorrect_solutions": 144
+  }
+}

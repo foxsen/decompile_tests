@@ -1,0 +1,10 @@
+#include<bits/stdc++.h>
+using namespace std;
+int n,k,a[200001];
+int main()
+{
+	scanf("%d%d",&n,&k);
+	for(int i=1;i<=n;i++)scanf("%d",&a[i]);
+	for(int i=k+1;i<=n;i++)puts(a[i]>a[i-k]?"Yes":"No");
+	return 0;
+}

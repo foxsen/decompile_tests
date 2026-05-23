@@ -1,0 +1,28 @@
+{
+  "id": 12763,
+  "split": "train",
+  "name": "819_B. Mister B and PR Shifts",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 819,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "data structures",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 44,
+    "generated_tests": 13,
+    "correct_solutions": 339,
+    "incorrect_solutions": 432
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6585,
+  "split": "train",
+  "name": "1380_E. Merging Towers",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1380,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "data structures",
+    "dsu",
+    "implementation",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 64,
+    "correct_solutions": 246,
+    "incorrect_solutions": 259
+  }
+}

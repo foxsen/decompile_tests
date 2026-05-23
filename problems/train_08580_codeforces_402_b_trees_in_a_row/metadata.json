@@ -1,0 +1,27 @@
+{
+  "id": 8580,
+  "split": "train",
+  "name": "402_B. Trees in a Row",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 402,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 16,
+    "generated_tests": 90,
+    "correct_solutions": 389,
+    "incorrect_solutions": 724
+  }
+}

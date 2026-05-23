@@ -1,0 +1,27 @@
+{
+  "id": 7861,
+  "split": "train",
+  "name": "645_G. Armistice Area Apportionment",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 645,
+  "cf_index": "G",
+  "cf_points": 3500.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "binary search",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 29,
+    "generated_tests": 48,
+    "correct_solutions": 92,
+    "incorrect_solutions": 183
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 3372,
+  "split": "train",
+  "name": "303_D. Rotatable Number",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 303,
+  "cf_index": "D",
+  "cf_points": 2500.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 54,
+    "generated_tests": 51,
+    "correct_solutions": 139,
+    "incorrect_solutions": 190
+  }
+}

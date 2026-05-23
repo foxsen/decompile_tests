@@ -1,0 +1,27 @@
+{
+  "id": 8697,
+  "split": "train",
+  "name": "705_B. Spider Man",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 705,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "games",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 23,
+    "generated_tests": 90,
+    "correct_solutions": 710,
+    "incorrect_solutions": 374
+  }
+}

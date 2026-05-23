@@ -1,0 +1,28 @@
+{
+  "id": 2836,
+  "split": "train",
+  "name": "1342_F. Make It Ascending",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1342,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 7.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 27,
+    "correct_solutions": 93,
+    "incorrect_solutions": 187
+  }
+}

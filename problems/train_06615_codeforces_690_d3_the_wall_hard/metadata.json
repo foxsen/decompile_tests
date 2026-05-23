@@ -1,0 +1,26 @@
+{
+  "id": 6615,
+  "split": "train",
+  "name": "690_D3. The Wall (hard)",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 690,
+  "cf_index": "D3",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 15.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 6,
+    "private_tests": 21,
+    "generated_tests": 41,
+    "correct_solutions": 151,
+    "incorrect_solutions": 61
+  }
+}

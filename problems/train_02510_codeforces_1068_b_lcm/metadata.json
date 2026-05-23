@@ -1,0 +1,27 @@
+{
+  "id": 2510,
+  "split": "train",
+  "name": "1068_B. LCM",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1068,
+  "cf_index": "B",
+  "cf_points": 1250.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 50,
+    "generated_tests": 100,
+    "correct_solutions": 765,
+    "incorrect_solutions": 557
+  }
+}

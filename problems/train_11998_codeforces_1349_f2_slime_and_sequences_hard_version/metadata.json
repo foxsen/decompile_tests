@@ -1,0 +1,28 @@
+{
+  "id": 11998,
+  "split": "train",
+  "name": "1349_F2. Slime and Sequences (Hard Version)",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1349,
+  "cf_index": "F2",
+  "cf_points": 1750.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "dp",
+    "fft",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 42,
+    "generated_tests": 66,
+    "correct_solutions": 46,
+    "incorrect_solutions": 19
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 8801,
+  "split": "train",
+  "name": "711_C. Coloring Trees",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 711,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 9,
+    "generated_tests": 57,
+    "correct_solutions": 356,
+    "incorrect_solutions": 501
+  }
+}

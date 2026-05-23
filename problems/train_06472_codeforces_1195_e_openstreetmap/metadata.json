@@ -1,0 +1,27 @@
+{
+  "id": 6472,
+  "split": "train",
+  "name": "1195_E. OpenStreetMap",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1195,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "data structures",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 32,
+    "generated_tests": 42,
+    "correct_solutions": 221,
+    "incorrect_solutions": 276
+  }
+}

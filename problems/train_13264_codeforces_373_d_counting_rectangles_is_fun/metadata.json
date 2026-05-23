@@ -1,0 +1,28 @@
+{
+  "id": 13264,
+  "split": "train",
+  "name": "373_D. Counting Rectangles is Fun",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 373,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "brute force",
+    "divide and conquer",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 4,
+    "generated_tests": 51,
+    "correct_solutions": 140,
+    "incorrect_solutions": 50
+  }
+}

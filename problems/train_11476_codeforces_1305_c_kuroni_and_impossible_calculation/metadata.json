@@ -1,0 +1,29 @@
+{
+  "id": 11476,
+  "split": "train",
+  "name": "1305_C. Kuroni and Impossible Calculation",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1305,
+  "cf_index": "C",
+  "cf_points": 1250.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "brute force",
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 24,
+    "generated_tests": 96,
+    "correct_solutions": 667,
+    "incorrect_solutions": 533
+  }
+}

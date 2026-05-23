@@ -1,0 +1,29 @@
+{
+  "id": 13280,
+  "split": "train",
+  "name": "748_E. Santa Claus and Tangerines",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 748,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 17,
+    "generated_tests": 49,
+    "correct_solutions": 168,
+    "incorrect_solutions": 359
+  }
+}

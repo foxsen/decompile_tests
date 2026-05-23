@@ -1,0 +1,30 @@
+{
+  "id": 11581,
+  "split": "train",
+  "name": "1326_D2. Prefix-Suffix Palindrome (Hard version)",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1326,
+  "cf_index": "D2",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "binary search",
+    "greedy",
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 108,
+    "generated_tests": 87,
+    "correct_solutions": 304,
+    "incorrect_solutions": 311
+  }
+}

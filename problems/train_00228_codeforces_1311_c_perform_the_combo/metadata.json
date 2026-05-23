@@ -1,0 +1,26 @@
+{
+  "id": 228,
+  "split": "train",
+  "name": "1311_C. Perform the Combo",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1311,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "brute force"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 89,
+    "correct_solutions": 1166,
+    "incorrect_solutions": 465
+  }
+}

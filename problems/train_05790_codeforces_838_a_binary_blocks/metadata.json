@@ -1,0 +1,26 @@
+{
+  "id": 5790,
+  "split": "train",
+  "name": "838_A. Binary Blocks",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 838,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "brute force"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 59,
+    "correct_solutions": 221,
+    "incorrect_solutions": 248
+  }
+}

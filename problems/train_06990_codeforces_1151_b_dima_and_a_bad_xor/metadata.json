@@ -1,0 +1,29 @@
+{
+  "id": 6990,
+  "split": "train",
+  "name": "1151_B. Dima and a Bad XOR",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1151,
+  "cf_index": "B",
+  "cf_points": 750.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 43,
+    "generated_tests": 86,
+    "correct_solutions": 596,
+    "incorrect_solutions": 673
+  }
+}

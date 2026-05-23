@@ -1,0 +1,31 @@
+{
+  "id": 262,
+  "split": "train",
+  "name": "709_E. Centroids",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 709,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 24,
+    "generated_tests": 53,
+    "correct_solutions": 93,
+    "incorrect_solutions": 193
+  }
+}

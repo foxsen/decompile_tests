@@ -1,0 +1,30 @@
+{
+  "id": 10375,
+  "split": "train",
+  "name": "958_B2. Maximum Control (medium)",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 958,
+  "cf_index": "B2",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "data structures",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 45,
+    "correct_solutions": 167,
+    "incorrect_solutions": 192
+  }
+}

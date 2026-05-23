@@ -1,0 +1,27 @@
+{
+  "id": 8072,
+  "split": "train",
+  "name": "6_C. Alice, Bob and Chocolate",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 6,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "greedy",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 13,
+    "generated_tests": 83,
+    "correct_solutions": 663,
+    "incorrect_solutions": 650
+  }
+}

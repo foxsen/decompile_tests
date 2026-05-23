@@ -1,0 +1,27 @@
+{
+  "id": 1364,
+  "split": "train",
+  "name": "1027_D. Mouse Hunt",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1027,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 47,
+    "generated_tests": 73,
+    "correct_solutions": 410,
+    "incorrect_solutions": 352
+  }
+}

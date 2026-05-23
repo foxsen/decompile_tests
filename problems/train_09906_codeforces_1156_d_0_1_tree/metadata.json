@@ -1,0 +1,30 @@
+{
+  "id": 9906,
+  "split": "train",
+  "name": "1156_D. 0-1-Tree",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1156,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "dfs and similar",
+    "divide and conquer",
+    "dp",
+    "dsu",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 71,
+    "correct_solutions": 309,
+    "incorrect_solutions": 307
+  }
+}

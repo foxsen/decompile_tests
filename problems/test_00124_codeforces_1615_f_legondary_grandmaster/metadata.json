@@ -1,0 +1,28 @@
+{
+  "id": 124,
+  "split": "test",
+  "name": "1615_F. LEGOndary Grandmaster",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1615,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 200,
+    "correct_solutions": 102,
+    "incorrect_solutions": 59
+  }
+}

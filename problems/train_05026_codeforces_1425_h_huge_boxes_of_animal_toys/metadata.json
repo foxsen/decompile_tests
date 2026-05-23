@@ -1,0 +1,26 @@
+{
+  "id": 5026,
+  "split": "train",
+  "name": "1425_H. Huge Boxes of Animal Toys",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 1425,
+  "cf_index": "H",
+  "cf_points": 0.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "constructive algorithms"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 92,
+    "correct_solutions": 362,
+    "incorrect_solutions": 419
+  }
+}

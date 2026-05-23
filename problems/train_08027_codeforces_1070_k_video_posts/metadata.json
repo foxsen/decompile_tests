@@ -1,0 +1,26 @@
+{
+  "id": 8027,
+  "split": "train",
+  "name": "1070_K. Video Posts",
+  "source": "codeforces",
+  "difficulty": "K",
+  "cf_contest_id": 1070,
+  "cf_index": "K",
+  "cf_points": 0.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 6,
+    "generated_tests": 85,
+    "correct_solutions": 412,
+    "incorrect_solutions": 351
+  }
+}

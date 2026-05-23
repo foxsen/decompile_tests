@@ -1,0 +1,28 @@
+{
+  "id": 8028,
+  "split": "train",
+  "name": "1092_F. Tree with Maximum Cost",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1092,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 59,
+    "correct_solutions": 236,
+    "incorrect_solutions": 180
+  }
+}

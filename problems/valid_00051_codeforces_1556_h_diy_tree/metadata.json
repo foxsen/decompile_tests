@@ -1,0 +1,29 @@
+{
+  "id": 51,
+  "split": "valid",
+  "name": "1556_H. DIY Tree",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 1556,
+  "cf_index": "H",
+  "cf_points": 3500.0,
+  "cf_rating": 3300,
+  "cf_tags": [
+    "graphs",
+    "greedy",
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 18,
+    "generated_tests": 200,
+    "correct_solutions": 51,
+    "incorrect_solutions": 231
+  }
+}

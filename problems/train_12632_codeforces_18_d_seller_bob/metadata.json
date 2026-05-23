@@ -1,0 +1,28 @@
+{
+  "id": 12632,
+  "split": "train",
+  "name": "18_D. Seller Bob",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 18,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 128000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 16,
+    "generated_tests": 56,
+    "correct_solutions": 443,
+    "incorrect_solutions": 545
+  }
+}

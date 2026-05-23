@@ -1,0 +1,27 @@
+{
+  "id": 11804,
+  "split": "train",
+  "name": "275_B. Convex Shape",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 275,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 25,
+    "generated_tests": 35,
+    "correct_solutions": 327,
+    "incorrect_solutions": 651
+  }
+}

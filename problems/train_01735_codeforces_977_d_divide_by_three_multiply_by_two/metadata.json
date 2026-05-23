@@ -1,0 +1,28 @@
+{
+  "id": 1735,
+  "split": "train",
+  "name": "977_D. Divide by three, multiply by two",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 977,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "dfs and similar",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 15,
+    "generated_tests": 19,
+    "correct_solutions": 917,
+    "incorrect_solutions": 570
+  }
+}

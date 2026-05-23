@@ -1,0 +1,28 @@
+{
+  "id": 3712,
+  "split": "train",
+  "name": "954_D. Fight Against Traffic",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 954,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "dfs and similar",
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 4,
+    "generated_tests": 66,
+    "correct_solutions": 387,
+    "incorrect_solutions": 438
+  }
+}

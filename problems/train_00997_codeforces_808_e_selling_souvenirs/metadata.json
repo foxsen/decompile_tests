@@ -1,0 +1,29 @@
+{
+  "id": 997,
+  "split": "train",
+  "name": "808_E. Selling Souvenirs",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 808,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "binary search",
+    "dp",
+    "greedy",
+    "ternary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 37,
+    "generated_tests": 54,
+    "correct_solutions": 229,
+    "incorrect_solutions": 508
+  }
+}

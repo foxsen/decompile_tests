@@ -1,0 +1,28 @@
+{
+  "id": 9926,
+  "split": "train",
+  "name": "196_E. Opening Portals",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 196,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "dsu",
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 20,
+    "generated_tests": 40,
+    "correct_solutions": 200,
+    "incorrect_solutions": 372
+  }
+}

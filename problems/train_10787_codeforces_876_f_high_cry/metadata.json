@@ -1,0 +1,30 @@
+{
+  "id": 10787,
+  "split": "train",
+  "name": "876_F. High Cry",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 876,
+  "cf_index": "F",
+  "cf_points": 1750.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "combinatorics",
+    "data structures",
+    "divide and conquer"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 21,
+    "generated_tests": 47,
+    "correct_solutions": 279,
+    "incorrect_solutions": 355
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2237,
+  "split": "train",
+  "name": "54_B. Cutting Jigsaw Puzzle",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 54,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "hashing",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 54,
+    "generated_tests": 42,
+    "correct_solutions": 209,
+    "incorrect_solutions": 253
+  }
+}

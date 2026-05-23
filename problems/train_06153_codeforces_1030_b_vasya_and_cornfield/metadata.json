@@ -1,0 +1,26 @@
+{
+  "id": 6153,
+  "split": "train",
+  "name": "1030_B. Vasya and Cornfield",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1030,
+  "cf_index": "B",
+  "cf_points": 500.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 15,
+    "generated_tests": 100,
+    "correct_solutions": 915,
+    "incorrect_solutions": 524
+  }
+}

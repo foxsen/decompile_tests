@@ -1,0 +1,29 @@
+{
+  "id": 4961,
+  "split": "train",
+  "name": "938_G. Shortest Path Queries",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 938,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "bitmasks",
+    "data structures",
+    "dsu",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.5,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 31,
+    "correct_solutions": 131,
+    "incorrect_solutions": 215
+  }
+}

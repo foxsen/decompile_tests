@@ -1,0 +1,30 @@
+{
+  "id": 12659,
+  "split": "train",
+  "name": "822_D. My pretty girl Noora",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 822,
+  "cf_index": "D",
+  "cf_points": 1750.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 65,
+    "generated_tests": 41,
+    "correct_solutions": 272,
+    "incorrect_solutions": 380
+  }
+}

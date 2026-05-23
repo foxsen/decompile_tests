@@ -1,0 +1,29 @@
+{
+  "id": 6894,
+  "split": "train",
+  "name": "1312_A. Two Regular Polygons",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1312,
+  "cf_index": "A",
+  "cf_points": 0.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "geometry",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 95,
+    "correct_solutions": 1457,
+    "incorrect_solutions": 565
+  }
+}

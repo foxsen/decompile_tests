@@ -1,0 +1,28 @@
+{
+  "id": 1094,
+  "split": "train",
+  "name": "626_E. Simple Skewness",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 626,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "binary search",
+    "math",
+    "ternary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 30,
+    "generated_tests": 56,
+    "correct_solutions": 202,
+    "incorrect_solutions": 663
+  }
+}

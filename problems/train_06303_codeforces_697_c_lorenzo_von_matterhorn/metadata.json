@@ -1,0 +1,29 @@
+{
+  "id": 6303,
+  "split": "train",
+  "name": "697_C. Lorenzo Von Matterhorn",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 697,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "brute force",
+    "data structures",
+    "implementation",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 12,
+    "generated_tests": 78,
+    "correct_solutions": 634,
+    "incorrect_solutions": 447
+  }
+}

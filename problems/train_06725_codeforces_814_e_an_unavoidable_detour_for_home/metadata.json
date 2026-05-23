@@ -1,0 +1,29 @@
+{
+  "id": 6725,
+  "split": "train",
+  "name": "814_E. An unavoidable detour for home",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 814,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "graphs",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 35,
+    "generated_tests": 40,
+    "correct_solutions": 187,
+    "incorrect_solutions": 175
+  }
+}

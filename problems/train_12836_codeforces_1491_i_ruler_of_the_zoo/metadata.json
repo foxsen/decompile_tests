@@ -1,0 +1,27 @@
+{
+  "id": 12836,
+  "split": "train",
+  "name": "1491_I. Ruler Of The Zoo",
+  "source": "codeforces",
+  "difficulty": "I",
+  "cf_contest_id": 1491,
+  "cf_index": "I",
+  "cf_points": 5000.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "brute force",
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 17,
+    "generated_tests": 200,
+    "correct_solutions": 14,
+    "incorrect_solutions": 171
+  }
+}

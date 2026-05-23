@@ -1,0 +1,27 @@
+{
+  "id": 62,
+  "split": "valid",
+  "name": "1559_C. Mocha and Hiking",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1559,
+  "cf_index": "C",
+  "cf_points": 1000.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "constructive algorithms",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 6,
+    "generated_tests": 200,
+    "correct_solutions": 293,
+    "incorrect_solutions": 382
+  }
+}

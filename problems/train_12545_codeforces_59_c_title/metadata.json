@@ -1,0 +1,26 @@
+{
+  "id": 12545,
+  "split": "train",
+  "name": "59_C. Title",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 59,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "expression parsing"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 73,
+    "generated_tests": 71,
+    "correct_solutions": 338,
+    "incorrect_solutions": 668
+  }
+}

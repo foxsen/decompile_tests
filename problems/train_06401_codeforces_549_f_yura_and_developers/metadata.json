@@ -1,0 +1,27 @@
+{
+  "id": 6401,
+  "split": "train",
+  "name": "549_F. Yura and Developers",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 549,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 43,
+    "correct_solutions": 175,
+    "incorrect_solutions": 216
+  }
+}

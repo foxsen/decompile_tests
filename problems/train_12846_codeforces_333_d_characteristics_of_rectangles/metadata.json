@@ -1,0 +1,30 @@
+{
+  "id": 12846,
+  "split": "train",
+  "name": "333_D. Characteristics of Rectangles",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 333,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 5,
+    "generated_tests": 45,
+    "correct_solutions": 250,
+    "incorrect_solutions": 243
+  }
+}

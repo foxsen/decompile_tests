@@ -1,0 +1,29 @@
+{
+  "id": 2929,
+  "split": "train",
+  "name": "1098_E. Fedya the Potter",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1098,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "binary search",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 11,
+    "generated_tests": 100,
+    "correct_solutions": 43,
+    "incorrect_solutions": 174
+  }
+}

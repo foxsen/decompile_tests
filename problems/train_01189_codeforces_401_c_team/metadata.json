@@ -1,0 +1,28 @@
+{
+  "id": 1189,
+  "split": "train",
+  "name": "401_C. Team",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 401,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 55,
+    "generated_tests": 100,
+    "correct_solutions": 703,
+    "incorrect_solutions": 753
+  }
+}

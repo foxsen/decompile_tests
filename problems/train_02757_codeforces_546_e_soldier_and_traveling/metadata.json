@@ -1,0 +1,28 @@
+{
+  "id": 2757,
+  "split": "train",
+  "name": "546_E. Soldier and Traveling",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 546,
+  "cf_index": "E",
+  "cf_points": 2250.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "flows",
+    "graphs",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 4,
+    "generated_tests": 66,
+    "correct_solutions": 323,
+    "incorrect_solutions": 449
+  }
+}

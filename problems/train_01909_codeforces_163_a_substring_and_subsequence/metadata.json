@@ -1,0 +1,26 @@
+{
+  "id": 1909,
+  "split": "train",
+  "name": "163_A. Substring and Subsequence",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 163,
+  "cf_index": "A",
+  "cf_points": 1000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 14,
+    "generated_tests": 63,
+    "correct_solutions": 417,
+    "incorrect_solutions": 300
+  }
+}

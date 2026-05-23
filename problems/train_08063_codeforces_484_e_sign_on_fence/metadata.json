@@ -1,0 +1,28 @@
+{
+  "id": 8063,
+  "split": "train",
+  "name": "484_E. Sign on Fence",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 484,
+  "cf_index": "E",
+  "cf_points": 3000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 28,
+    "correct_solutions": 171,
+    "incorrect_solutions": 226
+  }
+}

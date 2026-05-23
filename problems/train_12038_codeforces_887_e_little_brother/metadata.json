@@ -1,0 +1,28 @@
+{
+  "id": 12038,
+  "split": "train",
+  "name": "887_E. Little Brother",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 887,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "binary search",
+    "geometry",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 19,
+    "generated_tests": 56,
+    "correct_solutions": 100,
+    "incorrect_solutions": 226
+  }
+}

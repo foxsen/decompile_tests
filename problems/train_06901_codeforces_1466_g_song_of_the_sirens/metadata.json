@@ -1,0 +1,31 @@
+{
+  "id": 6901,
+  "split": "train",
+  "name": "1466_G. Song of the Sirens",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1466,
+  "cf_index": "G",
+  "cf_points": 2500.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "combinatorics",
+    "divide and conquer",
+    "hashing",
+    "math",
+    "string suffix structures",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 3,
+    "generated_tests": 200,
+    "correct_solutions": 85,
+    "incorrect_solutions": 119
+  }
+}

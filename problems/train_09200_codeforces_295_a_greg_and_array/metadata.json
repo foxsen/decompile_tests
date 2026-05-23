@@ -1,0 +1,27 @@
+{
+  "id": 9200,
+  "split": "train",
+  "name": "295_A. Greg and Array",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 295,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "data structures",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 1,
+    "generated_tests": 92,
+    "correct_solutions": 276,
+    "incorrect_solutions": 210
+  }
+}

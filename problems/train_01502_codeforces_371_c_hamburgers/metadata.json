@@ -1,0 +1,27 @@
+{
+  "id": 1502,
+  "split": "train",
+  "name": "371_C. Hamburgers",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 371,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "binary search",
+    "brute force"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 28,
+    "generated_tests": 91,
+    "correct_solutions": 664,
+    "incorrect_solutions": 684
+  }
+}

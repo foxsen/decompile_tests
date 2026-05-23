@@ -1,0 +1,29 @@
+{
+  "id": 13168,
+  "split": "train",
+  "name": "572_B. Order Book",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 572,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "data structures",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 16,
+    "generated_tests": 87,
+    "correct_solutions": 657,
+    "incorrect_solutions": 1054
+  }
+}

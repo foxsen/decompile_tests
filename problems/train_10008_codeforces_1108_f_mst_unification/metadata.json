@@ -1,0 +1,29 @@
+{
+  "id": 10008,
+  "split": "train",
+  "name": "1108_F. MST Unification",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1108,
+  "cf_index": "F",
+  "cf_points": 0.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "binary search",
+    "dsu",
+    "graphs",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 6,
+    "private_tests": 2,
+    "generated_tests": 49,
+    "correct_solutions": 257,
+    "incorrect_solutions": 293
+  }
+}

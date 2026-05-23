@@ -1,0 +1,29 @@
+{
+  "id": 13235,
+  "split": "train",
+  "name": "1119_C. Ramesses and Corner Inversion",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1119,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 20,
+    "generated_tests": 80,
+    "correct_solutions": 503,
+    "incorrect_solutions": 266
+  }
+}

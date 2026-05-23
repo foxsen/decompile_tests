@@ -1,0 +1,28 @@
+{
+  "id": 1696,
+  "split": "train",
+  "name": "1446_F. Line Distance",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1446,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 3200,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 7.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 14,
+    "generated_tests": 41,
+    "correct_solutions": 114,
+    "incorrect_solutions": 212
+  }
+}

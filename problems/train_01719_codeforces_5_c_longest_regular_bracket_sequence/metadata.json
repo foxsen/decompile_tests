@@ -1,0 +1,31 @@
+{
+  "id": 1719,
+  "split": "train",
+  "name": "5_C. Longest Regular Bracket Sequence",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 5,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 7,
+    "generated_tests": 67,
+    "correct_solutions": 576,
+    "incorrect_solutions": 856
+  }
+}

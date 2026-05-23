@@ -1,0 +1,28 @@
+{
+  "id": 6412,
+  "split": "train",
+  "name": "802_O. April Fools' Problem (hard)",
+  "source": "codeforces",
+  "difficulty": "O",
+  "cf_contest_id": 802,
+  "cf_index": "O",
+  "cf_points": 0.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "flows"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 10.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 4,
+    "generated_tests": 45,
+    "correct_solutions": 145,
+    "incorrect_solutions": 139
+  }
+}

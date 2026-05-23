@@ -1,0 +1,27 @@
+{
+  "id": 2414,
+  "split": "train",
+  "name": "1219_C. Periodic integer number",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1219,
+  "cf_index": "C",
+  "cf_points": 0.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "implementation",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 15,
+    "generated_tests": 99,
+    "correct_solutions": 251,
+    "incorrect_solutions": 581
+  }
+}

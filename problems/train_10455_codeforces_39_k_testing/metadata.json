@@ -1,0 +1,24 @@
+{
+  "id": 10455,
+  "split": "train",
+  "name": "39_K. Testing",
+  "source": "codeforces",
+  "difficulty": "K",
+  "cf_contest_id": 39,
+  "cf_index": "K",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 14,
+    "generated_tests": 82,
+    "correct_solutions": 35,
+    "incorrect_solutions": 36
+  }
+}

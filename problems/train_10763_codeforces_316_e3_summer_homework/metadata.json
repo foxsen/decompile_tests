@@ -1,0 +1,27 @@
+{
+  "id": 10763,
+  "split": "train",
+  "name": "316_E3. Summer Homework",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 316,
+  "cf_index": "E3",
+  "cf_points": 30.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "data structures",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 4,
+    "generated_tests": 49,
+    "correct_solutions": 85,
+    "incorrect_solutions": 173
+  }
+}

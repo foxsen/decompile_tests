@@ -1,0 +1,29 @@
+{
+  "id": 7140,
+  "split": "train",
+  "name": "798_E. Mike and code of a permutation",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 798,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "constructive algorithms",
+    "data structures",
+    "graphs",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 11,
+    "generated_tests": 14,
+    "correct_solutions": 135,
+    "incorrect_solutions": 229
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 12972,
+  "split": "train",
+  "name": "838_E. Convex Countour",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 838,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 28,
+    "generated_tests": 53,
+    "correct_solutions": 145,
+    "incorrect_solutions": 233
+  }
+}

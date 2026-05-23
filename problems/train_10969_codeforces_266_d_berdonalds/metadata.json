@@ -1,0 +1,28 @@
+{
+  "id": 10969,
+  "split": "train",
+  "name": "266_D. BerDonalds",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 266,
+  "cf_index": "D",
+  "cf_points": 3000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "graphs",
+    "math",
+    "shortest paths"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 5,
+    "generated_tests": 41,
+    "correct_solutions": 165,
+    "incorrect_solutions": 356
+  }
+}

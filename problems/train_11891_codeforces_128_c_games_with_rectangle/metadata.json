@@ -1,0 +1,27 @@
+{
+  "id": 11891,
+  "split": "train",
+  "name": "128_C. Games with Rectangle",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 128,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "combinatorics",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 47,
+    "generated_tests": 56,
+    "correct_solutions": 563,
+    "incorrect_solutions": 474
+  }
+}

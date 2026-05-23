@@ -1,0 +1,28 @@
+{
+  "id": 9617,
+  "split": "train",
+  "name": "283_A. Cows and Sequence",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 283,
+  "cf_index": "A",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "constructive algorithms",
+    "data structures",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 9,
+    "generated_tests": 68,
+    "correct_solutions": 581,
+    "incorrect_solutions": 739
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 12978,
+  "split": "train",
+  "name": "983_B. XOR-pyramid",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 983,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 0,
+    "generated_tests": 95,
+    "correct_solutions": 473,
+    "incorrect_solutions": 418
+  }
+}

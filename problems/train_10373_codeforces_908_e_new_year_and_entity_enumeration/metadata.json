@@ -1,0 +1,29 @@
+{
+  "id": 10373,
+  "split": "train",
+  "name": "908_E. New Year and Entity Enumeration",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 908,
+  "cf_index": "E",
+  "cf_points": 1750.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 50,
+    "correct_solutions": 242,
+    "incorrect_solutions": 153
+  }
+}

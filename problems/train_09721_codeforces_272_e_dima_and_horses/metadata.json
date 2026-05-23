@@ -1,0 +1,28 @@
+{
+  "id": 9721,
+  "split": "train",
+  "name": "272_E. Dima and Horses",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 272,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 19,
+    "generated_tests": 48,
+    "correct_solutions": 124,
+    "incorrect_solutions": 118
+  }
+}

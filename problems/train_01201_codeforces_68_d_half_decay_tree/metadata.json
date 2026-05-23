@@ -1,0 +1,30 @@
+{
+  "id": 1201,
+  "split": "train",
+  "name": "68_D. Half-decay tree",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 68,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 6,
+    "generated_tests": 56,
+    "correct_solutions": 191,
+    "incorrect_solutions": 259
+  }
+}

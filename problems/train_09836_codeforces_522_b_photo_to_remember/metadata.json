@@ -1,0 +1,29 @@
+{
+  "id": 9836,
+  "split": "train",
+  "name": "522_B. Photo to Remember",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 522,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "*special",
+    "data structures",
+    "dp",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 18,
+    "generated_tests": 90,
+    "correct_solutions": 596,
+    "incorrect_solutions": 396
+  }
+}

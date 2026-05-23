@@ -1,0 +1,27 @@
+{
+  "id": 7767,
+  "split": "train",
+  "name": "859_C. Pie Rules",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 859,
+  "cf_index": "C",
+  "cf_points": 1000.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "dp",
+    "games"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 68,
+    "generated_tests": 98,
+    "correct_solutions": 496,
+    "incorrect_solutions": 352
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 9279,
+  "split": "train",
+  "name": "111_A. Petya and Inequiations",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 111,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 58,
+    "generated_tests": 0,
+    "correct_solutions": 689,
+    "incorrect_solutions": 837
+  }
+}

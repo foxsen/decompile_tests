@@ -1,0 +1,28 @@
+{
+  "id": 8283,
+  "split": "train",
+  "name": "784_E. Twisted Circuit",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 784,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "*special",
+    "brute force",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 64000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 15,
+    "generated_tests": 0,
+    "correct_solutions": 346,
+    "incorrect_solutions": 1132
+  }
+}

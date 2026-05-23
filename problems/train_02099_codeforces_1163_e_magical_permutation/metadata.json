@@ -1,0 +1,31 @@
+{
+  "id": 2099,
+  "split": "train",
+  "name": "1163_E. Magical Permutation",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1163,
+  "cf_index": "E",
+  "cf_points": 2750.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "data structures",
+    "graphs",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 6,
+    "private_tests": 4,
+    "generated_tests": 56,
+    "correct_solutions": 152,
+    "incorrect_solutions": 215
+  }
+}

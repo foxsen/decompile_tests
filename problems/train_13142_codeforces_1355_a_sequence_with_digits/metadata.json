@@ -1,0 +1,28 @@
+{
+  "id": 13142,
+  "split": "train",
+  "name": "1355_A. Sequence with Digits",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1355,
+  "cf_index": "A",
+  "cf_points": 750.0,
+  "cf_rating": 1200,
+  "cf_tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 99,
+    "correct_solutions": 1810,
+    "incorrect_solutions": 557
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 6184,
+  "split": "train",
+  "name": "322_E. Ciel the Commander",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 322,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "divide and conquer",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 50,
+    "correct_solutions": 97,
+    "incorrect_solutions": 108
+  }
+}

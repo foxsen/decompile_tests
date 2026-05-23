@@ -1,0 +1,28 @@
+{
+  "id": 9113,
+  "split": "train",
+  "name": "711_E. ZS and The Birthday Paradox",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 711,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "math",
+    "number theory",
+    "probabilities"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 135,
+    "generated_tests": 56,
+    "correct_solutions": 231,
+    "incorrect_solutions": 351
+  }
+}

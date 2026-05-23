@@ -1,0 +1,27 @@
+{
+  "id": 5483,
+  "split": "train",
+  "name": "988_B. Substrings Sort",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 988,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "sortings",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 46,
+    "generated_tests": 89,
+    "correct_solutions": 1272,
+    "incorrect_solutions": 572
+  }
+}

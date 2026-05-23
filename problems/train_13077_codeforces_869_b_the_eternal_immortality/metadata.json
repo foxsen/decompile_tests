@@ -1,0 +1,26 @@
+{
+  "id": 13077,
+  "split": "train",
+  "name": "869_B. The Eternal Immortality",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 869,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 60,
+    "generated_tests": 93,
+    "correct_solutions": 915,
+    "incorrect_solutions": 652
+  }
+}

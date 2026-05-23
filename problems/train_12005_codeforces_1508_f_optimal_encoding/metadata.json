@@ -1,0 +1,27 @@
+{
+  "id": 12005,
+  "split": "train",
+  "name": "1508_F. Optimal Encoding",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1508,
+  "cf_index": "F",
+  "cf_points": 4000.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "brute force",
+    "data structures"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 7.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 1,
+    "generated_tests": 200,
+    "correct_solutions": 38,
+    "incorrect_solutions": 44
+  }
+}

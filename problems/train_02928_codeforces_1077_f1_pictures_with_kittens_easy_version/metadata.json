@@ -1,0 +1,26 @@
+{
+  "id": 2928,
+  "split": "train",
+  "name": "1077_F1. Pictures with Kittens (easy version)",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1077,
+  "cf_index": "F1",
+  "cf_points": 0.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 29,
+    "generated_tests": 64,
+    "correct_solutions": 461,
+    "incorrect_solutions": 741
+  }
+}

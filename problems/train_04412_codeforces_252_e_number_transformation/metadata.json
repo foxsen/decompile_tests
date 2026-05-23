@@ -1,0 +1,28 @@
+{
+  "id": 4412,
+  "split": "train",
+  "name": "252_E. Number Transformation",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 252,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2000,
+  "cf_tags": [
+    "dp",
+    "greedy",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 58,
+    "generated_tests": 100,
+    "correct_solutions": 61,
+    "incorrect_solutions": 48
+  }
+}

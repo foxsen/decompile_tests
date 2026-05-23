@@ -1,0 +1,28 @@
+{
+  "id": 9006,
+  "split": "train",
+  "name": "643_F. Bears and Juice",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 643,
+  "cf_index": "F",
+  "cf_points": 3000.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "dp",
+    "math",
+    "meet-in-the-middle"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 4,
+    "private_tests": 29,
+    "generated_tests": 48,
+    "correct_solutions": 116,
+    "incorrect_solutions": 73
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 9114,
+  "split": "train",
+  "name": "732_E. Sockets",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 732,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 12,
+    "generated_tests": 39,
+    "correct_solutions": 247,
+    "incorrect_solutions": 336
+  }
+}

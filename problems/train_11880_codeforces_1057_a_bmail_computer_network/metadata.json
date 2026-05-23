@@ -1,0 +1,28 @@
+{
+  "id": 11880,
+  "split": "train",
+  "name": "1057_A. Bmail Computer Network",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1057,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "*special",
+    "dfs and similar",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 23,
+    "generated_tests": 91,
+    "correct_solutions": 654,
+    "incorrect_solutions": 353
+  }
+}

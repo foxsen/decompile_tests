@@ -1,0 +1,31 @@
+{
+  "id": 10667,
+  "split": "train",
+  "name": "500_B. New Year Permutation",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 500,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 26,
+    "generated_tests": 89,
+    "correct_solutions": 616,
+    "incorrect_solutions": 740
+  }
+}

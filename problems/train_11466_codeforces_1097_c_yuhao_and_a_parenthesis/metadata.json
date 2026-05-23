@@ -1,0 +1,27 @@
+{
+  "id": 11466,
+  "split": "train",
+  "name": "1097_C. Yuhao and a Parenthesis",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1097,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 9,
+    "generated_tests": 92,
+    "correct_solutions": 593,
+    "incorrect_solutions": 718
+  }
+}

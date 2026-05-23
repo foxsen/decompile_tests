@@ -1,0 +1,27 @@
+{
+  "id": 2933,
+  "split": "train",
+  "name": "1185_F. Two Pizzas",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1185,
+  "cf_index": "F",
+  "cf_points": 2750.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "bitmasks",
+    "brute force"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 67,
+    "generated_tests": 47,
+    "correct_solutions": 212,
+    "incorrect_solutions": 238
+  }
+}

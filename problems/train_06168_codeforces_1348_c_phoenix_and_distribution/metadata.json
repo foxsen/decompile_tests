@@ -1,0 +1,29 @@
+{
+  "id": 6168,
+  "split": "train",
+  "name": "1348_C. Phoenix and Distribution",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1348,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 77,
+    "correct_solutions": 794,
+    "incorrect_solutions": 651
+  }
+}

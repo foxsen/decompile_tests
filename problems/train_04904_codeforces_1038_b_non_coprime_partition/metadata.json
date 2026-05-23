@@ -1,0 +1,27 @@
+{
+  "id": 4904,
+  "split": "train",
+  "name": "1038_B. Non-Coprime Partition",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1038,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 65,
+    "generated_tests": 0,
+    "correct_solutions": 755,
+    "incorrect_solutions": 604
+  }
+}

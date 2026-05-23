@@ -1,0 +1,29 @@
+{
+  "id": 6098,
+  "split": "train",
+  "name": "757_G. Can Bash Save the Day?",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 757,
+  "cf_index": "G",
+  "cf_points": 3500.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "data structures",
+    "divide and conquer",
+    "graphs",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 768000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 4,
+    "generated_tests": 100,
+    "correct_solutions": 26,
+    "incorrect_solutions": 244
+  }
+}

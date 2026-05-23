@@ -1,0 +1,29 @@
+{
+  "id": 2949,
+  "split": "train",
+  "name": "1536_C. Diluc and Kaeya",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 1536,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "hashing",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 179,
+    "correct_solutions": 230,
+    "incorrect_solutions": 299
+  }
+}

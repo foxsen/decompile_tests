@@ -1,0 +1,27 @@
+{
+  "id": 4814,
+  "split": "train",
+  "name": "1334_B. Middle Class",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1334,
+  "cf_index": "B",
+  "cf_points": 0.0,
+  "cf_rating": 1100,
+  "cf_tags": [
+    "greedy",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 1,
+    "generated_tests": 86,
+    "correct_solutions": 1514,
+    "incorrect_solutions": 588
+  }
+}

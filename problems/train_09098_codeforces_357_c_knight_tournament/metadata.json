@@ -1,0 +1,27 @@
+{
+  "id": 9098,
+  "split": "train",
+  "name": "357_C. Knight Tournament",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 357,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1500,
+  "cf_tags": [
+    "data structures",
+    "dsu"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 19,
+    "generated_tests": 40,
+    "correct_solutions": 294,
+    "incorrect_solutions": 216
+  }
+}

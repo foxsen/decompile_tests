@@ -1,0 +1,27 @@
+{
+  "id": 7194,
+  "split": "train",
+  "name": "1062_A. A Prank",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1062,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 96,
+    "generated_tests": 95,
+    "correct_solutions": 623,
+    "incorrect_solutions": 940
+  }
+}

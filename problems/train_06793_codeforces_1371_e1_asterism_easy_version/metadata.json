@@ -1,0 +1,31 @@
+{
+  "id": 6793,
+  "split": "train",
+  "name": "1371_E1. Asterism (Easy Version)",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1371,
+  "cf_index": "E1",
+  "cf_points": 1500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "binary search",
+    "brute force",
+    "combinatorics",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 48,
+    "generated_tests": 78,
+    "correct_solutions": 591,
+    "incorrect_solutions": 748
+  }
+}

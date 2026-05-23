@@ -1,0 +1,28 @@
+{
+  "id": 7647,
+  "split": "train",
+  "name": "499_E. Array and Operations",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 499,
+  "cf_index": "E",
+  "cf_points": 1000.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "flows",
+    "graph matchings",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 18,
+    "generated_tests": 44,
+    "correct_solutions": 96,
+    "incorrect_solutions": 105
+  }
+}

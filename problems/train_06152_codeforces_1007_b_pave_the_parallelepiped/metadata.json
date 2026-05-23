@@ -1,0 +1,30 @@
+{
+  "id": 6152,
+  "split": "train",
+  "name": "1007_B. Pave the Parallelepiped",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1007,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 3,
+    "generated_tests": 85,
+    "correct_solutions": 69,
+    "incorrect_solutions": 114
+  }
+}

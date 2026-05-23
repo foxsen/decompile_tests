@@ -1,0 +1,32 @@
+{
+  "id": 40,
+  "split": "test",
+  "name": "1586_E. Moment of Bloom",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1586,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graph matchings",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 200,
+    "correct_solutions": 130,
+    "incorrect_solutions": 115
+  }
+}

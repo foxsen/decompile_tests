@@ -1,0 +1,27 @@
+{
+  "id": 6616,
+  "split": "train",
+  "name": "714_E. Sonya and Problem Wihtout a Legend",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 714,
+  "cf_index": "E",
+  "cf_points": 2000.0,
+  "cf_rating": 2300,
+  "cf_tags": [
+    "dp",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 13,
+    "generated_tests": 60,
+    "correct_solutions": 128,
+    "incorrect_solutions": 102
+  }
+}

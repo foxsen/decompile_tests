@@ -1,0 +1,29 @@
+{
+  "id": 1278,
+  "split": "train",
+  "name": "1427_H. Prison Break",
+  "source": "codeforces",
+  "difficulty": "H",
+  "cf_contest_id": 1427,
+  "cf_index": "H",
+  "cf_points": 4500.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "binary search",
+    "games",
+    "geometry",
+    "ternary search"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 5,
+    "private_tests": 157,
+    "generated_tests": 100,
+    "correct_solutions": 10,
+    "incorrect_solutions": 58
+  }
+}

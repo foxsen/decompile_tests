@@ -1,0 +1,27 @@
+{
+  "id": 111,
+  "split": "train",
+  "name": "1043_A. Elections",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 1043,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 800,
+  "cf_tags": [
+    "implementation",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 45,
+    "generated_tests": 96,
+    "correct_solutions": 991,
+    "incorrect_solutions": 553
+  }
+}

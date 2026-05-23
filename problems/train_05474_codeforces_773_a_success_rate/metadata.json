@@ -1,0 +1,27 @@
+{
+  "id": 5474,
+  "split": "train",
+  "name": "773_A. Success Rate",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 773,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "binary search",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 37,
+    "generated_tests": 93,
+    "correct_solutions": 479,
+    "incorrect_solutions": 627
+  }
+}

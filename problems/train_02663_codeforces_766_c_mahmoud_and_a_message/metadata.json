@@ -1,0 +1,29 @@
+{
+  "id": 2663,
+  "split": "train",
+  "name": "766_C. Mahmoud and a Message",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 766,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 13,
+    "generated_tests": 76,
+    "correct_solutions": 404,
+    "incorrect_solutions": 417
+  }
+}

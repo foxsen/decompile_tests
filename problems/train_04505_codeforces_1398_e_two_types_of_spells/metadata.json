@@ -1,0 +1,31 @@
+{
+  "id": 4505,
+  "split": "train",
+  "name": "1398_E. Two Types of Spells",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1398,
+  "cf_index": "E",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 51,
+    "correct_solutions": 260,
+    "incorrect_solutions": 445
+  }
+}

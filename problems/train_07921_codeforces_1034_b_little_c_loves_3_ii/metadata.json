@@ -1,0 +1,29 @@
+{
+  "id": 7921,
+  "split": "train",
+  "name": "1034_B. Little C Loves 3 II",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 1034,
+  "cf_index": "B",
+  "cf_points": 1000.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "brute force",
+    "constructive algorithms",
+    "flows",
+    "graph matchings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 50,
+    "generated_tests": 81,
+    "correct_solutions": 331,
+    "incorrect_solutions": 733
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 8689,
+  "split": "train",
+  "name": "513_F2. Scaygerboss",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 513,
+  "cf_index": "F2",
+  "cf_points": 6.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "flows"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 39,
+    "generated_tests": 36,
+    "correct_solutions": 106,
+    "incorrect_solutions": 118
+  }
+}

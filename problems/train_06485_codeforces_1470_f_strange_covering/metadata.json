@@ -1,0 +1,26 @@
+{
+  "id": 6485,
+  "split": "train",
+  "name": "1470_F. Strange Covering",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1470,
+  "cf_index": "F",
+  "cf_points": 2500.0,
+  "cf_rating": 3500,
+  "cf_tags": [
+    "divide and conquer"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 8,
+    "generated_tests": 200,
+    "correct_solutions": 15,
+    "incorrect_solutions": 115
+  }
+}

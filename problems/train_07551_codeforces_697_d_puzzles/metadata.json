@@ -1,0 +1,29 @@
+{
+  "id": 7551,
+  "split": "train",
+  "name": "697_D. Puzzles",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 697,
+  "cf_index": "D",
+  "cf_points": 1000.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "dfs and similar",
+    "math",
+    "probabilities",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 61,
+    "correct_solutions": 439,
+    "incorrect_solutions": 303
+  }
+}

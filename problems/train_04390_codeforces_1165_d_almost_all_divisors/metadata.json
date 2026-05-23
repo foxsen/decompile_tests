@@ -1,0 +1,27 @@
+{
+  "id": 4390,
+  "split": "train",
+  "name": "1165_D. Almost All Divisors",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1165,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 27,
+    "generated_tests": 59,
+    "correct_solutions": 614,
+    "incorrect_solutions": 1115
+  }
+}

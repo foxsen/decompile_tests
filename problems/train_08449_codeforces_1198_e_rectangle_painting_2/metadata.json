@@ -1,0 +1,28 @@
+{
+  "id": 8449,
+  "split": "train",
+  "name": "1198_E. Rectangle Painting 2",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 1198,
+  "cf_index": "E",
+  "cf_points": 1750.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "flows",
+    "graph matchings",
+    "graphs"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 22,
+    "generated_tests": 46,
+    "correct_solutions": 191,
+    "incorrect_solutions": 179
+  }
+}

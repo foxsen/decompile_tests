@@ -1,0 +1,28 @@
+{
+  "id": 6513,
+  "split": "train",
+  "name": "737_B. Sea Battle",
+  "source": "codeforces",
+  "difficulty": "B",
+  "cf_contest_id": 737,
+  "cf_index": "B",
+  "cf_points": 1750.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 8,
+    "generated_tests": 75,
+    "correct_solutions": 364,
+    "incorrect_solutions": 329
+  }
+}

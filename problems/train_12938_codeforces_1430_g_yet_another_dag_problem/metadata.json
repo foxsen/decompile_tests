@@ -1,0 +1,31 @@
+{
+  "id": 12938,
+  "split": "train",
+  "name": "1430_G. Yet Another DAG Problem",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1430,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2600,
+  "cf_tags": [
+    "bitmasks",
+    "dfs and similar",
+    "dp",
+    "flows",
+    "graphs",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 1024000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 79,
+    "generated_tests": 44,
+    "correct_solutions": 122,
+    "incorrect_solutions": 219
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 9097,
+  "split": "train",
+  "name": "334_C. Secrets",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 334,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1600,
+  "cf_tags": [
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 26,
+    "generated_tests": 70,
+    "correct_solutions": 268,
+    "incorrect_solutions": 341
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 12111,
+  "split": "train",
+  "name": "160_C. Find Pair",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 160,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 31,
+    "generated_tests": 70,
+    "correct_solutions": 387,
+    "incorrect_solutions": 811
+  }
+}

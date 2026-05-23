@@ -1,0 +1,28 @@
+{
+  "id": 6488,
+  "split": "train",
+  "name": "1547_D. Co-growing Sequence",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1547,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1300,
+  "cf_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 0,
+    "generated_tests": 100,
+    "correct_solutions": 405,
+    "incorrect_solutions": 299
+  }
+}

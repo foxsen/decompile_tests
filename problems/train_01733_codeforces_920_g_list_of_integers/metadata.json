@@ -1,0 +1,31 @@
+{
+  "id": 1733,
+  "split": "train",
+  "name": "920_G. List Of Integers",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 920,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 5.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 0,
+    "generated_tests": 52,
+    "correct_solutions": 235,
+    "incorrect_solutions": 199
+  }
+}

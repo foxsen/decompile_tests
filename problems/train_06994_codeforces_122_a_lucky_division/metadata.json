@@ -1,0 +1,27 @@
+{
+  "id": 6994,
+  "split": "train",
+  "name": "122_A. Lucky Division",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 122,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 1000,
+  "cf_tags": [
+    "brute force",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 32,
+    "generated_tests": 93,
+    "correct_solutions": 5291,
+    "incorrect_solutions": 775
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 8025,
+  "split": "train",
+  "name": "1028_F. Make Symmetrical",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1028,
+  "cf_index": "F",
+  "cf_points": 3250.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "brute force"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 6.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 1,
+    "generated_tests": 44,
+    "correct_solutions": 141,
+    "incorrect_solutions": 214
+  }
+}

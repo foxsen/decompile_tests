@@ -1,0 +1,28 @@
+{
+  "id": 12534,
+  "split": "train",
+  "name": "338_C. Divisor Tree",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 338,
+  "cf_index": "C",
+  "cf_points": 2500.0,
+  "cf_rating": 2200,
+  "cf_tags": [
+    "brute force",
+    "number theory",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 0.5,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 38,
+    "generated_tests": 51,
+    "correct_solutions": 259,
+    "incorrect_solutions": 318
+  }
+}

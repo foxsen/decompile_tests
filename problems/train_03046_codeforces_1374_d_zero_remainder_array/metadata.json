@@ -1,0 +1,28 @@
+{
+  "id": 3046,
+  "split": "train",
+  "name": "1374_D. Zero Remainder Array",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1374,
+  "cf_index": "D",
+  "cf_points": 0.0,
+  "cf_rating": 1400,
+  "cf_tags": [
+    "math",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 2,
+    "generated_tests": 90,
+    "correct_solutions": 1271,
+    "incorrect_solutions": 620
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 11095,
+  "split": "train",
+  "name": "764_D. Timofey and rectangles",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 764,
+  "cf_index": "D",
+  "cf_points": 750.0,
+  "cf_rating": 2100,
+  "cf_tags": [
+    "constructive algorithms",
+    "geometry"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 10,
+    "generated_tests": 65,
+    "correct_solutions": 170,
+    "incorrect_solutions": 123
+  }
+}

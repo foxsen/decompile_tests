@@ -1,0 +1,28 @@
+{
+  "id": 9416,
+  "split": "train",
+  "name": "460_C. Present",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 460,
+  "cf_index": "C",
+  "cf_points": 1500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "binary search",
+    "data structures",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 6,
+    "generated_tests": 66,
+    "correct_solutions": 365,
+    "incorrect_solutions": 539
+  }
+}

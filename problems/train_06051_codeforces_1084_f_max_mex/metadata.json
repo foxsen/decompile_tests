@@ -1,0 +1,27 @@
+{
+  "id": 6051,
+  "split": "train",
+  "name": "1084_F. Max Mex",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1084,
+  "cf_index": "F",
+  "cf_points": 1500.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "data structures",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 25,
+    "correct_solutions": 145,
+    "incorrect_solutions": 206
+  }
+}

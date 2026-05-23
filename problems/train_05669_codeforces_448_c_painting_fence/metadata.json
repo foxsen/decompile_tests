@@ -1,0 +1,28 @@
+{
+  "id": 5669,
+  "split": "train",
+  "name": "448_C. Painting Fence",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 448,
+  "cf_index": "C",
+  "cf_points": 2500.0,
+  "cf_rating": 1900,
+  "cf_tags": [
+    "divide and conquer",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 18,
+    "generated_tests": 75,
+    "correct_solutions": 393,
+    "incorrect_solutions": 623
+  }
+}

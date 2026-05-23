@@ -1,0 +1,27 @@
+{
+  "id": 9601,
+  "split": "train",
+  "name": "1310_F. Bad Cryptography",
+  "source": "codeforces",
+  "difficulty": "F",
+  "cf_contest_id": 1310,
+  "cf_index": "F",
+  "cf_points": 3500.0,
+  "cf_rating": 3400,
+  "cf_tags": [
+    "math",
+    "number theory"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 1,
+    "private_tests": 5,
+    "generated_tests": 100,
+    "correct_solutions": 25,
+    "incorrect_solutions": 14
+  }
+}

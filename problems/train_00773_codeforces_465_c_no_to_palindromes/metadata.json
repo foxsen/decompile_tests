@@ -1,0 +1,27 @@
+{
+  "id": 773,
+  "split": "train",
+  "name": "465_C. No to Palindromes!",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 465,
+  "cf_index": "C",
+  "cf_points": 500.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "greedy",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 34,
+    "generated_tests": 63,
+    "correct_solutions": 205,
+    "incorrect_solutions": 222
+  }
+}

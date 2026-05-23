@@ -1,0 +1,26 @@
+{
+  "id": 9934,
+  "split": "train",
+  "name": "387_A. George and Sleep",
+  "source": "codeforces",
+  "difficulty": "A",
+  "cf_contest_id": 387,
+  "cf_index": "A",
+  "cf_points": 500.0,
+  "cf_rating": 900,
+  "cf_tags": [
+    "implementation"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 44,
+    "generated_tests": 93,
+    "correct_solutions": 764,
+    "incorrect_solutions": 609
+  }
+}

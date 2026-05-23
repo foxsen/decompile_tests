@@ -1,0 +1,27 @@
+{
+  "id": 10048,
+  "split": "train",
+  "name": "623_C. Electric Charges",
+  "source": "codeforces",
+  "difficulty": "C",
+  "cf_contest_id": 623,
+  "cf_index": "C",
+  "cf_points": 1750.0,
+  "cf_rating": 2900,
+  "cf_tags": [
+    "binary search",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 2.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 55,
+    "generated_tests": 33,
+    "correct_solutions": 202,
+    "incorrect_solutions": 611
+  }
+}

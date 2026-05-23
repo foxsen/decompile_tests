@@ -1,0 +1,27 @@
+{
+  "id": 1676,
+  "split": "train",
+  "name": "101_E. Candies and Stones",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 101,
+  "cf_index": "E",
+  "cf_points": 2500.0,
+  "cf_rating": 2500,
+  "cf_tags": [
+    "divide and conquer",
+    "dp"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 7.5,
+  "memory_limit_bytes": 45000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 31,
+    "generated_tests": 52,
+    "correct_solutions": 152,
+    "incorrect_solutions": 240
+  }
+}

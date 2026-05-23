@@ -1,0 +1,28 @@
+{
+  "id": 5326,
+  "split": "train",
+  "name": "1168_D. Anagram Paths",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 1168,
+  "cf_index": "D",
+  "cf_points": 2000.0,
+  "cf_rating": 3000,
+  "cf_tags": [
+    "dp",
+    "implementation",
+    "trees"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 2,
+    "generated_tests": 35,
+    "correct_solutions": 140,
+    "incorrect_solutions": 214
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 539,
+  "split": "train",
+  "name": "1267_L. Lexicography",
+  "source": "codeforces",
+  "difficulty": "L",
+  "cf_contest_id": 1267,
+  "cf_index": "L",
+  "cf_points": 0.0,
+  "cf_rating": 1800,
+  "cf_tags": [
+    "constructive algorithms",
+    "strings"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 3.0,
+  "memory_limit_bytes": 512000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 2,
+    "private_tests": 30,
+    "generated_tests": 83,
+    "correct_solutions": 218,
+    "incorrect_solutions": 379
+  }
+}

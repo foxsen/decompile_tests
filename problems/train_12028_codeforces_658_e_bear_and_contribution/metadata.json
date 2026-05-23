@@ -1,0 +1,29 @@
+{
+  "id": 12028,
+  "split": "train",
+  "name": "658_E. Bear and Contribution",
+  "source": "codeforces",
+  "difficulty": "E",
+  "cf_contest_id": 658,
+  "cf_index": "E",
+  "cf_points": 1500.0,
+  "cf_rating": 2400,
+  "cf_tags": [
+    "data structures",
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 16,
+    "generated_tests": 44,
+    "correct_solutions": 166,
+    "incorrect_solutions": 243
+  }
+}

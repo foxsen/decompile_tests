@@ -1,0 +1,29 @@
+{
+  "id": 966,
+  "split": "train",
+  "name": "1473_G. Tiles",
+  "source": "codeforces",
+  "difficulty": "G",
+  "cf_contest_id": 1473,
+  "cf_index": "G",
+  "cf_points": 0.0,
+  "cf_rating": 2800,
+  "cf_tags": [
+    "combinatorics",
+    "dp",
+    "fft",
+    "math"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 4.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 0,
+    "generated_tests": 200,
+    "correct_solutions": 74,
+    "incorrect_solutions": 134
+  }
+}

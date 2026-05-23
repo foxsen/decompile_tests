@@ -1,0 +1,28 @@
+{
+  "id": 5795,
+  "split": "train",
+  "name": "957_D. Riverside Curio",
+  "source": "codeforces",
+  "difficulty": "D",
+  "cf_contest_id": 957,
+  "cf_index": "D",
+  "cf_points": 1250.0,
+  "cf_rating": 1700,
+  "cf_tags": [
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "is_description_translated": false,
+  "time_limit_seconds": 1.0,
+  "memory_limit_bytes": 256000000,
+  "input_file": "",
+  "output_file": "",
+  "counts": {
+    "public_tests": 3,
+    "private_tests": 20,
+    "generated_tests": 55,
+    "correct_solutions": 161,
+    "incorrect_solutions": 168
+  }
+}
