@@ -28,9 +28,9 @@ def require_bounded_selection(args: argparse.Namespace) -> None:
 
 
 def selected_rows(args: argparse.Namespace) -> list[dict]:
-  bench_root = pathlib.Path(args.bench_root).resolve()
+  tests_root = pathlib.Path(args.tests_root).resolve()
   rows = run_tests.select_rows(
-      run_tests.read_manifest(bench_root / "manifest.jsonl"),
+      run_tests.read_manifest(tests_root / "manifest.jsonl"),
       args.splits,
       args.problems,
       args.start,
@@ -93,13 +93,13 @@ def destination_tests_dir(output_root: pathlib.Path, row: dict) -> pathlib.Path:
 
 
 def extract_sqlite(args: argparse.Namespace, rows: list[dict]) -> int:
-  bench_root = pathlib.Path(args.bench_root).resolve()
+  tests_root = pathlib.Path(args.tests_root).resolve()
   output_root = pathlib.Path(args.output_root).expanduser().resolve() if (
-      args.output_root) else bench_root
+      args.output_root) else tests_root
   groups = split_values(args.test_groups)
   stems = split_values(args.stems)
   total = 0
-  with sqlite3.connect(bench_root / "tests.sqlite") as conn:
+  with sqlite3.connect(tests_root / "tests.sqlite") as conn:
     for index, row in enumerate(rows, start=1):
       test_rows = query_sqlite_tests(conn, row, groups, stems)
       dest_tests_dir = destination_tests_dir(output_root, row)
@@ -120,10 +120,10 @@ def extract_sqlite(args: argparse.Namespace, rows: list[dict]) -> int:
 
 def main() -> int:
   parser = argparse.ArgumentParser()
-  parser.add_argument("--bench-root", default=".")
+  parser.add_argument("--tests-root", default=".")
   parser.add_argument("--output-root", default="",
                       help=("Directory receiving problems/<key>/tests. "
-                            "Defaults to bench-root."))
+                            "Defaults to tests-root."))
   parser.add_argument("--splits", default="")
   parser.add_argument("--problems", default="")
   parser.add_argument("--start", type=int, default=0)

@@ -145,12 +145,12 @@ def iter_sqlite_tests(db_path: pathlib.Path, problem_key: str,
   return cases
 
 
-def iter_tests(row: dict, bench_root: pathlib.Path,
+def iter_tests(row: dict, tests_root: pathlib.Path,
                groups: Iterable[str]) -> list[TestCase]:
   if row.get("tests_storage") == "sqlite":
-    return iter_sqlite_tests(bench_root / row.get("tests_path", "tests.sqlite"),
+    return iter_sqlite_tests(tests_root / row.get("tests_path", "tests.sqlite"),
                              row["key"], groups)
-  return iter_file_tests(bench_root / row["tests_path"], groups)
+  return iter_file_tests(tests_root / row["tests_path"], groups)
 
 
 def run_command(cmd: list[str], timeout: float,
@@ -173,6 +173,15 @@ def run_command(cmd: list[str], timeout: float,
         "duration_seconds": time.monotonic() - started,
         "stdout": exc.stdout or "",
         "stderr": exc.stderr or "",
+    }
+  except OSError as exc:
+    return False, {
+        "status": "spawn_failed",
+        "command": cmd,
+        "cwd": str(cwd) if cwd else "",
+        "duration_seconds": time.monotonic() - started,
+        "stdout": "",
+        "stderr": str(exc),
     }
   ok = completed.returncode == 0
   return ok, {
@@ -207,11 +216,11 @@ def compile_source(source_path: pathlib.Path, binary_path: pathlib.Path,
   return ok, result
 
 
-def compile_original(row: dict, bench_root: pathlib.Path,
+def compile_original(row: dict, tests_root: pathlib.Path,
                      build_dir: pathlib.Path, cxx: str, cxxflags: str,
                      ldflags: str, timeout: float) -> tuple[bool, dict]:
   return compile_source(
-      bench_root / row["solution_path"],
+      tests_root / row["solution_path"],
       build_dir / "original.bin",
       cxx,
       cxxflags,
@@ -308,12 +317,12 @@ def run_one_test(binary_path: pathlib.Path, case: TestCase, row: dict,
   }
 
 
-def run_tests_binary(row: dict, bench_root: pathlib.Path,
+def run_tests_binary(row: dict, tests_root: pathlib.Path,
                      binary_path: pathlib.Path, build_dir: pathlib.Path,
                      test_groups: list[str], jobs: int, timeout: float,
                      stop_on_fail: bool,
                      total_timeout: float = 0.0) -> tuple[bool, dict]:
-  cases = iter_tests(row, bench_root, test_groups)
+  cases = iter_tests(row, tests_root, test_groups)
   work_parent = build_dir / "work"
   work_parent.mkdir(parents=True, exist_ok=True)
   results = []
@@ -374,9 +383,9 @@ def run_tests_binary(row: dict, bench_root: pathlib.Path,
 
 
 def selected_rows(args: argparse.Namespace) -> list[dict]:
-  bench_root = pathlib.Path(args.bench_root).resolve()
+  tests_root = pathlib.Path(args.tests_root).resolve()
   rows = select_rows(
-      read_manifest(bench_root / "manifest.jsonl"),
+      read_manifest(tests_root / "manifest.jsonl"),
       args.splits,
       args.problems,
       args.start,
@@ -395,7 +404,7 @@ def write_result(path: pathlib.Path, record: dict) -> None:
 
 def main() -> int:
   parser = argparse.ArgumentParser()
-  parser.add_argument("--bench-root", default=".")
+  parser.add_argument("--tests-root", default=".")
   parser.add_argument("--mode", choices=("list", "summary", "build", "test"),
                       default="test")
   parser.add_argument("--splits", default="")
@@ -415,7 +424,7 @@ def main() -> int:
   parser.add_argument("--results-dir", default="results")
   args = parser.parse_args()
 
-  bench_root = pathlib.Path(args.bench_root).resolve()
+  tests_root = pathlib.Path(args.tests_root).resolve()
   rows = selected_rows(args)
 
   if args.mode == "list":
@@ -435,8 +444,8 @@ def main() -> int:
     }, indent=2, sort_keys=True))
     return 0
 
-  results_dir = bench_root / args.results_dir
-  build_root = bench_root / "build"
+  results_dir = tests_root / args.results_dir
+  build_root = tests_root / "build"
   results_dir.mkdir(parents=True, exist_ok=True)
   run_id = time.strftime("%Y%m%d-%H%M%S")
   result_path = results_dir / f"{args.mode}-{run_id}.jsonl"
@@ -447,7 +456,7 @@ def main() -> int:
     build_dir = build_root / row["key"]
     print(f"[{index}/{len(rows)}] {row['key']}: compile", flush=True)
     compile_ok, compile_result = compile_original(
-        row, bench_root, build_dir, args.cxx, args.cxxflags, args.ldflags,
+        row, tests_root, build_dir, args.cxx, args.cxxflags, args.ldflags,
         args.compile_timeout)
     record = {
         "key": row["key"],
@@ -464,7 +473,7 @@ def main() -> int:
       print(f"[{index}/{len(rows)}] {row['key']}: run tests", flush=True)
       tests_ok, test_result = run_tests_binary(
           row,
-          bench_root,
+          tests_root,
           build_dir / "original.bin",
           build_dir,
           test_groups,

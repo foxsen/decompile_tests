@@ -1,4 +1,4 @@
-# decompile_bench
+# decompile_tests
 
 This directory was generated from qualified CodeContests rows.
 Problem directories contain real copies of solution.cc and metadata.json.
@@ -13,3 +13,27 @@ make test SPLITS=test LIMIT=1
 make pipeline SPLITS=test LIMIT=1
 make pipeline PROBLEMS='<problem-key>'
 ```
+
+Decompiler integration:
+
+`make pipeline` expects a decompiler command template. By default,
+`DECOMPILER_ROOT` points at `decompiler` under this repository. The command
+template may use these placeholders:
+
+- `{binary}`: compiled original binary
+- `{source}`: expected decompiled C++ output path
+- `{work_dir}`: per-problem decompile working directory
+- `{build_dir}`: per-problem build directory
+- `{tests_root}`: repository root
+- `{decompiler_root}`: configured decompiler directory
+- `{problem_key}` and `{split}`: manifest metadata
+
+Example:
+
+```sh
+make pipeline SPLITS=test LIMIT=1 \
+  DECOMPILER_ROOT=/path/to/decompiler \
+  DECOMPILE_COMMAND='{decompiler_root}/decompile {binary} -o {source}'
+```
+
+Use `DECOMPILER_CWD` if the command must run from a different directory.

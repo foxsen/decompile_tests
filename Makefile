@@ -20,11 +20,10 @@ EXTRACT_ROOT ?=
 EXTRACT_STEMS ?=
 EXTRACT_ALL ?= 0
 
-SURI_ROOT ?= /old/home/foxsen/SURI
-SURI_PY ?= $(SURI_ROOT)/suri.py
-DECOMPILER_PY ?= $(SURI_ROOT)/tools/fsharp_fast_decompiler_wrapper.py
-SURI_ARGS ?=
-DECOMPILER_ARGS ?= --emit-data-decls --language c++
+DECOMPILER_ROOT ?= decompiler
+DECOMPILER_CWD ?= {decompiler_root}
+DECOMPILE_COMMAND ?=
+DECOMPILED_SOURCE ?= {work_dir}/decompiled.cpp
 RECOMPILE_CXX ?= $(CXX)
 RECOMPILE_CXXFLAGS ?= -std=gnu++17 -O2 -fpermissive
 RECOMPILE_LDFLAGS ?=
@@ -59,34 +58,34 @@ help:
 	  '  EXTRACT_ALL=1                     Allow full selected extraction.' \
 	  '' \
 	  'Tool variables:' \
-	  '  SURI_ROOT=$(SURI_ROOT)' \
-	  '  SURI_PY=$(SURI_PY)' \
-	  '  DECOMPILER_PY=$(DECOMPILER_PY)' \
+	  '  DECOMPILER_ROOT=$(DECOMPILER_ROOT)' \
+	  '  DECOMPILE_COMMAND=$(DECOMPILE_COMMAND)' \
+	  '  DECOMPILED_SOURCE=$(DECOMPILED_SOURCE)' \
 	  '  JOBS=$(JOBS) TIMEOUT=$(TIMEOUT) STOP_ON_FAIL=$(STOP_ON_FAIL)'
 
 list:
-	$(PYTHON) tools/run_tests.py --bench-root . --mode list --splits "$(SPLITS)" --problems "$(PROBLEMS)" --start "$(START)" --limit "$(LIMIT)"
+	$(PYTHON) tools/run_tests.py --tests-root . --mode list --splits "$(SPLITS)" --problems "$(PROBLEMS)" --start "$(START)" --limit "$(LIMIT)"
 
 summary:
-	$(PYTHON) tools/run_tests.py --bench-root . --mode summary --splits "$(SPLITS)" --problems "$(PROBLEMS)" --start "$(START)" --limit "$(LIMIT)"
+	$(PYTHON) tools/run_tests.py --tests-root . --mode summary --splits "$(SPLITS)" --problems "$(PROBLEMS)" --start "$(START)" --limit "$(LIMIT)"
 
 extract-tests:
 	$(PYTHON) tools/extract_tests.py \
-	  --bench-root . --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
+	  --tests-root . --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
 	  --start "$(START)" --limit "$(LIMIT)" --test-groups "$(TEST_GROUPS)" \
 	  --stems "$(EXTRACT_STEMS)" $(if $(EXTRACT_ROOT),--output-root "$(EXTRACT_ROOT)",) \
 	  $(if $(filter 1,$(EXTRACT_ALL)),--all,) --force
 
 build:
 	$(PYTHON) tools/run_tests.py \
-	  --bench-root . --mode build --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
+	  --tests-root . --mode build --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
 	  --start "$(START)" --limit "$(LIMIT)" --cxx "$(CXX)" --cxxflags "$(CXXFLAGS)" \
 	  --ldflags "$(LDFLAGS)" --compile-timeout "$(COMPILE_TIMEOUT)" \
 	  --results-dir "$(RESULTS_DIR)"
 
 tests test:
 	$(PYTHON) tools/run_tests.py \
-	  --bench-root . --mode test --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
+	  --tests-root . --mode test --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
 	  --start "$(START)" --limit "$(LIMIT)" --test-groups "$(TEST_GROUPS)" \
 	  --cxx "$(CXX)" --cxxflags "$(CXXFLAGS)" --ldflags "$(LDFLAGS)" \
 	  --compile-timeout "$(COMPILE_TIMEOUT)" --timeout "$(TIMEOUT)" \
@@ -95,34 +94,37 @@ tests test:
 
 decompile:
 	$(PYTHON) tools/run_pipeline.py \
-	  --bench-root . --mode decompile --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
+	  --tests-root . --mode decompile --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
 	  --start "$(START)" --limit "$(LIMIT)" --cxx "$(CXX)" --cxxflags "$(CXXFLAGS)" \
 	  --ldflags "$(LDFLAGS)" --compile-timeout "$(COMPILE_TIMEOUT)" \
-	  --decompile-timeout "$(DECOMPILE_TIMEOUT)" --suri-root "$(SURI_ROOT)" \
-	  --suri-py "$(SURI_PY)" --suri-args "$(SURI_ARGS)" \
-	  --decompiler-py "$(DECOMPILER_PY)" --decompiler-args "$(DECOMPILER_ARGS)" \
+	  --decompile-timeout "$(DECOMPILE_TIMEOUT)" \
+	  --decompiler-root "$(DECOMPILER_ROOT)" --decompiler-cwd "$(DECOMPILER_CWD)" \
+	  --decompile-command "$(DECOMPILE_COMMAND)" \
+	  --decompiled-source "$(DECOMPILED_SOURCE)" \
 	  --results-dir "$(RESULTS_DIR)"
 
 recompile:
 	$(PYTHON) tools/run_pipeline.py \
-	  --bench-root . --mode recompile --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
+	  --tests-root . --mode recompile --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
 	  --start "$(START)" --limit "$(LIMIT)" --cxx "$(CXX)" --cxxflags "$(CXXFLAGS)" \
 	  --ldflags "$(LDFLAGS)" --compile-timeout "$(COMPILE_TIMEOUT)" \
-	  --decompile-timeout "$(DECOMPILE_TIMEOUT)" --suri-root "$(SURI_ROOT)" \
-	  --suri-py "$(SURI_PY)" --suri-args "$(SURI_ARGS)" \
-	  --decompiler-py "$(DECOMPILER_PY)" --decompiler-args "$(DECOMPILER_ARGS)" \
+	  --decompile-timeout "$(DECOMPILE_TIMEOUT)" \
+	  --decompiler-root "$(DECOMPILER_ROOT)" --decompiler-cwd "$(DECOMPILER_CWD)" \
+	  --decompile-command "$(DECOMPILE_COMMAND)" \
+	  --decompiled-source "$(DECOMPILED_SOURCE)" \
 	  --recompile-cxx "$(RECOMPILE_CXX)" --recompile-cxxflags "$(RECOMPILE_CXXFLAGS)" \
 	  --recompile-ldflags "$(RECOMPILE_LDFLAGS)" --recompile-timeout "$(RECOMPILE_TIMEOUT)" \
 	  --results-dir "$(RESULTS_DIR)"
 
 test-recompiled:
 	$(PYTHON) tools/run_pipeline.py \
-	  --bench-root . --mode test-recompiled --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
+	  --tests-root . --mode test-recompiled --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
 	  --start "$(START)" --limit "$(LIMIT)" --test-groups "$(TEST_GROUPS)" \
 	  --cxx "$(CXX)" --cxxflags "$(CXXFLAGS)" --ldflags "$(LDFLAGS)" \
 	  --compile-timeout "$(COMPILE_TIMEOUT)" --decompile-timeout "$(DECOMPILE_TIMEOUT)" \
-	  --suri-root "$(SURI_ROOT)" --suri-py "$(SURI_PY)" --suri-args "$(SURI_ARGS)" \
-	  --decompiler-py "$(DECOMPILER_PY)" --decompiler-args "$(DECOMPILER_ARGS)" \
+	  --decompiler-root "$(DECOMPILER_ROOT)" --decompiler-cwd "$(DECOMPILER_CWD)" \
+	  --decompile-command "$(DECOMPILE_COMMAND)" \
+	  --decompiled-source "$(DECOMPILED_SOURCE)" \
 	  --recompile-cxx "$(RECOMPILE_CXX)" --recompile-cxxflags "$(RECOMPILE_CXXFLAGS)" \
 	  --recompile-ldflags "$(RECOMPILE_LDFLAGS)" --recompile-timeout "$(RECOMPILE_TIMEOUT)" \
 	  --timeout "$(TIMEOUT)" --total-timeout "$(TOTAL_TIMEOUT)" --jobs "$(JOBS)" \
@@ -130,12 +132,13 @@ test-recompiled:
 
 pipeline:
 	$(PYTHON) tools/run_pipeline.py \
-	  --bench-root . --mode pipeline --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
+	  --tests-root . --mode pipeline --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
 	  --start "$(START)" --limit "$(LIMIT)" --test-groups "$(TEST_GROUPS)" \
 	  --cxx "$(CXX)" --cxxflags "$(CXXFLAGS)" --ldflags "$(LDFLAGS)" \
 	  --compile-timeout "$(COMPILE_TIMEOUT)" --decompile-timeout "$(DECOMPILE_TIMEOUT)" \
-	  --suri-root "$(SURI_ROOT)" --suri-py "$(SURI_PY)" --suri-args "$(SURI_ARGS)" \
-	  --decompiler-py "$(DECOMPILER_PY)" --decompiler-args "$(DECOMPILER_ARGS)" \
+	  --decompiler-root "$(DECOMPILER_ROOT)" --decompiler-cwd "$(DECOMPILER_CWD)" \
+	  --decompile-command "$(DECOMPILE_COMMAND)" \
+	  --decompiled-source "$(DECOMPILED_SOURCE)" \
 	  --recompile-cxx "$(RECOMPILE_CXX)" --recompile-cxxflags "$(RECOMPILE_CXXFLAGS)" \
 	  --recompile-ldflags "$(RECOMPILE_LDFLAGS)" --recompile-timeout "$(RECOMPILE_TIMEOUT)" \
 	  --timeout "$(TIMEOUT)" --total-timeout "$(TOTAL_TIMEOUT)" --jobs "$(JOBS)" \
@@ -148,7 +151,7 @@ first40:
 
 $(PROBLEM_TARGETS):
 	$(PYTHON) tools/run_tests.py \
-	  --bench-root . --mode test --splits "" --problems "$@" \
+	  --tests-root . --mode test --splits "" --problems "$@" \
 	  --test-groups "$(TEST_GROUPS)" --cxx "$(CXX)" --cxxflags "$(CXXFLAGS)" \
 	  --ldflags "$(LDFLAGS)" --compile-timeout "$(COMPILE_TIMEOUT)" \
 	  --timeout "$(TIMEOUT)" --jobs "$(JOBS)" --stop-on-fail "$(STOP_ON_FAIL)" \
