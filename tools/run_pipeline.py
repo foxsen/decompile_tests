@@ -70,6 +70,7 @@ def ensure_original(row: dict, tests_root: pathlib.Path, build_dir: pathlib.Path
       args.cxxflags,
       args.ldflags,
       args.compile_timeout,
+      args.fixture_annotations_by_problem.get(row["key"]),
   )
 
 
@@ -228,6 +229,8 @@ def test_recompiled(row: dict, tests_root: pathlib.Path,
       args.timeout,
       bool(args.stop_on_fail),
       args.total_timeout,
+      run_tests.fixture_case_annotations(
+          args.fixture_annotations_by_problem.get(row["key"])),
   )
   record["tests"] = tests_result
   record["status"] = "tests_ok" if tests_ok else "tests_failed"
@@ -243,6 +246,34 @@ def run_row(row: dict, tests_root: pathlib.Path, build_dir: pathlib.Path,
   if args.mode in ("test-recompiled", "pipeline"):
     return test_recompiled(row, tests_root, build_dir, args)
   raise AssertionError(args.mode)
+
+
+def print_first_failure(row: dict, tests: dict) -> None:
+  first_failure = tests.get("first_failure")
+  if not first_failure:
+    return
+  status = first_failure.get("status", "failed")
+  group = first_failure.get("group", "")
+  stem = first_failure.get("stem", "")
+  returncode = first_failure.get("returncode")
+  print(f"[failure] {row['key']} group={group} stem={stem} "
+        f"status={status} returncode={returncode}", flush=True)
+  stdout_text = (first_failure.get("stdout") or "").strip()
+  expected_text = (first_failure.get("expected_output") or "").strip()
+  diff_text = (first_failure.get("output_diff") or "").strip()
+  stderr_text = (first_failure.get("stderr") or "").strip()
+  if expected_text:
+    print("[failure] expected output:", flush=True)
+    print(expected_text, flush=True)
+  if stdout_text:
+    print("[failure] actual output:", flush=True)
+    print(stdout_text, flush=True)
+  if diff_text:
+    print("[failure] output diff:", flush=True)
+    print(diff_text, flush=True)
+  if stderr_text:
+    print("[failure] stderr:", flush=True)
+    print(stderr_text, flush=True)
 
 
 def main() -> int:
@@ -278,6 +309,7 @@ def main() -> int:
   parser.add_argument("--jobs", type=int, default=1)
   parser.add_argument("--stop-on-fail", type=int, default=1)
   parser.add_argument("--results-dir", default="results")
+  parser.add_argument("--fixture-annotations", default="fixture_annotations.json")
   args = parser.parse_args()
 
   tests_root = pathlib.Path(args.tests_root).resolve()
@@ -285,6 +317,12 @@ def main() -> int:
   if not decompiler_root.is_absolute():
     decompiler_root = tests_root / decompiler_root
   args.decompiler_root = decompiler_root.resolve()
+  try:
+    args.fixture_annotations_by_problem = run_tests.load_fixture_annotations(
+        tests_root, args.fixture_annotations)
+  except (OSError, ValueError, json.JSONDecodeError) as exc:
+    print(f"failed to load fixture annotations: {exc}", file=sys.stderr)
+    return 2
 
   rows = run_tests.select_rows(
       run_tests.read_manifest(tests_root / "manifest.jsonl"),
@@ -315,9 +353,16 @@ def main() -> int:
       }
       if result.get("tests"):
         tests = result["tests"]
+        effective_passed = tests.get("tests_effective_passed",
+                                     tests["tests_passed"])
+        ignored_failures = tests.get("ignored_failures", 0)
         print(f"[{index}/{len(rows)}] {row['key']}: "
-              f"{tests['tests_passed']}/{tests['tests_total']} passed",
+              f"{effective_passed}/{tests['tests_total']} effective passed "
+              f"({tests['tests_passed']} passed, "
+              f"{ignored_failures} ignored)",
               flush=True)
+        if tests.get("status") != "tests_ok":
+          print_first_failure(row, tests)
       elif not ok:
         print(f"[{index}/{len(rows)}] {row['key']}: "
               f"{result.get('status', 'failed')}", flush=True)

@@ -1,0 +1,1025 @@
+{
+  "problems": {
+    "train_02242_codeforces_669_b_little_artem_and_grasshopper": {
+      "classification": "invalid_fixture_ub",
+      "ignore_failure": true,
+      "reason": "The direction string in these inputs contains HTML entity text or malformed entity fragments. The original solution reads only n bytes with getchar, leaving non-numeric entity text before scanf(\"%d\", &a). scanf then fails and the source multiplies by an uninitialized stack local.",
+      "cases": [
+        {
+          "group": "public",
+          "stem": "000"
+        },
+        {
+          "group": "public",
+          "stem": "001"
+        },
+        {
+          "group": "generated",
+          "stem": "027"
+        },
+        {
+          "group": "generated",
+          "stem": "053"
+        },
+        {
+          "group": "generated",
+          "stem": "076"
+        }
+      ]
+    },
+    "train_02409_codeforces_1117_a_best_subsegment": {
+      "classification": "invalid_fixture_ub",
+      "ignore_failure": true,
+      "reason": "The source reads a[n] on the final loop iteration. These all-zero inputs depend on the original binary's one-past VLA stack contents to terminate and report the run length; the recompiled output has zeroed dynamic-stack padding and therefore follows different undefined behavior.",
+      "cases": [
+        {
+          "group": "private",
+          "stem": "005"
+        },
+        {
+          "group": "private",
+          "stem": "007"
+        },
+        {
+          "group": "private",
+          "stem": "009"
+        },
+        {
+          "group": "private",
+          "stem": "010"
+        },
+        {
+          "group": "private",
+          "stem": "013"
+        },
+        {
+          "group": "private",
+          "stem": "015"
+        },
+        {
+          "group": "private",
+          "stem": "019"
+        },
+        {
+          "group": "private",
+          "stem": "026"
+        },
+        {
+          "group": "private",
+          "stem": "030"
+        },
+        {
+          "group": "private",
+          "stem": "035"
+        },
+        {
+          "group": "private",
+          "stem": "036"
+        },
+        {
+          "group": "private",
+          "stem": "037"
+        },
+        {
+          "group": "private",
+          "stem": "039"
+        }
+      ]
+    },
+    "train_02854_codeforces_365_b_the_fibonacci_segment": {
+      "classification": "invalid_fixture_ub",
+      "ignore_failure": true,
+      "reason": "For n == 1 the source reads arr[1] before checking n == 1. These inputs depend on the original binary's one-past VLA stack contents; the recompiled output has zeroed dynamic-stack padding and therefore follows different undefined behavior.",
+      "cases": [
+        {
+          "group": "private",
+          "stem": "005"
+        },
+        {
+          "group": "generated",
+          "stem": "082"
+        }
+      ]
+    },
+    "train_04681_atcoder_p01334_let_s_jumpstyle": {
+      "classification": "invalid_fixture_ub",
+      "ignore_failure": true,
+      "reason": "These generated inputs contain out-of-grid jump coordinates such as y == -1. The source follows those coordinates and writes tmp[ny][nx], producing a stack-buffer-underflow that depends on the original binary's stack layout.",
+      "cases": [
+        {
+          "group": "generated",
+          "stem": "010"
+        },
+        {
+          "group": "generated",
+          "stem": "013"
+        },
+        {
+          "group": "generated",
+          "stem": "055"
+        },
+        {
+          "group": "generated",
+          "stem": "059"
+        },
+        {
+          "group": "generated",
+          "stem": "060"
+        },
+        {
+          "group": "generated",
+          "stem": "064"
+        },
+        {
+          "group": "generated",
+          "stem": "065"
+        },
+        {
+          "group": "generated",
+          "stem": "071"
+        }
+      ]
+    },
+    "train_05864_codeforces_1536_d_omkar_and_medians": {
+      "classification": "invalid_fixture_ub",
+      "ignore_failure": true,
+      "reason": "These generated inputs declare t == 5 but do not provide a complete fifth test case. The source reaches EOF in cin >> n, then constructs/accesses vector<int> all using an invalid stale or zero n value and reads all[0], so the result depends on undefined stack/input-failure state.",
+      "cases": [
+        {
+          "group": "generated",
+          "stem": "003"
+        },
+        {
+          "group": "generated",
+          "stem": "021"
+        },
+        {
+          "group": "generated",
+          "stem": "023"
+        },
+        {
+          "group": "generated",
+          "stem": "026"
+        },
+        {
+          "group": "generated",
+          "stem": "028"
+        },
+        {
+          "group": "generated",
+          "stem": "030"
+        },
+        {
+          "group": "generated",
+          "stem": "046"
+        },
+        {
+          "group": "generated",
+          "stem": "048"
+        },
+        {
+          "group": "generated",
+          "stem": "050"
+        },
+        {
+          "group": "generated",
+          "stem": "052"
+        },
+        {
+          "group": "generated",
+          "stem": "053"
+        },
+        {
+          "group": "generated",
+          "stem": "055"
+        },
+        {
+          "group": "generated",
+          "stem": "072"
+        },
+        {
+          "group": "generated",
+          "stem": "074"
+        },
+        {
+          "group": "generated",
+          "stem": "076"
+        },
+        {
+          "group": "generated",
+          "stem": "078"
+        },
+        {
+          "group": "generated",
+          "stem": "092"
+        },
+        {
+          "group": "generated",
+          "stem": "094"
+        },
+        {
+          "group": "generated",
+          "stem": "096"
+        },
+        {
+          "group": "generated",
+          "stem": "098"
+        },
+        {
+          "group": "generated",
+          "stem": "110"
+        },
+        {
+          "group": "generated",
+          "stem": "113"
+        },
+        {
+          "group": "generated",
+          "stem": "124"
+        },
+        {
+          "group": "generated",
+          "stem": "175"
+        },
+        {
+          "group": "generated",
+          "stem": "180"
+        },
+        {
+          "group": "generated",
+          "stem": "183"
+        },
+        {
+          "group": "generated",
+          "stem": "199"
+        }
+      ]
+    },
+    "train_06239_atcoder_p00909_never_wait_for_weights": {
+      "classification": "invalid_fixture_ub",
+      "ignore_failure": true,
+      "reason": "These generated inputs declare N == 2 but contain operations on node 4. After the source decrements node ids, union_find accesses par[3], rnk[3], and w[3] even though the constructor only initializes indices 0..N-1, so the result depends on uninitialized local stack-array contents.",
+      "cases": [
+        {
+          "group": "generated",
+          "stem": "095"
+        },
+        {
+          "group": "generated",
+          "stem": "097"
+        }
+      ]
+    },
+    "train_07285_atcoder_p01853_lie_with_mean_value": {
+      "classification": "invalid_fixture_ub",
+      "ignore_failure": true,
+      "reason": "The source declares int cnt without initializing it, then increments and reads cnt on every n > 1 path. The original compiled binary itself fails all oracle cases, so these fixtures depend on undefined uninitialized-stack state rather than a decompiler-preserved semantic contract.",
+      "cases": [
+        {
+          "group": "public",
+          "stem": "000"
+        },
+        {
+          "group": "generated",
+          "stem": "000"
+        },
+        {
+          "group": "generated",
+          "stem": "001"
+        },
+        {
+          "group": "generated",
+          "stem": "002"
+        },
+        {
+          "group": "generated",
+          "stem": "003"
+        },
+        {
+          "group": "generated",
+          "stem": "004"
+        },
+        {
+          "group": "generated",
+          "stem": "005"
+        },
+        {
+          "group": "generated",
+          "stem": "006"
+        },
+        {
+          "group": "generated",
+          "stem": "007"
+        },
+        {
+          "group": "generated",
+          "stem": "008"
+        },
+        {
+          "group": "generated",
+          "stem": "009"
+        },
+        {
+          "group": "generated",
+          "stem": "010"
+        },
+        {
+          "group": "generated",
+          "stem": "011"
+        },
+        {
+          "group": "generated",
+          "stem": "012"
+        },
+        {
+          "group": "generated",
+          "stem": "013"
+        },
+        {
+          "group": "generated",
+          "stem": "014"
+        },
+        {
+          "group": "generated",
+          "stem": "015"
+        },
+        {
+          "group": "generated",
+          "stem": "016"
+        },
+        {
+          "group": "generated",
+          "stem": "017"
+        },
+        {
+          "group": "generated",
+          "stem": "018"
+        },
+        {
+          "group": "generated",
+          "stem": "019"
+        },
+        {
+          "group": "generated",
+          "stem": "020"
+        },
+        {
+          "group": "generated",
+          "stem": "021"
+        },
+        {
+          "group": "generated",
+          "stem": "022"
+        },
+        {
+          "group": "generated",
+          "stem": "023"
+        },
+        {
+          "group": "generated",
+          "stem": "024"
+        },
+        {
+          "group": "generated",
+          "stem": "025"
+        },
+        {
+          "group": "generated",
+          "stem": "026"
+        },
+        {
+          "group": "generated",
+          "stem": "027"
+        },
+        {
+          "group": "generated",
+          "stem": "028"
+        },
+        {
+          "group": "generated",
+          "stem": "029"
+        },
+        {
+          "group": "generated",
+          "stem": "030"
+        },
+        {
+          "group": "generated",
+          "stem": "031"
+        },
+        {
+          "group": "generated",
+          "stem": "032"
+        },
+        {
+          "group": "generated",
+          "stem": "033"
+        },
+        {
+          "group": "generated",
+          "stem": "034"
+        },
+        {
+          "group": "generated",
+          "stem": "035"
+        },
+        {
+          "group": "generated",
+          "stem": "036"
+        },
+        {
+          "group": "generated",
+          "stem": "037"
+        },
+        {
+          "group": "generated",
+          "stem": "038"
+        },
+        {
+          "group": "generated",
+          "stem": "039"
+        },
+        {
+          "group": "generated",
+          "stem": "040"
+        },
+        {
+          "group": "generated",
+          "stem": "041"
+        },
+        {
+          "group": "generated",
+          "stem": "042"
+        },
+        {
+          "group": "generated",
+          "stem": "043"
+        },
+        {
+          "group": "generated",
+          "stem": "044"
+        },
+        {
+          "group": "generated",
+          "stem": "045"
+        },
+        {
+          "group": "generated",
+          "stem": "046"
+        },
+        {
+          "group": "generated",
+          "stem": "047"
+        },
+        {
+          "group": "generated",
+          "stem": "048"
+        },
+        {
+          "group": "generated",
+          "stem": "049"
+        },
+        {
+          "group": "generated",
+          "stem": "050"
+        },
+        {
+          "group": "generated",
+          "stem": "051"
+        },
+        {
+          "group": "generated",
+          "stem": "052"
+        },
+        {
+          "group": "generated",
+          "stem": "053"
+        },
+        {
+          "group": "generated",
+          "stem": "054"
+        },
+        {
+          "group": "generated",
+          "stem": "055"
+        },
+        {
+          "group": "generated",
+          "stem": "056"
+        },
+        {
+          "group": "generated",
+          "stem": "057"
+        },
+        {
+          "group": "generated",
+          "stem": "058"
+        },
+        {
+          "group": "generated",
+          "stem": "059"
+        },
+        {
+          "group": "generated",
+          "stem": "060"
+        },
+        {
+          "group": "generated",
+          "stem": "061"
+        },
+        {
+          "group": "generated",
+          "stem": "062"
+        },
+        {
+          "group": "generated",
+          "stem": "063"
+        },
+        {
+          "group": "generated",
+          "stem": "064"
+        },
+        {
+          "group": "generated",
+          "stem": "065"
+        },
+        {
+          "group": "generated",
+          "stem": "066"
+        },
+        {
+          "group": "generated",
+          "stem": "067"
+        },
+        {
+          "group": "generated",
+          "stem": "068"
+        },
+        {
+          "group": "generated",
+          "stem": "069"
+        },
+        {
+          "group": "generated",
+          "stem": "070"
+        },
+        {
+          "group": "generated",
+          "stem": "071"
+        },
+        {
+          "group": "generated",
+          "stem": "072"
+        },
+        {
+          "group": "generated",
+          "stem": "073"
+        },
+        {
+          "group": "generated",
+          "stem": "074"
+        },
+        {
+          "group": "generated",
+          "stem": "075"
+        },
+        {
+          "group": "generated",
+          "stem": "076"
+        },
+        {
+          "group": "generated",
+          "stem": "077"
+        },
+        {
+          "group": "generated",
+          "stem": "078"
+        },
+        {
+          "group": "generated",
+          "stem": "079"
+        },
+        {
+          "group": "generated",
+          "stem": "080"
+        },
+        {
+          "group": "generated",
+          "stem": "081"
+        },
+        {
+          "group": "generated",
+          "stem": "082"
+        },
+        {
+          "group": "generated",
+          "stem": "083"
+        },
+        {
+          "group": "generated",
+          "stem": "084"
+        },
+        {
+          "group": "generated",
+          "stem": "085"
+        },
+        {
+          "group": "generated",
+          "stem": "086"
+        },
+        {
+          "group": "generated",
+          "stem": "087"
+        },
+        {
+          "group": "generated",
+          "stem": "088"
+        },
+        {
+          "group": "generated",
+          "stem": "089"
+        },
+        {
+          "group": "generated",
+          "stem": "090"
+        },
+        {
+          "group": "generated",
+          "stem": "091"
+        },
+        {
+          "group": "generated",
+          "stem": "092"
+        },
+        {
+          "group": "generated",
+          "stem": "093"
+        },
+        {
+          "group": "generated",
+          "stem": "094"
+        },
+        {
+          "group": "generated",
+          "stem": "095"
+        },
+        {
+          "group": "generated",
+          "stem": "096"
+        },
+        {
+          "group": "generated",
+          "stem": "097"
+        },
+        {
+          "group": "generated",
+          "stem": "098"
+        },
+        {
+          "group": "generated",
+          "stem": "099"
+        }
+      ]
+    },
+    "train_08325_atcoder_p01881_help_the_princess": {
+      "classification": "invalid_fixture_ub",
+      "ignore_failure": true,
+      "reason": "These generated inputs declare a grid width W that excludes the only '@' princess cell from the columns scanned by the source. The source therefore leaves princess uninitialized before comparing princess < soldier; original.bin itself disagrees with the oracle on these cases.",
+      "cases": [
+        {
+          "group": "generated",
+          "stem": "002"
+        },
+        {
+          "group": "generated",
+          "stem": "008"
+        },
+        {
+          "group": "generated",
+          "stem": "025"
+        },
+        {
+          "group": "generated",
+          "stem": "027"
+        },
+        {
+          "group": "generated",
+          "stem": "033"
+        },
+        {
+          "group": "generated",
+          "stem": "038"
+        },
+        {
+          "group": "generated",
+          "stem": "041"
+        },
+        {
+          "group": "generated",
+          "stem": "042"
+        },
+        {
+          "group": "generated",
+          "stem": "050"
+        },
+        {
+          "group": "generated",
+          "stem": "062"
+        },
+        {
+          "group": "generated",
+          "stem": "066"
+        },
+        {
+          "group": "generated",
+          "stem": "070"
+        },
+        {
+          "group": "generated",
+          "stem": "075"
+        },
+        {
+          "group": "generated",
+          "stem": "076"
+        },
+        {
+          "group": "generated",
+          "stem": "077"
+        },
+        {
+          "group": "generated",
+          "stem": "079"
+        },
+        {
+          "group": "generated",
+          "stem": "080"
+        },
+        {
+          "group": "generated",
+          "stem": "082"
+        },
+        {
+          "group": "generated",
+          "stem": "083"
+        },
+        {
+          "group": "generated",
+          "stem": "085"
+        },
+        {
+          "group": "generated",
+          "stem": "093"
+        },
+        {
+          "group": "generated",
+          "stem": "094"
+        },
+        {
+          "group": "generated",
+          "stem": "096"
+        },
+        {
+          "group": "generated",
+          "stem": "098"
+        }
+      ]
+    },
+    "train_09502_codeforces_1416_f_showing_off": {
+      "classification": "invalid_fixture_ub",
+      "ignore_failure": true,
+      "reason": "These generated inputs declare two test cases, but the first 4x4 matrix provides only 15 values. The first solve consumes the second case tokens while reading the matrix and leaves cin in EOF/fail state; the next solve then depends on stale or zeroed stack locals for H/W, so original.bin matching the oracle is undefined input-state behavior.",
+      "cases": [
+        {
+          "group": "generated",
+          "stem": "001"
+        },
+        {
+          "group": "generated",
+          "stem": "010"
+        },
+        {
+          "group": "generated",
+          "stem": "013"
+        },
+        {
+          "group": "generated",
+          "stem": "014"
+        }
+      ]
+    },
+    "train_11994_codeforces_1265_a_beautiful_string": {
+      "classification": "invalid_fixture_ub",
+      "ignore_failure": true,
+      "reason": "These generated inputs contain characters outside the source's implicit alphabet of a, b, c, and ?. The source indexes bool t[3] with s[i] - 'a'; characters such as '>', '@', and 'd' produce out-of-bounds stack writes whose effect depends on the original binary's stack layout.",
+      "cases": [
+        {
+          "group": "generated",
+          "stem": "005"
+        },
+        {
+          "group": "generated",
+          "stem": "010"
+        },
+        {
+          "group": "generated",
+          "stem": "013"
+        },
+        {
+          "group": "generated",
+          "stem": "014"
+        },
+        {
+          "group": "generated",
+          "stem": "016"
+        },
+        {
+          "group": "generated",
+          "stem": "020"
+        },
+        {
+          "group": "generated",
+          "stem": "022"
+        },
+        {
+          "group": "generated",
+          "stem": "024"
+        },
+        {
+          "group": "generated",
+          "stem": "025"
+        },
+        {
+          "group": "generated",
+          "stem": "026"
+        },
+        {
+          "group": "generated",
+          "stem": "028"
+        },
+        {
+          "group": "generated",
+          "stem": "029"
+        },
+        {
+          "group": "generated",
+          "stem": "034"
+        },
+        {
+          "group": "generated",
+          "stem": "035"
+        },
+        {
+          "group": "generated",
+          "stem": "037"
+        },
+        {
+          "group": "generated",
+          "stem": "038"
+        },
+        {
+          "group": "generated",
+          "stem": "039"
+        },
+        {
+          "group": "generated",
+          "stem": "040"
+        },
+        {
+          "group": "generated",
+          "stem": "050"
+        },
+        {
+          "group": "generated",
+          "stem": "052"
+        },
+        {
+          "group": "generated",
+          "stem": "056"
+        },
+        {
+          "group": "generated",
+          "stem": "066"
+        },
+        {
+          "group": "generated",
+          "stem": "068"
+        },
+        {
+          "group": "generated",
+          "stem": "074"
+        },
+        {
+          "group": "generated",
+          "stem": "075"
+        },
+        {
+          "group": "generated",
+          "stem": "076"
+        },
+        {
+          "group": "generated",
+          "stem": "077"
+        },
+        {
+          "group": "generated",
+          "stem": "078"
+        },
+        {
+          "group": "generated",
+          "stem": "079"
+        },
+        {
+          "group": "generated",
+          "stem": "080"
+        },
+        {
+          "group": "generated",
+          "stem": "081"
+        },
+        {
+          "group": "generated",
+          "stem": "082"
+        }
+      ]
+    },
+    "train_12677_unused_5_p02623_atcoder_beginner_contest_172_tsundoku": {
+      "classification": "invalid_fixture_ub",
+      "ignore_failure": true,
+      "reason": "These generated inputs use n == 0 or n < 0. The source creates a VLA a[n], calls lower_bound(a, a + n, k), and then unconditionally reads a[l - a]; n == 0 reads a[0] from a zero-length VLA and n < 0 forms an invalid VLA/range. The original binary happens to read stack residue that matches the oracle, while the recompiled dynamic-stack backing reads different undefined data.",
+      "cases": [
+        {
+          "group": "generated",
+          "stem": "025"
+        },
+        {
+          "group": "generated",
+          "stem": "026"
+        },
+        {
+          "group": "generated",
+          "stem": "027"
+        },
+        {
+          "group": "generated",
+          "stem": "028"
+        },
+        {
+          "group": "generated",
+          "stem": "029"
+        },
+        {
+          "group": "generated",
+          "stem": "030"
+        },
+        {
+          "group": "generated",
+          "stem": "049"
+        },
+        {
+          "group": "generated",
+          "stem": "052"
+        },
+        {
+          "group": "generated",
+          "stem": "053"
+        },
+        {
+          "group": "generated",
+          "stem": "054"
+        },
+        {
+          "group": "generated",
+          "stem": "074"
+        },
+        {
+          "group": "generated",
+          "stem": "075"
+        },
+        {
+          "group": "generated",
+          "stem": "093"
+        },
+        {
+          "group": "generated",
+          "stem": "094"
+        }
+      ]
+    },
+    "train_12903_atcoder_p01231_aaron_and_bruce": {
+      "classification": "invalid_fixture_ub",
+      "ignore_failure": true,
+      "reason": "The generated/019 input declares six cases, but the sixth case with m == 6 provides only 27 tokens after m where the source needs 36 matrix entries plus ai/bi. cin fails, then the source continues using uninitialized or stale on/ai/bi values, so the oracle depends on undefined input-failure/local-state behavior rather than a stable binary-equivalence contract.",
+      "cases": [
+        {
+          "group": "generated",
+          "stem": "019"
+        }
+      ]
+    },
+    "train_07825_codeforces_1214_g_feeling_good": {
+      "classification": "source_compile_standard",
+      "compile_cxxflags": "-std=gnu++14 -O2 -pipe -DONLINE_JUDGE",
+      "reason": "The source defines multi-statement constexpr helpers in BitSet. That is rejected by the default gnu++11 fixture compiler but is valid starting with C++14."
+    }
+  }
+}

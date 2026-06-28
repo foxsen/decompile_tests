@@ -102,6 +102,115 @@ def outputs_match(actual: str, expected: str) -> bool:
   return True
 
 
+def preview_text(value: str, limit: int = 4000) -> str:
+  return value[:limit]
+
+
+def preview_lines(value: str, limit: int = 8) -> list[str]:
+  return value.splitlines()[:limit]
+
+
+def diff_preview(actual: str, expected: str, limit: int = 8) -> str:
+  actual_lines = preview_lines(actual, limit)
+  expected_lines = preview_lines(expected, limit)
+  lines = []
+  for index, (expected_line, actual_line) in enumerate(
+      zip(expected_lines, actual_lines), start=1):
+    if expected_line != actual_line:
+      lines.append(f"line {index}:")
+      lines.append(f"  expected: {expected_line}")
+      lines.append(f"  actual:   {actual_line}")
+      if len(lines) >= limit * 3:
+        break
+  if len(expected_lines) != len(actual_lines) and len(lines) < limit * 3:
+    lines.append("line count differs:")
+    lines.append(f"  expected lines: {len(expected.splitlines())}")
+    lines.append(f"  actual lines:   {len(actual.splitlines())}")
+  return "\n".join(lines)
+
+
+def normalize_case_key(group: str, stem: str) -> tuple[str, str]:
+  return (str(group), str(stem))
+
+
+def load_fixture_annotations(tests_root: pathlib.Path,
+                             annotations_path: str) -> dict:
+  path_text = annotations_path.strip()
+  if not path_text:
+    return {}
+  path = pathlib.Path(path_text).expanduser()
+  if not path.is_absolute():
+    path = tests_root / path
+  if not path.exists():
+    return {}
+  with path.open(encoding="utf-8") as f:
+    data = json.load(f)
+  problem_entries = data.get("problems", data)
+  annotations: dict[str, dict] = {}
+  for problem_key, problem_annotation in problem_entries.items():
+    if not isinstance(problem_annotation, dict):
+      raise ValueError(f"invalid fixture annotation for {problem_key}")
+    cases = problem_annotation.get("cases", [])
+    problem_defaults = {
+        key: value
+        for key, value in problem_annotation.items()
+        if key != "cases"
+    }
+    case_annotations: dict[tuple[str, str], dict] = {}
+    for case in cases:
+      if not isinstance(case, dict):
+        raise ValueError(f"invalid fixture case annotation for {problem_key}")
+      group = case.get("group")
+      stem = case.get("stem")
+      if group is None or stem is None:
+        raise ValueError(f"fixture case missing group/stem for {problem_key}")
+      merged = dict(problem_defaults)
+      merged.update(case)
+      case_annotations[normalize_case_key(group, stem)] = merged
+    entry = dict(problem_defaults)
+    if case_annotations:
+      entry["cases"] = case_annotations
+    if entry:
+      annotations[problem_key] = entry
+  return annotations
+
+
+def fixture_case_annotations(
+    annotation: dict | None,
+) -> dict[tuple[str, str], dict] | None:
+  if not annotation:
+    return None
+  cases = annotation.get("cases")
+  return cases if isinstance(cases, dict) else None
+
+
+def annotated_compile_cxxflags(annotation: dict | None,
+                               default_cxxflags: str) -> str:
+  if not annotation:
+    return default_cxxflags
+  cxxflags = annotation.get("compile_cxxflags")
+  if isinstance(cxxflags, str) and cxxflags.strip():
+    return cxxflags
+  return default_cxxflags
+
+
+def attach_ignored_failure_annotation(
+    result: dict,
+    ignored_cases: dict[tuple[str, str], dict] | None,
+) -> bool:
+  if result.get("passed") or not ignored_cases:
+    return False
+  key = normalize_case_key(result.get("group", ""), result.get("stem", ""))
+  annotation = ignored_cases.get(key)
+  if annotation is None:
+    return False
+  if not annotation.get("ignore_failure", False):
+    return False
+  result["ignored_failure"] = True
+  result["fixture_annotation"] = annotation
+  return True
+
+
 def iter_file_tests(tests_dir: pathlib.Path,
                     groups: Iterable[str]) -> list[TestCase]:
   cases = []
@@ -218,12 +327,14 @@ def compile_source(source_path: pathlib.Path, binary_path: pathlib.Path,
 
 def compile_original(row: dict, tests_root: pathlib.Path,
                      build_dir: pathlib.Path, cxx: str, cxxflags: str,
-                     ldflags: str, timeout: float) -> tuple[bool, dict]:
+                     ldflags: str, timeout: float,
+                     annotation: dict | None = None) -> tuple[bool, dict]:
+  effective_cxxflags = annotated_compile_cxxflags(annotation, cxxflags)
   return compile_source(
       tests_root / row["solution_path"],
       build_dir / "original.bin",
       cxx,
-      cxxflags,
+      effective_cxxflags,
       ldflags,
       timeout,
   )
@@ -302,9 +413,12 @@ def run_one_test(binary_path: pathlib.Path, case: TestCase, row: dict,
         "passed": False,
         "returncode": process.returncode,
         "duration_seconds": time.monotonic() - started,
-        "stdout": actual[:4000],
+        "stdout": preview_text(actual),
+        "expected_output": preview_text(expected),
+        "output_diff": diff_preview(actual, expected),
         "stderr": (stderr_text + f"\ncompare_error: {exc}")[:4000],
     }
+  output_diff = "" if passed else diff_preview(actual, expected)
   return {
       "group": case.group,
       "stem": case.stem,
@@ -312,7 +426,9 @@ def run_one_test(binary_path: pathlib.Path, case: TestCase, row: dict,
       "passed": passed,
       "returncode": process.returncode,
       "duration_seconds": time.monotonic() - started,
-      "stdout": actual[:4000],
+      "stdout": preview_text(actual),
+      "expected_output": preview_text(expected) if not passed else "",
+      "output_diff": output_diff,
       "stderr": stderr_text[:4000],
   }
 
@@ -321,7 +437,9 @@ def run_tests_binary(row: dict, tests_root: pathlib.Path,
                      binary_path: pathlib.Path, build_dir: pathlib.Path,
                      test_groups: list[str], jobs: int, timeout: float,
                      stop_on_fail: bool,
-                     total_timeout: float = 0.0) -> tuple[bool, dict]:
+                     total_timeout: float = 0.0,
+                     ignored_cases: dict[tuple[str, str], dict] | None = None,
+                     ) -> tuple[bool, dict]:
   cases = iter_tests(row, tests_root, test_groups)
   work_parent = build_dir / "work"
   work_parent.mkdir(parents=True, exist_ok=True)
@@ -341,8 +459,10 @@ def run_tests_binary(row: dict, tests_root: pathlib.Path,
         remaining_timeout = min(remaining_timeout, time_left)
       result = run_one_test(binary_path, case, row, remaining_timeout,
                             work_parent)
+      ignored_failure = attach_ignored_failure_annotation(
+          result, ignored_cases)
       results.append(result)
-      if not result["passed"] and stop_on_fail:
+      if not result["passed"] and stop_on_fail and not ignored_failure:
         break
   else:
     with concurrent.futures.ThreadPoolExecutor(max_workers=jobs) as executor:
@@ -352,11 +472,22 @@ def run_tests_binary(row: dict, tests_root: pathlib.Path,
           for case in cases
       ]
       for future in concurrent.futures.as_completed(futures):
-        results.append(future.result())
+        result = future.result()
+        attach_ignored_failure_annotation(result, ignored_cases)
+        results.append(result)
 
   passed_count = sum(1 for result in results if result["passed"])
-  ok = passed_count == len(cases)
-  first_failure = next((r for r in results if not r["passed"]), None)
+  ignored_failure_count = sum(
+      1 for result in results if result.get("ignored_failure"))
+  effective_passed_count = passed_count + ignored_failure_count
+  first_failure = next(
+      (r for r in results
+       if not r["passed"] and not r.get("ignored_failure")),
+      None)
+  first_ignored_failure = next(
+      (r for r in results if r.get("ignored_failure")),
+      None)
+  ok = first_failure is None and effective_passed_count == len(cases)
   if timed_out and first_failure is None:
     next_case = cases[len(results)] if len(results) < len(cases) else None
     first_failure = {
@@ -376,9 +507,12 @@ def run_tests_binary(row: dict, tests_root: pathlib.Path,
       "tests_total": len(cases),
       "tests_run": len(results),
       "tests_passed": passed_count,
+      "tests_effective_passed": effective_passed_count,
+      "ignored_failures": ignored_failure_count,
       "duration_seconds": time.monotonic() - started,
       "total_timeout_seconds": total_timeout,
       "first_failure": first_failure,
+      "first_ignored_failure": first_ignored_failure,
   }
 
 
@@ -422,9 +556,16 @@ def main() -> int:
   parser.add_argument("--jobs", type=int, default=1)
   parser.add_argument("--stop-on-fail", type=int, default=1)
   parser.add_argument("--results-dir", default="results")
+  parser.add_argument("--fixture-annotations", default="fixture_annotations.json")
   args = parser.parse_args()
 
   tests_root = pathlib.Path(args.tests_root).resolve()
+  try:
+    fixture_annotations = load_fixture_annotations(
+        tests_root, args.fixture_annotations)
+  except (OSError, ValueError, json.JSONDecodeError) as exc:
+    print(f"failed to load fixture annotations: {exc}", file=sys.stderr)
+    return 2
   rows = selected_rows(args)
 
   if args.mode == "list":
@@ -454,10 +595,11 @@ def main() -> int:
 
   for index, row in enumerate(rows, start=1):
     build_dir = build_root / row["key"]
+    annotation = fixture_annotations.get(row["key"])
     print(f"[{index}/{len(rows)}] {row['key']}: compile", flush=True)
     compile_ok, compile_result = compile_original(
         row, tests_root, build_dir, args.cxx, args.cxxflags, args.ldflags,
-        args.compile_timeout)
+        args.compile_timeout, annotation)
     record = {
         "key": row["key"],
         "split": row["split"],
@@ -481,6 +623,7 @@ def main() -> int:
           args.timeout,
           bool(args.stop_on_fail),
           args.total_timeout,
+          fixture_case_annotations(annotation),
       )
       record["tests"] = test_result
       overall_ok = overall_ok and tests_ok
