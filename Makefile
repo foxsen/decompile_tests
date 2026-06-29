@@ -16,6 +16,7 @@ TOTAL_TIMEOUT ?= 0
 JOBS ?= 1
 STOP_ON_FAIL ?= 1
 RESULTS_DIR ?= results
+FIXTURE_ANNOTATIONS ?= fixture_annotations.json
 EXTRACT_ROOT ?=
 EXTRACT_STEMS ?=
 EXTRACT_ALL ?= 0
@@ -56,6 +57,7 @@ help:
 	  '  EXTRACT_ROOT=<dir>                Optional output root for extract-tests.' \
 	  '  EXTRACT_STEMS="000 001"           Optional case stems for extract-tests.' \
 	  '  EXTRACT_ALL=1                     Allow full selected extraction.' \
+	  '  FIXTURE_ANNOTATIONS=fixture_annotations.json' \
 	  '' \
 	  'Tool variables:' \
 	  '  DECOMPILER_ROOT=$(DECOMPILER_ROOT)' \
@@ -81,7 +83,8 @@ build:
 	  --tests-root . --mode build --splits "$(SPLITS)" --problems "$(PROBLEMS)" \
 	  --start "$(START)" --limit "$(LIMIT)" --cxx "$(CXX)" --cxxflags "$(CXXFLAGS)" \
 	  --ldflags "$(LDFLAGS)" --compile-timeout "$(COMPILE_TIMEOUT)" \
-	  --results-dir "$(RESULTS_DIR)"
+	  --results-dir "$(RESULTS_DIR)" \
+	  --fixture-annotations "$(FIXTURE_ANNOTATIONS)"
 
 tests test:
 	$(PYTHON) tools/run_tests.py \
@@ -90,7 +93,8 @@ tests test:
 	  --cxx "$(CXX)" --cxxflags "$(CXXFLAGS)" --ldflags "$(LDFLAGS)" \
 	  --compile-timeout "$(COMPILE_TIMEOUT)" --timeout "$(TIMEOUT)" \
 	  --total-timeout "$(TOTAL_TIMEOUT)" --jobs "$(JOBS)" \
-	  --stop-on-fail "$(STOP_ON_FAIL)" --results-dir "$(RESULTS_DIR)"
+	  --stop-on-fail "$(STOP_ON_FAIL)" --results-dir "$(RESULTS_DIR)" \
+	  --fixture-annotations "$(FIXTURE_ANNOTATIONS)"
 
 decompile:
 	$(PYTHON) tools/run_pipeline.py \
@@ -101,7 +105,8 @@ decompile:
 	  --decompiler-root "$(DECOMPILER_ROOT)" --decompiler-cwd "$(DECOMPILER_CWD)" \
 	  --decompile-command "$(DECOMPILE_COMMAND)" \
 	  --decompiled-source "$(DECOMPILED_SOURCE)" \
-	  --results-dir "$(RESULTS_DIR)"
+	  --results-dir "$(RESULTS_DIR)" \
+	  --fixture-annotations "$(FIXTURE_ANNOTATIONS)"
 
 recompile:
 	$(PYTHON) tools/run_pipeline.py \
@@ -114,7 +119,8 @@ recompile:
 	  --decompiled-source "$(DECOMPILED_SOURCE)" \
 	  --recompile-cxx "$(RECOMPILE_CXX)" --recompile-cxxflags "$(RECOMPILE_CXXFLAGS)" \
 	  --recompile-ldflags "$(RECOMPILE_LDFLAGS)" --recompile-timeout "$(RECOMPILE_TIMEOUT)" \
-	  --results-dir "$(RESULTS_DIR)"
+	  --results-dir "$(RESULTS_DIR)" \
+	  --fixture-annotations "$(FIXTURE_ANNOTATIONS)"
 
 test-recompiled:
 	$(PYTHON) tools/run_pipeline.py \
@@ -128,7 +134,8 @@ test-recompiled:
 	  --recompile-cxx "$(RECOMPILE_CXX)" --recompile-cxxflags "$(RECOMPILE_CXXFLAGS)" \
 	  --recompile-ldflags "$(RECOMPILE_LDFLAGS)" --recompile-timeout "$(RECOMPILE_TIMEOUT)" \
 	  --timeout "$(TIMEOUT)" --total-timeout "$(TOTAL_TIMEOUT)" --jobs "$(JOBS)" \
-	  --stop-on-fail "$(STOP_ON_FAIL)" --results-dir "$(RESULTS_DIR)"
+	  --stop-on-fail "$(STOP_ON_FAIL)" --results-dir "$(RESULTS_DIR)" \
+	  --fixture-annotations "$(FIXTURE_ANNOTATIONS)"
 
 pipeline:
 	$(PYTHON) tools/run_pipeline.py \
@@ -142,7 +149,8 @@ pipeline:
 	  --recompile-cxx "$(RECOMPILE_CXX)" --recompile-cxxflags "$(RECOMPILE_CXXFLAGS)" \
 	  --recompile-ldflags "$(RECOMPILE_LDFLAGS)" --recompile-timeout "$(RECOMPILE_TIMEOUT)" \
 	  --timeout "$(TIMEOUT)" --total-timeout "$(TOTAL_TIMEOUT)" --jobs "$(JOBS)" \
-	  --stop-on-fail "$(STOP_ON_FAIL)" --results-dir "$(RESULTS_DIR)"
+	  --stop-on-fail "$(STOP_ON_FAIL)" --results-dir "$(RESULTS_DIR)" \
+	  --fixture-annotations "$(FIXTURE_ANNOTATIONS)"
 
 full: test pipeline
 
@@ -155,7 +163,8 @@ $(PROBLEM_TARGETS):
 	  --test-groups "$(TEST_GROUPS)" --cxx "$(CXX)" --cxxflags "$(CXXFLAGS)" \
 	  --ldflags "$(LDFLAGS)" --compile-timeout "$(COMPILE_TIMEOUT)" \
 	  --timeout "$(TIMEOUT)" --jobs "$(JOBS)" --stop-on-fail "$(STOP_ON_FAIL)" \
-	  --results-dir "$(RESULTS_DIR)"
+	  --results-dir "$(RESULTS_DIR)" \
+	  --fixture-annotations "$(FIXTURE_ANNOTATIONS)"
 
 clean-build:
 	rm -rf build
