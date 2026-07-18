@@ -807,6 +807,121 @@
         }
       ]
     },
+    "train_11867_atcoder_p01785_polygon_guards": {
+      "classification": "invalid_fixture_original_mismatch",
+      "ignore_failure": true,
+      "reason": "For these inputs, the checked-in original.bin itself disagrees with the expected output. The recompiled binary preserves original.bin's output on all 101 cases, including every listed mismatch, so these failures cannot be used as decompiler correctness evidence.",
+      "cases": [
+        {
+          "group": "public",
+          "stem": "000"
+        },
+        {
+          "group": "generated",
+          "stem": "000"
+        },
+        {
+          "group": "generated",
+          "stem": "001"
+        },
+        {
+          "group": "generated",
+          "stem": "003"
+        },
+        {
+          "group": "generated",
+          "stem": "009"
+        },
+        {
+          "group": "generated",
+          "stem": "011"
+        },
+        {
+          "group": "generated",
+          "stem": "013"
+        },
+        {
+          "group": "generated",
+          "stem": "015"
+        },
+        {
+          "group": "generated",
+          "stem": "019"
+        },
+        {
+          "group": "generated",
+          "stem": "021"
+        },
+        {
+          "group": "generated",
+          "stem": "031"
+        },
+        {
+          "group": "generated",
+          "stem": "035"
+        },
+        {
+          "group": "generated",
+          "stem": "046"
+        },
+        {
+          "group": "generated",
+          "stem": "048"
+        },
+        {
+          "group": "generated",
+          "stem": "059"
+        },
+        {
+          "group": "generated",
+          "stem": "062"
+        },
+        {
+          "group": "generated",
+          "stem": "067"
+        },
+        {
+          "group": "generated",
+          "stem": "068"
+        },
+        {
+          "group": "generated",
+          "stem": "071"
+        },
+        {
+          "group": "generated",
+          "stem": "074"
+        },
+        {
+          "group": "generated",
+          "stem": "075"
+        },
+        {
+          "group": "generated",
+          "stem": "077"
+        },
+        {
+          "group": "generated",
+          "stem": "079"
+        },
+        {
+          "group": "generated",
+          "stem": "080"
+        },
+        {
+          "group": "generated",
+          "stem": "082"
+        },
+        {
+          "group": "generated",
+          "stem": "085"
+        },
+        {
+          "group": "generated",
+          "stem": "088"
+        }
+      ]
+    },
     "train_11994_codeforces_1265_a_beautiful_string": {
       "classification": "invalid_fixture_ub",
       "ignore_failure": true,
