@@ -270,6 +270,25 @@
         }
       ]
     },
+    "train_07028_codeforces_617_b_chocolate": {
+      "classification": "invalid_fixture_ub",
+      "ignore_failure": true,
+      "reason": "These all-zero inputs contain no 1, but the source increments x until a[x] == 1 without checking x < n. It reads past the VLA until the original binary happens to encounter a 1 in adjacent stack data; the recompiled stack layout instead reaches invalid memory, so the observed termination and output depend on undefined out-of-bounds reads.",
+      "cases": [
+        {
+          "group": "private",
+          "stem": "012"
+        },
+        {
+          "group": "private",
+          "stem": "017"
+        },
+        {
+          "group": "private",
+          "stem": "020"
+        }
+      ]
+    },
     "train_07285_atcoder_p01853_lie_with_mean_value": {
       "classification": "invalid_fixture_ub",
       "ignore_failure": true,
