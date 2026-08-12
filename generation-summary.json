@@ -1,13 +1,13 @@
 {
   "output_root": ".",
-  "problems": 10091,
+  "problems": 10090,
   "source_dataset": "local_dataset",
   "splits": {
     "test": 154,
-    "train": 9829,
+    "train": 9828,
     "valid": 108
   },
-  "tests": 1030704,
-  "tests_inserted": 1030704,
+  "tests": 1030612,
+  "tests_inserted": 1030612,
   "tests_storage": "sqlite"
 }
